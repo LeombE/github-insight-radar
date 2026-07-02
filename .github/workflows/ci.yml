@@ -1,4 +1,4 @@
-﻿name: CI
+name: CI
 
 on:
   push:
@@ -23,13 +23,13 @@ jobs:
         run: python -m pip install -e ".[dev]"
 
       - name: Ruff check
-        run: ruff check github_insight scripts tests
+        run: python -m ruff check github_insight scripts tests
 
       - name: Pytest
-        run: pytest
+        run: python -m pytest
 
       - name: Mock CLI run
         run: python -m github_insight.cli run --mock
 
-      - name: Validate outputs
-        run: python -m github_insight.cli validate
+      - name: Validate mock preview outputs
+        run: python -m github_insight.cli --output-root .pytest-tmp/mock-run validate

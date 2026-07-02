@@ -1,4 +1,4 @@
-﻿"""Static GitHub Pages dashboard builder."""
+"""Static GitHub Pages dashboard builder."""
 
 from __future__ import annotations
 
@@ -41,6 +41,8 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
         f"<span>{html.escape(item.get('generated_at', ''))}</span> <strong>{html.escape(item.get('top_project', 'unavailable'))}</strong></li>"
         for item in archive[:20]
     )
+    mode_label = html.escape(f"{run.mode.upper()} RUN")
+    mode_class = "mode-live" if run.mode == "live" else "mode-mock"
     doc = f"""<!doctype html>
 <html lang="en">
 <head>
@@ -54,6 +56,9 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
     header {{ padding:32px clamp(18px,5vw,64px); background:#fff; border-bottom:1px solid var(--line); }}
     h1 {{ margin:0 0 8px; font-size:clamp(28px,4vw,46px); letter-spacing:0; }}
     h2 {{ margin:28px 0 12px; font-size:22px; }}
+    .header-row {{ display:flex; flex-wrap:wrap; align-items:center; gap:10px; }}
+    .mode-badge {{ display:inline-flex; align-items:center; padding:6px 10px; border-radius:999px; color:#fff; font-size:12px; font-weight:700; letter-spacing:0.02em; }}
+    .mode-live {{ background:#15803d; }} .mode-mock {{ background:#6d28d9; }}
     .subtle {{ color:var(--muted); margin:0; }}
     main {{ padding:24px clamp(18px,5vw,64px) 56px; }}
     .kpis {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(160px,1fr)); gap:12px; margin-bottom:18px; }}
@@ -73,8 +78,11 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
 </head>
 <body>
   <header>
-    <h1>GitHub Daily Intelligence</h1>
-    <p class="subtle">Generated at {html.escape(run.generated_at)} | Mode {html.escape(run.mode)} | Archive ordered by generated_at</p>
+    <div class="header-row">
+      <h1>GitHub Daily Intelligence</h1>
+      <span class="mode-badge {mode_class}">{mode_label}</span>
+    </div>
+    <p class="subtle">Generated at {html.escape(run.generated_at)} | Archive ordered by generated_at</p>
   </header>
   <main>
     <section class="kpis">

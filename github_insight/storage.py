@@ -1,4 +1,4 @@
-﻿"""Persistence helpers for GitHub Insight."""
+"""Persistence helpers for GitHub Insight."""
 
 from __future__ import annotations
 
@@ -283,6 +283,16 @@ def write_docs_latest(output_root: Path, run: RunMetadata, records: list[Insight
     return path
 
 
+def _archive_mode(item: dict[str, Any]) -> str:
+    mode = str(item.get("mode") or "").strip().lower()
+    if mode in {"live", "mock"}:
+        return mode
+    run_id = str(item.get("run_id") or "").strip().lower()
+    if run_id.startswith("mock"):
+        return "mock"
+    return "live"
+
+
 def update_archive_index(
     output_root: Path,
     run: RunMetadata,
@@ -295,9 +305,13 @@ def update_archive_index(
     archive: list[dict[str, Any]] = []
     if path.exists():
         archive = json.loads(path.read_text(encoding="utf-8"))
+    for item in archive:
+        item.setdefault("mode", _archive_mode(item))
     entry = {
         "date": run.date,
         "generated_at": run.generated_at,
+        "mode": run.mode,
+        "run_id": run.run_id,
         "daily_brief_path": daily_brief_path.relative_to(output_root).as_posix(),
         "json_path": json_path.relative_to(output_root).as_posix(),
         "csv_path": csv_path.relative_to(output_root).as_posix(),

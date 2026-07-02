@@ -1,4 +1,4 @@
-﻿name: Daily GitHub Insight
+name: Daily GitHub Insight
 
 on:
   schedule:
@@ -39,27 +39,43 @@ jobs:
         run: python -m pip install -e ".[dev]"
 
       - name: Run tests
-        run: pytest
+        run: python -m pytest
 
       - name: Generate reports
         shell: bash
         run: |
           RUN_DATE="${{ github.event.inputs.run_date || 'today' }}"
           if [ "${{ github.event.inputs.mock_mode }}" = "true" ]; then
-            python -m github_insight.cli run --mock --date "$RUN_DATE"
+            python -m github_insight.cli run --mock --date "$RUN_DATE" --output-dir ".pytest-tmp/mock-run"
           else
             python -m github_insight.cli run --date "$RUN_DATE"
           fi
 
       - name: Rebuild dashboard
-        run: python -m github_insight.cli dashboard
+        shell: bash
+        run: |
+          if [ "${{ github.event.inputs.mock_mode }}" = "true" ]; then
+            python -m github_insight.cli --output-root ".pytest-tmp/mock-run" dashboard
+          else
+            python -m github_insight.cli dashboard
+          fi
 
       - name: Validate outputs
-        run: python -m github_insight.cli validate
+        shell: bash
+        run: |
+          if [ "${{ github.event.inputs.mock_mode }}" = "true" ]; then
+            python -m github_insight.cli --output-root ".pytest-tmp/mock-run" validate
+          else
+            python -m github_insight.cli validate
+          fi
 
       - name: Commit generated outputs
         shell: bash
         run: |
+          if [ "${{ github.event.inputs.mock_mode }}" = "true" ]; then
+            echo "Mock preview run completed under .pytest-tmp/mock-run; skipping production commit."
+            exit 0
+          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data reports docs assets dashboard

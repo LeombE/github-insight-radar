@@ -1,5 +1,8 @@
-﻿from github_insight.quality import run_quality_checks
+from github_insight.quality import run_quality_checks
 from scripts.github_insight import build_parser, run_pipeline
+
+
+PREVIEW_ROOT = ".pytest-tmp/mock-run"
 
 
 def test_quality_report_passes_for_sample_run(tmp_path):
@@ -16,7 +19,7 @@ def test_quality_report_passes_for_sample_run(tmp_path):
         ]
     )
     run_pipeline(args)
-    quality_path = tmp_path / "docs" / "reviews" / "2026-07-02-quality-gate-result.md"
+    quality_path = tmp_path / PREVIEW_ROOT / "docs" / "reviews" / "2026-07-02-quality-gate-result.md"
     assert "Overall status: PASS" in quality_path.read_text(encoding="utf-8")
 
 
