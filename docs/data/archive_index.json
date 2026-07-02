@@ -1,12 +1,24 @@
 [
   {
+    "date": "2026-07-03",
+    "generated_at": "2026-07-02T18:03:28+00:00",
+    "mode": "live",
+    "run_id": "live-2026-07-03-2026-07-02T180328-0000",
+    "daily_brief_path": "reports/daily/2026-07-03-daily-brief.md",
+    "json_path": "data/processed/2026-07-03-github-insight-projects.json",
+    "csv_path": "data/processed/2026-07-03-github-insight-projects.csv",
+    "selected_count": 200,
+    "top_project": "apache/airflow"
+  },
+  {
     "date": "2026-07-02",
     "generated_at": "2026-07-02T12:33:04+00:00",
     "daily_brief_path": "reports/daily/2026-07-02-daily-brief.md",
     "json_path": "data/processed/2026-07-02-github-insight-projects.json",
     "csv_path": "data/processed/2026-07-02-github-insight-projects.csv",
     "selected_count": 200,
-    "top_project": "apache/airflow"
+    "top_project": "apache/airflow",
+    "mode": "live"
   },
   {
     "date": "2026-07-02",
@@ -15,6 +27,7 @@
     "json_path": "data/processed/2026-07-02-github-insight-projects.json",
     "csv_path": "data/processed/2026-07-02-github-insight-projects.csv",
     "selected_count": 6,
-    "top_project": "sample-org/analytics-dashboard-starter"
+    "top_project": "sample-org/analytics-dashboard-starter",
+    "mode": "live"
   }
 ]
