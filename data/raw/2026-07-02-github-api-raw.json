@@ -1,6 +1,6 @@
 {
   "mode": "mock",
-  "source": "C:\\Users\\Admin\\OneDrive\\Documents\\Github Insight\\data\\raw\\sample_repositories.json",
+  "source": "/home/runner/work/github-insight-radar/github-insight-radar/data/raw/sample_repositories.json",
   "repositories": [
     {
       "full_name": "sample-org/analytics-dashboard-starter",

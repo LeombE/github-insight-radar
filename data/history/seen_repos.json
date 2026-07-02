@@ -1,7 +1,7 @@
 {
   "repositories": {
     "sample-org/analytics-dashboard-starter": {
-      "appearances": 5,
+      "appearances": 6,
       "first_seen": "2026-07-02",
       "full_name": "sample-org/analytics-dashboard-starter",
       "last_run_label": "mock",
@@ -9,7 +9,7 @@
       "last_seen": "2026-07-02"
     },
     "sample-org/data-pipeline-toolkit": {
-      "appearances": 5,
+      "appearances": 6,
       "first_seen": "2026-07-02",
       "full_name": "sample-org/data-pipeline-toolkit",
       "last_run_label": "mock",
@@ -17,7 +17,7 @@
       "last_seen": "2026-07-02"
     },
     "sample-org/ml-experiment-tracker": {
-      "appearances": 5,
+      "appearances": 6,
       "first_seen": "2026-07-02",
       "full_name": "sample-org/ml-experiment-tracker",
       "last_run_label": "mock",
@@ -25,7 +25,7 @@
       "last_seen": "2026-07-02"
     },
     "sample-org/old-data-viz-demo": {
-      "appearances": 5,
+      "appearances": 6,
       "first_seen": "2026-07-02",
       "full_name": "sample-org/old-data-viz-demo",
       "last_run_label": "mock",
@@ -33,7 +33,7 @@
       "last_seen": "2026-07-02"
     },
     "sample-org/optimization-casebook": {
-      "appearances": 5,
+      "appearances": 6,
       "first_seen": "2026-07-02",
       "full_name": "sample-org/optimization-casebook",
       "last_run_label": "mock",
@@ -41,7 +41,7 @@
       "last_seen": "2026-07-02"
     },
     "sample-org/personal-automation-cli": {
-      "appearances": 5,
+      "appearances": 6,
       "first_seen": "2026-07-02",
       "full_name": "sample-org/personal-automation-cli",
       "last_run_label": "mock",
@@ -49,5 +49,5 @@
       "last_seen": "2026-07-02"
     }
   },
-  "updated_at": "2026-07-02T11:45:10+00:00"
+  "updated_at": "2026-07-02T12:24:14+00:00"
 }
