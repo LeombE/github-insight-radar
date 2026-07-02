@@ -1,7 +1,7 @@
 # GitHub Insight Quality Gate - 2026-07-02
 
-- Run ID: `mock-2026-07-02`
-- Mode: `mock`
+- Run ID: `live-2026-07-02-2026-07-02T123304-0000`
+- Mode: `live`
 - Overall status: PASS
 
 | Check | Status | Detail |
