@@ -1,6 +1,17 @@
 [
   {
     "date": "2026-07-03",
+    "generated_at": "2026-07-02T18:46:28+00:00",
+    "mode": "live",
+    "run_id": "live-2026-07-03-2026-07-02T184628-0000",
+    "daily_brief_path": "reports/daily/2026-07-03-daily-brief.md",
+    "json_path": "data/processed/2026-07-03-github-insight-projects.json",
+    "csv_path": "data/processed/2026-07-03-github-insight-projects.csv",
+    "selected_count": 200,
+    "top_project": "jeremylongshore/claude-code-plugins-plus-skills"
+  },
+  {
+    "date": "2026-07-03",
     "generated_at": "2026-07-02T18:03:28+00:00",
     "mode": "live",
     "run_id": "live-2026-07-03-2026-07-02T180328-0000",

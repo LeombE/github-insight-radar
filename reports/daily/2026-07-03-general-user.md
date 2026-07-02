@@ -1,27 +1,35 @@
 # General User GitHub Insight - 2026-07-03
 
-Generated at: `2026-07-02T18:03:28+00:00`
+Generated at: `2026-07-02T18:46:28+00:00`
 Mode: `live`
 
 | Rank | Repo | Score | Action | Difficulty | Risk flags |
 | --- | --- | ---: | --- | --- | --- |
-| 1 | [majiayu000/spellbook](https://github.com/majiayu000/spellbook) | 100.00 | Try today | Intermediate | None |
-| 2 | [Mindburn-Labs/helm-ai-kernel](https://github.com/Mindburn-Labs/helm-ai-kernel) | 100.00 | Try today | Intermediate | None |
-| 3 | [MihaiBuilds/memory-vault](https://github.com/MihaiBuilds/memory-vault) | 100.00 | Try today | Intermediate | None |
-| 4 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 100.00 | Try today | Advanced | None |
-| 5 | [rohansx/workz](https://github.com/rohansx/workz) | 100.00 | Try today | Advanced | None |
-| 6 | [floomhq/floom](https://github.com/floomhq/floom) | 100.00 | Try today | Intermediate | many open issues relative to stars |
-| 7 | [closedloop-ai/claude-plugins](https://github.com/closedloop-ai/claude-plugins) | 100.00 | Try today | Intermediate | None |
-| 8 | [Mann1988/awesome-claude-skills](https://github.com/Mann1988/awesome-claude-skills) | 100.00 | Try today | Intermediate | None |
-| 9 | [st0012/cctop](https://github.com/st0012/cctop) | 100.00 | Use as portfolio reference | Intermediate | many open issues relative to stars |
-| 10 | [automagik-dev/genie](https://github.com/automagik-dev/genie) | 100.00 | Use as portfolio reference | Beginner | usage examples unclear, many open issues relative to stars |
-| 11 | [ninouanis84-sudo/foxl-orchestrator](https://github.com/ninouanis84-sudo/foxl-orchestrator) | 100.00 | Use as portfolio reference | Intermediate | no license |
-| 12 | [luqmanluqman7349-cloud/manga-synchronizer](https://github.com/luqmanluqman7349-cloud/manga-synchronizer) | 100.00 | Use as portfolio reference | Beginner | installation unclear, no license |
-| 13 | [abdulrbasit/job-hunter](https://github.com/abdulrbasit/job-hunter) | 100.00 | Use as portfolio reference | Beginner | usage examples unclear |
-| 14 | [J-nowcow/awesome-korean-agent-skills](https://github.com/J-nowcow/awesome-korean-agent-skills) | 100.00 | Study for learning | Beginner | installation unclear, usage examples unclear |
-| 15 | [apache/airflow](https://github.com/apache/airflow) | 90.50 | Try today | Advanced | None |
+| 1 | [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 100.00 | Try today | Intermediate | None |
+| 2 | [majiayu000/spellbook](https://github.com/majiayu000/spellbook) | 100.00 | Try today | Intermediate | None |
+| 3 | [jupyter-naas/abi](https://github.com/jupyter-naas/abi) | 100.00 | Try today | Intermediate | many open issues relative to stars |
+| 4 | [MihaiBuilds/memory-vault](https://github.com/MihaiBuilds/memory-vault) | 100.00 | Try today | Intermediate | None |
+| 5 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 100.00 | Try today | Advanced | None |
+| 6 | [superplanehq/superplane](https://github.com/superplanehq/superplane) | 100.00 | Try today | Advanced | None |
+| 7 | [rohansx/workz](https://github.com/rohansx/workz) | 100.00 | Try today | Advanced | None |
+| 8 | [callstack/agent-device](https://github.com/callstack/agent-device) | 100.00 | Try today | Intermediate | None |
+| 9 | [floomhq/floom](https://github.com/floomhq/floom) | 100.00 | Try today | Intermediate | many open issues relative to stars |
+| 10 | [Mann1988/awesome-claude-skills](https://github.com/Mann1988/awesome-claude-skills) | 100.00 | Try today | Intermediate | None |
+| 11 | [st0012/cctop](https://github.com/st0012/cctop) | 100.00 | Use as portfolio reference | Intermediate | many open issues relative to stars |
+| 12 | [automagik-dev/genie](https://github.com/automagik-dev/genie) | 100.00 | Use as portfolio reference | Beginner | usage examples unclear, many open issues relative to stars |
+| 13 | [ninouanis84-sudo/foxl-orchestrator](https://github.com/ninouanis84-sudo/foxl-orchestrator) | 100.00 | Use as portfolio reference | Intermediate | no license |
+| 14 | [abdulrbasit/job-hunter](https://github.com/abdulrbasit/job-hunter) | 100.00 | Use as portfolio reference | Beginner | usage examples unclear |
+| 15 | [J-nowcow/awesome-korean-agent-skills](https://github.com/J-nowcow/awesome-korean-agent-skills) | 100.00 | Study for learning | Beginner | installation unclear, usage examples unclear |
 
 ## Project Notes
+### escapeboy/agent-fleet-o
+- Summary: escapeboy/agent-fleet-o is a PHP project for General User: Open-source AI agent orchestration platform — self-hosted mission control for autonomous multi-agent systems. Visual DAG workflows, 450+ MCP tools, human-in-the-loop approvals. Works with Claude, GPT-4o, Gemini, Ollama, Codex.
+- Why it matters: It maps to General User needs with an evidence-based score of 93.81.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn agent-fleet-o into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 37; Forks: 5; Language: PHP; License: AGPL-3.0; README length: 31732; Topics: agent-orchestration, agentic-ai, ai-agents, ai-automation, autonomous-agents, claude, crewai-alternative, langgraph-alternative, laravel, livewire, llm-workflow, mcp-server, model-context-protocol, multi-agent, n8n-alternative, ollama, openai, php, self-hosted, workflow-automation
+- Confidence: high
+
 ### majiayu000/spellbook
 - Summary: majiayu000/spellbook is a Python project for General User: Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.
 - Why it matters: It maps to General User needs with an evidence-based score of 92.95.
@@ -30,12 +38,12 @@ Mode: `live`
 - Evidence: Stars: 230; Forks: 21; Language: Python; License: MIT; README length: 21269; Topics: agent-skills, ai-agent-skills, ai-agents, ai-coding-assistant, automation, claude, claude-code, claude-code-skills, code-review, codex, codex-skills, cross-runtime, developer-tools, multi-agent, productivity, prompt-engineering, skill-library, software-development, spellbook, workflows
 - Confidence: high
 
-### Mindburn-Labs/helm-ai-kernel
-- Summary: Mindburn-Labs/helm-ai-kernel is a Go project for General User: Fail-closed execution firewall for AI agents: quarantine MCP tools, proxy OpenAI-compatible requests, emit signed receipts, and verify EvidencePacks offline.
-- Why it matters: It maps to General User needs with an evidence-based score of 91.87.
+### jupyter-naas/abi
+- Summary: jupyter-naas/abi is a Python project for General User: AI Operating System - Build your own AI using ontologies as the unifying field connecting data, models, workflows, and systems.
+- Why it matters: It maps to General User needs with an evidence-based score of 92.70.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn helm-ai-kernel into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 69; Forks: 2; Language: Go; License: Apache-2.0; README length: 5985; Topics: agent-security, ai-agents, ai-security, cli, developer-tools, devsecops, evidencepack, execution-boundary, go, llm-security, mcp, model-context-protocol, offline-verification, openai-compatible, policy-engine, proofgraph, sandbox, self-hosted, signed-receipts, zero-trust
+- Portfolio idea: Turn abi into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 132; Forks: 39; Language: Python; License: MIT; README length: 13528; Topics: abi, ai, aiagentic, aiagentsframework, analytics, artificial-intelligence, automation, business, ontologies
 - Confidence: high
 
 ### MihaiBuilds/memory-vault
@@ -43,7 +51,7 @@ Mode: `live`
 - Why it matters: It maps to General User needs with an evidence-based score of 91.68.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
 - Portfolio idea: Turn memory-vault into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 56; Forks: 8; Language: Python; License: MIT; README length: 24695; Topics: ai-memory, claude, hybrid-search, knowledge-graph, mcp, open-source, pgvector, postgres, rag, self-hosted
+- Evidence: Stars: 56; Forks: 8; Language: Python; License: MIT; README length: 24687; Topics: ai-memory, claude, hybrid-search, knowledge-graph, mcp, open-source, pgvector, postgres, rag, self-hosted
 - Confidence: high
 
 ### n8n-io/n8n
@@ -51,7 +59,15 @@ Mode: `live`
 - Why it matters: It maps to General User needs with an evidence-based score of 90.30.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
 - Portfolio idea: Turn n8n into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 194909; Forks: 59006; Language: TypeScript; License: NOASSERTION; README length: 3675; Topics: ai, apis, automation, cli, data-flow, development, integration-framework, integrations, ipaas, low-code, low-code-platform, mcp, mcp-client, mcp-server, n8n, no-code, self-hosted, typescript, workflow, workflow-automation
+- Evidence: Stars: 194915; Forks: 59004; Language: TypeScript; License: NOASSERTION; README length: 3675; Topics: ai, apis, automation, cli, data-flow, development, integration-framework, integrations, ipaas, low-code, low-code-platform, mcp, mcp-client, mcp-server, n8n, no-code, self-hosted, typescript, workflow, workflow-automation
+- Confidence: high
+
+### superplanehq/superplane
+- Summary: superplanehq/superplane is a Go project for General User: The open source control plane for agentic engineering.
+- Why it matters: It maps to General User needs with an evidence-based score of 90.00.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn superplane into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 3394; Forks: 347; Language: Go; License: Apache-2.0; README length: 22481; Topics: automation, control-plane, devops, event-driven, go, kubernetes, platform-engineering, python, react, release-automation, self-hosted, workflow-automation
 - Confidence: high
 
 ### rohansx/workz
@@ -62,20 +78,20 @@ Mode: `live`
 - Evidence: Stars: 68; Forks: 2; Language: Rust; License: MIT; README length: 7351; Topics: ai-agents, claude-code, cli, command-line, cursor, developer-tools, devtools, fuzzy-finder, git-worktree, productivity, rust, terminal, worktree, zoxide
 - Confidence: high
 
+### callstack/agent-device
+- Summary: callstack/agent-device is a TypeScript project for General User: CLI to control iOS and Android devices for AI agents
+- Why it matters: It maps to General User needs with an evidence-based score of 85.19.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn agent-device into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 3016; Forks: 165; Language: TypeScript; License: MIT; README length: 9976; Topics: adb, agentic-ai, agents, ai-agents, android-emulator, automation, e2e-testing, expo, flutter, ios-simulator, mcp, mobile, mobile-testing, performance-optimization, react-native, testing, xcuitest
+- Confidence: high
+
 ### floomhq/floom
 - Summary: floomhq/floom is a Python project for General User: AI runtime for creating, running, and supervising background AI workers.
 - Why it matters: It maps to General User needs with an evidence-based score of 84.83.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
 - Portfolio idea: Turn floom into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
 - Evidence: Stars: 36; Forks: 0; Language: Python; License: MIT; README length: 16312; Topics: agent-runtime, ai-agents, ai-skills, ai-workers, automation, llm, mcp, python
-- Confidence: high
-
-### closedloop-ai/claude-plugins
-- Summary: closedloop-ai/claude-plugins is a Python project for General User: Open-source Claude Code plugins for multi-agent software delivery. Plan-first SDLC workflow, code review, LLM quality judges, and self-learning — grounded in your codebase.  Bootstrap, Plan, & Ship.
-- Why it matters: It maps to General User needs with an evidence-based score of 83.30.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn claude-plugins into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 100; Forks: 11; Language: Python; License: Apache-2.0; README length: 5589; Topics: agentic-ai, ai-agents, anthropic, automation, claude-code, developer-tools, devtools, llm, multi-agent
 - Confidence: high
 
 ### Mann1988/awesome-claude-skills
@@ -110,20 +126,12 @@ Mode: `live`
 - Evidence: Stars: 152; Forks: 0; Language: HTML; License: unavailable; README length: 7609; Topics: ai, ai-agent, anthropic, automation, browser-automation, chrome-extension, claude, claude-opus, claude-sonnet, desktop-app, electron, foxl, foxl-ai, macos, personal-agent, productivity, releases, scheduling, skills, windows
 - Confidence: high
 
-### luqmanluqman7349-cloud/manga-synchronizer
-- Summary: luqmanluqman7349-cloud/manga-synchronizer is a HTML project for General User: MeManga Pro 2026: Ultimate Manga Download Manager & CLI Power Tool
-- Why it matters: It maps to General User needs with an evidence-based score of 77.32.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn manga-synchronizer into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 151; Forks: 0; Language: HTML; License: unavailable; README length: 8819; Topics: ebook, kindle, manga, manga-downloader, manga-scraper, self-hosted
-- Confidence: high
-
 ### abdulrbasit/job-hunter
 - Summary: abdulrbasit/job-hunter is a Python project for General User: Automate your job search — find listings, score fit, tailor your resume, and draft cover letters with AI.
-- Why it matters: It maps to General User needs with an evidence-based score of 76.56.
+- Why it matters: It maps to General User needs with an evidence-based score of 76.60.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
 - Portfolio idea: Turn job-hunter into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 21; Forks: 0; Language: Python; License: MIT; README length: 5236; Topics: ai-agent, anthropic, automation, career, careerops, claude, claude-code, cli, cover-letter, interview-prep, job-hunting, job-search, resume
+- Evidence: Stars: 22; Forks: 0; Language: Python; License: MIT; README length: 5236; Topics: ai-agent, anthropic, automation, career, careerops, claude, claude-code, cli, cover-letter, interview-prep, job-hunting, job-search, resume
 - Confidence: high
 
 ### J-nowcow/awesome-korean-agent-skills
@@ -131,13 +139,5 @@ Mode: `live`
 - Why it matters: It maps to General User needs with an evidence-based score of 67.45.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
 - Portfolio idea: Turn awesome-korean-agent-skills into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 22; Forks: 6; Language: unavailable; License: CC0-1.0; README length: 8193; Topics: agent-skills, agents, ai-agents, ai-coding, automation, awesome, awesome-korean, awesome-list, claude, claude-code, claude-code-skills, codex-cli, cursor-rules, developer-tools, gemini-cli, korean, productivity, prompt-engineering, skills, vibe-coding
+- Evidence: Stars: 22; Forks: 6; Language: unavailable; License: CC0-1.0; README length: 8197; Topics: agent-skills, agents, ai-agents, ai-coding, automation, awesome, awesome-korean, awesome-list, claude, claude-code, claude-code-skills, codex-cli, cursor-rules, developer-tools, gemini-cli, korean, productivity, prompt-engineering, skills, vibe-coding
 - Confidence: medium
-
-### apache/airflow
-- Summary: apache/airflow is a Python project for General User: Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-- Why it matters: It maps to General User needs with an evidence-based score of 95.22.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn airflow into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 46002; Forks: 17332; Language: Python; License: Apache-2.0; README length: 40549; Topics: airflow, apache, apache-airflow, automation, dag, data-engineering, data-integration, data-orchestrator, data-pipelines, data-science, elt, etl, machine-learning, mlops, orchestration, python, scheduler, workflow, workflow-engine, workflow-orchestration
-- Confidence: high
