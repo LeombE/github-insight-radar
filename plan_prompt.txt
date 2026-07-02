@@ -1,0 +1,1136 @@
+You are working inside a new Codex projectrepository named “Github Insight” or “GitHub Insight”.
+
+Project owner goal
+Build a portfolio-ready, English-first, automated GitHub intelligence pipeline that discovers useful GitHub projects every day for multiple beneficiary groups, converts noisy GitHub metadata into actionable insights, stores daily results in date-separated files, and maintains a main dashboard summarizing the most useful projects over time.
+
+Local project path reference from user screenshot
+CUsersAdminOneDriveDocumentsGithub Insight
+
+Important execution instruction
+Use a deep planning pass before implementation. Do not only create a toy script. Treat this as a real portfolio data product. First inspect the repository. If it is empty, scaffold the full project. If files already exist, preserve useful work and extend it safely. After planning, implement working code, tests, documentation, automation, and a runnable dashboard. Do not stop after writing a plan.
+
+Primary product name
+GitHub Insight — Daily Open-Source Intelligence Radar
+
+Alternative public display title
+GitHub Daily Intelligence Automated GitHub Project Discovery & Insight Dashboard
+
+Core purpose
+Every day, collect GitHub repositoriesprojects that are likely useful for
+1. General users
+2. Data analysts
+3. Data scientists
+4. The owner’s own Data Analyst  Data Scientist portfolio path
+
+The system must not simply list trending repositories by stars. It must explain
+- What the repo does
+- Why it matters now
+- Who benefits
+- What practical problem it solves
+- Whether it is useful for learning, portfolio building, analysis, automation, or research
+- How difficult it is to try
+- What risks exist poor maintenance, unclear license, no README, no reproducibility, hype-only project, stale code, too many unresolved issues
+- What action the reader should take Try  Watch  Use as portfolio reference  Skip
+
+Public content language
+All public repository content, dashboard text, generated reports, alt text, captions, README, GitHub Pages content, and portfolio documentation must be in English.
+
+Private comments in code can also be English. Avoid Chinese in generated project files unless explicitly needed.
+
+Build the project as a real data pipeline with
+- API ingestion
+- repeatable daily run
+- storage
+- scoring
+- insight generation
+- report generation
+- dashboard generation
+- optional image generation
+- CItests
+- GitHub Actions automation
+- portfolio-ready README and docs
+
+Use Python as the main implementation language.
+
+Preferred stack
+- Python 3.11+
+- requests or httpx for GitHub API
+- pandas for tabular processing
+- pydanticdataclasses for schemas where useful
+- sqlite3 for durable local storage
+- python-dotenv for local env loading
+- jinja2 for reportdashboard templates if helpful
+- streamlit for local interactive dashboard
+- static HTML under docs for GitHub Pages dashboard
+- openai Python SDK only for optional textimage generation
+- Pillow for programmatic overlaycomposition if image generation is enabled
+- pytest for tests
+- ruff for linting if practical
+
+Do not make the core pipeline dependent on paid APIs. GitHub data collection and daily report generation must work without OpenAI API. OpenAI should be optional for higher-quality summaries and generated visuals.
+
+Repository structure to create or preserve
+
+.
+├── AGENTS.md
+├── README.md
+├── pyproject.toml
+├── .env.example
+├── .gitignore
+├── config
+│   ├── audiences.yml
+│   ├── queries.yml
+│   ├── scoring.yml
+│   └── image_policy.yml
+├── github_insight
+│   ├── __init__.py
+│   ├── cli.py
+│   ├── config.py
+│   ├── logging_utils.py
+│   ├── models.py
+│   ├── github_client.py
+│   ├── collectors.py
+│   ├── readme_analyzer.py
+│   ├── classifier.py
+│   ├── scoring.py
+│   ├── insight_writer.py
+│   ├── image_generator.py
+│   ├── storage.py
+│   ├── report_writer.py
+│   ├── dashboard_builder.py
+│   └── utils.py
+├── dashboard
+│   └── app.py
+├── templates
+│   ├── daily_report.md.j2
+│   ├── audience_report.md.j2
+│   ├── weekly_synthesis.md.j2
+│   ├── dashboard.html.j2
+│   └── project_card.html.j2
+├── data
+│   ├── raw
+│   │   └── .gitkeep
+│   ├── processed
+│   │   ├── .gitkeep
+│   │   └── github_repos_master.csv
+│   └── github_insight.sqlite
+├── reports
+│   ├── daily
+│   │   └── .gitkeep
+│   ├── weekly
+│   │   └── .gitkeep
+│   └── latest
+│       └── .gitkeep
+├── assets
+│   ├── images
+│   │   └── .gitkeep
+│   └── cards
+│       └── .gitkeep
+├── docs
+│   ├── index.html
+│   ├── data
+│   │   ├── latest.json
+│   │   └── archive_index.json
+│   └── assets
+│       └── .gitkeep
+├── tests
+│   ├── fixtures
+│   │   ├── search_repos_sample.json
+│   │   ├── repo_detail_sample.json
+│   │   └── readme_sample.md
+│   ├── test_scoring.py
+│   ├── test_classifier.py
+│   ├── test_report_writer.py
+│   ├── test_storage.py
+│   └── test_cli_mock_run.py
+└── .github
+    └── workflows
+        ├── daily_github_insight.yml
+        └── ci.yml
+
+Daily output requirement
+The canonical daily human-readable file must be
+
+reportsdailyYYYY-MM-DD-daily-brief.md
+
+Also generate these audience-specific daily files
+reportsdailyYYYY-MM-DD-general-user.md
+reportsdailyYYYY-MM-DD-data-analyst.md
+reportsdailyYYYY-MM-DD-data-scientist.md
+reportsdailyYYYY-MM-DD-action-list.md
+
+Also generate machine-readable files
+datarawYYYY-MM-DD-github-api-raw.json
+dataprocessedYYYY-MM-DD-github-insight-projects.csv
+dataprocessedYYYY-MM-DD-github-insight-projects.json
+dataprocessedgithub_repos_master.csv
+
+Also generate dashboard data
+docsdatalatest.json
+docsdataarchive_index.json
+
+Also generateupdate
+docsindex.html
+reportslatestlatest-daily-brief.md
+reportslatestlatest-projects.json
+
+Weekly output requirement
+Generate a weekly synthesis file when requested
+reportsweeklyYYYY-WW-weekly-synthesis.md
+
+The weekly synthesis should summarize
+- Most consistently useful repos of the week
+- Biggest momentum changes
+- Best projects for data analyst portfolio
+- Best projects for data scientist learningresearch
+- Tools that general users can actually try
+- Repos to watch next week
+- Repos that look overhyped or risky
+
+Main dashboard requirement
+Build two dashboard surfaces
+1. Static GitHub Pages dashboard at docsindex.html
+2. Local Streamlit dashboard at dashboardapp.py
+
+The main dashboard must summarize useful projects across days and audiences.
+
+Dashboard must include
+- Last generated timestamp
+- Total repositories scanned today
+- Total repositories selected today
+- Top 10 overall useful projects
+- Top 10 for general users
+- Top 10 for data analysts
+- Top 10 for data scientists
+- New entries today
+- Repositories with rising momentum
+- Repositories with risk flags
+- Languagetopic distribution
+- Audience filter
+- Date filter
+- Score filter
+- Project cards with
+  - repo name
+  - description
+  - URL
+  - starsforksissues
+  - language
+  - license
+  - topics
+  - beneficiary tags
+  - usefulness score
+  - data analyst score
+  - data scientist score
+  - reproducibility score
+  - insight summary
+  - recommended action
+  - risk flags
+  - optional imagecard
+- Archive list ordered by actual generated_at descending
+
+The static dashboard should not require a build system like npm unless absolutely necessary. Prefer a self-contained HTML file generated by Python using Jinja2 and embedded JSONJSCSS.
+
+The Streamlit dashboard should read from
+- dataprocessedgithub_repos_master.csv
+- docsdataarchive_index.json
+- dataprocessedYYYY-MM-DD-github-insight-projects.json
+
+Daily collection scope
+Collect from GitHub public repositories using official GitHub APIs. Do not scrape GitHub HTML pages unless absolutely necessary. Use API-first design.
+
+Sources to use
+1. GitHub Search Repositories API for discovery
+2. GitHub Repository detail endpoint for metadata
+3. GitHub READMEcontent endpoint for README extraction
+4. GitHub Topics if available in repository metadata
+5. GitHub Languages endpoint
+6. GitHub Releases endpoint, limited
+7. GitHub IssuesPulls endpoint, limited and only for aggregate signals
+8. GitHub Events API only as optional near-real-time activity signal, not as a true real-time source
+
+Important API behavior to design around
+- Treat GitHub Events API as near-real-time only, not true real-time.
+- Respect rate limits.
+- Read and honor x-ratelimit headers.
+- Implement retries and exponential backoff for transient 4034295xx.
+- For Events API polling, use ETag and X-Poll-Interval if implemented.
+- Avoid unnecessary code search calls because code search has stricter limits.
+- Cache responses per run.
+- Do not run unbounded collection.
+- Make max repos per run configurable.
+- Make max details per run configurable.
+- The pipeline must remain useful even with limited API budget.
+
+Authentication
+Support these env vars
+GITHUB_TOKEN=
+GH_PAT=
+OPENAI_API_KEY=
+ENABLE_LLM_SUMMARY=false
+ENABLE_IMAGE_GENERATION=false
+IMAGE_MODEL=gpt-image-2
+IMAGE_TOP_N=3
+MAX_REPOS_PER_AUDIENCE=50
+MAX_REPOS_TOTAL=200
+DAYS_LOOKBACK=7
+GITHUB_API_VERSION=
+TIMEZONE=AsiaKuala_Lumpur
+
+Token resolution
+- Prefer GH_PAT if set
+- Else use GITHUB_TOKEN if set
+- Else use unauthenticated public requests with lower limits
+- Never print tokens
+- Never commit .env
+- Add .env.example with safe placeholders
+
+GitHub Actions
+Create .githubworkflowsdaily_github_insight.yml with
+- workflow_dispatch
+- daily schedule
+- permissions contents write
+- setup Python
+- install dependencies
+- run tests or at least smoke test
+- run daily pipeline
+- generate static dashboard
+- commit generated reportsdatadashboard if changed
+
+Daily cron
+Use a non-top-of-hour minute to reduce scheduled workflow delay risk, e.g. 17 20    UTC, but make it easy to change.
+
+The workflow must work with
+- built-in GITHUB_TOKEN if no PAT
+- optional OPENAI_API_KEY secret
+- optional image generation disabled by default
+
+Create .githubworkflowsci.yml with
+- pull_request
+- push
+- install
+- ruff or basic syntax checks
+- pytest
+- mock CLI run
+
+CLI commands
+Implement a CLI that supports
+
+python -m github_insight.cli run --date YYYY-MM-DD
+python -m github_insight.cli run --date today
+python -m github_insight.cli run --mock
+python -m github_insight.cli dashboard
+python -m github_insight.cli weekly --week YYYY-WW
+python -m github_insight.cli init-db
+python -m github_insight.cli validate
+
+CLI behavior
+- --mock must run fully offline using test fixtures and generate sample daily reportsdashboard.
+- Default run uses live GitHub API if tokennetwork available.
+- If live API fails, fail gracefully with useful error.
+- Do not silently produce fake live results unless --mock is explicitly used.
+- Print generated file paths at the end.
+
+Data model
+Create clear models for
+RunMetadata
+- run_id
+- date
+- scheduled_for
+- started_at
+- generated_at
+- completed_at
+- timezone
+- mode livemock
+- github_rate_limit_remaining
+- query_count
+- repos_discovered
+- repos_selected
+- image_generation_enabled
+- llm_summary_enabled
+
+RepositoryRaw
+- full_name
+- owner
+- name
+- html_url
+- api_url
+- description
+- created_at
+- updated_at
+- pushed_at
+- stargazers_count
+- forks_count
+- watchers_count
+- open_issues_count
+- language
+- topics
+- license_name
+- license_spdx_id
+- archived
+- disabled
+- fork
+- default_branch
+- size
+- homepage
+- has_issues
+- has_projects
+- has_wiki
+- source_query
+- source_audience
+
+RepositoryEnriched
+- all RepositoryRaw fields
+- readme_text_excerpt
+- readme_length
+- readme_quality_score
+- has_installation_instructions
+- has_usage_examples
+- has_demo_link
+- has_docs_link
+- has_notebook
+- has_dataset
+- has_csv_or_sql
+- has_dockerfile
+- has_requirements
+- has_environment_file
+- has_pyproject
+- has_package_file
+- has_release
+- latest_release_date
+- language_breakdown
+- commit_activity_signal if available
+- issue_activity_signal if available
+- reproducibility_signals
+- risk_flags
+
+InsightRecord
+- date
+- full_name
+- html_url
+- primary_audience
+- audience_tags
+- general_user_score
+- data_analyst_score
+- data_scientist_score
+- usefulness_score
+- momentum_score
+- reproducibility_score
+- data_asset_score
+- dashboard_readiness_score
+- maintenance_score
+- risk_score
+- overall_insight_score
+- difficulty_level
+- recommended_action
+- one_sentence_summary
+- why_it_matters
+- practical_use_cases
+- data_analyst_angle
+- data_scientist_angle
+- general_user_angle
+- portfolio_project_idea
+- evidence
+- risk_flags
+- image_asset_path
+- image_prompt_path
+- confidence
+
+Scoring
+Implement transparent deterministic scoring. Make weights configurable in configscoring.yml.
+
+Overall score
+overall_insight_score =
+0.20  usefulness_score
++ 0.20  momentum_score
++ 0.15  audience_fit_score
++ 0.15  maintenance_score
++ 0.10  readme_quality_score
++ 0.10  reproducibility_score
++ 0.10  data_asset_or_demo_score
+- 0.15  risk_score
+
+Clamp score to 0-100.
+
+General user score signals
+Positive
+- clear description
+- useful toolappautomation
+- demo link or easy install
+- active maintenance
+- understandable README
+- practical productivitylearningAI utility
+Negative
+- highly technical only
+- no README
+- no installusage
+- stale
+- archived
+- unclear license
+
+Data analyst score signals
+Positive
+- topicskeywords data-analysis, analytics, dashboard, business-intelligence, bi, tableau, powerbi, sql, dbt, etl, data-visualization, pandas, excel, csv, data-cleaning, metrics, reporting
+- filesREADME mention CSV, SQL, dashboard, dataset, visualization, notebook, Power BI, Tableau, Streamlit, Plotly, DuckDB, dbt
+- can be converted into portfolio dashboard or analytics case study
+- contains data pipeline or reporting workflow
+Negative
+- no accessible data or business angle
+- too infra-only without analytics use case
+
+Data scientist score signals
+Positive
+- topicskeywords machine-learning, deep-learning, llm, rag, nlp, computer-vision, time-series, recommender-system, pytorch, tensorflow, scikit-learn, benchmark, dataset, arxiv, paper, model, inference, training, evaluation
+- has notebooks, requirements, pyproject, environment.yml, Dockerfile
+- has dataset links, model weights, benchmarks, baseline, experiments
+- has reproducible examples
+Negative
+- no reproducibility instructions
+- no datamodel info
+- hype-only AI repo with no code depth
+- stale research implementation
+
+Momentum score
+Use previous snapshots when available
+- star_delta_1d, fork_delta_1d if present
+- else approximate with stars per repo age day
+- recent pushed_at freshness
+- recent release
+- open issuePR activity if available
+- new repo with high stars can score high but must not dominate without usefulness
+
+Maintenance score
+Positive
+- pushed within 730 days
+- recent release
+- has license
+- has docsREADME
+- not archived
+- issue count reasonable relative to stars
+Negative
+- archived
+- disabled
+- no recent push
+- no license
+- many unresolved issues relative to activity
+
+Risk score
+Risk flags
+- archived
+- no license
+- no README
+- README too short
+- stale for more than 12 months
+- many open issues and low recent activity
+- installation unclear
+- reproducibility unclear
+- missing datasetmodel source
+- suspicious hype language without evidence
+- fork-only repo unless clearly useful
+
+Insight generation
+Implement deterministic insight generation first. Optional OpenAI text summarization can be added, but must not be required.
+
+Insight writing rules
+- Do not hallucinate.
+- Every claim should be grounded in available fields or README evidence.
+- Use cautious language when uncertain.
+- Do not claim “best”, “SOTA”, “production-ready”, or “secure” unless directly supported.
+- Include evidence bullets.
+- Output concise but useful content.
+- Make reports readable for humans.
+- Each selected project should include
+  1. What it is
+  2. Who benefits
+  3. Why it matters today
+  4. Practical use cases
+  5. Analystscientist angle when relevant
+  6. Key evidence
+  7. Risk flags
+  8. Recommended action
+
+Audience categories
+General User
+- Wants useful tools, apps, AI assistants, automation, productivity, learning resources, self-hosted apps, practical utilities.
+- Needs plain-English explanation.
+- Needs tryskip recommendation.
+- Does not want overly technical jargon.
+
+Data Analyst
+- Wants datasets, dashboards, SQL projects, ETL, reporting workflows, BI tools, visualization references, portfolio ideas.
+- Needs dashboard readiness, data availability, business domain, tools used, and project idea.
+
+Data Scientist
+- Wants MLAI repos, papers, reproducible notebooks, datasets, benchmarks, model traininginference code, evaluation tools.
+- Needs reproducibility score, datasetmodel availability, experiment clarity, and research angle.
+
+Owner Portfolio Path
+- Prioritize projects that help demonstrate SQL, BI, Python, data engineering, dashboarding, automation, optimization, analytics engineering, data science foundations, and resume-ready project design.
+- Add portfolio_project_idea field where relevant.
+
+Search query configuration
+Create configqueries.yml with editable query groups.
+
+Example query groups
+
+general_user
+  - 'topicproductivity pushed=DATE_PLACEHOLDER stars20'
+  - 'topicautomation pushed=DATE_PLACEHOLDER stars20'
+  - 'topicself-hosted pushed=DATE_PLACEHOLDER stars20'
+  - 'topicai-tool pushed=DATE_PLACEHOLDER stars20'
+  - 'topicagent pushed=DATE_PLACEHOLDER stars20'
+  - 'topiccli pushed=DATE_PLACEHOLDER stars20'
+  - 'topicbrowser-extension pushed=DATE_PLACEHOLDER stars20'
+
+data_analyst
+  - 'topicdata-analysis pushed=DATE_PLACEHOLDER stars10'
+  - 'topicdashboard pushed=DATE_PLACEHOLDER stars10'
+  - 'topicbusiness-intelligence pushed=DATE_PLACEHOLDER stars10'
+  - 'topicsql pushed=DATE_PLACEHOLDER stars10'
+  - 'topicdbt pushed=DATE_PLACEHOLDER stars10'
+  - 'topicetl pushed=DATE_PLACEHOLDER stars10'
+  - 'topicdata-visualization pushed=DATE_PLACEHOLDER stars10'
+  - 'topicstreamlit pushed=DATE_PLACEHOLDER stars10'
+  - 'topicpowerbi pushed=DATE_PLACEHOLDER stars5'
+  - 'topictableau pushed=DATE_PLACEHOLDER stars5'
+
+data_scientist
+  - 'topicmachine-learning pushed=DATE_PLACEHOLDER stars20'
+  - 'topicdeep-learning pushed=DATE_PLACEHOLDER stars20'
+  - 'topicllm pushed=DATE_PLACEHOLDER stars20'
+  - 'topicrag pushed=DATE_PLACEHOLDER stars20'
+  - 'topicnlp pushed=DATE_PLACEHOLDER stars20'
+  - 'topiccomputer-vision pushed=DATE_PLACEHOLDER stars20'
+  - 'topicpytorch pushed=DATE_PLACEHOLDER stars20'
+  - 'topicbenchmark pushed=DATE_PLACEHOLDER stars10'
+  - 'topicdataset pushed=DATE_PLACEHOLDER stars10'
+  - 'topictime-series pushed=DATE_PLACEHOLDER stars10'
+
+Also support fallback keyword queries using q syntax if topic queries underperform
+- 'data analysis dashboard inreadme pushed=DATE_PLACEHOLDER stars10'
+- 'machine learning benchmark inreadme pushed=DATE_PLACEHOLDER stars10'
+- 'open source ai tool inreadme pushed=DATE_PLACEHOLDER stars20'
+
+DATE_PLACEHOLDER should be replaced based on DAYS_LOOKBACK.
+
+Deduplication
+- Deduplicate by full_name.
+- Track source audiences and source queries.
+- A repo can belong to multiple audiences.
+- Keep highest relevant score per audience.
+
+READMEcontent analysis
+For each selected repo, fetch README if possible.
+Extract signals
+- installation sections
+- usage sections
+- examples
+- demo links
+- docs links
+- badges
+- dataset mentions
+- model mentions
+- benchmark mentions
+- notebook mentions
+- Docker mentions
+- requirementsenvironment mentions
+- screenshotsdemo references
+- license mentions
+- paperarxiv mentions
+- limitationscaveats
+
+Do not store extremely long README text in final CSV. Store excerpt and derived features. Raw data can be kept in raw JSON.
+
+Storage
+Use SQLite for historical snapshots and CSVJSON for easy portfolio viewing.
+
+SQLite tables
+daily_runs
+repo_snapshots
+repo_enriched
+insight_records
+visual_assets
+
+daily_runs columns
+- run_id primary key
+- date
+- scheduled_for
+- started_at
+- generated_at
+- completed_at
+- timezone
+- mode
+- status
+- repos_discovered
+- repos_selected
+- notes
+
+repo_snapshots columns
+- id primary key
+- run_id
+- date
+- full_name
+- html_url
+- description
+- language
+- topics_json
+- stars
+- forks
+- watchers
+- open_issues
+- created_at
+- pushed_at
+- updated_at
+- license_spdx_id
+- archived
+- source_audiences_json
+- source_queries_json
+- raw_json_path
+
+insight_records columns
+- id primary key
+- run_id
+- date
+- full_name
+- primary_audience
+- audience_tags_json
+- overall_insight_score
+- general_user_score
+- data_analyst_score
+- data_scientist_score
+- momentum_score
+- usefulness_score
+- reproducibility_score
+- risk_score
+- difficulty_level
+- recommended_action
+- one_sentence_summary
+- why_it_matters
+- practical_use_cases_json
+- evidence_json
+- risk_flags_json
+- image_asset_path
+
+CSV master
+dataprocessedgithub_repos_master.csv should appendupdate historical rows and include one row per repo per date.
+
+Reports
+Daily brief must be structured
+
+# GitHub Insight Daily Brief — YYYY-MM-DD
+
+Generated at ISO timestamp
+Mode livemock
+Repositories scanned
+Repositories selected
+Image generation enableddisabled
+LLM summary enableddisabled
+
+## Executive Summary
+- 3 to 7 bullets summarizing the day
+- mention top opportunity for general users
+- mention top opportunity for data analysts
+- mention top opportunity for data scientists
+- mention any major riskhype pattern
+
+## Top Overall Projects
+Project cardstable with
+Rank
+Repo
+Audience
+Score
+Why it matters
+Recommended action
+
+## General User Finds
+Plain-English useful tools.
+
+## Data Analyst Opportunities
+For each
+- What it does
+- Datadashboard angle
+- Suggested portfolio use
+- Toolsskills involved
+- Score
+- Risk
+
+## Data Scientist Research Radar
+For each
+- MLAIresearch angle
+- Reproducibility
+- Datasetmodelbenchmark signal
+- Score
+- Risk
+
+## Action List
+- Try today
+- Watch this week
+- Use as portfolio reference
+- Skip  risky
+
+## Methodology
+Brief explain scoring and evidence.
+
+## Data Files
+Linkspaths to JSONCSVdashboard.
+
+Audience-specific reports
+YYYY-MM-DD-general-user.md should contain only general user relevant project cards.
+YYYY-MM-DD-data-analyst.md should contain only data analyst relevant project cards.
+YYYY-MM-DD-data-scientist.md should contain only data scientist relevant project cards.
+YYYY-MM-DD-action-list.md should be a practical checklist.
+
+Image generation requirement
+The user wants some important and complex content to use meaningful visuals, either realistic images or GPT Image 2 generated images.
+
+Implement optional image generation as follows
+- Controlled by ENABLE_IMAGE_GENERATION.
+- Default false.
+- Use IMAGE_MODEL default gpt-image-2.
+- Only generate images for top IMAGE_TOP_N projects or daily hero cards when
+  - overall score = threshold, or
+  - project is complex and important, or
+  - project is selected as daily top story.
+- Do not generate images for every repo.
+- Save images under
+  assetsimagesYYYY-MM-DD{safe_repo_slug}.png
+- Save prompt metadata under
+  assetsimagesYYYY-MM-DD{safe_repo_slug}.json
+- Save daily hero image under
+  assetsimagesYYYY-MM-DDdaily-hero.png
+- Save OGsocial card under
+  assetscardsYYYY-MM-DD-og-card.png
+
+Image generation style
+- Realistic editorial  data product  open-source intelligence style
+- Clean, professional, portfolio-friendly
+- No copyrighted characters
+- No fake GitHub UI screenshots
+- No real person likeness
+- No unauthorized logos
+- Do not ask the image model to render exact statistics or long text.
+- Generate image backgroundvisual metaphor first.
+- Programmatically overlay exact headlinedatescore using Pillow if needed.
+- Every generated image must have alt text.
+- Label generated images as AI-generated in metadata or caption when appropriate.
+- If OpenAI API fails, create a deterministic fallback SVGPNG card with exact text and simple layout.
+- The pipeline must still complete if image generation fails.
+
+Image prompt metadata schema
+{
+  date YYYY-MM-DD,
+  full_name ownerrepo,
+  model gpt-image-2,
+  prompt ...,
+  source_facts {...},
+  alt_text ...,
+  generated_at ...,
+  status generatedfallbackskipped,
+  error null
+}
+
+Daily hero visual
+Create a hero image for the whole daily brief only if ENABLE_IMAGE_GENERATION=true.
+Theme
+“An editorial realistic visualization of an open-source intelligence dashboard analyzing GitHub repositories for general users, data analysts, and data scientists; professional data product aesthetic; no logos; no readable text; clean screens, charts, repository cards, and insight signals.”
+
+For specific project visuals
+Use the repo’s actual facts only as semantic inspiration, not as exact text in the image. Example
+“For a Python dashboard automation repository useful to data analysts, create a realistic editorial image of a data analyst workspace with dashboards, SQL tables, charts, and automation pipeline visuals; no readable text; professional portfolio style.”
+
+LLM text generation
+Optional and disabled by default.
+If ENABLE_LLM_SUMMARY=true and OPENAI_API_KEY exists
+- Use the LLM only to improve wording and summaries.
+- Provide source facts and README excerpts.
+- Require JSON output matching InsightRecord fields.
+- Validate output.
+- Fall back to deterministic writer if validation fails.
+- Do not allow unsupported claims.
+- Do not hide the deterministic evidence.
+
+AGENTS.md
+Create AGENTS.md for future Codex runs. It should define project rules and simulated specialist roles.
+
+Include these 12 specialist roles in AGENTS.md
+1. ProductPortfolio Architect
+2. GitHub API Data Collector
+3. Data Engineer
+4. Relevance & Scoring Analyst
+5. General User Insight Writer
+6. Data Analyst Insight Writer
+7. Data Scientist Insight Writer
+8. Visualization & Image Brief Designer
+9. DashboardUX Builder
+10. QATest Engineer
+11. SecurityOps Reviewer
+12. Documentation & Resume Packaging Writer
+
+AGENTS.md should instruct future Codex
+- Use English for public output.
+- Keep the project deterministic when APIs are unavailable.
+- Avoid hallucinated claims.
+- Respect API rate limits.
+- Never commit secrets.
+- Run tests after changes.
+- Keep reports date-separated.
+- Keep dashboard archive ordered by generated_at.
+- Keep daily content useful, not filler.
+- Quiet days are acceptable; do not invent trends.
+- Prefer evidence-based insights over hype.
+- Maintain compatibility with Windows local path and GitHub Actions Ubuntu runner.
+
+README requirements
+README.md must be portfolio-ready and include
+- Project overview
+- Problem statement
+- Who benefits
+- Architecture diagram in text or Mermaid
+- Data pipeline explanation
+- Scoring methodology
+- Daily output examples
+- Dashboard screenshots placeholderinstructions
+- Setup instructions for Windows and GitHub Actions
+- Environment variables
+- Commands
+- File structure
+- Image generation option
+- Testing
+- Security  secrets handling
+- Limitations
+- Roadmap
+- Resume bullets
+
+README resume bullets should emphasize
+- Built an automated GitHub intelligence pipeline using Python, GitHub REST API, SQLite, CSVJSON reporting, and GitHub Actions.
+- Designed explainable scoring for usefulness, momentum, data analyst relevance, data scientist relevance, reproducibility, and maintenance risk.
+- Generated daily Markdown reports and a GitHub Pages dashboard with archive ordering by generated_at.
+- Added optional GPT Image 2 editorial visuals with deterministic fallback and metadata tracking.
+- Implemented CI tests, mock mode, rate-limit-aware API client, and portfolio-ready documentation.
+
+Testing
+Create tests that do not require internet or secrets.
+Test
+- scoring clamp and ranking
+- classification of sample repos into audiences
+- report writer creates expected files
+- storage creates SQLite tables
+- CLI --mock generates daily report and dashboard
+- image generator fallback works without API key
+
+Acceptance criteria
+A successful implementation must satisfy all
+
+1. `python -m github_insight.cli run --mock` works offline.
+2. Mock run generates
+   - reportsdailyYYYY-MM-DD-daily-brief.md
+   - reportsdailyYYYY-MM-DD-general-user.md
+   - reportsdailyYYYY-MM-DD-data-analyst.md
+   - reportsdailyYYYY-MM-DD-data-scientist.md
+   - reportsdailyYYYY-MM-DD-action-list.md
+   - dataprocessedYYYY-MM-DD-github-insight-projects.csv
+   - dataprocessedYYYY-MM-DD-github-insight-projects.json
+   - dataprocessedgithub_repos_master.csv
+   - docsindex.html
+   - docsdatalatest.json
+   - docsdataarchive_index.json
+3. `python -m github_insight.cli dashboard` rebuilds docsindex.html.
+4. `pytest` passes.
+5. No secrets are committed.
+6. README explains setup and portfolio value.
+7. GitHub Actions workflow exists for daily run and manual run.
+8. Image generation is optional and cannot break the core run.
+9. Reports are useful and not just raw repo lists.
+10. Dashboard shows audience-specific summaries and project cards.
+11. All public output is English.
+12. The code is structured enough for future extension.
+
+Implementation steps
+1. Inspect current repository.
+2. Write a concise implementation plan listing files to createchange.
+3. Scaffold project structure.
+4. Implement config loading.
+5. Implement modelsschemas.
+6. Implement GitHub API client with auth, retries, headers, and rate-limit awareness.
+7. Implement collectors with configurable queries and deduplication.
+8. Implement READMEcontent analyzer.
+9. Implement classifier and scoring.
+10. Implement deterministic insight writer.
+11. Implement optional LLM summarization stub or working implementation if straightforward.
+12. Implement optional image generator with fallback.
+13. Implement SQLiteCSVJSON storage.
+14. Implement daily report writer.
+15. Implement static dashboard builder.
+16. Implement Streamlit dashboard.
+17. Implement CLI.
+18. Add mock fixtures.
+19. Add tests.
+20. Add GitHub Actions workflows.
+21. Add README, AGENTS.md, .env.example, .gitignore.
+22. Run tests.
+23. Run mock daily generation.
+24. Report final changed files, commands run, and next manual setup steps.
+
+Important design detail
+The daily report should be “report-as-data”. That means every generated Markdown report should correspond to a JSON data file containing the same core records. The dashboard should read structured JSONCSV, not scrape Markdown.
+
+Archive ordering
+Use generated_at ISO timestamp from RunMetadata for ordering.
+Do not order only by filename if generated_at exists.
+docsdataarchive_index.json should include
+[
+  {
+    date YYYY-MM-DD,
+    generated_at ...,
+    daily_brief_path ...,
+    json_path ...,
+    csv_path ...,
+    selected_count 20,
+    top_project ownerrepo
+  }
+]
+
+Data freshness
+For each repo include
+- first_seen_date
+- last_seen_date
+- days_seen
+- rank_today
+- rank_previous
+- rank_change
+- star_delta_since_previous_seen if available
+- fork_delta_since_previous_seen if available
+
+If no previous snapshot exists
+- Compute approximate momentum from starsrepo_age_days and recent pushed_at.
+- Mark delta fields as null, not zero.
+
+Risk and confidence
+Each insight must include confidence
+- high strong README + metadata evidence
+- medium enough metadata but limited README
+- low sparse README or uncertain classification
+
+Recommended action
+One of
+- Try today
+- Watch this week
+- Use as portfolio reference
+- Study for learning
+- Track for research
+- Skip for now
+
+Difficulty level
+One of
+- Beginner
+- Intermediate
+- Advanced
+- Research-heavy
+- Unknown
+
+Dashboard project card recommended fields
+- repo full_name
+- one_sentence_summary
+- primary audience
+- badges for audience tags
+- score bars
+- recommended action
+- key evidence
+- risk flags
+- image if exists
+
+Static dashboard design
+Make it clean and portfolio-friendly
+- top hero section
+- KPI cards
+- audience tabs or filters
+- responsive project card grid
+- archive section
+- methodology section
+- no external heavy frontend framework
+- no broken links
+- readable on GitHub Pages
+
+Streamlit dashboard design
+- sidebar filters
+- date range selector
+- audience selector
+- score threshold slider
+- top repos table
+- project detail expander
+- chart count by audience
+- chart top languages
+- chart score distribution
+- chart trend over days if historical data exists
+
+Security
+- Never commit tokens.
+- Do not log Authorization headers.
+- .env in .gitignore.
+- Keep generated metadata safe.
+- Treat README content as untrusted text; do not execute code from repos.
+- Do not clone arbitrary repos in MVP.
+- Do not run repository code.
+- Only inspect metadataREADMEfiles via API.
+- Do not scrape or download arbitrary images from repos for reuse unless license and source are clear.
+- Prefer generated visuals or programmatic cards.
+
+Limitations section
+Document
+- GitHub API is near-real-time, not guaranteed real-time.
+- Search API has result and rate limits.
+- Scores are heuristics.
+- Star velocity is approximate unless previous snapshots exist.
+- Optional LLMimage generation may cost money and require API key.
+- The dashboard is an intelligence aid, not a definitive ranking.
+
+MVP priority
+If time is limited, prioritize
+1. Working mock run
+2. Working live GitHub collection
+3. Scoringclassification
+4. Daily Markdown + JSON + CSV
+5. Static dashboard
+6. Tests
+7. READMEAGENTS
+8. GitHub Actions
+9. Optional image generation
+
+Do not prioritize
+- complex frontend
+- cloning repos
+- running external repo code
+- paid APIs as mandatory
+- perfect AI summaries
+- over-engineered database abstractions
+
+Quality bar
+This should look like a serious data automationanalytics portfolio project, not a simple script. The generated daily brief and dashboard should demonstrate
+- Python automation
+- API ingestion
+- data cleaning
+- scoring methodology
+- insight generation
+- dashboard design
+- GitHub Actions deployment
+- reproducible reporting
+- responsible use of optional AI images
+
+After implementation, run
+python -m github_insight.cli run --mock
+python -m github_insight.cli dashboard
+pytest
+
+If dependency installation is needed, create pyproject.toml and install in editable mode if possible
+python -m pip install -e .[dev]
+
+At the end, provide
+- Summary of implemented features
+- Files createdchanged
+- Commands run and results
+- Any known limitations
+- How the user should set GitHub Secrets
+- How to run locally from Windows path
+- How to enable image generation
+- How to publish GitHub Pages
+
+Begin now by inspecting the repository, then implement.

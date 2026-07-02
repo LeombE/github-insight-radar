@@ -1,0 +1,12 @@
+enabled_default: false
+model_default: gpt-image-2
+top_n_default: 3
+min_score_for_project_image: 80
+daily_hero_prompt: "An editorial realistic visualization of an open-source intelligence dashboard analyzing GitHub repositories for general users, data analysts, and data scientists; professional data product aesthetic; no logos; no readable text; clean screens, charts, repository cards, and insight signals."
+rules:
+  - Do not generate fake GitHub UI screenshots.
+  - Do not include unauthorized logos, copyrighted characters, or real person likenesses.
+  - Do not ask the image model to render exact statistics or long readable text.
+  - Overlay exact dates and scores programmatically when needed.
+  - Save metadata JSON for every generated, fallback, or skipped image.
+

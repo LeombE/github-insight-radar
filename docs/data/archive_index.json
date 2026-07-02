@@ -1,0 +1,11 @@
+[
+  {
+    "date": "2026-07-02",
+    "generated_at": "2026-07-02T00:00:00+08:00",
+    "daily_brief_path": "reports/daily/2026-07-02-daily-brief.md",
+    "json_path": "data/processed/2026-07-02-github-insight-projects.json",
+    "csv_path": "data/processed/2026-07-02-github-insight-projects.csv",
+    "selected_count": 6,
+    "top_project": "sample-org/analytics-dashboard-starter"
+  }
+]

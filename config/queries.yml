@@ -1,0 +1,34 @@
+general_user:
+  - "topic:productivity pushed:>=DATE_PLACEHOLDER stars:>20"
+  - "topic:automation pushed:>=DATE_PLACEHOLDER stars:>20"
+  - "topic:self-hosted pushed:>=DATE_PLACEHOLDER stars:>20"
+  - "topic:ai-tool pushed:>=DATE_PLACEHOLDER stars:>20"
+  - "topic:agent pushed:>=DATE_PLACEHOLDER stars:>20"
+  - "topic:cli pushed:>=DATE_PLACEHOLDER stars:>20"
+
+data_analyst:
+  - "topic:data-analysis pushed:>=DATE_PLACEHOLDER stars:>10"
+  - "topic:dashboard pushed:>=DATE_PLACEHOLDER stars:>10"
+  - "topic:business-intelligence pushed:>=DATE_PLACEHOLDER stars:>10"
+  - "topic:sql pushed:>=DATE_PLACEHOLDER stars:>10"
+  - "topic:dbt pushed:>=DATE_PLACEHOLDER stars:>10"
+  - "topic:etl pushed:>=DATE_PLACEHOLDER stars:>10"
+  - "topic:data-visualization pushed:>=DATE_PLACEHOLDER stars:>10"
+  - "topic:streamlit pushed:>=DATE_PLACEHOLDER stars:>10"
+
+data_scientist:
+  - "topic:machine-learning pushed:>=DATE_PLACEHOLDER stars:>20"
+  - "topic:deep-learning pushed:>=DATE_PLACEHOLDER stars:>20"
+  - "topic:llm pushed:>=DATE_PLACEHOLDER stars:>20"
+  - "topic:rag pushed:>=DATE_PLACEHOLDER stars:>20"
+  - "topic:nlp pushed:>=DATE_PLACEHOLDER stars:>20"
+  - "topic:computer-vision pushed:>=DATE_PLACEHOLDER stars:>20"
+  - "topic:pytorch pushed:>=DATE_PLACEHOLDER stars:>20"
+  - "topic:benchmark pushed:>=DATE_PLACEHOLDER stars:>10"
+  - "topic:dataset pushed:>=DATE_PLACEHOLDER stars:>10"
+
+fallback:
+  - "data analysis dashboard in:readme pushed:>=DATE_PLACEHOLDER stars:>10"
+  - "machine learning benchmark in:readme pushed:>=DATE_PLACEHOLDER stars:>10"
+  - "open source ai tool in:readme pushed:>=DATE_PLACEHOLDER stars:>20"
+

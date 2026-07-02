@@ -1,0 +1,21 @@
+overall_weights:
+  usefulness_score: 0.20
+  momentum_score: 0.20
+  audience_fit_score: 0.15
+  maintenance_score: 0.15
+  readme_quality_score: 0.10
+  reproducibility_score: 0.10
+  data_asset_or_demo_score: 0.10
+  risk_score: -0.15
+
+decision_thresholds:
+  try_today: 80
+  use_as_portfolio_reference: 70
+  study_for_learning: 60
+  watch_this_week: 45
+
+risk_flags:
+  stale_months: 12
+  readme_short_chars: 400
+  high_issue_ratio: 0.15
+

@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "github-insight"
+version = "0.2.0"
+description = "Daily open-source intelligence radar for useful GitHub repositories."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "PyYAML>=6.0",
+  "requests>=2.31",
+  "pandas>=2.0",
+  "python-dotenv>=1.0",
+  "jinja2>=3.1",
+  "Pillow>=10.0",
+  "streamlit>=1.32",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.0",
+  "ruff>=0.5",
+]
+
+[project.scripts]
+github-insight = "github_insight.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["github_insight*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "--basetemp=.pytest-tmp"
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"

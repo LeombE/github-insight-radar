@@ -1,0 +1,53 @@
+general_user:
+  label: General User
+  description: Practical tools, apps, automation, self-hosted utilities, learning resources.
+  keywords:
+    - productivity
+    - automation
+    - cli
+    - tool
+    - app
+    - ai
+    - agent
+    - self-hosted
+    - workflow
+
+data_analyst:
+  label: Data Analyst
+  description: SQL, dashboards, reporting, BI, ETL, data cleaning, metrics, and portfolio case studies.
+  keywords:
+    - sql
+    - analytics
+    - dashboard
+    - business-intelligence
+    - bi
+    - tableau
+    - powerbi
+    - pandas
+    - excel
+    - etl
+    - dbt
+    - metrics
+    - reporting
+    - data-cleaning
+
+data_scientist:
+  label: Data Scientist
+  description: ML, AI, research, benchmarks, notebooks, reproducibility, datasets, and evaluation.
+  keywords:
+    - machine-learning
+    - deep-learning
+    - llm
+    - rag
+    - nlp
+    - computer-vision
+    - time-series
+    - pytorch
+    - tensorflow
+    - scikit-learn
+    - benchmark
+    - dataset
+    - model
+    - training
+    - evaluation
+
