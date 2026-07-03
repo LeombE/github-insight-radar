@@ -1,6 +1,6 @@
 # GitHub Insight Daily Brief - 2026-07-03
 
-Generated at: `2026-07-02T18:46:28+00:00`
+Generated at: `2026-07-03T07:36:17+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -8,8 +8,8 @@ Image generation: `disabled`
 LLM summary: `disabled`
 
 ## Executive Summary
-- Top overall opportunity: [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) with score 95.33.
-- General user opportunity: [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o)
+- Top overall opportunity: [langgenius/dify](https://github.com/langgenius/dify) with score 94.72.
+- General user opportunity: [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI)
 - Data analyst opportunity: [grafana/grafana](https://github.com/grafana/grafana)
 - Data scientist opportunity: [lance-format/lance](https://github.com/lance-format/lance)
 - Most common risk pattern: usage examples unclear
@@ -17,25 +17,25 @@ LLM summary: `disabled`
 ## Top Overall Projects
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
-| 1 | [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) | General User | 95.33 | It maps to General User needs with an evidence-based score of 95.33. | Try today |
-| 2 | [apache/airflow](https://github.com/apache/airflow) | General User | 95.22 | It maps to General User needs with an evidence-based score of 95.22. | Try today |
-| 3 | [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | General User | 93.81 | It maps to General User needs with an evidence-based score of 93.81. | Try today |
-| 4 | [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) | General User | 93.37 | It maps to General User needs with an evidence-based score of 93.37. | Try today |
-| 5 | [majiayu000/spellbook](https://github.com/majiayu000/spellbook) | General User | 92.95 | It maps to General User needs with an evidence-based score of 92.95. | Try today |
-| 6 | [jupyter-naas/abi](https://github.com/jupyter-naas/abi) | General User | 92.70 | It maps to General User needs with an evidence-based score of 92.70. | Try today |
-| 7 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | General User | 91.82 | It maps to General User needs with an evidence-based score of 91.82. | Try today |
-| 8 | [MihaiBuilds/memory-vault](https://github.com/MihaiBuilds/memory-vault) | General User | 91.68 | It maps to General User needs with an evidence-based score of 91.68. | Try today |
-| 9 | [Squirreljetpack/matchmaker](https://github.com/Squirreljetpack/matchmaker) | General User | 90.70 | It maps to General User needs with an evidence-based score of 90.70. | Try today |
-| 10 | [simstudioai/sim](https://github.com/simstudioai/sim) | General User | 90.52 | It maps to General User needs with an evidence-based score of 90.52. | Try today |
+| 1 | [langgenius/dify](https://github.com/langgenius/dify) | General User | 94.72 | It maps to General User needs with an evidence-based score of 94.72. | Try today |
+| 2 | [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) | General User | 93.57 | It maps to General User needs with an evidence-based score of 93.57. | Try today |
+| 3 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | General User | 93.52 | It maps to General User needs with an evidence-based score of 93.52. | Try today |
+| 4 | [majiayu000/spellbook](https://github.com/majiayu000/spellbook) | General User | 92.95 | It maps to General User needs with an evidence-based score of 92.95. | Try today |
+| 5 | [vmDeshpande/ai-agent-automation](https://github.com/vmDeshpande/ai-agent-automation) | General User | 92.65 | It maps to General User needs with an evidence-based score of 92.65. | Try today |
+| 6 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
+| 7 | [nxin-github/Auteur](https://github.com/nxin-github/Auteur) | General User | 90.28 | It maps to General User needs with an evidence-based score of 90.28. | Try today |
+| 8 | [MemTensor/MemOS](https://github.com/MemTensor/MemOS) | General User | 89.21 | It maps to General User needs with an evidence-based score of 89.21. | Try today |
+| 9 | [Priyanshu-byte-coder/devtrack](https://github.com/Priyanshu-byte-coder/devtrack) | General User | 89.13 | It maps to General User needs with an evidence-based score of 89.13. | Try today |
+| 10 | [muety/wakapi](https://github.com/muety/wakapi) | General User | 87.85 | It maps to General User needs with an evidence-based score of 87.85. | Try today |
 
 ## General User Finds
-### escapeboy/agent-fleet-o
-- What it is: escapeboy/agent-fleet-o is a PHP project for General User: Open-source AI agent orchestration platform — self-hosted mission control for autonomous multi-agent systems. Visual DAG workflows, 450+ MCP tools, human-in-the-loop approvals. Works with Claude, GPT-4o, Gemini, Ollama, Codex.
+### netease-youdao/LobsterAI
+- What it is: netease-youdao/LobsterAI is a TypeScript project for General User: Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 93.81
+- Score: 93.57
 - Difficulty: Intermediate
 - Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
+- Risk: many open issues relative to stars
 ### majiayu000/spellbook
 - What it is: majiayu000/spellbook is a Python project for General User: Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.
 - Angle: Potential practical tool or workflow improvement for general users.
@@ -43,17 +43,10 @@ LLM summary: `disabled`
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### jupyter-naas/abi
-- What it is: jupyter-naas/abi is a Python project for General User: AI Operating System - Build your own AI using ontologies as the unifying field connecting data, models, workflows, and systems.
+### vmDeshpande/ai-agent-automation
+- What it is: vmDeshpande/ai-agent-automation is a TypeScript project for General User: Modular AI agent workflow automation platform with schedulers, tools, and observability. https://vmdeshpande.github.io/ai-automation-platform-website/
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 92.70
-- Difficulty: Intermediate
-- Recommended action: Try today
-- Risk: many open issues relative to stars
-### MihaiBuilds/memory-vault
-- What it is: MihaiBuilds/memory-vault is a Python project for General User: A local-first AI memory system with hybrid search, MCP integration, and a knowledge graph.
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 91.68
+- Score: 92.65
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
@@ -62,6 +55,13 @@ LLM summary: `disabled`
 - Angle: Potential practical tool or workflow improvement for general users.
 - Score: 90.30
 - Difficulty: Advanced
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### nxin-github/Auteur
+- What it is: nxin-github/Auteur is a Java project for General User: 🎬 16-role AI film studio · End-to-end short video pipeline · Multi-agent · Self-hosted
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 90.28
+- Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
 
@@ -87,17 +87,17 @@ LLM summary: `disabled`
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### MahbubNibir/power-bi-retail-analytics-viz
-- What it is: MahbubNibir/power-bi-retail-analytics-viz is a HTML project for Data Analyst: Top Power BI Sales Dashboard 2026 for Profit & Regional Analysis
+### gbb014/IPL-Elite-Delivery-Forecast-Model
+- What it is: gbb014/IPL-Elite-Delivery-Forecast-Model is a HTML project for Data Analyst: Power BI IPL 2026 Complete Ball-by-Ball Dashboard with Python Data Cleaning
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
 - Score: 51.92
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### youtukubek-tech/Netflix-Insights-Hub
-- What it is: youtukubek-tech/Netflix-Insights-Hub is a HTML project for Data Analyst: Top Netflix Movie & Show Trends Dashboard 2026 – Power BI Data Analytics
+### MahbubNibir/power-bi-retail-analytics-viz
+- What it is: MahbubNibir/power-bi-retail-analytics-viz is a HTML project for Data Analyst: Top Power BI Sales Dashboard 2026 for Profit & Regional Analysis
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 50.24
+- Score: 51.92
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
@@ -117,6 +117,13 @@ LLM summary: `disabled`
 - Difficulty: Research-heavy
 - Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
+### langfuse/langfuse
+- What it is: langfuse/langfuse is a TypeScript project for Data Scientist: 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 55.83
+- Difficulty: Unknown
+- Recommended action: Track for research
+- Risk: no README evidence, installation unclear, usage examples unclear
 ### kanaa257/sosumi.ai
 - What it is: kanaa257/sosumi.ai is a TypeScript project for Data Scientist: 📄 Enhance Apple Developer docs by converting them into AI-readable Markdown for easier access and improved usability.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
@@ -124,26 +131,19 @@ LLM summary: `disabled`
 - Difficulty: Research-heavy
 - Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear
-### unslothai/unsloth
-- What it is: unslothai/unsloth is a Python project for General User: Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.
+### uxlfoundation/scikit-learn-intelex
+- What it is: uxlfoundation/scikit-learn-intelex is a Python project for Data Scientist: Extension for Scikit-learn is a seamless way to speed up your Scikit-learn application
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 91.82
-- Difficulty: Intermediate
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### SikamikanikoBG/homelab-monitor
-- What it is: SikamikanikoBG/homelab-monitor is a Python project for Data Analyst: Plug-and-play homelab dashboard in one container — GPU, local-AI VRAM, Docker, systemd, host health. Built-in read-only MCP server so AI agents can explore it too.
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 76.80
-- Difficulty: Beginner
-- Recommended action: Use as portfolio reference
-- Risk: usage examples unclear
+- Score: 51.95
+- Difficulty: Research-heavy
+- Recommended action: Track for research
+- Risk: no README evidence, installation unclear, usage examples unclear
 
 ## Action List
-- Try today: jeremylongshore/claude-code-plugins-plus-skills, apache/airflow, escapeboy/agent-fleet-o
-- Watch this week: basilisk-labs/agentplane, OpenHands/OpenHands, nrwl/nx
-- Use as portfolio reference: st0012/cctop, cisco-open/forge, calkit/calkit
-- Skip for now: Open-Curiosity/gini-agent, charannyk06/conductor-oss, faithlumumba/2025-tencent-advertising-algorithm-competition-finalist
+- Try today: langgenius/dify, netease-youdao/LobsterAI, kestra-io/kestra
+- Watch this week: HBAI-Ltd/Toonflow-app, more-io/claude-apple-bridges, linearis-oss/linearis
+- Use as portfolio reference: bndct-devops/tome, bifrost0x/webssh, sergix44/xbackbone
+- Skip for now: scikit-hep/awkward, faithlumumba/2025-tencent-advertising-algorithm-competition-finalist, gfazioli/octoscope
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.
