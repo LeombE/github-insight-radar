@@ -26,6 +26,20 @@ def test_dashboard_rebuild_from_latest_json(tmp_path):
     assert "All languages" in html
     assert "All actions" in html
     assert "Has risk flags" in html
+    assert "Low risk" in html
+    assert "Medium risk" in html
+    assert "High risk" in html
+    assert "Risk flagged" not in html
+    assert "dashboard_risk_severity" in html
+    assert "dashboard_confidence_label" in html
+    assert "dashboard_evidence_summary" in html
+    assert "dashboard_caveat_summary" in html
+    assert "risk-badge" in html
+    assert "confidence-badge" in html
+    assert "Key evidence:" in html
+    assert "Caveat:" in html
+    assert "riskSeverityClass" in html
+    assert "confidenceClass" in html
     assert "searchableText" in html
     assert "matchesRisk" in html
     assert "selectedLanguage" in html

@@ -13,7 +13,7 @@ from github_insight.utils import ensure_parent
 
 
 def _json(records: list[InsightRecord], run: RunMetadata) -> str:
-    return json.dumps({"run": run.to_dict(), "projects": [record.to_dict() for record in records]}, ensure_ascii=False)
+    return json.dumps({"run": run.to_dict(), "projects": [_dashboard_record(record) for record in records]}, ensure_ascii=False)
 
 
 def _archive_mode(item) -> str:
@@ -42,11 +42,53 @@ def _option_rows(values, all_label: str = "All") -> str:
     )
     return "".join(rows)
 
+def _risk_severity(risk_score: float) -> str:
+    try:
+        score = float(risk_score)
+    except (TypeError, ValueError):
+        score = 0.0
+    if score >= 60:
+        return "High"
+    if score >= 30:
+        return "Medium"
+    return "Low"
+
+
+def _confidence_label(value: str) -> str:
+    normalized = str(value or "").strip().lower()
+    if normalized == "high":
+        return "High"
+    if normalized == "medium":
+        return "Medium"
+    return "Low"
+
+
+def _evidence_summary(record: InsightRecord) -> str:
+    evidence = [item for item in record.evidence[:3] if item]
+    if evidence:
+        return "; ".join(evidence)
+    return f"Stars: {record.stars}; Forks: {record.forks}; Language: {record.language}"
+
+
+def _caveat_summary(record: InsightRecord) -> str:
+    if record.risk_flags:
+        return "; ".join(record.risk_flags[:3])
+    return "No major caveat from collected evidence."
+
+
+def _dashboard_record(record: InsightRecord) -> dict:
+    item = record.to_dict()
+    item["dashboard_risk_severity"] = _risk_severity(record.risk_score)
+    item["dashboard_confidence_label"] = _confidence_label(record.confidence)
+    item["dashboard_evidence_summary"] = _evidence_summary(record)
+    item["dashboard_caveat_summary"] = _caveat_summary(record)
+    return item
+
 def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[InsightRecord]) -> Path:
     path = output_root / "docs" / "index.html"
     total = len(records)
     selected = len([record for record in records if record.recommended_action != "Skip for now"])
-    risk_count = len([record for record in records if record.risk_flags])
+    risk_counts = Counter(_risk_severity(record.risk_score) for record in records)
     language_counts = Counter(record.language for record in records)
     topic_counts = Counter(topic for record in records for topic in record.topics[:6])
     archive_path = output_root / "docs" / "data" / "archive_index.json"
@@ -106,7 +148,10 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
     .card {{ padding:18px; display:grid; gap:10px; }} .card h3 {{ margin:0 0 8px; font-size:17px; overflow-wrap:anywhere; }} .card p {{ margin:0; }} .score strong {{ font-size:22px; color:var(--accent); }}
     .meta, .risk, .evidence {{ color:var(--muted); font-size:13px; }}
     .score {{ display:flex; align-items:center; gap:8px; margin:10px 0; }} .bar {{ flex:1; height:9px; background:#e5e7eb; border-radius:99px; overflow:hidden; }} .fill {{ height:100%; background:var(--accent); }}
-    .badge {{ display:inline-block; margin:0 6px 6px 0; padding:3px 8px; border-radius:999px; background:#e0f2fe; color:#075985; font-size:12px; }}
+    .badge, .risk-badge, .confidence-badge {{ display:inline-block; margin:0 6px 6px 0; padding:3px 8px; border-radius:999px; font-size:12px; font-weight:700; }}
+    .badge {{ background:#e0f2fe; color:#075985; }}
+    .risk-low {{ background:#dcfce7; color:#166534; }} .risk-medium {{ background:#fef3c7; color:#92400e; }} .risk-high {{ background:#fee2e2; color:#991b1b; }}
+    .confidence-high {{ background:#ecfdf5; color:#047857; }} .confidence-medium {{ background:#eef2ff; color:#4338ca; }} .confidence-low {{ background:#f3f4f6; color:#374151; }}
     .split {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:14px; }}
     .panel {{ padding:16px; }} .panel ul {{ margin:0; padding-left:18px; }} .archive li {{ margin:0 0 8px; }}
     a {{ color:var(--blue); text-decoration:none; }} a:hover {{ text-decoration:underline; }}
@@ -125,7 +170,9 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
       <div class="kpi"><span>Total scanned today</span><strong>{run.repos_discovered}</strong></div>
       <div class="kpi"><span>Total selected today</span><strong>{selected}</strong></div>
       <div class="kpi"><span>Project cards</span><strong>{total}</strong></div>
-      <div class="kpi"><span>Risk flagged</span><strong>{risk_count}</strong></div>
+      <div class="kpi"><span>Low risk</span><strong>{risk_counts["Low"]}</strong></div>
+      <div class="kpi"><span>Medium risk</span><strong>{risk_counts["Medium"]}</strong></div>
+      <div class="kpi"><span>High risk</span><strong>{risk_counts["High"]}</strong></div>
     </section>
     <section class="controls panel">
       <label>Search <input id="search" type="search" placeholder="Repo, topic, summary"></label>
@@ -135,7 +182,7 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
       <label>Date <select id="date">{date_options}</select></label>
       <label>Language <select id="language">{language_options}</select></label>
       <label>Action <select id="action">{action_options}</select></label>
-      <label>Risk <select id="risk"><option value="all">All risk states</option><option value="none">No risk flags</option><option value="flagged">Has risk flags</option></select></label>
+      <label>Risk <select id="risk"><option value="all">All risk states</option><option value="low">Low risk</option><option value="medium">Medium risk</option><option value="high">High risk</option><option value="none">No risk flags</option><option value="flagged">Has risk flags</option></select></label>
     </section>
     <h2>Top Projects</h2>
     <section id="cards" class="grid"></section>
@@ -167,10 +214,13 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
     function searchableText(p) {{
       return [p.full_name, p.one_sentence_summary, p.why_it_matters, p.language, p.recommended_action, (p.topics || []).join(' '), (p.evidence || []).join(' '), (p.risk_flags || []).join(' ')].map(normalize).join(' ');
     }}
+    function riskSeverityClass(p) {{ return normalize(p.dashboard_risk_severity || 'Low'); }}
+    function confidenceClass(p) {{ return normalize(p.dashboard_confidence_label || 'Low'); }}
     function matchesRisk(p, selectedRisk) {{
       const riskFlags = p.risk_flags || [];
       if (selectedRisk === 'none') return riskFlags.length === 0;
       if (selectedRisk === 'flagged') return riskFlags.length > 0;
+      if (['low', 'medium', 'high'].includes(selectedRisk)) return riskSeverityClass(p) === selectedRisk;
       return true;
     }}
     function render() {{
@@ -196,13 +246,13 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
         <article class="card">
           <h3><a href="${{p.html_url}}">${{p.full_name}}</a></h3>
           <p>${{p.one_sentence_summary}}</p>
-          <div>${{(p.audience_tags || []).map(a => `<span class="badge">${{a.replace('_', ' ')}}</span>`).join('')}}</div>
+          <div>${{(p.audience_tags || []).map(a => `<span class="badge">${{a.replace('_', ' ')}}</span>`).join('')}}<span class="risk-badge risk-${{riskSeverityClass(p)}}">${{p.dashboard_risk_severity}} risk</span><span class="confidence-badge confidence-${{confidenceClass(p)}}">${{p.dashboard_confidence_label}} confidence</span></div>
           <div class="score"><strong>${{p.overall_insight_score.toFixed(2)}}</strong><div class="bar"><div class="fill" style="width:${{p.overall_insight_score}}%"></div></div></div>
           <p class="meta">${{p.language}} | stars ${{p.stars}} | forks ${{p.forks}} | issues ${{p.open_issues}} | license ${{p.license}}</p>
           <p><strong>Action:</strong> ${{p.recommended_action}}</p>
           <p><strong>Portfolio:</strong> ${{p.portfolio_project_idea}}</p>
-          <p class="evidence"><strong>Evidence:</strong> ${{(p.evidence || []).slice(0,3).join('; ')}}</p>
-          <p class="risk"><strong>Risk:</strong> ${{(p.risk_flags && p.risk_flags.length) ? p.risk_flags.join(', ') : 'No major risk flag from collected evidence.'}}</p>
+          <p class="evidence"><strong>Key evidence:</strong> ${{p.dashboard_evidence_summary}}</p>
+          <p class="risk"><strong>Caveat:</strong> ${{p.dashboard_caveat_summary}}</p>
         </article>`).join('');
     }}
     search.addEventListener('input', render);
