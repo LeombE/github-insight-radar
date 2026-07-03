@@ -22,7 +22,7 @@
     .controls { display:flex; flex-wrap:wrap; gap:10px; align-items:center; padding:14px; margin:18px 0; }
     select, input { border:1px solid var(--line); border-radius:6px; padding:8px 10px; background:#fff; color:var(--ink); }
     .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(310px,1fr)); gap:14px; }
-    .card { padding:16px; } .card h3 { margin:0 0 8px; font-size:17px; overflow-wrap:anywhere; }
+    .card { padding:18px; display:grid; gap:10px; } .card h3 { margin:0 0 8px; font-size:17px; overflow-wrap:anywhere; } .card p { margin:0; } .score strong { font-size:22px; color:var(--accent); }
     .meta, .risk, .evidence { color:var(--muted); font-size:13px; }
     .score { display:flex; align-items:center; gap:8px; margin:10px 0; } .bar { flex:1; height:9px; background:#e5e7eb; border-radius:99px; overflow:hidden; } .fill { height:100%; background:var(--accent); }
     .badge { display:inline-block; margin:0 6px 6px 0; padding:3px 8px; border-radius:999px; background:#e0f2fe; color:#075985; font-size:12px; }
@@ -49,6 +49,7 @@
     <section class="controls panel">
       <label>Audience <select id="audience"><option value="all">All</option><option value="general_user">General users</option><option value="data_analyst">Data analysts</option><option value="data_scientist">Data scientists</option></select></label>
       <label>Minimum score <input id="score" type="range" min="0" max="100" value="0"><span id="scoreValue">0</span></label>
+      <label>Display <select id="displayLimit"><option value="20" selected>Top 20</option><option value="50">Top 50</option><option value="100">Top 100</option><option value="all">All</option></select></label>
       <label>Date <select id="date"><option value="2026-07-03">2026-07-03</option></select></label>
     </section>
     <h2>Top Projects</h2>
@@ -59,7 +60,7 @@
       <div class="panel"><h3>Topics</h3><ul><li><span>ai</span><strong>35</strong></li><li><span>automation</span><strong>33</strong></li><li><span>cli</span><strong>32</strong></li><li><span>agent</span><strong>30</strong></li><li><span>ai-agents</span><strong>26</strong></li><li><span>dashboard</span><strong>25</strong></li><li><span>data-analysis</span><strong>24</strong></li><li><span>anthropic</span><strong>19</strong></li><li><span>claude</span><strong>16</strong></li><li><span>data-visualization</span><strong>15</strong></li></ul></div>
     </section>
     <h2>Archive</h2>
-    <section class="panel archive"><ul><li><a href='../reports/daily/2026-07-03-daily-brief.md'>2026-07-03</a> <span>2026-07-02T18:46:28+00:00</span> <strong>jeremylongshore/claude-code-plugins-plus-skills</strong></li><li><a href='../reports/daily/2026-07-03-daily-brief.md'>2026-07-03</a> <span>2026-07-02T18:03:28+00:00</span> <strong>apache/airflow</strong></li><li><a href='../reports/daily/2026-07-02-daily-brief.md'>2026-07-02</a> <span>2026-07-02T12:33:04+00:00</span> <strong>apache/airflow</strong></li><li><a href='../reports/daily/2026-07-02-daily-brief.md'>2026-07-02</a> <span>2026-07-02T00:00:00+08:00</span> <strong>sample-org/analytics-dashboard-starter</strong></li></ul></section>
+    <section class="panel archive"><ul><li><a href='../reports/daily/2026-07-03-daily-brief.md'>2026-07-03</a> <span>2026-07-02T18:46:28+00:00</span> <strong>jeremylongshore/claude-code-plugins-plus-skills</strong></li><li><a href='../reports/daily/2026-07-03-daily-brief.md'>2026-07-03</a> <span>2026-07-02T18:03:28+00:00</span> <strong>apache/airflow</strong></li><li><a href='../reports/daily/2026-07-02-daily-brief.md'>2026-07-02</a> <span>2026-07-02T12:33:04+00:00</span> <strong>apache/airflow</strong></li></ul></section>
     <h2>Methodology</h2>
     <section class="panel"><p>Scores combine usefulness, momentum, audience fit, maintenance, README quality, reproducibility, data/demo signals, and risk. Metadata and README evidence are treated cautiously; this dashboard is an intelligence aid, not a definitive ranking.</p></section>
   </main>
@@ -71,15 +72,17 @@
     const audience = document.getElementById('audience');
     const score = document.getElementById('score');
     const scoreValue = document.getElementById('scoreValue');
+    const displayLimit = document.getElementById('displayLimit');
     function render() {
       scoreValue.textContent = score.value;
       const minScore = Number(score.value);
       const selectedAudience = audience.value;
       const filtered = projects
         .filter(p => p.overall_insight_score >= minScore)
-        .filter(p => selectedAudience === 'all' || p.primary_audience === selectedAudience || (p.audience_tags || []).includes(selectedAudience))
-        .slice(0, 30);
-      cards.innerHTML = filtered.map(p => `
+        .filter(p => selectedAudience === 'all' || p.primary_audience === selectedAudience || (p.audience_tags || []).includes(selectedAudience));
+      const limit = displayLimit.value === 'all' ? filtered.length : Number(displayLimit.value);
+      const visible = filtered.slice(0, limit);
+      cards.innerHTML = visible.map(p => `
         <article class="card">
           <h3><a href="${p.html_url}">${p.full_name}</a></h3>
           <p>${p.one_sentence_summary}</p>
@@ -92,7 +95,10 @@
           <p class="risk"><strong>Risk:</strong> ${(p.risk_flags && p.risk_flags.length) ? p.risk_flags.join(', ') : 'No major risk flag from collected evidence.'}</p>
         </article>`).join('');
     }
-    audience.addEventListener('change', render); score.addEventListener('input', render); render();
+    audience.addEventListener('change', render);
+    score.addEventListener('input', render);
+    displayLimit.addEventListener('change', render);
+    render();
   </script>
 </body>
 </html>
