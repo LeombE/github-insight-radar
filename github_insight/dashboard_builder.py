@@ -128,42 +128,68 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>GitHub Daily Intelligence Dashboard</title>
   <style>
-    :root {{ --ink:#111827; --muted:#4b5563; --line:#d1d5db; --page:#f9fafb; --panel:#fff; --accent:#0f766e; --blue:#2563eb; --amber:#b45309; }}
+    :root {{ --ink:#111827; --muted:#4b5563; --muted-soft:#6b7280; --line:#d1d5db; --line-soft:#e5e7eb; --page:#f8fafc; --panel:#fff; --accent:#0f766e; --accent-soft:#ccfbf1; --blue:#2563eb; --blue-soft:#dbeafe; --shadow:0 1px 2px rgba(15,23,42,.06); }}
     * {{ box-sizing:border-box; }}
     body {{ margin:0; font-family:Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color:var(--ink); background:var(--page); line-height:1.5; }}
-    header {{ padding:32px clamp(18px,5vw,64px); background:#fff; border-bottom:1px solid var(--line); }}
-    h1 {{ margin:0 0 8px; font-size:clamp(28px,4vw,46px); letter-spacing:0; }}
-    h2 {{ margin:28px 0 12px; font-size:22px; }}
-    .header-row {{ display:flex; flex-wrap:wrap; align-items:center; gap:10px; }}
-    .mode-badge {{ display:inline-flex; align-items:center; padding:6px 10px; border-radius:999px; color:#fff; font-size:12px; font-weight:700; letter-spacing:0.02em; }}
+    header {{ padding:30px clamp(18px,5vw,64px); background:#fff; border-bottom:1px solid var(--line); }}
+    h1 {{ margin:0; font-size:clamp(28px,4vw,44px); letter-spacing:0; line-height:1.05; }}
+    h2 {{ margin:30px 0 12px; font-size:21px; line-height:1.2; }}
+    h3 {{ line-height:1.25; }}
+    .header-row {{ display:flex; flex-wrap:wrap; align-items:flex-start; justify-content:space-between; gap:16px; }}
+    .title-block {{ display:grid; gap:8px; min-width:min(100%,520px); }}
+    .mode-badge {{ display:inline-flex; align-items:center; min-height:30px; padding:6px 11px; border-radius:999px; color:#fff; font-size:12px; font-weight:800; letter-spacing:0.04em; }}
     .mode-live {{ background:#15803d; }} .mode-mock {{ background:#6d28d9; }}
     .subtle {{ color:var(--muted); margin:0; }}
     main {{ padding:24px clamp(18px,5vw,64px) 56px; }}
-    .kpis {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(160px,1fr)); gap:12px; margin-bottom:18px; }}
+    .kpis {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(160px,1fr)); gap:12px; margin-bottom:20px; }}
     .kpi, .panel, .card {{ background:var(--panel); border:1px solid var(--line); border-radius:8px; }}
-    .kpi {{ padding:16px; }} .kpi span {{ color:var(--muted); font-size:13px; }} .kpi strong {{ display:block; font-size:26px; margin-top:4px; }}
-    .controls {{ display:flex; flex-wrap:wrap; gap:10px; align-items:center; padding:14px; margin:18px 0; }}
-    select, input {{ border:1px solid var(--line); border-radius:6px; padding:8px 10px; background:#fff; color:var(--ink); }}
-    .grid {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(310px,1fr)); gap:14px; }}
-    .card {{ padding:18px; display:grid; gap:10px; }} .card h3 {{ margin:0 0 8px; font-size:17px; overflow-wrap:anywhere; }} .card p {{ margin:0; }} .score strong {{ font-size:22px; color:var(--accent); }}
-    .meta, .risk, .evidence {{ color:var(--muted); font-size:13px; }}
-    .score {{ display:flex; align-items:center; gap:8px; margin:10px 0; }} .bar {{ flex:1; height:9px; background:#e5e7eb; border-radius:99px; overflow:hidden; }} .fill {{ height:100%; background:var(--accent); }}
-    .badge, .risk-badge, .confidence-badge {{ display:inline-block; margin:0 6px 6px 0; padding:3px 8px; border-radius:999px; font-size:12px; font-weight:700; }}
+    .kpi {{ min-height:92px; padding:15px 16px; border-top:3px solid var(--accent); box-shadow:var(--shadow); }}
+    .kpi span {{ color:var(--muted); font-size:12px; font-weight:800; letter-spacing:0.04em; text-transform:uppercase; }}
+    .kpi strong {{ display:block; font-size:30px; line-height:1; margin-top:12px; }}
+    .controls {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(180px,1fr)); gap:12px; align-items:end; padding:16px; margin:18px 0 22px; box-shadow:var(--shadow); }}
+    .controls label {{ display:grid; gap:6px; color:var(--muted); font-size:12px; font-weight:800; letter-spacing:0.03em; text-transform:uppercase; }}
+    select, input {{ width:100%; border:1px solid var(--line); border-radius:6px; padding:9px 10px; background:#fff; color:var(--ink); font:inherit; }}
+    .grid {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:16px; }}
+    .card {{ padding:0; overflow:hidden; box-shadow:var(--shadow); }}
+    .card-main {{ padding:18px; display:grid; gap:13px; }}
+    .card-head {{ display:grid; grid-template-columns:minmax(0,1fr) auto; gap:14px; align-items:start; }}
+    .card h3 {{ margin:0; font-size:18px; overflow-wrap:anywhere; }}
+    .card p {{ margin:0; }}
+    .summary {{ color:#1f2937; font-size:14px; }}
+    .score-lockup {{ min-width:86px; text-align:right; padding:8px 10px; background:#f0fdfa; border:1px solid #99f6e4; border-radius:8px; }}
+    .score-lockup span {{ display:block; color:var(--muted); font-size:11px; font-weight:800; letter-spacing:0.04em; text-transform:uppercase; }}
+    .score-lockup strong {{ display:block; color:var(--accent); font-size:25px; line-height:1.05; }}
+    .badge-strip {{ display:flex; flex-wrap:wrap; gap:6px; align-items:center; }}
+    .score {{ display:flex; align-items:center; gap:8px; margin:0; }}
+    .bar {{ flex:1; height:9px; background:#e5e7eb; border-radius:99px; overflow:hidden; }} .fill {{ height:100%; background:var(--accent); }}
+    .meta-grid {{ display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:8px 12px; padding-top:2px; }}
+    .meta-item {{ min-width:0; color:var(--ink); font-size:13px; }}
+    .meta-item span {{ display:block; color:var(--muted-soft); font-size:11px; font-weight:800; letter-spacing:0.03em; text-transform:uppercase; }}
+    .action-callout {{ padding-top:12px; border-top:1px solid var(--line-soft); }}
+    .action-label {{ display:inline-flex; margin-bottom:6px; padding:3px 7px; border-radius:6px; background:var(--blue-soft); color:#1d4ed8; font-size:12px; font-weight:800; }}
+    .portfolio-idea {{ color:#1f2937; font-size:14px; }}
+    .insight-grid {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:12px; padding-top:12px; border-top:1px solid var(--line-soft); }}
+    .evidence, .risk {{ color:var(--muted); font-size:13px; }}
+    .evidence strong, .risk strong {{ display:block; color:var(--ink); margin-bottom:3px; }}
+    .badge, .risk-badge, .confidence-badge {{ display:inline-block; margin:0; padding:4px 8px; border-radius:999px; font-size:12px; font-weight:800; }}
     .badge {{ background:#e0f2fe; color:#075985; }}
     .risk-low {{ background:#dcfce7; color:#166534; }} .risk-medium {{ background:#fef3c7; color:#92400e; }} .risk-high {{ background:#fee2e2; color:#991b1b; }}
     .confidence-high {{ background:#ecfdf5; color:#047857; }} .confidence-medium {{ background:#eef2ff; color:#4338ca; }} .confidence-low {{ background:#f3f4f6; color:#374151; }}
     .split {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:14px; }}
     .panel {{ padding:16px; }} .panel ul {{ margin:0; padding-left:18px; }} .archive li {{ margin:0 0 8px; }}
     a {{ color:var(--blue); text-decoration:none; }} a:hover {{ text-decoration:underline; }}
+    @media (max-width:640px) {{ .card-head {{ grid-template-columns:1fr; }} .score-lockup {{ text-align:left; width:max-content; }} .meta-grid {{ grid-template-columns:1fr; }} }}
   </style>
 </head>
 <body>
   <header>
     <div class="header-row">
-      <h1>GitHub Daily Intelligence</h1>
+      <div class="title-block">
+        <h1>GitHub Daily Intelligence</h1>
+        <p class="subtle">Generated at {html.escape(run.generated_at)} | Archive ordered by generated_at</p>
+      </div>
       <span class="mode-badge {mode_class}">{mode_label}</span>
     </div>
-    <p class="subtle">Generated at {html.escape(run.generated_at)} | Archive ordered by generated_at</p>
   </header>
   <main>
     <section class="kpis">
@@ -244,15 +270,28 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
       const visible = filtered.slice(0, limit);
       cards.innerHTML = visible.map(p => `
         <article class="card">
-          <h3><a href="${{p.html_url}}">${{p.full_name}}</a></h3>
-          <p>${{p.one_sentence_summary}}</p>
-          <div>${{(p.audience_tags || []).map(a => `<span class="badge">${{a.replace('_', ' ')}}</span>`).join('')}}<span class="risk-badge risk-${{riskSeverityClass(p)}}">${{p.dashboard_risk_severity}} risk</span><span class="confidence-badge confidence-${{confidenceClass(p)}}">${{p.dashboard_confidence_label}} confidence</span></div>
-          <div class="score"><strong>${{p.overall_insight_score.toFixed(2)}}</strong><div class="bar"><div class="fill" style="width:${{p.overall_insight_score}}%"></div></div></div>
-          <p class="meta">${{p.language}} | stars ${{p.stars}} | forks ${{p.forks}} | issues ${{p.open_issues}} | license ${{p.license}}</p>
-          <p><strong>Action:</strong> ${{p.recommended_action}}</p>
-          <p><strong>Portfolio:</strong> ${{p.portfolio_project_idea}}</p>
-          <p class="evidence"><strong>Key evidence:</strong> ${{p.dashboard_evidence_summary}}</p>
-          <p class="risk"><strong>Caveat:</strong> ${{p.dashboard_caveat_summary}}</p>
+          <div class="card-main">
+            <div class="card-head">
+              <div>
+                <h3><a href="${{p.html_url}}">${{p.full_name}}</a></h3>
+                <p class="summary">${{p.one_sentence_summary}}</p>
+              </div>
+              <div class="score-lockup"><span>Score</span><strong>${{p.overall_insight_score.toFixed(2)}}</strong></div>
+            </div>
+            <div class="badge-strip">${{(p.audience_tags || []).map(a => `<span class="badge">${{a.replace('_', ' ')}}</span>`).join('')}}<span class="risk-badge risk-${{riskSeverityClass(p)}}">${{p.dashboard_risk_severity}} risk</span><span class="confidence-badge confidence-${{confidenceClass(p)}}">${{p.dashboard_confidence_label}} confidence</span></div>
+            <div class="score"><div class="bar"><div class="fill" style="width:${{p.overall_insight_score}}%"></div></div></div>
+            <div class="meta-grid">
+              <div class="meta-item"><span>Language</span>${{p.language}}</div>
+              <div class="meta-item"><span>License</span>${{p.license}}</div>
+              <div class="meta-item"><span>Stars / Forks</span>${{p.stars}} / ${{p.forks}}</div>
+              <div class="meta-item"><span>Open issues</span>${{p.open_issues}}</div>
+            </div>
+            <div class="action-callout"><span class="action-label">Action: ${{p.recommended_action}}</span><p class="portfolio-idea">${{p.portfolio_project_idea}}</p></div>
+            <div class="insight-grid">
+              <p class="evidence"><strong>Key evidence:</strong> ${{p.dashboard_evidence_summary}}</p>
+              <p class="risk"><strong>Caveat:</strong> ${{p.dashboard_caveat_summary}}</p>
+            </div>
+          </div>
         </article>`).join('');
     }}
     search.addEventListener('input', render);

@@ -36,6 +36,11 @@ def test_dashboard_rebuild_from_latest_json(tmp_path):
     assert "dashboard_caveat_summary" in html
     assert "risk-badge" in html
     assert "confidence-badge" in html
+    assert "card-head" in html
+    assert "score-lockup" in html
+    assert "meta-grid" in html
+    assert "action-callout" in html
+    assert "insight-grid" in html
     assert "Key evidence:" in html
     assert "Caveat:" in html
     assert "riskSeverityClass" in html
