@@ -16,6 +16,23 @@ def _json(records: list[InsightRecord], run: RunMetadata) -> str:
     return json.dumps({"run": run.to_dict(), "projects": [record.to_dict() for record in records]}, ensure_ascii=False)
 
 
+def _archive_mode(item) -> str:
+    mode = str(item.get("mode") or "").strip().lower()
+    if mode in {"live", "mock"}:
+        return mode
+    return "unknown"
+
+
+def _is_default_live_archive_entry(item) -> bool:
+    if _archive_mode(item) != "live":
+        return False
+    run_id = str(item.get("run_id") or "").strip().lower()
+    if run_id:
+        return run_id.startswith("live-")
+    top_project = str(item.get("top_project") or "").strip().lower()
+    return not top_project.startswith("sample-org/")
+
+
 def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[InsightRecord]) -> Path:
     path = output_root / "docs" / "index.html"
     total = len(records)
@@ -36,10 +53,11 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
         f"<li><span>{html.escape(topic)}</span><strong>{count}</strong></li>"
         for topic, count in topic_counts.most_common(10)
     )
+    live_archive = [item for item in archive if _is_default_live_archive_entry(item)]
     archive_rows = "".join(
         f"<li><a href='../{html.escape(item.get('daily_brief_path', '#'))}'>{html.escape(item.get('date', 'unknown'))}</a> "
         f"<span>{html.escape(item.get('generated_at', ''))}</span> <strong>{html.escape(item.get('top_project', 'unavailable'))}</strong></li>"
-        for item in archive[:20]
+        for item in live_archive[:20]
     )
     mode_label = html.escape(f"{run.mode.upper()} RUN")
     mode_class = "mode-live" if run.mode == "live" else "mode-mock"
@@ -67,7 +85,7 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
     .controls {{ display:flex; flex-wrap:wrap; gap:10px; align-items:center; padding:14px; margin:18px 0; }}
     select, input {{ border:1px solid var(--line); border-radius:6px; padding:8px 10px; background:#fff; color:var(--ink); }}
     .grid {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(310px,1fr)); gap:14px; }}
-    .card {{ padding:16px; }} .card h3 {{ margin:0 0 8px; font-size:17px; overflow-wrap:anywhere; }}
+    .card {{ padding:18px; display:grid; gap:10px; }} .card h3 {{ margin:0 0 8px; font-size:17px; overflow-wrap:anywhere; }} .card p {{ margin:0; }} .score strong {{ font-size:22px; color:var(--accent); }}
     .meta, .risk, .evidence {{ color:var(--muted); font-size:13px; }}
     .score {{ display:flex; align-items:center; gap:8px; margin:10px 0; }} .bar {{ flex:1; height:9px; background:#e5e7eb; border-radius:99px; overflow:hidden; }} .fill {{ height:100%; background:var(--accent); }}
     .badge {{ display:inline-block; margin:0 6px 6px 0; padding:3px 8px; border-radius:999px; background:#e0f2fe; color:#075985; font-size:12px; }}
@@ -94,6 +112,7 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
     <section class="controls panel">
       <label>Audience <select id="audience"><option value="all">All</option><option value="general_user">General users</option><option value="data_analyst">Data analysts</option><option value="data_scientist">Data scientists</option></select></label>
       <label>Minimum score <input id="score" type="range" min="0" max="100" value="0"><span id="scoreValue">0</span></label>
+      <label>Display <select id="displayLimit"><option value="20" selected>Top 20</option><option value="50">Top 50</option><option value="100">Top 100</option><option value="all">All</option></select></label>
       <label>Date <select id="date"><option value="{html.escape(run.date)}">{html.escape(run.date)}</option></select></label>
     </section>
     <h2>Top Projects</h2>
@@ -116,15 +135,17 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
     const audience = document.getElementById('audience');
     const score = document.getElementById('score');
     const scoreValue = document.getElementById('scoreValue');
+    const displayLimit = document.getElementById('displayLimit');
     function render() {{
       scoreValue.textContent = score.value;
       const minScore = Number(score.value);
       const selectedAudience = audience.value;
       const filtered = projects
         .filter(p => p.overall_insight_score >= minScore)
-        .filter(p => selectedAudience === 'all' || p.primary_audience === selectedAudience || (p.audience_tags || []).includes(selectedAudience))
-        .slice(0, 30);
-      cards.innerHTML = filtered.map(p => `
+        .filter(p => selectedAudience === 'all' || p.primary_audience === selectedAudience || (p.audience_tags || []).includes(selectedAudience));
+      const limit = displayLimit.value === 'all' ? filtered.length : Number(displayLimit.value);
+      const visible = filtered.slice(0, limit);
+      cards.innerHTML = visible.map(p => `
         <article class="card">
           <h3><a href="${{p.html_url}}">${{p.full_name}}</a></h3>
           <p>${{p.one_sentence_summary}}</p>
@@ -137,7 +158,10 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
           <p class="risk"><strong>Risk:</strong> ${{(p.risk_flags && p.risk_flags.length) ? p.risk_flags.join(', ') : 'No major risk flag from collected evidence.'}}</p>
         </article>`).join('');
     }}
-    audience.addEventListener('change', render); score.addEventListener('input', render); render();
+    audience.addEventListener('change', render);
+    score.addEventListener('input', render);
+    displayLimit.addEventListener('change', render);
+    render();
   </script>
 </body>
 </html>
