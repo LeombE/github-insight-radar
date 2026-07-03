@@ -19,6 +19,22 @@ def test_dashboard_rebuild_from_latest_json(tmp_path):
     assert '<option value="50">Top 50</option>' in html
     assert '<option value="100">Top 100</option>' in html
     assert '<option value="all">All</option>' in html
+    assert 'id="search"' in html
+    assert 'id="language"' in html
+    assert 'id="action"' in html
+    assert 'id="risk"' in html
+    assert "All languages" in html
+    assert "All actions" in html
+    assert "Has risk flags" in html
+    assert "searchableText" in html
+    assert "matchesRisk" in html
+    assert "selectedLanguage" in html
+    assert "selectedAction" in html
+    assert "selectedRisk" in html
+    assert "search.addEventListener('input', render)" in html
+    assert "language.addEventListener('change', render)" in html
+    assert "action.addEventListener('change', render)" in html
+    assert "risk.addEventListener('change', render)" in html
     assert "filtered.slice(0, limit)" in html
     assert ".slice(0, 30)" not in html
     assert "No archive entries yet." in html

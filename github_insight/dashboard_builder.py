@@ -33,6 +33,15 @@ def _is_default_live_archive_entry(item) -> bool:
     return not top_project.startswith("sample-org/")
 
 
+def _option_rows(values, all_label: str = "All") -> str:
+    cleaned = sorted({str(value).strip() for value in values if str(value).strip()}, key=str.lower)
+    rows = [f'<option value="all">{html.escape(all_label)}</option>']
+    rows.extend(
+        f'<option value="{html.escape(value, quote=True)}">{html.escape(value)}</option>'
+        for value in cleaned
+    )
+    return "".join(rows)
+
 def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[InsightRecord]) -> Path:
     path = output_root / "docs" / "index.html"
     total = len(records)
@@ -44,6 +53,15 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
     archive = []
     if archive_path.exists():
         archive = json.loads(archive_path.read_text(encoding="utf-8"))
+    date_options = _option_rows([record.date for record in records], all_label="All dates")
+    language_options = _option_rows(
+        [record.language for record in records if record.language != "unavailable"],
+        all_label="All languages",
+    )
+    action_options = _option_rows(
+        [record.recommended_action for record in records],
+        all_label="All actions",
+    )
     data_json = _json(records, run)
     language_rows = "".join(
         f"<li><span>{html.escape(language)}</span><strong>{count}</strong></li>"
@@ -110,10 +128,14 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
       <div class="kpi"><span>Risk flagged</span><strong>{risk_count}</strong></div>
     </section>
     <section class="controls panel">
-      <label>Audience <select id="audience"><option value="all">All</option><option value="general_user">General users</option><option value="data_analyst">Data analysts</option><option value="data_scientist">Data scientists</option></select></label>
+      <label>Search <input id="search" type="search" placeholder="Repo, topic, summary"></label>
+      <label>Audience <select id="audience"><option value="all">All audiences</option><option value="general_user">General users</option><option value="data_analyst">Data analysts</option><option value="data_scientist">Data scientists</option></select></label>
       <label>Minimum score <input id="score" type="range" min="0" max="100" value="0"><span id="scoreValue">0</span></label>
       <label>Display <select id="displayLimit"><option value="20" selected>Top 20</option><option value="50">Top 50</option><option value="100">Top 100</option><option value="all">All</option></select></label>
-      <label>Date <select id="date"><option value="{html.escape(run.date)}">{html.escape(run.date)}</option></select></label>
+      <label>Date <select id="date">{date_options}</select></label>
+      <label>Language <select id="language">{language_options}</select></label>
+      <label>Action <select id="action">{action_options}</select></label>
+      <label>Risk <select id="risk"><option value="all">All risk states</option><option value="none">No risk flags</option><option value="flagged">Has risk flags</option></select></label>
     </section>
     <h2>Top Projects</h2>
     <section id="cards" class="grid"></section>
@@ -132,17 +154,42 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
     const payload = JSON.parse(document.getElementById('payload').textContent);
     const projects = payload.projects;
     const cards = document.getElementById('cards');
+    const search = document.getElementById('search');
     const audience = document.getElementById('audience');
     const score = document.getElementById('score');
     const scoreValue = document.getElementById('scoreValue');
     const displayLimit = document.getElementById('displayLimit');
+    const date = document.getElementById('date');
+    const language = document.getElementById('language');
+    const action = document.getElementById('action');
+    const risk = document.getElementById('risk');
+    function normalize(value) {{ return (value || '').toString().toLowerCase(); }}
+    function searchableText(p) {{
+      return [p.full_name, p.one_sentence_summary, p.why_it_matters, p.language, p.recommended_action, (p.topics || []).join(' '), (p.evidence || []).join(' '), (p.risk_flags || []).join(' ')].map(normalize).join(' ');
+    }}
+    function matchesRisk(p, selectedRisk) {{
+      const riskFlags = p.risk_flags || [];
+      if (selectedRisk === 'none') return riskFlags.length === 0;
+      if (selectedRisk === 'flagged') return riskFlags.length > 0;
+      return true;
+    }}
     function render() {{
       scoreValue.textContent = score.value;
       const minScore = Number(score.value);
       const selectedAudience = audience.value;
+      const selectedDate = date.value;
+      const selectedLanguage = language.value;
+      const selectedAction = action.value;
+      const selectedRisk = risk.value;
+      const query = normalize(search.value).trim();
       const filtered = projects
         .filter(p => p.overall_insight_score >= minScore)
-        .filter(p => selectedAudience === 'all' || p.primary_audience === selectedAudience || (p.audience_tags || []).includes(selectedAudience));
+        .filter(p => selectedAudience === 'all' || p.primary_audience === selectedAudience || (p.audience_tags || []).includes(selectedAudience))
+        .filter(p => selectedDate === 'all' || p.date === selectedDate)
+        .filter(p => selectedLanguage === 'all' || p.language === selectedLanguage)
+        .filter(p => selectedAction === 'all' || p.recommended_action === selectedAction)
+        .filter(p => matchesRisk(p, selectedRisk))
+        .filter(p => !query || searchableText(p).includes(query));
       const limit = displayLimit.value === 'all' ? filtered.length : Number(displayLimit.value);
       const visible = filtered.slice(0, limit);
       cards.innerHTML = visible.map(p => `
@@ -158,9 +205,14 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
           <p class="risk"><strong>Risk:</strong> ${{(p.risk_flags && p.risk_flags.length) ? p.risk_flags.join(', ') : 'No major risk flag from collected evidence.'}}</p>
         </article>`).join('');
     }}
+    search.addEventListener('input', render);
     audience.addEventListener('change', render);
     score.addEventListener('input', render);
     displayLimit.addEventListener('change', render);
+    date.addEventListener('change', render);
+    language.addEventListener('change', render);
+    action.addEventListener('change', render);
+    risk.addEventListener('change', render);
     render();
   </script>
 </body>
