@@ -1,17 +1,16 @@
 # Deployment Guide
 
-This guide covers local operation, GitHub Actions automation, and GitHub Pages publishing for GitHub Insight.
+This guide covers local runs, GitHub Actions, GitHub Pages, and the mock/live safety guard.
 
-## Local Installation
+## Install
 
 ```powershell
-cd "C:\Users\Admin\OneDrive\Documents\Github Insight"
 python -m pip install -e ".[dev]"
 ```
 
-## Safe Offline Mock Preview
+## Offline Mock Run
 
-Mock mode is deterministic and fully offline. By default, it writes to an isolated preview root so production GitHub Pages files are not overwritten.
+Mock mode is deterministic and does not need network access. By default it writes to a preview output root, not production dashboard files.
 
 ```powershell
 python -m github_insight.cli run --mock
@@ -19,24 +18,22 @@ python -m github_insight.cli --output-root .pytest-tmp/mock-run dashboard
 python -m github_insight.cli --output-root .pytest-tmp/mock-run validate
 ```
 
-Expected preview root:
+Expected preview folder:
 
 ```text
 .pytest-tmp/mock-run/
 ```
 
-Only publish mock data intentionally with one of these controls:
+Only publish mock data intentionally:
 
 ```powershell
 python -m github_insight.cli run --mock --publish-mock
 $env:ALLOW_MOCK_PUBLISH="true"
 ```
 
-Do not use these controls for the production GitHub Pages dashboard unless a mock demo is explicitly intended.
+## Live Run
 
-## Local Live Run
-
-Live mode uses the official GitHub API. A token is optional but recommended.
+Live mode uses the GitHub API. `GH_PAT` is optional but recommended for higher rate limits.
 
 ```powershell
 $env:GH_PAT="your_github_token"
@@ -45,91 +42,66 @@ python -m github_insight.cli dashboard
 python -m github_insight.cli validate
 ```
 
-If live GitHub API collection fails, the CLI fails clearly and does not silently substitute mock fixture data.
+If live collection fails, the command fails clearly and does not silently use mock data.
 
-## Static GitHub Pages Dashboard
+## GitHub Pages
 
-The production static dashboard is generated at:
+The static site is generated in:
 
 ```text
 docs/index.html
 ```
 
-Dashboard data files:
+Dashboard data lives in:
 
 ```text
 docs/data/latest.json
 docs/data/archive_index.json
 ```
 
-The public dashboard is expected at:
+Publish GitHub Pages from the default branch and `/docs` folder.
+
+Public dashboard:
 
 ```text
 https://leombe.github.io/github-insight-radar/
 ```
 
-## GitHub Pages Settings
+## GitHub Actions
 
-1. Push the repository to GitHub.
-2. Open repository settings.
-3. Go to Pages.
-4. Set Source to deploy from a branch.
-5. Select the default branch.
-6. Select `/docs` as the publishing folder.
-7. Save and wait for Pages deployment to complete.
-
-## GitHub Actions Workflows
-
-This repository includes two workflows:
+Workflows:
 
 | Workflow | Purpose |
 | --- | --- |
-| `.github/workflows/ci.yml` | Pull request and push validation. |
-| `.github/workflows/daily_github_insight.yml` | Scheduled/manual daily intelligence run. |
+| `.github/workflows/ci.yml` | Tests and lint checks. |
+| `.github/workflows/daily_github_insight.yml` | Scheduled/manual daily run. |
 
-The daily workflow runs on this schedule:
+The daily workflow runs around 00:17 and 12:17 Malaysia time:
 
 ```yaml
 cron: "17 16,4 * * *"
 ```
 
-That corresponds to approximately 00:17 and 12:17 Malaysia time.
+It installs the package, runs tests, generates live outputs by default, rebuilds the dashboard, validates outputs, and commits generated live files only when they changed.
 
-The daily workflow performs these steps:
+Manual `mock_mode=true` runs use `.pytest-tmp/mock-run` and skip production commits.
 
-1. Checkout repository.
-2. Set up Python 3.11.
-3. Install the package with `python -m pip install -e ".[dev]"`.
-4. Run `python -m pytest`.
-5. Run the live daily pipeline by default.
-6. Rebuild the dashboard.
-7. Validate outputs.
-8. Commit generated live outputs only when files changed.
+## Required Settings
 
-Manual `mock_mode=true` runs write to `.pytest-tmp/mock-run`, rebuild/validate that preview root, and skip production commits.
+- GitHub Actions enabled.
+- Workflow permission allows `contents: write` if generated live outputs should be committed.
+- GitHub Pages publishes from `/docs` on the default branch.
 
-## Required Permissions and Secrets
-
-Repository settings:
-
-- Actions enabled.
-- Workflow permission set to allow `contents: write` if the daily workflow should commit generated live outputs.
-- GitHub Pages configured to publish from `/docs` on the default branch.
-
-Optional secrets and variables:
+Optional:
 
 | Name | Type | Purpose |
 | --- | --- | --- |
-| `GH_PAT` | Secret | Optional GitHub token for higher API limits. |
-| `OPENAI_API_KEY` | Secret | Optional future image/LLM use only. Not required for the core pipeline. |
-| `ENABLE_IMAGE_GENERATION` | Variable | Keep `false` unless intentionally enabling optional images. |
-| `ENABLE_LLM_SUMMARY` | Variable | Keep `false` unless an LLM summary path is intentionally enabled. |
+| `GH_PAT` | Secret | Higher GitHub API limits. |
+| `OPENAI_API_KEY` | Secret | Optional future image/LLM use only. Not required for the core workflow. |
+| `ENABLE_IMAGE_GENERATION` | Variable | Keep `false` unless intentionally testing optional images. |
+| `ENABLE_LLM_SUMMARY` | Variable | Keep `false` unless intentionally enabling an LLM path. |
 
-The workflow also receives GitHub's default `GITHUB_TOKEN` automatically.
-
-## Validation Commands
-
-Run these before publishing or opening a pull request:
+## Validation
 
 ```powershell
 python -m github_insight.cli validate
@@ -137,33 +109,27 @@ python -m pytest
 python -m ruff check github_insight scripts tests
 ```
 
-Use preview-root validation for mock runs:
+For mock preview output:
 
 ```powershell
 python -m github_insight.cli --output-root .pytest-tmp/mock-run validate
 ```
 
-## Production Safety Checklist
+## Production Checklist
 
-Before committing generated dashboard files, verify:
+Before committing dashboard outputs:
 
 - `docs/data/latest.json` has `run.mode` set to `live`.
 - `docs/index.html` contains `LIVE RUN`.
 - `docs/index.html` does not contain old mock repositories such as `sample-org`.
 - No `.env`, token, cookie, credential, or raw private data file is staged.
-- Mock preview files under `.pytest-tmp/` are not committed.
+- `.pytest-tmp/` is not committed.
 
-## Failure Handling
+## Recovery
 
-- Live API failure returns a clear CLI error and does not pretend fixture data is live.
-- Validation warns or fails when production `docs/data/latest.json` contains mock data unless mock publishing is explicitly allowed.
-- Quiet days are valid. The system should not invent trends or repository facts.
+If production docs are generated from the wrong source:
 
-## Rollback and Recovery
-
-If production docs are accidentally generated from the wrong source:
-
-1. Do not commit the bad generated files.
+1. Do not commit the bad files.
 2. Restore from the latest known-good live commit or rerun the live workflow.
 3. Rebuild with `python -m github_insight.cli dashboard` only after confirming `docs/data/latest.json` is live.
 4. Run validation and tests before pushing.

@@ -1,51 +1,71 @@
 # Data Dictionary
 
-This document describes the main generated outputs and fields used by GitHub Insight. Field availability can vary by run mode and by what the GitHub API returns.
+This document describes the main generated files and fields. Availability depends on run mode and on what the GitHub API returns.
 
 ## Run Modes
 
 | Mode | Meaning |
 | --- | --- |
-| `live` | Uses official GitHub API collection and may publish production `docs/` outputs. |
-| `mock` | Uses deterministic offline fixtures. By default it writes to `.pytest-tmp/mock-run` or another preview output root, not production docs. |
+| `live` | Uses the GitHub API and may publish production dashboard outputs. |
+| `mock` | Uses deterministic offline fixtures. By default it writes to a preview folder such as `.pytest-tmp/mock-run`. |
 
-## `docs/data/latest.json`
+## Dashboard Files
 
-Static dashboard source for the latest production run.
+### `docs/data/latest.json`
 
-| Top-level field | Description |
+Source data for the latest dashboard build.
+
+| Field | Description |
 | --- | --- |
-| `run` | Run metadata such as date, mode, status, query count, generated timestamp, and feature flags. |
-| `projects` | List of scored repository records for the dashboard. |
+| `run` | Run metadata: date, mode, status, timestamps, counts, feature flags. |
+| `projects` | Scored repository records used by the dashboard. |
 
-## `docs/data/archive_index.json`
+### `docs/data/archive_index.json`
 
-Archive list for generated daily runs. The dashboard displays live entries by default.
+Archive list for daily runs. The static dashboard displays live entries by default.
 
 | Field | Description |
 | --- | --- |
 | `date` | Report date. |
 | `generated_at` | Timestamp used for archive ordering. |
 | `mode` | `live` or `mock`. |
-| `run_id` | Unique run identifier. |
+| `run_id` | Run identifier. |
 | `daily_brief_path` | Relative path to the daily brief. |
 | `json_path` | Relative path to daily project JSON. |
 | `csv_path` | Relative path to daily project CSV. |
 | `top_project` | Highest-ranked project for the run when available. |
 
-## `data/processed/YYYY-MM-DD-github-insight-projects.csv`
+## Processed Project Records
 
-Date-specific scored repository table.
+Daily CSV:
+
+```text
+data/processed/YYYY-MM-DD-github-insight-projects.csv
+```
+
+Daily JSON:
+
+```text
+data/processed/YYYY-MM-DD-github-insight-projects.json
+```
+
+Master CSV:
+
+```text
+data/processed/github_repos_master.csv
+```
+
+Key fields:
 
 | Field | Description |
 | --- | --- |
-| `date` | Report date assigned to the record. |
-| `rank_today` | Rank within the run after sorting by score, stars, and name. |
+| `date` | Report date. |
+| `rank_today` | Rank in the current run. |
 | `full_name` | Repository owner/name. |
 | `html_url` | GitHub repository URL. |
 | `primary_audience` | Best-fit audience: `general_user`, `data_analyst`, or `data_scientist`. |
 | `audience_tags` | Audiences with meaningful fit. |
-| `overall_insight_score` | Final 0-100 ranking score. |
+| `overall_insight_score` | Final 0-100 sorting score. |
 | `general_user_score` | Audience fit score for general users. |
 | `data_analyst_score` | Audience fit score for data analysts. |
 | `data_scientist_score` | Audience fit score for data scientists. |
@@ -53,69 +73,52 @@ Date-specific scored repository table.
 | `momentum_score` | Recency and popularity component. |
 | `reproducibility_score` | Reproducibility component. |
 | `data_asset_score` | Dataset/demo/notebook/dashboard component. |
-| `dashboard_readiness_score` | Dashboard/demo/data/usage readiness signal. |
+| `dashboard_readiness_score` | Demo/data/usage signal used in dashboard context. |
 | `maintenance_score` | Maintenance and activity component. |
 | `risk_score` | Risk penalty component. |
-| `difficulty_level` | Heuristic difficulty label such as Beginner, Intermediate, Advanced, Research-heavy, or Unknown. |
-| `recommended_action` | Deterministic next action such as Try today, Study for learning, or Skip for now. |
-| `one_sentence_summary` | Concise repository summary using available evidence. |
+| `difficulty_level` | Heuristic difficulty label. |
+| `recommended_action` | Suggested next action. |
+| `one_sentence_summary` | Short generated summary from available evidence. |
 | `why_it_matters` | Audience-oriented explanation. |
-| `portfolio_project_idea` | Suggested portfolio framing. |
-| `evidence` | Evidence bullets stored as a serialized list in CSV. |
-| `risk_flags` | Risk flags stored as a serialized list in CSV. |
+| `portfolio_project_idea` | Suggested project framing. |
+| `evidence` | Evidence bullets; serialized in CSV. |
+| `risk_flags` | Risk flags; serialized in CSV. |
 | `confidence` | High, medium, or low evidence confidence. |
-| `language` | Primary language reported by GitHub. |
-| `topics` | GitHub topics stored as a serialized list in CSV. |
+| `language` | Primary language from GitHub. |
+| `topics` | GitHub topics; serialized in CSV. |
 | `stars` | Stargazer count at collection time. |
 | `forks` | Fork count at collection time. |
 | `open_issues` | Open issue count at collection time. |
 | `license` | SPDX license ID or license name when available. |
 | `pushed_at` | Last push timestamp from GitHub metadata. |
-| `first_seen_date` | First date the repository appeared in local history. |
-| `last_seen_date` | Latest date the repository appeared. |
+| `first_seen_date` | First date seen in local history. |
+| `last_seen_date` | Latest date seen. |
 | `days_seen` | Appearance count from local history. |
-| `rank_previous` | Previous rank when history is available. |
-| `rank_change` | Rank movement when history is available. |
-| `star_delta_since_previous_seen` | Star delta when prior snapshot data is available. |
-| `fork_delta_since_previous_seen` | Fork delta when prior snapshot data is available. |
 | `source_status` | `live_github_api` or `mock_fixture`. |
-| `image_asset_path` | Optional generated or fallback image asset path. |
-| `image_prompt_path` | Optional image metadata/prompt path. |
+| `image_asset_path` | Optional image/fallback asset path. |
+| `image_prompt_path` | Optional image metadata path. |
 
-## `data/processed/YYYY-MM-DD-github-insight-projects.json`
+## Raw Collection Output
 
-Date-specific structured JSON version of the scored repository records. It preserves lists and nested values without CSV serialization.
+```text
+data/raw/YYYY-MM-DD-github-api-raw.json
+```
 
-## `data/processed/github_repos_master.csv`
+This file keeps raw collection context for audit and replay. It can include query payloads, returned items, rate-limit details, and query counts.
 
-Append-friendly master table for scored repository records across runs. It uses the same core fields as the daily processed CSV.
+## SQLite Database
 
-## `data/raw/YYYY-MM-DD-github-api-raw.json`
-
-Raw collection payload for audit and replay context.
-
-| Field | Description |
-| --- | --- |
-| `mode` or source metadata | Indicates live API or mock fixture context when present. |
-| `items` or query payloads | Raw repository objects or fixture records returned by the collector. |
-| `rate_limit_remaining` | GitHub API rate-limit detail when available. |
-| `query_count` | Number of configured queries attempted. |
-
-## `reports/latest/latest-projects.json`
-
-Compact latest project JSON used by reports and downstream review.
-
-## `data/github_insight.sqlite`
-
-SQLite database for durable local storage.
+```text
+data/github_insight.sqlite
+```
 
 | Table | Purpose |
 | --- | --- |
-| `daily_runs` | One row per pipeline run with mode, status, timestamps, counts, and feature flags. |
-| `repo_snapshots` | Raw repository snapshots by run/date. |
-| `repo_enriched` | Enriched README, file, release, reproducibility, and risk signals. |
-| `insight_records` | Final scored repository records. |
-| `visual_assets` | Optional image/fallback metadata records. |
+| `daily_runs` | One row per run. |
+| `repo_snapshots` | Raw repository snapshots. |
+| `repo_enriched` | README/file/release/reproducibility/risk signals. |
+| `insight_records` | Final scored records. |
+| `visual_assets` | Optional image/fallback metadata. |
 
 ## Markdown Reports
 
@@ -125,16 +128,17 @@ SQLite database for durable local storage.
 | `reports/daily/YYYY-MM-DD-general-user.md` | General user view. |
 | `reports/daily/YYYY-MM-DD-data-analyst.md` | Data analyst view. |
 | `reports/daily/YYYY-MM-DD-data-scientist.md` | Data scientist view. |
-| `reports/daily/YYYY-MM-DD-action-list.md` | Practical next actions. |
-| `reports/latest/latest-daily-brief.md` | Copy of the latest daily brief. |
+| `reports/daily/YYYY-MM-DD-action-list.md` | Action list. |
+| `reports/latest/latest-daily-brief.md` | Latest daily brief copy. |
+| `reports/latest/latest-projects.json` | Latest compact project JSON. |
 
-## Dashboard-Only Derived Fields
+## Dashboard-Only Fields
 
-The static dashboard adds display-only fields before embedding JSON into `docs/index.html`:
+These fields are derived for display in `docs/index.html` and do not change scoring:
 
 | Field | Description |
 | --- | --- |
 | `dashboard_risk_severity` | Low, Medium, or High based on `risk_score`. |
-| `dashboard_confidence_label` | High, Medium, or Low display label from `confidence`. |
-| `dashboard_evidence_summary` | Short evidence summary for card display. |
-| `dashboard_caveat_summary` | Short caveat summary from risk flags. |
+| `dashboard_confidence_label` | High, Medium, or Low display label. |
+| `dashboard_evidence_summary` | Short evidence summary. |
+| `dashboard_caveat_summary` | Short risk/caveat summary. |
