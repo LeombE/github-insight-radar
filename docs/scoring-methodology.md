@@ -1,37 +1,37 @@
 # Scoring Methodology
 
-GitHub Insight uses deterministic, explainable scoring to prioritize repositories for practical review. The score is an intelligence aid, not an objective measure of repository quality.
+This project ranks repositories with deterministic rules. The score is meant to help review and triage projects; it is not an objective quality rating.
 
-The canonical daily pipeline is implemented in `github_insight/classifier.py` and produces 0-100 scores. A legacy compatibility scorer remains in `github_insight/scoring.py`, but the daily reports and dashboard use the 0-100 `InsightRecord` fields documented here.
+The current dashboard and reports use the 0-100 scoring path in `github_insight/classifier.py`. A compatibility scorer still exists in `github_insight/scoring.py`, but it is not the main dashboard path.
 
 ## Audiences
 
-Each repository is evaluated for three audiences:
+Repositories are evaluated for three audiences:
 
-| Audience | Focus |
+| Audience | What the system looks for |
 | --- | --- |
-| `general_user` | Practical tools, workflow automation, apps, CLIs, self-hosted utilities, learning resources. |
-| `data_analyst` | SQL, BI, dashboards, metrics, ETL, reporting, data cleaning, visualization, CSV/data workflows. |
-| `data_scientist` | ML, AI, LLM, RAG, NLP, computer vision, benchmarks, datasets, notebooks, training, evaluation. |
+| `general_user` | Practical tools, CLIs, apps, workflow automation, learning resources, self-hosted utilities. |
+| `data_analyst` | SQL, dashboards, BI, metrics, ETL, reports, data cleaning, CSV/data workflows. |
+| `data_scientist` | ML, AI, LLM, NLP, computer vision, benchmarks, datasets, notebooks, training, evaluation. |
 
-Audience scores are keyword and evidence based. Source query audience, Python language, datasets, notebooks, CSV/SQL signals, productivity terms, and automation terms can increase the relevant audience fit. Missing evidence does not create positive claims.
+Audience scores are based on repository metadata, topics, README evidence, source query context, and bounded file/release signals. Missing evidence is treated as missing; it is not filled in with assumptions.
 
 ## Score Components
 
 | Field | Range | Meaning |
 | --- | ---: | --- |
-| `usefulness_score` | 0-100 | Combined audience fit, popularity signal, and README quality. |
-| `momentum_score` | 0-100 | Recency from `pushed_at` and `updated_at`, with a popularity signal. |
-| `audience_fit_score` | 0-100 | Best audience match among general users, data analysts, and data scientists. |
-| `maintenance_score` | 0-100 | Active/non-archived status, license availability, and push recency. |
+| `usefulness_score` | 0-100 | Audience fit, popularity signal, and README quality. |
+| `momentum_score` | 0-100 | Push/update recency plus a popularity signal. |
+| `audience_fit_score` | 0-100 | Best match across the three audiences. |
+| `maintenance_score` | 0-100 | Active status, license availability, and push recency. |
 | `readme_quality_score` | 0-100 | README-derived quality signal from bounded enrichment. |
-| `reproducibility_score` | 0-100 | Presence of reproducibility signals such as requirements, pyproject, Dockerfile, and related files. |
-| `data_asset_score` | 0-100 | Dataset, CSV/SQL, demo, notebook, dashboard, and visualization signals. |
-| `dashboard_readiness_score` | 0-100 | Dashboard/demo/data/usage signals used for review context. |
-| `risk_score` | 0-100 | Penalty score derived from deterministic risk flags. |
-| `overall_insight_score` | 0-100 | Final score used for ranking. |
+| `reproducibility_score` | 0-100 | Signals such as requirements files, pyproject, Dockerfile, or similar setup files. |
+| `data_asset_score` | 0-100 | Dataset, CSV/SQL, demo, notebook, dashboard, or visualization signals. |
+| `dashboard_readiness_score` | 0-100 | Demo/data/usage signals used for dashboard context. |
+| `risk_score` | 0-100 | Penalty score from deterministic risk flags. |
+| `overall_insight_score` | 0-100 | Final score used for sorting. |
 
-## Overall Formula
+## Formula
 
 ```text
 0.20 * usefulness_score
@@ -44,64 +44,49 @@ Audience scores are keyword and evidence based. Source query audience, Python la
 - 0.15 * risk_score
 ```
 
-The score is clamped between 0 and 100 and rounded to two decimals.
+The final score is clamped from 0 to 100 and rounded to two decimals.
 
 ## Recommended Actions
 
-| Condition | Recommended action |
+| Condition | Action |
 | --- | --- |
-| Repository is archived or disabled | `Skip for now` |
-| Overall score is 80 or higher | `Try today` |
-| Overall score is 70 to 79.99 | `Use as portfolio reference` |
-| Overall score is 60 to 69.99 | `Study for learning` |
-| Data scientist repository with score 45 to 59.99 | `Track for research` |
-| Score 45 to 59.99 | `Watch this week` |
-| Score below 45 | `Skip for now` |
+| Archived or disabled repository | `Skip for now` |
+| Score >= 80 | `Try today` |
+| Score >= 70 | `Use as portfolio reference` |
+| Score >= 60 | `Study for learning` |
+| Data scientist project with score >= 45 | `Track for research` |
+| Score >= 45 | `Watch this week` |
+| Score < 45 | `Skip for now` |
 
-## Risk Flags
+## Risk and Confidence
 
-Risk flags are deterministic and evidence based. Current examples include:
+Risk flags are deterministic. Examples include archived status, disabled status, missing license metadata, stale pushes, many open issues relative to stars, fork-only status, and README/enrichment caveats.
 
-- Archived repository.
-- Disabled repository.
-- Missing license metadata.
-- Stale push activity for more than 12 months.
-- Many open issues relative to stars.
-- Fork-only repository.
-- README/enrichment caveats such as weak installation or usage evidence.
+The dashboard groups `risk_score` as:
 
-`risk_score` is calculated from the number of flags plus extra penalties for archived or disabled repositories:
-
-```text
-risk_score = 15 * number_of_risk_flags
-           + 35 if archived
-           + 20 if disabled
-```
-
-The value is clamped to 0-100.
-
-## Dashboard Risk Severity
-
-The static dashboard groups risk into severity labels:
-
-| Risk score | Severity |
+| Risk score | Label |
 | ---: | --- |
 | 0-29.99 | Low |
 | 30-59.99 | Medium |
 | 60-100 | High |
 
-The dashboard also shows a caveat summary from the first available risk flags. When no major caveat is available, it says that no major caveat was found from collected evidence.
-
-## Confidence Labels
-
-Confidence is a statement about available evidence, not a guarantee that a repository is good.
+Confidence describes evidence coverage, not repository quality:
 
 | Label | Rule |
 | --- | --- |
-| High | README quality is at least 70 and the repository has no more than two risk flags. |
-| Medium | README text exists and the GitHub description is available. |
-| Low | Supporting README or description evidence is weak or missing. |
+| High | README quality is at least 70 and there are no more than two risk flags. |
+| Medium | README text and GitHub description are available. |
+| Low | Key supporting evidence is weak or missing. |
+
+## Dashboard Views
+
+The dashboard adds presentation-only views on top of the same scored data:
+
+- `Overview` is the default view.
+- `General User`, `Data Analyst`, and `Data Scientist` filter by `primary_audience` and `audience_tags`.
+- `Portfolio Reviewer / Recruiter` highlights non-skipped projects.
+- `Today's Picks` selects a small set from the filtered and scored projects. It does not change scores.
 
 ## Evidence Boundaries
 
-The system can use GitHub metadata, topics, README excerpts, repository file signals, release signals, and bounded API responses. It does not clone repositories, execute external code, or prove that installation steps work. Scores should be reviewed together with the evidence, caveat summary, source status, and generated date.
+The system can use GitHub metadata, topics, README excerpts, repository file signals, release signals, and bounded API responses. It does not clone repositories, run project code, or prove that installation instructions work. Review scores together with evidence, risk notes, source status, and generated date.
