@@ -42,6 +42,7 @@ def _option_rows(values, all_label: str = "All") -> str:
     )
     return "".join(rows)
 
+
 def _risk_severity(risk_score: float) -> str:
     try:
         score = float(risk_score)
@@ -83,6 +84,7 @@ def _dashboard_record(record: InsightRecord) -> dict:
     item["dashboard_evidence_summary"] = _evidence_summary(record)
     item["dashboard_caveat_summary"] = _caveat_summary(record)
     return item
+
 
 def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[InsightRecord]) -> Path:
     path = output_root / "docs" / "index.html"
@@ -149,8 +151,11 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
     .controls {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(180px,1fr)); gap:12px; align-items:end; padding:16px; margin:18px 0 22px; box-shadow:var(--shadow); }}
     .controls label {{ display:grid; gap:6px; color:var(--muted); font-size:12px; font-weight:800; letter-spacing:0.03em; text-transform:uppercase; }}
     select, input {{ width:100%; border:1px solid var(--line); border-radius:6px; padding:9px 10px; background:#fff; color:var(--ink); font:inherit; }}
-    .grid {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:16px; }}
+    .section-intro {{ color:var(--muted); margin:-4px 0 12px; }}
+    .grid, .picks-grid {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:16px; }}
+    .picks-grid {{ margin-bottom:8px; }}
     .card {{ padding:0; overflow:hidden; box-shadow:var(--shadow); }}
+    .pick-card {{ border-top:3px solid var(--blue); }}
     .card-main {{ padding:18px; display:grid; gap:13px; }}
     .card-head {{ display:grid; grid-template-columns:minmax(0,1fr) auto; gap:14px; align-items:start; }}
     .card h3 {{ margin:0; font-size:18px; overflow-wrap:anywhere; }}
@@ -168,13 +173,14 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
     .action-callout {{ padding-top:12px; border-top:1px solid var(--line-soft); }}
     .action-label {{ display:inline-flex; margin-bottom:6px; padding:3px 7px; border-radius:6px; background:var(--blue-soft); color:#1d4ed8; font-size:12px; font-weight:800; }}
     .portfolio-idea {{ color:#1f2937; font-size:14px; }}
-    .insight-grid {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:12px; padding-top:12px; border-top:1px solid var(--line-soft); }}
-    .evidence, .risk {{ color:var(--muted); font-size:13px; }}
-    .evidence strong, .risk strong {{ display:block; color:var(--ink); margin-bottom:3px; }}
+    .explanation-grid {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:12px; padding-top:12px; border-top:1px solid var(--line-soft); }}
+    .explanation-grid p, .evidence {{ color:var(--muted); font-size:13px; }}
+    .explanation-grid strong, .evidence strong {{ display:block; color:var(--ink); margin-bottom:3px; }}
     .badge, .risk-badge, .confidence-badge {{ display:inline-block; margin:0; padding:4px 8px; border-radius:999px; font-size:12px; font-weight:800; }}
     .badge {{ background:#e0f2fe; color:#075985; }}
     .risk-low {{ background:#dcfce7; color:#166534; }} .risk-medium {{ background:#fef3c7; color:#92400e; }} .risk-high {{ background:#fee2e2; color:#991b1b; }}
     .confidence-high {{ background:#ecfdf5; color:#047857; }} .confidence-medium {{ background:#eef2ff; color:#4338ca; }} .confidence-low {{ background:#f3f4f6; color:#374151; }}
+    .empty-state {{ color:var(--muted); padding:18px; }}
     .split {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:14px; }}
     .panel {{ padding:16px; }} .panel ul {{ margin:0; padding-left:18px; }} .archive li {{ margin:0 0 8px; }}
     a {{ color:var(--blue); text-decoration:none; }} a:hover {{ text-decoration:underline; }}
@@ -201,6 +207,7 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
       <div class="kpi"><span>High risk</span><strong>{risk_counts["High"]}</strong></div>
     </section>
     <section class="controls panel">
+      <label>Stakeholder View <select id="stakeholderView"><option value="overview" selected>Overview</option><option value="general_user">General User</option><option value="data_analyst">Data Analyst</option><option value="data_scientist">Data Scientist</option><option value="portfolio_reviewer">Portfolio Reviewer / Recruiter</option></select></label>
       <label>Search <input id="search" type="search" placeholder="Repo, topic, summary"></label>
       <label>Audience <select id="audience"><option value="all">All audiences</option><option value="general_user">General users</option><option value="data_analyst">Data analysts</option><option value="data_scientist">Data scientists</option></select></label>
       <label>Minimum score <input id="score" type="range" min="0" max="100" value="0"><span id="scoreValue">0</span></label>
@@ -210,6 +217,9 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
       <label>Action <select id="action">{action_options}</select></label>
       <label>Risk <select id="risk"><option value="all">All risk states</option><option value="low">Low risk</option><option value="medium">Medium risk</option><option value="high">High risk</option><option value="none">No risk flags</option><option value="flagged">Has risk flags</option></select></label>
     </section>
+    <h2>Today's Picks</h2>
+    <p class="section-intro">Fast stakeholder-specific picks from the same scored project list and active filters.</p>
+    <section id="todayPicks" class="picks-grid"></section>
     <h2>Top Projects</h2>
     <section id="cards" class="grid"></section>
     <h2>Distributions</h2>
@@ -227,6 +237,8 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
     const payload = JSON.parse(document.getElementById('payload').textContent);
     const projects = payload.projects;
     const cards = document.getElementById('cards');
+    const todayPicks = document.getElementById('todayPicks');
+    const stakeholderView = document.getElementById('stakeholderView');
     const search = document.getElementById('search');
     const audience = document.getElementById('audience');
     const score = document.getElementById('score');
@@ -236,12 +248,30 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
     const language = document.getElementById('language');
     const action = document.getElementById('action');
     const risk = document.getElementById('risk');
+    const stakeholderLabels = {{
+      overview: 'Overview',
+      general_user: 'General User',
+      data_analyst: 'Data Analyst',
+      data_scientist: 'Data Scientist',
+      portfolio_reviewer: 'Portfolio Reviewer / Recruiter'
+    }};
     function normalize(value) {{ return (value || '').toString().toLowerCase(); }}
+    function audienceName(value) {{ return stakeholderLabels[value] || (value || '').replace('_', ' '); }}
+    function bestForLabel(p) {{
+      const tags = p.audience_tags && p.audience_tags.length ? p.audience_tags : [p.primary_audience];
+      return tags.map(audienceName).join(', ');
+    }}
     function searchableText(p) {{
-      return [p.full_name, p.one_sentence_summary, p.why_it_matters, p.language, p.recommended_action, (p.topics || []).join(' '), (p.evidence || []).join(' '), (p.risk_flags || []).join(' ')].map(normalize).join(' ');
+      return [p.full_name, p.one_sentence_summary, p.why_it_matters, p.portfolio_project_idea, p.language, p.recommended_action, (p.topics || []).join(' '), (p.evidence || []).join(' '), (p.risk_flags || []).join(' ')].map(normalize).join(' ');
     }}
     function riskSeverityClass(p) {{ return normalize(p.dashboard_risk_severity || 'Low'); }}
     function confidenceClass(p) {{ return normalize(p.dashboard_confidence_label || 'Low'); }}
+    function stakeholderMatches(p, selectedStakeholder) {{
+      const tags = p.audience_tags || [];
+      if (selectedStakeholder === 'overview') return true;
+      if (selectedStakeholder === 'portfolio_reviewer') return p.recommended_action !== 'Skip for now';
+      return p.primary_audience === selectedStakeholder || tags.includes(selectedStakeholder);
+    }}
     function matchesRisk(p, selectedRisk) {{
       const riskFlags = p.risk_flags || [];
       if (selectedRisk === 'none') return riskFlags.length === 0;
@@ -249,27 +279,9 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
       if (['low', 'medium', 'high'].includes(selectedRisk)) return riskSeverityClass(p) === selectedRisk;
       return true;
     }}
-    function render() {{
-      scoreValue.textContent = score.value;
-      const minScore = Number(score.value);
-      const selectedAudience = audience.value;
-      const selectedDate = date.value;
-      const selectedLanguage = language.value;
-      const selectedAction = action.value;
-      const selectedRisk = risk.value;
-      const query = normalize(search.value).trim();
-      const filtered = projects
-        .filter(p => p.overall_insight_score >= minScore)
-        .filter(p => selectedAudience === 'all' || p.primary_audience === selectedAudience || (p.audience_tags || []).includes(selectedAudience))
-        .filter(p => selectedDate === 'all' || p.date === selectedDate)
-        .filter(p => selectedLanguage === 'all' || p.language === selectedLanguage)
-        .filter(p => selectedAction === 'all' || p.recommended_action === selectedAction)
-        .filter(p => matchesRisk(p, selectedRisk))
-        .filter(p => !query || searchableText(p).includes(query));
-      const limit = displayLimit.value === 'all' ? filtered.length : Number(displayLimit.value);
-      const visible = filtered.slice(0, limit);
-      cards.innerHTML = visible.map(p => `
-        <article class="card">
+    function projectCard(p, extraClass = '') {{
+      return `
+        <article class="card ${{extraClass}}">
           <div class="card-main">
             <div class="card-head">
               <div>
@@ -278,7 +290,7 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
               </div>
               <div class="score-lockup"><span>Score</span><strong>${{p.overall_insight_score.toFixed(2)}}</strong></div>
             </div>
-            <div class="badge-strip">${{(p.audience_tags || []).map(a => `<span class="badge">${{a.replace('_', ' ')}}</span>`).join('')}}<span class="risk-badge risk-${{riskSeverityClass(p)}}">${{p.dashboard_risk_severity}} risk</span><span class="confidence-badge confidence-${{confidenceClass(p)}}">${{p.dashboard_confidence_label}} confidence</span></div>
+            <div class="badge-strip">${{(p.audience_tags || []).map(a => `<span class="badge">${{audienceName(a)}}</span>`).join('')}}<span class="risk-badge risk-${{riskSeverityClass(p)}}">${{p.dashboard_risk_severity}} risk</span><span class="confidence-badge confidence-${{confidenceClass(p)}}">${{p.dashboard_confidence_label}} confidence</span></div>
             <div class="score"><div class="bar"><div class="fill" style="width:${{p.overall_insight_score}}%"></div></div></div>
             <div class="meta-grid">
               <div class="meta-item"><span>Language</span>${{p.language}}</div>
@@ -287,13 +299,63 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
               <div class="meta-item"><span>Open issues</span>${{p.open_issues}}</div>
             </div>
             <div class="action-callout"><span class="action-label">Action: ${{p.recommended_action}}</span><p class="portfolio-idea">${{p.portfolio_project_idea}}</p></div>
-            <div class="insight-grid">
+            <div class="explanation-grid">
+              <p><strong>Best for:</strong> ${{bestForLabel(p)}}</p>
+              <p><strong>Why it matters:</strong> ${{p.why_it_matters}}</p>
+              <p><strong>Portfolio angle:</strong> ${{p.portfolio_project_idea}}</p>
+              <p><strong>Risk note:</strong> ${{p.dashboard_caveat_summary}}</p>
               <p class="evidence"><strong>Key evidence:</strong> ${{p.dashboard_evidence_summary}}</p>
-              <p class="risk"><strong>Caveat:</strong> ${{p.dashboard_caveat_summary}}</p>
             </div>
           </div>
-        </article>`).join('');
+        </article>`;
     }}
+    function selectTodayPicks(filtered, selectedStakeholder) {{
+      if (selectedStakeholder !== 'overview') return filtered.slice(0, 3);
+      const stakeholderOrder = ['general_user', 'data_analyst', 'data_scientist', 'portfolio_reviewer'];
+      const seen = new Set();
+      const picks = [];
+      stakeholderOrder.forEach(view => {{
+        const candidate = filtered.find(p => stakeholderMatches(p, view) && !seen.has(p.full_name));
+        if (candidate) {{
+          seen.add(candidate.full_name);
+          picks.push(candidate);
+        }}
+      }});
+      return picks;
+    }}
+    function renderTodayPicks(filtered, selectedStakeholder) {{
+      const picks = selectTodayPicks(filtered, selectedStakeholder);
+      todayPicks.innerHTML = picks.length
+        ? picks.map(p => projectCard(p, 'pick-card')).join('')
+        : '<div class="panel empty-state">No stakeholder picks match the current filters.</div>';
+    }}
+    function render() {{
+      scoreValue.textContent = score.value;
+      const minScore = Number(score.value);
+      const selectedStakeholder = stakeholderView.value;
+      const selectedAudience = audience.value;
+      const selectedDate = date.value;
+      const selectedLanguage = language.value;
+      const selectedAction = action.value;
+      const selectedRisk = risk.value;
+      const query = normalize(search.value).trim();
+      const filtered = projects
+        .filter(p => stakeholderMatches(p, selectedStakeholder))
+        .filter(p => p.overall_insight_score >= minScore)
+        .filter(p => selectedAudience === 'all' || p.primary_audience === selectedAudience || (p.audience_tags || []).includes(selectedAudience))
+        .filter(p => selectedDate === 'all' || p.date === selectedDate)
+        .filter(p => selectedLanguage === 'all' || p.language === selectedLanguage)
+        .filter(p => selectedAction === 'all' || p.recommended_action === selectedAction)
+        .filter(p => matchesRisk(p, selectedRisk))
+        .filter(p => !query || searchableText(p).includes(query));
+      renderTodayPicks(filtered, selectedStakeholder);
+      const limit = displayLimit.value === 'all' ? filtered.length : Number(displayLimit.value);
+      const visible = filtered.slice(0, limit);
+      cards.innerHTML = visible.length
+        ? visible.map(p => projectCard(p)).join('')
+        : '<div class="panel empty-state">No projects match the current filters.</div>';
+    }}
+    stakeholderView.addEventListener('change', render);
     search.addEventListener('input', render);
     audience.addEventListener('change', render);
     score.addEventListener('input', render);
