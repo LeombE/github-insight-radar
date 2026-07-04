@@ -27,7 +27,7 @@ The goal is not to declare a universal best repository. The goal is to help user
 - Audience classification for `general_user`, `data_analyst`, and `data_scientist`.
 - Explainable 0-100 scoring with usefulness, momentum, audience fit, maintenance, README quality, reproducibility, data/demo signals, and risk penalty.
 - Low, Medium, and High risk severity labels plus High, Medium, and Low confidence labels.
-- Static GitHub Pages dashboard with Top 20 / Top 50 / Top 100 / All display control, filters, search, live/mock badges, scorecards, and live-only archive display by default.
+- Static GitHub Pages dashboard with stakeholder views, Today's Picks, Top 20 / Top 50 / Top 100 / All display control, filters, search, live/mock badges, scorecards, and live-only archive display by default.
 - Local Streamlit dashboard for exploratory review.
 - Date-separated Markdown, CSV, JSON, SQLite, and dashboard outputs.
 - GitHub Actions automation for testing, daily live collection, dashboard rebuild, validation, and committing generated live outputs.
@@ -166,6 +166,10 @@ Compatibility entry point:
 ```powershell
 python -m scripts.github_insight --sample --date 2026-07-02
 ```
+
+## Dashboard Stakeholder Views
+
+The static dashboard includes a `Stakeholder View` selector with `Overview` as the default. Users can switch to General User, Data Analyst, Data Scientist, or Portfolio Reviewer / Recruiter views without changing the underlying scoring model. `Today's Picks` highlights a short set of projects for the selected stakeholder view, while the existing search, filters, risk controls, and Top 20 / 50 / 100 / All display selector continue to work on the same project data.
 
 ## Dashboards
 

@@ -13,13 +13,22 @@ def test_dashboard_rebuild_from_latest_json(tmp_path):
     html = (preview / "docs" / "index.html").read_text(encoding="utf-8")
     assert "GitHub Daily Intelligence" in html
     assert "Top Projects" in html
+    assert "Today's Picks" in html
     assert "MOCK RUN" in html
+    assert 'id="stakeholderView"' in html
+    assert '<option value="overview" selected>Overview</option>' in html
+    assert '<option value="general_user">General User</option>' in html
+    assert '<option value="data_analyst">Data Analyst</option>' in html
+    assert '<option value="data_scientist">Data Scientist</option>' in html
+    assert '<option value="portfolio_reviewer">Portfolio Reviewer / Recruiter</option>' in html
+    assert 'id="todayPicks"' in html
     assert 'id="displayLimit"' in html
     assert '<option value="20" selected>Top 20</option>' in html
     assert '<option value="50">Top 50</option>' in html
     assert '<option value="100">Top 100</option>' in html
     assert '<option value="all">All</option>' in html
     assert 'id="search"' in html
+    assert 'id="audience"' in html
     assert 'id="language"' in html
     assert 'id="action"' in html
     assert 'id="risk"' in html
@@ -40,9 +49,16 @@ def test_dashboard_rebuild_from_latest_json(tmp_path):
     assert "score-lockup" in html
     assert "meta-grid" in html
     assert "action-callout" in html
-    assert "insight-grid" in html
+    assert "explanation-grid" in html
+    assert "Best for:" in html
+    assert "Why it matters:" in html
+    assert "Portfolio angle:" in html
+    assert "Risk note:" in html
     assert "Key evidence:" in html
-    assert "Caveat:" in html
+    assert "stakeholderMatches" in html
+    assert "selectTodayPicks" in html
+    assert "renderTodayPicks" in html
+    assert "selectedStakeholder" in html
     assert "riskSeverityClass" in html
     assert "confidenceClass" in html
     assert "searchableText" in html
@@ -50,11 +66,13 @@ def test_dashboard_rebuild_from_latest_json(tmp_path):
     assert "selectedLanguage" in html
     assert "selectedAction" in html
     assert "selectedRisk" in html
+    assert "stakeholderView.addEventListener('change', render)" in html
     assert "search.addEventListener('input', render)" in html
     assert "language.addEventListener('change', render)" in html
     assert "action.addEventListener('change', render)" in html
     assert "risk.addEventListener('change', render)" in html
     assert "filtered.slice(0, limit)" in html
+    assert "filtered.slice(0, 3)" in html
     assert ".slice(0, 30)" not in html
     assert "No archive entries yet." in html
 
