@@ -1,6 +1,6 @@
 # Data Analyst GitHub Insight - 2026-07-05
 
-Generated at: `2026-07-04T17:19:49+00:00`
+Generated at: `2026-07-05T07:37:54+00:00`
 Mode: `live`
 
 | Rank | Repo | Score | Action | Difficulty | Risk flags |
@@ -12,11 +12,11 @@ Mode: `live`
 | 5 | [Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse](https://github.com/Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse) | 100.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
 | 6 | [youtukubek-tech/Netflix-Insights-Hub](https://github.com/youtukubek-tech/Netflix-Insights-Hub) | 93.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
 | 7 | [MUDAS100/Swiggy-Instamart-Metrics-Dashboard-Power-BI](https://github.com/MUDAS100/Swiggy-Instamart-Metrics-Dashboard-Power-BI) | 93.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 8 | [DirendAI/dashdown](https://github.com/DirendAI/dashdown) | 86.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear |
-| 9 | [apache/superset](https://github.com/apache/superset) | 80.50 | Study for learning | Advanced | no README evidence, installation unclear, usage examples unclear |
-| 10 | [Diyorbek01660/aemr-energy-market-outage-analysis](https://github.com/Diyorbek01660/aemr-energy-market-outage-analysis) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 11 | [govinda25072003-ai/pbi-amazon-sales-dash](https://github.com/govinda25072003-ai/pbi-amazon-sales-dash) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 12 | [goodmorningbeautyful-lab/PhonePe-Pulse-Analyzer](https://github.com/goodmorningbeautyful-lab/PhonePe-Pulse-Analyzer) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 8 | [ralforion/orionbelt-semantic-layer](https://github.com/ralforion/orionbelt-semantic-layer) | 86.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear |
+| 9 | [DirendAI/dashdown](https://github.com/DirendAI/dashdown) | 86.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear |
+| 10 | [apache/superset](https://github.com/apache/superset) | 80.50 | Study for learning | Advanced | no README evidence, installation unclear, usage examples unclear |
+| 11 | [OWOX/owox-data-marts](https://github.com/OWOX/owox-data-marts) | 80.50 | Watch this week | Advanced | no README evidence, installation unclear, usage examples unclear |
+| 12 | [Diyorbek01660/aemr-energy-market-outage-analysis](https://github.com/Diyorbek01660/aemr-energy-market-outage-analysis) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
 | 13 | [Lithiumgreentek/power-bi-design-vault](https://github.com/Lithiumgreentek/power-bi-design-vault) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
 | 14 | [nehamarora5635-glitch/gadget-market-intelligence-dashboard](https://github.com/nehamarora5635-glitch/gadget-market-intelligence-dashboard) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
 | 15 | [sandro2211/powerbi-ml-insight-engine](https://github.com/sandro2211/powerbi-ml-insight-engine) | 68.00 | Skip for now | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
@@ -27,7 +27,7 @@ Mode: `live`
 - Why it matters: It maps to Data Analyst needs with an evidence-based score of 65.95.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
 - Portfolio idea: Turn metabase into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 48041; Forks: 6635; Language: Clojure; License: NOASSERTION; README length: 0; Topics: analytics, bi, business-intelligence, businessintelligence, clojure, dashboard, data, data-analysis, data-visualization, database, metabase, mysql, postgres, postgresql, reporting, slack, sql-editor, visualization
+- Evidence: Stars: 48045; Forks: 6638; Language: Clojure; License: NOASSERTION; README length: 0; Topics: analytics, bi, business-intelligence, businessintelligence, clojure, dashboard, data, data-analysis, data-visualization, database, metabase, mysql, postgres, postgresql, reporting, slack, sql-editor, visualization
 - Confidence: low
 
 ### valdeteselimi/DashPro-Monitor-IndustrialBI
@@ -78,12 +78,20 @@ Mode: `live`
 - Evidence: Stars: 151; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: business-intelligence, powerbi, powerbi-dashboards, powerbi-report, powerbi-reports, powerbi-visuals, powerbidashboard, sales-analysis, sales-analytics, sales-dashboard, swiggy, swiggy-app, swiggy-data-analysis, swiggy-food-app, swiggy-food-delivery, swiggy-instamart
 - Confidence: low
 
+### ralforion/orionbelt-semantic-layer
+- Summary: ralforion/orionbelt-semantic-layer is a Python project for Data Analyst: Open-source Semantic Sidecar for AI, analytics, and governed data systems. Compiles declarative YAML models into optimized SQL, semantic context, KPIs, and DQ rules.
+- Why it matters: It maps to Data Analyst needs with an evidence-based score of 56.51.
+- Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
+- Portfolio idea: Turn orionbelt-semantic-layer into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 64; Forks: 8; Language: Python; License: NOASSERTION; README length: 0; Topics: agentic-ai, analytics-as-code, bigquery, business-intelligence, clickhouse, data-analytics, databricks, dremio, duckdb, headless-bi, mcp, mcp-server, metrics-layer, mysql, postgresql, semantic-layer, semantic-sidecar, snowflake, text-to-sql, yaml
+- Confidence: low
+
 ### DirendAI/dashdown
 - Summary: DirendAI/dashdown is a Python project for Data Analyst: https://dashdown.ai - Build interactive analytics dashboards from Markdown, SQL, and components — Python-native, no JavaScript to write, no frontend toolchain.
-- Why it matters: It maps to Data Analyst needs with an evidence-based score of 55.97.
+- Why it matters: It maps to Data Analyst needs with an evidence-based score of 56.04.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
 - Portfolio idea: Turn dashdown into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 11; Forks: 0; Language: Python; License: AGPL-3.0; README length: 0; Topics: ai, business-intelligence, charts, dashboards, data-analysis, data-visualization
+- Evidence: Stars: 12; Forks: 0; Language: Python; License: AGPL-3.0; README length: 0; Topics: ai, business-intelligence, charts, dashboards, data-analysis, data-visualization
 - Confidence: low
 
 ### apache/superset
@@ -91,7 +99,15 @@ Mode: `live`
 - Why it matters: It maps to Data Analyst needs with an evidence-based score of 60.77.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
 - Portfolio idea: Turn superset into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 73654; Forks: 17804; Language: TypeScript; License: Apache-2.0; README length: 0; Topics: analytics, apache, apache-superset, asf, bi, business-analytics, business-intelligence, data-analysis, data-analytics, data-engineering, data-science, data-visualization, data-viz, flask, python, react, sql-editor, superset
+- Evidence: Stars: 73661; Forks: 17806; Language: TypeScript; License: Apache-2.0; README length: 0; Topics: analytics, apache, apache-superset, asf, bi, business-analytics, business-intelligence, data-analysis, data-analytics, data-engineering, data-science, data-visualization, data-viz, flask, python, react, sql-editor, superset
+- Confidence: low
+
+### OWOX/owox-data-marts
+- Summary: OWOX/owox-data-marts is a TypeScript project for Data Analyst: Open-Source Self-Service Analytics Platform
+- Why it matters: It maps to Data Analyst needs with an evidence-based score of 56.69.
+- Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
+- Portfolio idea: Turn owox-data-marts into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 221; Forks: 33; Language: TypeScript; License: NOASSERTION; README length: 0; Topics: analytics, athena, bigquery, dashboard, data, data-analysis, data-marts, databricks, facebook, linkedin, looker-studio, reddit, redshift, reporting, self-service, sheets, snowflake, sql, sql-editor, tiktok
 - Confidence: low
 
 ### Diyorbek01660/aemr-energy-market-outage-analysis
@@ -102,28 +118,12 @@ Mode: `live`
 - Evidence: Stars: 12; Forks: 0; Language: unavailable; License: unavailable; README length: 0; Topics: analytics, cte, data-analysis, data-visualization, energy, kpi, power-outages, python, regulatory, risk-analysis, sql, tableau
 - Confidence: low
 
-### govinda25072003-ai/pbi-amazon-sales-dash
-- Summary: govinda25072003-ai/pbi-amazon-sales-dash is a HTML project for Data Analyst: Top 5 Amazon Sales Dashboard Trends & Insights for 2026
-- Why it matters: It maps to Data Analyst needs with an evidence-based score of 47.24.
-- Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
-- Portfolio idea: Turn pbi-amazon-sales-dash into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 151; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: amazon, amazon-dashboard, amazon-dataset, amazonsales, data-analysis, data-science, data-visualization, dataanalyst, dataanalytics, power-bi, powerbi-dashboards, powerbi-projects, powerbi-visuals, powerbidashboard, visualization
-- Confidence: low
-
-### goodmorningbeautyful-lab/PhonePe-Pulse-Analyzer
-- Summary: goodmorningbeautyful-lab/PhonePe-Pulse-Analyzer is a HTML project for Data Analyst: PhonePe Transaction Trends & User Analytics Dashboard 2026 – Power BI Guide
-- Why it matters: It maps to Data Analyst needs with an evidence-based score of 47.24.
-- Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
-- Portfolio idea: Turn PhonePe-Pulse-Analyzer into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 151; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: busniess-intelligence, dashboard, data-visualization, dax, phonepe, power-bi, power-query, powerbi-dashboards
-- Confidence: low
-
 ### Lithiumgreentek/power-bi-design-vault
 - Summary: Lithiumgreentek/power-bi-design-vault is a HTML project for Data Analyst: Power BI Design Blueprints for 2026: Advanced Dashboards, Datasets & Visual Resources
-- Why it matters: It maps to Data Analyst needs with an evidence-based score of 47.24.
+- Why it matters: It maps to Data Analyst needs with an evidence-based score of 47.25.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
 - Portfolio idea: Turn power-bi-design-vault into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 151; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: business-inteligence, business-intelligence, dashboard, data-analyst, data-science, data-visualization, dax, power-bi, power-bi-dashboard, powerbi, powerbi-dashboards, powerbi-projects, powerbi-report, svg
+- Evidence: Stars: 152; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: business-inteligence, business-intelligence, dashboard, data-analyst, data-science, data-visualization, dax, power-bi, power-bi-dashboard, powerbi, powerbi-dashboards, powerbi-projects, powerbi-report, svg
 - Confidence: low
 
 ### nehamarora5635-glitch/gadget-market-intelligence-dashboard

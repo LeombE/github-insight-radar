@@ -1,65 +1,89 @@
 # General User GitHub Insight - 2026-07-05
 
-Generated at: `2026-07-04T17:19:49+00:00`
+Generated at: `2026-07-05T07:37:54+00:00`
 Mode: `live`
 
 | Rank | Repo | Score | Action | Difficulty | Risk flags |
 | --- | --- | ---: | --- | --- | --- |
-| 1 | [heymrun/heym](https://github.com/heymrun/heym) | 100.00 | Try today | Intermediate | None |
-| 2 | [Mindburn-Labs/helm-ai-kernel](https://github.com/Mindburn-Labs/helm-ai-kernel) | 100.00 | Try today | Intermediate | None |
-| 3 | [terrylica/cc-skills](https://github.com/terrylica/cc-skills) | 100.00 | Try today | Intermediate | many open issues relative to stars |
-| 4 | [callstack/agent-device](https://github.com/callstack/agent-device) | 100.00 | Try today | Intermediate | None |
-| 5 | [DotHarness/dotcraft](https://github.com/DotHarness/dotcraft) | 100.00 | Try today | Intermediate | None |
-| 6 | [kawayiYokami/P-ai](https://github.com/kawayiYokami/P-ai) | 100.00 | Try today | Advanced | None |
-| 7 | [st0012/cctop](https://github.com/st0012/cctop) | 100.00 | Try today | Intermediate | None |
-| 8 | [jordigilh/kubernaut](https://github.com/jordigilh/kubernaut) | 100.00 | Try today | Advanced | many open issues relative to stars |
-| 9 | [Mann1988/awesome-claude-skills](https://github.com/Mann1988/awesome-claude-skills) | 100.00 | Try today | Intermediate | None |
-| 10 | [garfiec/Librechat-Mobile](https://github.com/garfiec/Librechat-Mobile) | 100.00 | Try today | Intermediate | many open issues relative to stars |
-| 11 | [ninouanis84-sudo/foxl-orchestrator](https://github.com/ninouanis84-sudo/foxl-orchestrator) | 100.00 | Use as portfolio reference | Intermediate | no license |
-| 12 | [luqmanluqman7349-cloud/manga-synchronizer](https://github.com/luqmanluqman7349-cloud/manga-synchronizer) | 100.00 | Use as portfolio reference | Beginner | installation unclear, no license |
-| 13 | [abdulrbasit/job-hunter](https://github.com/abdulrbasit/job-hunter) | 100.00 | Use as portfolio reference | Beginner | usage examples unclear |
-| 14 | [Oolab-labs/patchwork-os](https://github.com/Oolab-labs/patchwork-os) | 100.00 | Use as portfolio reference | Beginner | usage examples unclear |
-| 15 | [dylanneve1/talon](https://github.com/dylanneve1/talon) | 93.00 | Try today | Intermediate | None |
+| 1 | [alexellis/arkade](https://github.com/alexellis/arkade) | 100.00 | Try today | Intermediate | None |
+| 2 | [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) | 100.00 | Try today | Advanced | None |
+| 3 | [voostindie/vincents-productivity-suite-for-alfred](https://github.com/voostindie/vincents-productivity-suite-for-alfred) | 100.00 | Try today | Intermediate | None |
+| 4 | [automagik-dev/genie](https://github.com/automagik-dev/genie) | 100.00 | Try today | Intermediate | many open issues relative to stars |
+| 5 | [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 100.00 | Try today | Intermediate | None |
+| 6 | [Vinix24/vnx-orchestration](https://github.com/Vinix24/vnx-orchestration) | 100.00 | Try today | Intermediate | None |
+| 7 | [unhappychoice/gittype](https://github.com/unhappychoice/gittype) | 100.00 | Try today | Advanced | None |
+| 8 | [garudust-org/garudust-agent](https://github.com/garudust-org/garudust-agent) | 100.00 | Try today | Advanced | many open issues relative to stars |
+| 9 | [kawayiYokami/P-ai](https://github.com/kawayiYokami/P-ai) | 100.00 | Try today | Advanced | None |
+| 10 | [Mann1988/awesome-claude-skills](https://github.com/Mann1988/awesome-claude-skills) | 100.00 | Try today | Intermediate | None |
+| 11 | [PsychQuant/che-ical-mcp](https://github.com/PsychQuant/che-ical-mcp) | 100.00 | Try today | Intermediate | None |
+| 12 | [ninouanis84-sudo/foxl-orchestrator](https://github.com/ninouanis84-sudo/foxl-orchestrator) | 100.00 | Use as portfolio reference | Intermediate | no license |
+| 13 | [phuetz/code-buddy](https://github.com/phuetz/code-buddy) | 90.50 | Try today | Advanced | None |
+| 14 | [hexabot-ai/Hexabot](https://github.com/hexabot-ai/Hexabot) | 90.50 | Try today | Intermediate | None |
+| 15 | [santifer/career-ops](https://github.com/santifer/career-ops) | 90.50 | Try today | Intermediate | None |
 
 ## Project Notes
-### heymrun/heym
-- Summary: heymrun/heym is a Python project for General User: Build AI workflows by prompt or visual canvas. Heym is source-available and self-hosted, with agents, RAG, MCP, HITL, observability, evals, token cost tracking and more.
-- Why it matters: It maps to General User needs with an evidence-based score of 93.93.
+### alexellis/arkade
+- Summary: alexellis/arkade is a Go project for General User: Open Source Marketplace For Developer Tools
+- Why it matters: It maps to General User needs with an evidence-based score of 91.47.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn heym into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 675; Forks: 67; Language: Python; License: NOASSERTION; README length: 36796; Topics: ai-agents, ai-agents-framework, ai-assistant, automation, automation-tool, autonomous-agents, coding-agent, evals, human-in-the-loop, mcp, mcp-server, mcp-servers, mcp-tool, n8n-alternative, no-code, no-code-automation, rag, self-hosted, workflow-automation, workflows
+- Portfolio idea: Turn arkade into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 4597; Forks: 302; Language: Go; License: MIT; README length: 85593; Topics: apps, arkade, automation, cert-manager, cka, ckad, cli, devops, hacktoberfest, helm, inlets, istio, k3s, k8s, kubernetes, learning, nginx, openfaas, oss
 - Confidence: high
 
-### Mindburn-Labs/helm-ai-kernel
-- Summary: Mindburn-Labs/helm-ai-kernel is a Go project for General User: Fail-closed execution firewall for AI agents: quarantine MCP tools, proxy OpenAI-compatible requests, emit signed receipts, and verify EvidencePacks offline.
-- Why it matters: It maps to General User needs with an evidence-based score of 91.58.
+### unhappychoice/gitlogue
+- Summary: unhappychoice/gitlogue is a Rust project for General User: A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
+- Why it matters: It maps to General User needs with an evidence-based score of 89.32.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn helm-ai-kernel into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 50; Forks: 2; Language: Go; License: Apache-2.0; README length: 6139; Topics: agent-security, ai-agents, ai-security, cli, developer-tools, devsecops, evidencepack, execution-boundary, go, llm-security, mcp, model-context-protocol, offline-verification, openai-compatible, policy-engine, proofgraph, sandbox, self-hosted, signed-receipts, zero-trust
+- Portfolio idea: Turn gitlogue into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 4836; Forks: 106; Language: Rust; License: ISC; README length: 9180; Topics: cli, cli-tool, code-animation, commit-history, developer-tools, git, git-history, git-visualization, productivity, ratatui, rust, screensaver, syntax-highlighting, terminal, terminal-app, terminal-based, terminal-screensaver, tree-sitter, tui, visualization
 - Confidence: high
 
-### terrylica/cc-skills
-- Summary: terrylica/cc-skills is a Shell project for General User: Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, semantic versioning, and productivity workflows
-- Why it matters: It maps to General User needs with an evidence-based score of 87.43.
+### voostindie/vincents-productivity-suite-for-alfred
+- Summary: voostindie/vincents-productivity-suite-for-alfred is a Ruby project for General User: A CLI and automatically generated Alfred workflows to make my daily computer work more efficient.
+- Why it matters: It maps to General User needs with an evidence-based score of 88.02.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn cc-skills into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 56; Forks: 8; Language: Shell; License: MIT; README length: 34343; Topics: ai-agents, ai-tools, anthropic, automation, claude, claude-code, clickhouse, coding-assistant, developer-tools, devops, llm, marketplace, mcp, open-source, plugins, productivity, prompt-engineering, semantic-release, skills, workflow
+- Portfolio idea: Turn vincents-productivity-suite-for-alfred into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 42; Forks: 3; Language: Ruby; License: MIT; README length: 37517; Topics: alfred, alfred-workflow, bitbar, ia-writer, javascript, jxa, macos, obsidian, omnifocus, productivity, ruby
 - Confidence: high
 
-### callstack/agent-device
-- Summary: callstack/agent-device is a TypeScript project for General User: CLI to control iOS and Android devices for AI agents
-- Why it matters: It maps to General User needs with an evidence-based score of 85.22.
+### automagik-dev/genie
+- Summary: automagik-dev/genie is a TypeScript project for General User: Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.
+- Why it matters: It maps to General User needs with an evidence-based score of 87.61.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn agent-device into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 3113; Forks: 170; Language: TypeScript; License: MIT; README length: 9976; Topics: adb, agentic-ai, agents, ai-agents, android-emulator, automation, e2e-testing, expo, flutter, ios-simulator, mcp, mobile, mobile-testing, performance-optimization, react-native, testing, xcuitest
+- Portfolio idea: Turn genie into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 323; Forks: 52; Language: TypeScript; License: MIT; README length: 11906; Topics: ai-agents, ai-developer-tools, anthropic, automation, autonomous-agents, claude, claude-code, cli, coding-agents, context-engineering, developer-tools, llm, mcp, orchestration, parallel-agents, productivity, terminal, typescript, vibe-coding, worktrees
 - Confidence: high
 
-### DotHarness/dotcraft
-- Summary: DotHarness/dotcraft is a C# project for General User: AI Agent lives in your project. Open-source, self-hosted, multi-provider, highly scalable, powered by .NET.
-- Why it matters: It maps to General User needs with an evidence-based score of 84.90.
+### ohmyzsh/ohmyzsh
+- Summary: ohmyzsh/ohmyzsh is a Shell project for General User: 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
+- Why it matters: It maps to General User needs with an evidence-based score of 85.30.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn dotcraft into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 337; Forks: 15; Language: C#; License: Apache-2.0; README length: 10064; Topics: agent, coding-agents, csharp, deepseek, dotnet, harness, mimo, self-hosted
+- Portfolio idea: Turn ohmyzsh into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 188360; Forks: 26381; Language: Shell; License: MIT; README length: 21129; Topics: cli, cli-app, oh-my-zsh, oh-my-zsh-plugin, oh-my-zsh-theme, ohmyzsh, plugin-framework, plugins, productivity, shell, terminal, theme, themes, zsh, zsh-configuration
+- Confidence: high
+
+### Vinix24/vnx-orchestration
+- Summary: Vinix24/vnx-orchestration is a Python project for General User: Governance-first orchestration for Claude Code, Codex, and Gemini CLI — parallel workers, receipts, quality gates, and full provenance.
+- Why it matters: It maps to General User needs with an evidence-based score of 85.00.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn vnx-orchestration into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 41; Forks: 6; Language: Python; License: MIT; README length: 20852; Topics: agent-orchestration, ai-agents, ai-coding, ai-orchestration, audit-trail, automation, claude, claude-ai, claude-code, cli, code-quality, codex, developer-tools, devtools, governance, governance-framework, human-in-the-loop, multi-agent, multi-terminal, tmux
+- Confidence: high
+
+### unhappychoice/gittype
+- Summary: unhappychoice/gittype is a Rust project for General User: A CLI code-typing game that turns your source code into typing challenges
+- Why it matters: It maps to General User needs with an evidence-based score of 84.55.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn gittype into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 1488; Forks: 40; Language: Rust; License: MIT; README length: 7991; Topics: cli-game, cli-tool, code-practice, coding-skills, gamification, learning-tool, productivity, programming, ratatui, rust, terminal-game, touch-typing, tree-sitter, typing-game, typing-practice, typing-test, typing-trainer, typingtest
+- Confidence: high
+
+### garudust-org/garudust-agent
+- Summary: garudust-org/garudust-agent is a Rust project for General User: 🦅 Open-source AI agent runtime in Rust — Self-hostable with persistent memory, self-improving skills, MCP support, built-in cron, multi-platform messaging & production gateway.
+- Why it matters: It maps to General User needs with an evidence-based score of 84.51.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn garudust-agent into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 25; Forks: 6; Language: Rust; License: MIT; README length: 23029; Topics: ai-agent, anthropic, cli, discord-bot, llm, mcp, ollama, openrouter, rag, rust, self-hosted, self-improvement, self-learning, telegram-bot, tui
 - Confidence: high
 
 ### kawayiYokami/P-ai
@@ -70,22 +94,6 @@ Mode: `live`
 - Evidence: Stars: 64; Forks: 13; Language: Rust; License: GPL-3.0; README length: 7292; Topics: agent, ai-agent, ai-agents, ai-assistant, desktop-ai-assistant, desktop-app, mcp, pai, productivity, rust, tauri, vue, windows
 - Confidence: high
 
-### st0012/cctop
-- Summary: st0012/cctop is a Swift project for General User: A keyboard-first menubar app to monitor and jump between AI coding sessions — minimum setup required.
-- Why it matters: It maps to General User needs with an evidence-based score of 82.24.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn cctop into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 117; Forks: 19; Language: Swift; License: MIT; README length: 13405; Topics: agentic-workflow, macos, menubar, productivity
-- Confidence: high
-
-### jordigilh/kubernaut
-- Summary: jordigilh/kubernaut is a Go project for General User: An AIOps platform that closes the loop from Kubernetes alert to automated remediation: An AI Agent investigates via MCP tools, selects a fix from a workflow catalog, and delegates to a  Go controller for execution — or escalates with a full RCA. Approval gates, OPA policies, and audit trails keep humans in control.
-- Why it matters: It maps to General User needs with an evidence-based score of 82.20.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn kubernaut into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 22; Forks: 2; Language: Go; License: Apache-2.0; README length: 9721; Topics: a2a-agent, adk-google, agentic-workflow, aiops, alertmanager, audit-trail, automation, golang, google, incident-response, kubernetes, observability, remediation, root-cause-analysis, self-healing, sre
-- Confidence: high
-
 ### Mann1988/awesome-claude-skills
 - Summary: Mann1988/awesome-claude-skills is a Python project for General User: 📊 Explore high-quality Claude skills focused on business analysis and content creation, enhancing your AI capabilities for practical applications.
 - Why it matters: It maps to General User needs with an evidence-based score of 81.70.
@@ -94,12 +102,12 @@ Mode: `live`
 - Evidence: Stars: 64; Forks: 18; Language: Python; License: MIT; README length: 3584; Topics: anthropic, anthropic-claude, anthropic-skills, awesome-claude-code, claude-ai, claude-api, claude-code, claude-code-skills, claude-desktop, claude-skills, claude-skills-hub, codex-cli, gemini-cli, llama, openai, productivity, skills, tdd
 - Confidence: high
 
-### garfiec/Librechat-Mobile
-- Summary: garfiec/Librechat-Mobile is a Kotlin project for General User: Native Android & iOS client for LibreChat, built with Kotlin Multiplatform and Compose Multiplatform
-- Why it matters: It maps to General User needs with an evidence-based score of 80.43.
+### PsychQuant/che-ical-mcp
+- Summary: PsychQuant/che-ical-mcp is a Swift project for General User: macOS Calendar & Reminders MCP server (29 tools) — native Swift EventKit for Claude Desktop & Code. Events + reminders CRUD, recurring, batch ops, conflict & duplicate detection, per-event timezone, undo/redo, #tags, --cli mode, SwiftUI --setup TCC flow, --self-update. Developer-ID signed + notarized for macOS 26. iCloud/Google/Exchange.
+- Why it matters: It maps to General User needs with an evidence-based score of 81.02.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn Librechat-Mobile into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 50; Forks: 8; Language: Kotlin; License: MIT; README length: 10304; Topics: ai-assistant, ai-chat, android, anthropic, chat-bot, chatgpt, chatgpt-clone, claude, compose-multiplatform, gemini, ios, kotlin-multiplaform, librechat, librechat-client, llm, mcp, mobile-client, openai, self-hosted, third-party-clients
+- Portfolio idea: Turn che-ical-mcp into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 30; Forks: 8; Language: Swift; License: MIT; README length: 41252; Topics: ai-tools, apple, automation, calendar, claude, claude-ai, claude-code, claude-desktop, eventkit, eventkit-api, ical, macos, mcp, mcp-server, model-context-protocol, native, productivity, reminders, swift, task-management
 - Confidence: high
 
 ### ninouanis84-sudo/foxl-orchestrator
@@ -110,34 +118,26 @@ Mode: `live`
 - Evidence: Stars: 152; Forks: 0; Language: HTML; License: unavailable; README length: 7609; Topics: ai, ai-agent, anthropic, automation, browser-automation, chrome-extension, claude, claude-opus, claude-sonnet, desktop-app, electron, foxl, foxl-ai, macos, personal-agent, productivity, releases, scheduling, skills, windows
 - Confidence: high
 
-### luqmanluqman7349-cloud/manga-synchronizer
-- Summary: luqmanluqman7349-cloud/manga-synchronizer is a HTML project for General User: MeManga Pro 2026: Ultimate Manga Download Manager & CLI Power Tool
-- Why it matters: It maps to General User needs with an evidence-based score of 77.32.
+### phuetz/code-buddy
+- Summary: phuetz/code-buddy is a TypeScript project for General User: Open-source multi-provider AI coding agent — terminal + Electron desktop (Cowork) + 24/7 multi-AI fleet, free-first on local Ollama. Opt-in, human-gated evolutionary self-improvement that ingests research to set its own goals. 15 LLM providers (Claude, GPT, Gemini, Grok), ~110 tools, MCP, voice+vision companion.
+- Why it matters: It maps to General User needs with an evidence-based score of 88.57.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn manga-synchronizer into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 151; Forks: 0; Language: HTML; License: unavailable; README length: 8819; Topics: ebook, kindle, manga, manga-downloader, manga-scraper, self-hosted
+- Portfolio idea: Turn code-buddy into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 22; Forks: 3; Language: TypeScript; License: MIT; README length: 40467; Topics: agentic, ai-agent, ai-coding-assistant, autonomous-agents, chatgpt, claude, cli, coding-agent, computer-use, developer-tools, electron, free, llm, local-llm, mcp, multi-agent, ollama, self-hosted, tui, typescript
 - Confidence: high
 
-### abdulrbasit/job-hunter
-- Summary: abdulrbasit/job-hunter is a Python project for General User: Automate your job search — find listings, score fit, tailor your resume, and draft cover letters with AI.
-- Why it matters: It maps to General User needs with an evidence-based score of 76.60.
+### hexabot-ai/Hexabot
+- Summary: hexabot-ai/Hexabot is a TypeScript project for General User: Hexabot v3 is an AI workflow automation platform, combining workflows, actions, agents, and conversational channels in one runtime.
+- Why it matters: It maps to General User needs with an evidence-based score of 87.83.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn job-hunter into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 22; Forks: 0; Language: Python; License: MIT; README length: 5250; Topics: ai-agent, anthropic, automation, career, careerops, claude, claude-code, cli, cover-letter, interview-prep, job-hunting, job-search, resume
+- Portfolio idea: Turn Hexabot into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 1026; Forks: 220; Language: TypeScript; License: NOASSERTION; README length: 3776; Topics: agent, agentic, agents, ai, ai-automation, artificial-intelligence, automation, bot-framework, chatbot, chatgpt, claude-ai, conversational-ai, deepseek, framework, gemini, llama, llm, mistral, ollama, workflow
 - Confidence: high
 
-### Oolab-labs/patchwork-os
-- Summary: Oolab-labs/patchwork-os is a TypeScript project for General User: The decision layer for personal AI. Local-first runtime where agents automate across GitHub, Slack, Gmail & 45+ services — but every risky action stops for your yes, workers earn autonomy from track record, and every decision leaves a receipt. Your models, your machine, your policy. Includes an MCP bridge: 177 IDE tools for Claude Code.
-- Why it matters: It maps to General User needs with an evidence-based score of 76.25.
+### santifer/career-ops
+- Summary: santifer/career-ops is a JavaScript project for General User: AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+- Why it matters: It maps to General User needs with an evidence-based score of 86.32.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn patchwork-os into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 26; Forks: 4; Language: TypeScript; License: MIT; README length: 6533; Topics: ai-agent, anthropic, approval-queue, automation, claude, claude-code, ide, local-first, lsp, mcp, mcp-server, ollama, patchwork, recipes, vscode-extension
-- Confidence: high
-
-### dylanneve1/talon
-- Summary: dylanneve1/talon is a TypeScript project for General User: 🦅 Multi-platform agentic AI harness — runs on Telegram, Discord, Teams & Terminal with a pluggable backend (Claude, Kilo, OpenCode, Codex, OpenAI Agents), full MCP tool access, and persistent background agents (Goals, Heartbeat, Dream).
-- Why it matters: It maps to General User needs with an evidence-based score of 83.36.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn talon into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 60; Forks: 1; Language: TypeScript; License: MIT; README length: 19868; Topics: agentic-ai, ai-agent, anthropic, autonomous-agents, chatbot, claude, discord-bot, llm, mcp, model-context-protocol, self-hosted, telegram-bot, typescript
+- Portfolio idea: Turn career-ops into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 58592; Forks: 11493; Language: JavaScript; License: MIT; README length: 25664; Topics: ai-agent, anthropic, automation, beginner-friendly, career, careerops, claude, claude-code, cli, first-timers-only, golang, good-first-issue, interview-prep, job-search, open-source, resume
 - Confidence: high
