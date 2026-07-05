@@ -9,9 +9,47 @@ PREVIEW_ROOT = ".pytest-tmp/mock-run"
 def test_dashboard_rebuild_from_latest_json(tmp_path):
     assert main(["--output-root", str(tmp_path), "run", "--mock", "--date", "2026-07-02"]) == 0
     preview = tmp_path / PREVIEW_ROOT
+    evergreen_path = preview / "docs" / "data" / "evergreen.json"
+    evergreen_path.write_text(
+        json.dumps(
+            {
+                "schema_version": 1,
+                "generated_at": "2026-07-02T00:00:00+00:00",
+                "repositories": [
+                    {
+                        "full_name": "example/community-standard",
+                        "html_url": "https://github.com/example/community-standard",
+                        "description": "A widely adopted community standard project.",
+                        "language": "Python",
+                        "topics": ["analytics"],
+                        "stakeholders": ["general_user", "data_analyst"],
+                        "category": "analytics",
+                        "reason": "Mature project for broad users.",
+                        "suggested_use": "Study reliable product and analytics patterns.",
+                        "tags": ["analytics"],
+                        "stars": 25000,
+                        "forks": 4200,
+                        "license": "Apache-2.0",
+                        "archived": False,
+                        "pushed_at": "2026-07-01T00:00:00Z",
+                        "has_readme": True,
+                        "recent_activity": True,
+                        "recommendation_level": "community_standard",
+                        "quality_gate_passed": True,
+                        "evidence": ["Stars: 25000", "Forks: 4200", "License: Apache-2.0"],
+                        "risk_note": "All required evergreen quality gates passed.",
+                    }
+                ],
+                "excluded": [],
+            }
+        ),
+        encoding="utf-8",
+    )
     assert main(["--output-root", str(preview), "dashboard"]) == 0
     html = (preview / "docs" / "index.html").read_text(encoding="utf-8")
     assert "GitHub Daily Intelligence" in html
+    assert "Evergreen Recommendations" in html
+    assert "Daily Discoveries" in html
     assert "Top Projects" in html
     assert "Today's Picks" in html
     assert "MOCK RUN" in html
@@ -20,7 +58,9 @@ def test_dashboard_rebuild_from_latest_json(tmp_path):
     assert '<option value="general_user">General User</option>' in html
     assert '<option value="data_analyst">Data Analyst</option>' in html
     assert '<option value="data_scientist">Data Scientist</option>' in html
-    assert '<option value="portfolio_reviewer">Portfolio Reviewer / Recruiter</option>' in html
+    assert "Portfolio Reviewer / Recruiter" not in html
+    assert "portfolio_reviewer" not in html
+    assert 'id="evergreenCards"' in html
     assert 'id="todayPicks"' in html
     assert 'id="displayLimit"' in html
     assert '<option value="20" selected>Top 20</option>' in html
@@ -55,6 +95,10 @@ def test_dashboard_rebuild_from_latest_json(tmp_path):
     assert "Portfolio angle:" in html
     assert "Risk note:" in html
     assert "Key evidence:" in html
+    assert "example/community-standard" in html
+    assert "community_standard" in html
+    assert "renderEvergreen" in html
+    assert "evergreenMatches" in html
     assert "stakeholderMatches" in html
     assert "selectTodayPicks" in html
     assert "renderTodayPicks" in html

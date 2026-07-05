@@ -1,0 +1,56 @@
+{
+  "repositories": {
+    "example/community-standard": {
+      "full_name": "example/community-standard",
+      "html_url": "https://github.com/example/community-standard",
+      "description": "A widely adopted community standard project.",
+      "language": "Python",
+      "topics": ["analytics", "dashboard"],
+      "stargazers_count": 25000,
+      "forks_count": 4200,
+      "license": {"spdx_id": "Apache-2.0"},
+      "archived": false,
+      "pushed_at": "2026-07-01T00:00:00Z",
+      "readme_text": "Install, usage, examples, and documentation."
+    },
+    "example/mature-reference": {
+      "full_name": "example/mature-reference",
+      "html_url": "https://github.com/example/mature-reference",
+      "description": "A mature reference project with stable adoption.",
+      "language": "TypeScript",
+      "topics": ["visualization"],
+      "stargazers_count": 4500,
+      "forks_count": 650,
+      "license": {"spdx_id": "MIT"},
+      "archived": false,
+      "pushed_at": "2024-01-01T00:00:00Z",
+      "readme_text": "Documented usage examples."
+    },
+    "example/emerging-project": {
+      "full_name": "example/emerging-project",
+      "html_url": "https://github.com/example/emerging-project",
+      "description": "An emerging project below evergreen thresholds.",
+      "language": "Python",
+      "topics": ["machine-learning"],
+      "stargazers_count": 800,
+      "forks_count": 40,
+      "license": {"spdx_id": "BSD-3-Clause"},
+      "archived": false,
+      "pushed_at": "2026-07-01T00:00:00Z",
+      "readme_text": "Documented but not mature enough."
+    },
+    "example/no-license": {
+      "full_name": "example/no-license",
+      "html_url": "https://github.com/example/no-license",
+      "description": "A project missing a license.",
+      "language": "Python",
+      "topics": ["data"],
+      "stargazers_count": 12000,
+      "forks_count": 1500,
+      "license": null,
+      "archived": false,
+      "pushed_at": "2026-07-01T00:00:00Z",
+      "readme_text": "Documented usage examples."
+    }
+  }
+}

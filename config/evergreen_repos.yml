@@ -1,0 +1,63 @@
+version: 1
+recent_activity_days: 365
+repositories:
+  - full_name: microsoft/vscode
+    stakeholders: [general_user]
+    category: developer-productivity
+    reason: Widely adopted editor platform with a large extension ecosystem and broad practical utility.
+    suggested_use: Study product documentation, release practices, extension architecture, and user-facing open-source governance.
+    tags: [editor, productivity, typescript]
+  - full_name: home-assistant/core
+    stakeholders: [general_user]
+    category: automation
+    reason: Mature home automation platform with strong community adoption and practical user workflows.
+    suggested_use: Review integration patterns, documentation quality, and community-driven release management.
+    tags: [automation, smart-home, python]
+  - full_name: pandas-dev/pandas
+    stakeholders: [data_analyst, data_scientist]
+    category: data-analysis
+    reason: Core dataframe library used across analytics, reporting, notebooks, and data science workflows.
+    suggested_use: Reference data cleaning patterns, API documentation, testing discipline, and release notes.
+    tags: [dataframe, analytics, python]
+  - full_name: apache/superset
+    stakeholders: [data_analyst]
+    category: business-intelligence
+    reason: Mature open-source BI and dashboard platform with SQL, visualization, and governance workflows.
+    suggested_use: Study dashboard product design, semantic layers, chart configuration, and deployment documentation.
+    tags: [business-intelligence, dashboard, sql]
+  - full_name: metabase/metabase
+    stakeholders: [data_analyst, general_user]
+    category: business-intelligence
+    reason: Popular analytics platform focused on accessible dashboards and question-driven data exploration.
+    suggested_use: Compare self-service BI workflows, onboarding design, and data product documentation.
+    tags: [analytics, dashboard, reporting]
+  - full_name: streamlit/streamlit
+    stakeholders: [data_analyst, data_scientist]
+    category: data-apps
+    reason: Widely used framework for turning Python analysis and models into interactive data apps.
+    suggested_use: Study examples for portfolio dashboards, prototype deployment, and reproducible app structure.
+    tags: [data-app, python, visualization]
+  - full_name: plotly/dash
+    stakeholders: [data_analyst, data_scientist]
+    category: data-apps
+    reason: Mature Python framework for analytical web applications and interactive dashboards.
+    suggested_use: Review callback architecture, dashboard examples, and production app documentation.
+    tags: [dashboard, python, visualization]
+  - full_name: numpy/numpy
+    stakeholders: [data_scientist]
+    category: scientific-computing
+    reason: Foundational numerical computing library used throughout scientific Python and machine learning stacks.
+    suggested_use: Study API stability, documentation structure, and testing practices for core numerical tools.
+    tags: [scientific-computing, python, arrays]
+  - full_name: scikit-learn/scikit-learn
+    stakeholders: [data_scientist]
+    category: machine-learning
+    reason: Mature machine learning library with strong documentation, examples, and reproducible model workflows.
+    suggested_use: Reference estimator APIs, benchmark examples, documentation patterns, and model evaluation workflows.
+    tags: [machine-learning, python, modeling]
+  - full_name: huggingface/transformers
+    stakeholders: [data_scientist]
+    category: machine-learning
+    reason: Widely adopted model library for NLP, vision, audio, and multimodal machine learning workflows.
+    suggested_use: Study model cards, pipeline APIs, example notebooks, and ecosystem documentation.
+    tags: [machine-learning, ai, models]

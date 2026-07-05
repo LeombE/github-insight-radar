@@ -1,4 +1,4 @@
-"""Persistence helpers for GitHub Insight."""
+﻿"""Persistence helpers for GitHub Insight."""
 
 from __future__ import annotations
 
@@ -279,6 +279,12 @@ def write_latest_projects(output_root: Path, run: RunMetadata, records: list[Ins
 def write_docs_latest(output_root: Path, run: RunMetadata, records: list[InsightRecord], paths: dict[str, str]) -> Path:
     path = output_root / "docs" / "data" / "latest.json"
     payload = {"run": run.to_dict(), "paths": paths, "projects": [record.to_dict() for record in records]}
+    ensure_parent(path).write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
+    return path
+
+
+def write_evergreen_json(output_root: Path, payload: dict[str, Any], output_path: Path | None = None) -> Path:
+    path = output_path or output_root / "docs" / "data" / "evergreen.json"
     ensure_parent(path).write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
     return path
 
@@ -581,3 +587,4 @@ def save_sqlite(
                 ),
             )
     return path
+
