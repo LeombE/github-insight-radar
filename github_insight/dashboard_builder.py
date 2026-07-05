@@ -1,4 +1,4 @@
-"""Static GitHub Pages dashboard builder."""
+﻿"""Static GitHub Pages dashboard builder."""
 
 from __future__ import annotations
 
@@ -12,8 +12,15 @@ from github_insight.models import InsightRecord, RunMetadata
 from github_insight.utils import ensure_parent
 
 
-def _json(records: list[InsightRecord], run: RunMetadata) -> str:
-    return json.dumps({"run": run.to_dict(), "projects": [_dashboard_record(record) for record in records]}, ensure_ascii=False)
+def _json(records: list[InsightRecord], run: RunMetadata, evergreen: dict | None = None) -> str:
+    return json.dumps(
+        {
+            "run": run.to_dict(),
+            "projects": [_dashboard_record(record) for record in records],
+            "evergreen": evergreen or {"schema_version": 1, "repositories": []},
+        },
+        ensure_ascii=False,
+    )
 
 
 def _archive_mode(item) -> str:
@@ -86,6 +93,19 @@ def _dashboard_record(record: InsightRecord) -> dict:
     return item
 
 
+def _load_evergreen_payload(output_root: Path) -> dict:
+    path = output_root / "docs" / "data" / "evergreen.json"
+    if not path.exists():
+        return {"schema_version": 1, "repositories": []}
+    payload = json.loads(path.read_text(encoding="utf-8"))
+    if not isinstance(payload, dict):
+        return {"schema_version": 1, "repositories": []}
+    repositories = payload.get("repositories", [])
+    if not isinstance(repositories, list):
+        payload["repositories"] = []
+    return payload
+
+
 def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[InsightRecord]) -> Path:
     path = output_root / "docs" / "index.html"
     total = len(records)
@@ -106,7 +126,8 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
         [record.recommended_action for record in records],
         all_label="All actions",
     )
-    data_json = _json(records, run)
+    evergreen_payload = _load_evergreen_payload(output_root)
+    data_json = _json(records, run, evergreen_payload)
     language_rows = "".join(
         f"<li><span>{html.escape(language)}</span><strong>{count}</strong></li>"
         for language, count in language_counts.most_common(8)
@@ -152,10 +173,14 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
     .controls label {{ display:grid; gap:6px; color:var(--muted); font-size:12px; font-weight:800; letter-spacing:0.03em; text-transform:uppercase; }}
     select, input {{ width:100%; border:1px solid var(--line); border-radius:6px; padding:9px 10px; background:#fff; color:var(--ink); font:inherit; }}
     .section-intro {{ color:var(--muted); margin:-4px 0 12px; }}
-    .grid, .picks-grid {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:16px; }}
+    .grid, .picks-grid, .evergreen-grid {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:16px; }}
     .picks-grid {{ margin-bottom:8px; }}
+    .evergreen-grid {{ margin-bottom:16px; }}
     .card {{ padding:0; overflow:hidden; box-shadow:var(--shadow); }}
     .pick-card {{ border-top:3px solid var(--blue); }}
+    .evergreen-card {{ border-top:3px solid #0f766e; }}
+    .quality-badge {{ display:inline-block; padding:4px 8px; border-radius:999px; font-size:12px; font-weight:800; background:#ecfdf5; color:#047857; }}
+    .quality-mature-reference {{ background:#eef2ff; color:#4338ca; }}
     .card-main {{ padding:18px; display:grid; gap:13px; }}
     .card-head {{ display:grid; grid-template-columns:minmax(0,1fr) auto; gap:14px; align-items:start; }}
     .card h3 {{ margin:0; font-size:18px; overflow-wrap:anywhere; }}
@@ -207,7 +232,7 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
       <div class="kpi"><span>High risk</span><strong>{risk_counts["High"]}</strong></div>
     </section>
     <section class="controls panel">
-      <label>Stakeholder View <select id="stakeholderView"><option value="overview" selected>Overview</option><option value="general_user">General User</option><option value="data_analyst">Data Analyst</option><option value="data_scientist">Data Scientist</option><option value="portfolio_reviewer">Portfolio Reviewer / Recruiter</option></select></label>
+      <label>Stakeholder View <select id="stakeholderView"><option value="overview" selected>Overview</option><option value="general_user">General User</option><option value="data_analyst">Data Analyst</option><option value="data_scientist">Data Scientist</option></select></label>
       <label>Search <input id="search" type="search" placeholder="Repo, topic, summary"></label>
       <label>Audience <select id="audience"><option value="all">All audiences</option><option value="general_user">General users</option><option value="data_analyst">Data analysts</option><option value="data_scientist">Data scientists</option></select></label>
       <label>Minimum score <input id="score" type="range" min="0" max="100" value="0"><span id="scoreValue">0</span></label>
@@ -217,7 +242,11 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
       <label>Action <select id="action">{action_options}</select></label>
       <label>Risk <select id="risk"><option value="all">All risk states</option><option value="low">Low risk</option><option value="medium">Medium risk</option><option value="high">High risk</option><option value="none">No risk flags</option><option value="flagged">Has risk flags</option></select></label>
     </section>
-    <h2>Today's Picks</h2>
+    <h2>Evergreen Recommendations</h2>
+    <p class="section-intro">All-time mature repositories from a manually refreshed curated source. These are separate from daily discovery.</p>
+    <section id="evergreenCards" class="evergreen-grid"></section>
+    <h2>Daily Discoveries</h2>
+    <h3>Today's Picks</h3>
     <p class="section-intro">Fast stakeholder-specific picks from the same scored project list and active filters.</p>
     <section id="todayPicks" class="picks-grid"></section>
     <h2>Top Projects</h2>
@@ -236,7 +265,9 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
   <script>
     const payload = JSON.parse(document.getElementById('payload').textContent);
     const projects = payload.projects;
+    const evergreen = payload.evergreen || {{ repositories: [] }};
     const cards = document.getElementById('cards');
+    const evergreenCards = document.getElementById('evergreenCards');
     const todayPicks = document.getElementById('todayPicks');
     const stakeholderView = document.getElementById('stakeholderView');
     const search = document.getElementById('search');
@@ -252,8 +283,7 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
       overview: 'Overview',
       general_user: 'General User',
       data_analyst: 'Data Analyst',
-      data_scientist: 'Data Scientist',
-      portfolio_reviewer: 'Portfolio Reviewer / Recruiter'
+      data_scientist: 'Data Scientist'
     }};
     function normalize(value) {{ return (value || '').toString().toLowerCase(); }}
     function audienceName(value) {{ return stakeholderLabels[value] || (value || '').replace('_', ' '); }}
@@ -269,7 +299,6 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
     function stakeholderMatches(p, selectedStakeholder) {{
       const tags = p.audience_tags || [];
       if (selectedStakeholder === 'overview') return true;
-      if (selectedStakeholder === 'portfolio_reviewer') return p.recommended_action !== 'Skip for now';
       return p.primary_audience === selectedStakeholder || tags.includes(selectedStakeholder);
     }}
     function matchesRisk(p, selectedRisk) {{
@@ -278,6 +307,50 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
       if (selectedRisk === 'flagged') return riskFlags.length > 0;
       if (['low', 'medium', 'high'].includes(selectedRisk)) return riskSeverityClass(p) === selectedRisk;
       return true;
+    }}
+    function evergreenSearchable(item) {{
+      return [item.full_name, item.description, item.reason, item.suggested_use, item.category, item.language, (item.topics || []).join(' '), (item.tags || []).join(' '), (item.evidence || []).join(' ')].map(normalize).join(' ');
+    }}
+    function evergreenMatches(item, selectedStakeholder) {{
+      const stakeholders = item.stakeholders || [];
+      return selectedStakeholder === 'overview' || stakeholders.includes(selectedStakeholder);
+    }}
+    function qualityLabel(value) {{ return (value || '').replace(/_/g, ' ').replace(/\\b\\w/g, c => c.toUpperCase()); }}
+    function evergreenCard(item) {{
+      const qualityClass = normalize(item.recommendation_level || '').replace('_', '-');
+      return `
+        <article class="card evergreen-card">
+          <div class="card-main">
+            <div class="card-head">
+              <div>
+                <h3><a href="${{item.html_url}}">${{item.full_name}}</a></h3>
+                <p class="summary">${{item.description}}</p>
+              </div>
+              <span class="quality-badge quality-${{qualityClass}}">${{qualityLabel(item.recommendation_level)}}</span>
+            </div>
+            <div class="badge-strip">${{(item.stakeholders || []).map(a => `<span class="badge">${{audienceName(a)}}</span>`).join('')}}</div>
+            <div class="meta-grid">
+              <div class="meta-item"><span>Language</span>${{item.language}}</div>
+              <div class="meta-item"><span>License</span>${{item.license}}</div>
+              <div class="meta-item"><span>Stars / Forks</span>${{item.stars}} / ${{item.forks}}</div>
+              <div class="meta-item"><span>Last push</span>${{item.pushed_at}}</div>
+            </div>
+            <div class="explanation-grid">
+              <p><strong>Why it matters:</strong> ${{item.reason}}</p>
+              <p><strong>Suggested use:</strong> ${{item.suggested_use}}</p>
+              <p><strong>Risk note:</strong> ${{item.risk_note}}</p>
+              <p class="evidence"><strong>Key evidence:</strong> ${{(item.evidence || []).slice(0, 4).join('; ')}}</p>
+            </div>
+          </div>
+        </article>`;
+    }}
+    function renderEvergreen(selectedStakeholder, query) {{
+      const items = (evergreen.repositories || [])
+        .filter(item => evergreenMatches(item, selectedStakeholder))
+        .filter(item => !query || evergreenSearchable(item).includes(query));
+      evergreenCards.innerHTML = items.length
+        ? items.map(evergreenCard).join('')
+        : '<div class="panel empty-state">No evergreen recommendations match the current stakeholder view or search. Run the manual evergreen command to refresh curated recommendations.</div>';
     }}
     function projectCard(p, extraClass = '') {{
       return `
@@ -311,7 +384,7 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
     }}
     function selectTodayPicks(filtered, selectedStakeholder) {{
       if (selectedStakeholder !== 'overview') return filtered.slice(0, 3);
-      const stakeholderOrder = ['general_user', 'data_analyst', 'data_scientist', 'portfolio_reviewer'];
+      const stakeholderOrder = ['general_user', 'data_analyst', 'data_scientist'];
       const seen = new Set();
       const picks = [];
       stakeholderOrder.forEach(view => {{
@@ -339,6 +412,7 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
       const selectedAction = action.value;
       const selectedRisk = risk.value;
       const query = normalize(search.value).trim();
+      renderEvergreen(selectedStakeholder, query);
       const filtered = projects
         .filter(p => stakeholderMatches(p, selectedStakeholder))
         .filter(p => p.overall_insight_score >= minScore)
@@ -374,3 +448,4 @@ def build_static_dashboard(output_root: Path, run: RunMetadata, records: list[In
     ensure_parent(legacy)
     shutil.copyfile(path, legacy)
     return path
+

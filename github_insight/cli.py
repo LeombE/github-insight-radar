@@ -1,4 +1,4 @@
-"""Canonical package CLI for GitHub Insight."""
+﻿"""Canonical package CLI for GitHub Insight."""
 
 from __future__ import annotations
 
@@ -12,7 +12,8 @@ from github_insight.classifier import build_insights
 from github_insight.collectors import collect_live_repositories, collect_mock_repositories, enrich_repositories
 from github_insight.config import load_app_config
 from github_insight.dashboard_builder import build_static_dashboard
-from github_insight.github_client import GitHubApiError
+from github_insight.evergreen import build_evergreen_payload
+from github_insight.github_client import GitHubApiError, GitHubClient
 from github_insight.image_generator import apply_optional_images
 from github_insight.logging_utils import redact_secrets
 from github_insight.models import InsightRecord, RunMetadata
@@ -25,6 +26,7 @@ from github_insight.storage import (
     update_archive_index,
     update_seen_repos,
     write_docs_latest,
+    write_evergreen_json,
     write_insight_csv,
     write_insight_json,
     write_latest_projects,
@@ -267,6 +269,32 @@ def rebuild_dashboard(args: argparse.Namespace) -> list[Path]:
     return [dashboard]
 
 
+def _resolve_cli_path(root: Path, value: str | None) -> Path | None:
+    if not value:
+        return None
+    path = Path(value)
+    return path.resolve() if path.is_absolute() else (root / path).resolve()
+
+
+def evergreen_command(args: argparse.Namespace) -> list[Path]:
+    root = Path(args.output_root).resolve()
+    config_path = _resolve_cli_path(root, args.config)
+    if config_path is None:
+        raise SystemExit("Evergreen config path is required.")
+    fixture_path = _resolve_cli_path(root, args.metadata_fixture)
+    output_path = _resolve_cli_path(root, args.output)
+    client = None
+    if fixture_path is None:
+        config = load_app_config(root)
+        client = GitHubClient(token=config.github_token, api_version=config.api_version)
+    payload = build_evergreen_payload(
+        config_path=config_path,
+        client=client,
+        metadata_fixture_path=fixture_path,
+        source_config_label=args.config,
+    )
+    return [write_evergreen_json(root, payload, output_path)]
+
 def init_db(args: argparse.Namespace) -> list[Path]:
     root = Path(args.output_root).resolve()
     return [init_sqlite(root)]
@@ -327,6 +355,22 @@ def build_parser() -> argparse.ArgumentParser:
     )
     run.set_defaults(func=run_daily)
 
+    evergreen = subparsers.add_parser(
+        "evergreen",
+        help="Manually build all-time evergreen recommendations from curated repositories.",
+    )
+    evergreen.add_argument("--config", default="config/evergreen_repos.yml", help="Evergreen repo config path.")
+    evergreen.add_argument(
+        "--metadata-fixture",
+        default=None,
+        help="Offline metadata fixture for deterministic tests; default fetches live GitHub API metadata.",
+    )
+    evergreen.add_argument(
+        "--output",
+        default="docs/data/evergreen.json",
+        help="Output JSON path. Defaults to docs/data/evergreen.json.",
+    )
+    evergreen.set_defaults(func=evergreen_command)
     dashboard = subparsers.add_parser("dashboard", help="Rebuild docs/index.html from docs/data/latest.json.")
     dashboard.add_argument(
         "--publish-mock",
@@ -383,3 +427,4 @@ def main(argv: list[str] | None = None) -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
+

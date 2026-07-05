@@ -1,0 +1,512 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-05T11:22:20+00:00",
+  "source_mode": "live_github_api",
+  "source_config": "config/evergreen_repos.yml",
+  "quality_gates": {
+    "community_standard": {
+      "stars_min": 10000,
+      "forks_min": 1000,
+      "requires_license": true,
+      "requires_readme": true,
+      "requires_not_archived": true,
+      "requires_recent_activity_days": 365
+    },
+    "mature_reference": {
+      "stars_min": 3000,
+      "forks_min": 300,
+      "requires_license": true,
+      "requires_readme": true,
+      "requires_not_archived": true
+    }
+  },
+  "repositories": [
+    {
+      "full_name": "microsoft/vscode",
+      "html_url": "https://github.com/microsoft/vscode",
+      "description": "Visual Studio Code",
+      "language": "TypeScript",
+      "topics": [
+        "editor",
+        "electron",
+        "microsoft",
+        "typescript",
+        "visual-studio-code"
+      ],
+      "stakeholders": [
+        "general_user"
+      ],
+      "category": "developer-productivity",
+      "reason": "Widely adopted editor platform with a large extension ecosystem and broad practical utility.",
+      "suggested_use": "Study product documentation, release practices, extension architecture, and user-facing open-source governance.",
+      "tags": [
+        "editor",
+        "productivity",
+        "typescript"
+      ],
+      "stars": 187053,
+      "forks": 40906,
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-07-05T09:47:59Z",
+      "has_readme": true,
+      "recent_activity": true,
+      "recommendation_level": "community_standard",
+      "quality_gate_passed": true,
+      "evidence": [
+        "Stars: 187053",
+        "Forks: 40906",
+        "License: MIT",
+        "README: present",
+        "Last push: 2026-07-05T09:47:59Z"
+      ],
+      "risk_note": "All required evergreen quality gates passed.",
+      "excluded_reasons": []
+    },
+    {
+      "full_name": "huggingface/transformers",
+      "html_url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "language": "Python",
+      "topics": [
+        "audio",
+        "deep-learning",
+        "deepseek",
+        "gemma",
+        "glm",
+        "hacktoberfest",
+        "llm",
+        "machine-learning",
+        "model-hub",
+        "natural-language-processing",
+        "nlp",
+        "pretrained-models",
+        "python",
+        "pytorch",
+        "pytorch-transformers",
+        "qwen",
+        "speech-recognition",
+        "transformer",
+        "vlm"
+      ],
+      "stakeholders": [
+        "data_scientist"
+      ],
+      "category": "machine-learning",
+      "reason": "Widely adopted model library for NLP, vision, audio, and multimodal machine learning workflows.",
+      "suggested_use": "Study model cards, pipeline APIs, example notebooks, and ecosystem documentation.",
+      "tags": [
+        "machine-learning",
+        "ai",
+        "models"
+      ],
+      "stars": 162258,
+      "forks": 33763,
+      "license": "Apache-2.0",
+      "archived": false,
+      "pushed_at": "2026-07-05T08:00:13Z",
+      "has_readme": true,
+      "recent_activity": true,
+      "recommendation_level": "community_standard",
+      "quality_gate_passed": true,
+      "evidence": [
+        "Stars: 162258",
+        "Forks: 33763",
+        "License: Apache-2.0",
+        "README: present",
+        "Last push: 2026-07-05T08:00:13Z"
+      ],
+      "risk_note": "All required evergreen quality gates passed.",
+      "excluded_reasons": []
+    },
+    {
+      "full_name": "home-assistant/core",
+      "html_url": "https://github.com/home-assistant/core",
+      "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+      "language": "Python",
+      "topics": [
+        "asyncio",
+        "hacktoberfest",
+        "home-automation",
+        "internet-of-things",
+        "iot",
+        "mqtt",
+        "python",
+        "raspberry-pi"
+      ],
+      "stakeholders": [
+        "general_user"
+      ],
+      "category": "automation",
+      "reason": "Mature home automation platform with strong community adoption and practical user workflows.",
+      "suggested_use": "Review integration patterns, documentation quality, and community-driven release management.",
+      "tags": [
+        "automation",
+        "smart-home",
+        "python"
+      ],
+      "stars": 88203,
+      "forks": 37829,
+      "license": "Apache-2.0",
+      "archived": false,
+      "pushed_at": "2026-07-05T10:48:15Z",
+      "has_readme": true,
+      "recent_activity": true,
+      "recommendation_level": "community_standard",
+      "quality_gate_passed": true,
+      "evidence": [
+        "Stars: 88203",
+        "Forks: 37829",
+        "License: Apache-2.0",
+        "README: present",
+        "Last push: 2026-07-05T10:48:15Z"
+      ],
+      "risk_note": "All required evergreen quality gates passed.",
+      "excluded_reasons": []
+    },
+    {
+      "full_name": "apache/superset",
+      "html_url": "https://github.com/apache/superset",
+      "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+      "language": "TypeScript",
+      "topics": [
+        "analytics",
+        "apache",
+        "apache-superset",
+        "asf",
+        "bi",
+        "business-analytics",
+        "business-intelligence",
+        "data-analysis",
+        "data-analytics",
+        "data-engineering",
+        "data-science",
+        "data-visualization",
+        "data-viz",
+        "flask",
+        "python",
+        "react",
+        "sql-editor",
+        "superset"
+      ],
+      "stakeholders": [
+        "data_analyst"
+      ],
+      "category": "business-intelligence",
+      "reason": "Mature open-source BI and dashboard platform with SQL, visualization, and governance workflows.",
+      "suggested_use": "Study dashboard product design, semantic layers, chart configuration, and deployment documentation.",
+      "tags": [
+        "business-intelligence",
+        "dashboard",
+        "sql"
+      ],
+      "stars": 73661,
+      "forks": 17807,
+      "license": "Apache-2.0",
+      "archived": false,
+      "pushed_at": "2026-07-05T06:27:57Z",
+      "has_readme": true,
+      "recent_activity": true,
+      "recommendation_level": "community_standard",
+      "quality_gate_passed": true,
+      "evidence": [
+        "Stars: 73661",
+        "Forks: 17807",
+        "License: Apache-2.0",
+        "README: present",
+        "Last push: 2026-07-05T06:27:57Z"
+      ],
+      "risk_note": "All required evergreen quality gates passed.",
+      "excluded_reasons": []
+    },
+    {
+      "full_name": "scikit-learn/scikit-learn",
+      "html_url": "https://github.com/scikit-learn/scikit-learn",
+      "description": "scikit-learn: machine learning in Python",
+      "language": "Python",
+      "topics": [
+        "data-analysis",
+        "data-science",
+        "machine-learning",
+        "python",
+        "statistics"
+      ],
+      "stakeholders": [
+        "data_scientist"
+      ],
+      "category": "machine-learning",
+      "reason": "Mature machine learning library with strong documentation, examples, and reproducible model workflows.",
+      "suggested_use": "Reference estimator APIs, benchmark examples, documentation patterns, and model evaluation workflows.",
+      "tags": [
+        "machine-learning",
+        "python",
+        "modeling"
+      ],
+      "stars": 66555,
+      "forks": 27154,
+      "license": "BSD-3-Clause",
+      "archived": false,
+      "pushed_at": "2026-07-03T16:15:55Z",
+      "has_readme": true,
+      "recent_activity": true,
+      "recommendation_level": "community_standard",
+      "quality_gate_passed": true,
+      "evidence": [
+        "Stars: 66555",
+        "Forks: 27154",
+        "License: BSD-3-Clause",
+        "README: present",
+        "Last push: 2026-07-03T16:15:55Z"
+      ],
+      "risk_note": "All required evergreen quality gates passed.",
+      "excluded_reasons": []
+    },
+    {
+      "full_name": "pandas-dev/pandas",
+      "html_url": "https://github.com/pandas-dev/pandas",
+      "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+      "language": "Python",
+      "topics": [
+        "alignment",
+        "data-analysis",
+        "data-science",
+        "flexible",
+        "pandas",
+        "python"
+      ],
+      "stakeholders": [
+        "data_analyst",
+        "data_scientist"
+      ],
+      "category": "data-analysis",
+      "reason": "Core dataframe library used across analytics, reporting, notebooks, and data science workflows.",
+      "suggested_use": "Reference data cleaning patterns, API documentation, testing discipline, and release notes.",
+      "tags": [
+        "dataframe",
+        "analytics",
+        "python"
+      ],
+      "stars": 49124,
+      "forks": 20093,
+      "license": "BSD-3-Clause",
+      "archived": false,
+      "pushed_at": "2026-07-05T05:34:39Z",
+      "has_readme": true,
+      "recent_activity": true,
+      "recommendation_level": "community_standard",
+      "quality_gate_passed": true,
+      "evidence": [
+        "Stars: 49124",
+        "Forks: 20093",
+        "License: BSD-3-Clause",
+        "README: present",
+        "Last push: 2026-07-05T05:34:39Z"
+      ],
+      "risk_note": "All required evergreen quality gates passed.",
+      "excluded_reasons": []
+    },
+    {
+      "full_name": "streamlit/streamlit",
+      "html_url": "https://github.com/streamlit/streamlit",
+      "description": "Streamlit — A faster way to build and share data apps.",
+      "language": "Python",
+      "topics": [
+        "data-analysis",
+        "data-science",
+        "data-visualization",
+        "deep-learning",
+        "developer-tools",
+        "machine-learning",
+        "python",
+        "streamlit"
+      ],
+      "stakeholders": [
+        "data_analyst",
+        "data_scientist"
+      ],
+      "category": "data-apps",
+      "reason": "Widely used framework for turning Python analysis and models into interactive data apps.",
+      "suggested_use": "Study examples for portfolio dashboards, prototype deployment, and reproducible app structure.",
+      "tags": [
+        "data-app",
+        "python",
+        "visualization"
+      ],
+      "stars": 45145,
+      "forks": 4305,
+      "license": "Apache-2.0",
+      "archived": false,
+      "pushed_at": "2026-07-05T05:49:35Z",
+      "has_readme": true,
+      "recent_activity": true,
+      "recommendation_level": "community_standard",
+      "quality_gate_passed": true,
+      "evidence": [
+        "Stars: 45145",
+        "Forks: 4305",
+        "License: Apache-2.0",
+        "README: present",
+        "Last push: 2026-07-05T05:49:35Z"
+      ],
+      "risk_note": "All required evergreen quality gates passed.",
+      "excluded_reasons": []
+    },
+    {
+      "full_name": "plotly/dash",
+      "html_url": "https://github.com/plotly/dash",
+      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "bioinformatics",
+        "charting",
+        "dash",
+        "dashboards",
+        "data-science",
+        "data-visualization",
+        "finance",
+        "flask",
+        "gui-framework",
+        "jupyter",
+        "plotly",
+        "plotly-dash",
+        "productivity",
+        "python",
+        "react",
+        "technical-computing",
+        "web-app"
+      ],
+      "stakeholders": [
+        "data_analyst",
+        "data_scientist"
+      ],
+      "category": "data-apps",
+      "reason": "Mature Python framework for analytical web applications and interactive dashboards.",
+      "suggested_use": "Review callback architecture, dashboard examples, and production app documentation.",
+      "tags": [
+        "dashboard",
+        "python",
+        "visualization"
+      ],
+      "stars": 24288,
+      "forks": 2305,
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-07-03T18:30:44Z",
+      "has_readme": true,
+      "recent_activity": true,
+      "recommendation_level": "community_standard",
+      "quality_gate_passed": true,
+      "evidence": [
+        "Stars: 24288",
+        "Forks: 2305",
+        "License: MIT",
+        "README: present",
+        "Last push: 2026-07-03T18:30:44Z"
+      ],
+      "risk_note": "All required evergreen quality gates passed.",
+      "excluded_reasons": []
+    }
+  ],
+  "excluded": [
+    {
+      "full_name": "metabase/metabase",
+      "html_url": "https://github.com/metabase/metabase",
+      "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:",
+      "language": "Clojure",
+      "topics": [
+        "analytics",
+        "bi",
+        "business-intelligence",
+        "businessintelligence",
+        "clojure",
+        "dashboard",
+        "data",
+        "data-analysis",
+        "data-visualization",
+        "database",
+        "metabase",
+        "mysql",
+        "postgres",
+        "postgresql",
+        "reporting",
+        "slack",
+        "sql-editor",
+        "visualization"
+      ],
+      "stakeholders": [
+        "data_analyst",
+        "general_user"
+      ],
+      "category": "business-intelligence",
+      "reason": "Popular analytics platform focused on accessible dashboards and question-driven data exploration.",
+      "suggested_use": "Compare self-service BI workflows, onboarding design, and data product documentation.",
+      "tags": [
+        "analytics",
+        "dashboard",
+        "reporting"
+      ],
+      "stars": 48049,
+      "forks": 6638,
+      "license": "NOASSERTION",
+      "archived": false,
+      "pushed_at": "2026-07-05T08:56:56Z",
+      "has_readme": true,
+      "recent_activity": true,
+      "recommendation_level": "emerging_project",
+      "quality_gate_passed": false,
+      "evidence": [
+        "Stars: 48049",
+        "Forks: 6638",
+        "License: NOASSERTION",
+        "README: present",
+        "Last push: 2026-07-05T08:56:56Z"
+      ],
+      "risk_note": "license missing",
+      "excluded_reasons": [
+        "license missing"
+      ]
+    },
+    {
+      "full_name": "numpy/numpy",
+      "html_url": "https://github.com/numpy/numpy",
+      "description": "The fundamental package for scientific computing with Python.",
+      "language": "Python",
+      "topics": [
+        "numpy",
+        "python"
+      ],
+      "stakeholders": [
+        "data_scientist"
+      ],
+      "category": "scientific-computing",
+      "reason": "Foundational numerical computing library used throughout scientific Python and machine learning stacks.",
+      "suggested_use": "Study API stability, documentation structure, and testing practices for core numerical tools.",
+      "tags": [
+        "scientific-computing",
+        "python",
+        "arrays"
+      ],
+      "stars": 32311,
+      "forks": 12532,
+      "license": "NOASSERTION",
+      "archived": false,
+      "pushed_at": "2026-07-04T23:09:24Z",
+      "has_readme": true,
+      "recent_activity": true,
+      "recommendation_level": "emerging_project",
+      "quality_gate_passed": false,
+      "evidence": [
+        "Stars: 32311",
+        "Forks: 12532",
+        "License: NOASSERTION",
+        "README: present",
+        "Last push: 2026-07-04T23:09:24Z"
+      ],
+      "risk_note": "license missing",
+      "excluded_reasons": [
+        "license missing"
+      ]
+    }
+  ]
+}

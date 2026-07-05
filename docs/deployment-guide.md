@@ -44,6 +44,20 @@ python -m github_insight.cli validate
 
 If live collection fails, the command fails clearly and does not silently use mock data.
 
+
+## Manual Evergreen Refresh
+
+Evergreen Recommendations are curated all-time recommendations and are intentionally separate from the daily workflow. Refresh them manually when the curated list changes or when you want updated adoption/activity evidence:
+
+```powershell
+$env:GH_PAT="your_github_token"
+python -m github_insight.cli evergreen
+python -m github_insight.cli dashboard
+python -m github_insight.cli validate
+```
+
+The command reads `config/evergreen_repos.yml`, fetches current public GitHub metadata, applies strict quality gates, and writes `docs/data/evergreen.json`. It does not modify `docs/data/latest.json`, `docs/data/archive_index.json`, raw daily data, processed daily data, reports, assets, or the GitHub Actions schedule.
+
 ## GitHub Pages
 
 The static site is generated in:
@@ -57,6 +71,7 @@ Dashboard data lives in:
 ```text
 docs/data/latest.json
 docs/data/archive_index.json
+docs/data/evergreen.json
 ```
 
 Publish GitHub Pages from the default branch and `/docs` folder.

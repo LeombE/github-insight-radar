@@ -84,8 +84,20 @@ The dashboard adds presentation-only views on top of the same scored data:
 
 - `Overview` is the default view.
 - `General User`, `Data Analyst`, and `Data Scientist` filter by `primary_audience` and `audience_tags`.
-- `Portfolio Reviewer / Recruiter` highlights non-skipped projects.
 - `Today's Picks` selects a small set from the filtered and scored projects. It does not change scores.
+
+
+## Evergreen Quality Gates
+
+Evergreen Recommendations do not use the daily scoring formula. They are a manually refreshed dashboard layer for mature repositories from `config/evergreen_repos.yml`. The builder checks current GitHub metadata and uses deterministic gates:
+
+| Tier | Gate | Dashboard behavior |
+| --- | --- | --- |
+| Community Standard | Stars >= 10000, forks >= 1000, license present, README present, not archived, recent activity within 365 days. | Shown by default. |
+| Mature Reference | Stars >= 3000, forks >= 300, license present, README present, not archived. | Shown by default. |
+| Emerging Project | Below mature threshold or failing required evidence gates. | Kept in `excluded`; not shown by default. |
+
+This layer is separate from daily discovery so low-adoption daily finds do not dominate stakeholder-facing default recommendations.
 
 ## Evidence Boundaries
 
