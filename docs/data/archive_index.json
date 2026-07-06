@@ -1,6 +1,17 @@
 [
   {
     "date": "2026-07-06",
+    "generated_at": "2026-07-06T08:41:59+00:00",
+    "mode": "live",
+    "run_id": "live-2026-07-06-2026-07-06T084159-0000",
+    "daily_brief_path": "reports/daily/2026-07-06-daily-brief.md",
+    "json_path": "data/processed/2026-07-06-github-insight-projects.json",
+    "csv_path": "data/processed/2026-07-06-github-insight-projects.csv",
+    "selected_count": 200,
+    "top_project": "apache/airflow"
+  },
+  {
+    "date": "2026-07-06",
     "generated_at": "2026-07-05T17:33:01+00:00",
     "mode": "live",
     "run_id": "live-2026-07-06-2026-07-05T173301-0000",
