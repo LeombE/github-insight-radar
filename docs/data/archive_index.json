@@ -1,6 +1,17 @@
 [
   {
     "date": "2026-07-10",
+    "generated_at": "2026-07-10T07:52:27+00:00",
+    "mode": "live",
+    "run_id": "live-2026-07-10-2026-07-10T075227-0000",
+    "daily_brief_path": "reports/daily/2026-07-10-daily-brief.md",
+    "json_path": "data/processed/2026-07-10-github-insight-projects.json",
+    "csv_path": "data/processed/2026-07-10-github-insight-projects.csv",
+    "selected_count": 200,
+    "top_project": "ToolJet/ToolJet"
+  },
+  {
+    "date": "2026-07-10",
     "generated_at": "2026-07-09T18:09:02+00:00",
     "mode": "live",
     "run_id": "live-2026-07-10-2026-07-09T180902-0000",
