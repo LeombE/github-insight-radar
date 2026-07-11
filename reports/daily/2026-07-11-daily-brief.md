@@ -1,6 +1,6 @@
 # GitHub Insight Daily Brief - 2026-07-11
 
-Generated at: `2026-07-10T18:02:05+00:00`
+Generated at: `2026-07-11T06:27:08+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -9,7 +9,7 @@ LLM summary: `disabled`
 
 ## Executive Summary
 - Top overall opportunity: [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) with score 95.34.
-- General user opportunity: [gokhantos/opencrow](https://github.com/gokhantos/opencrow)
+- General user opportunity: [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector)
 - Data analyst opportunity: [grafana/grafana](https://github.com/grafana/grafana)
 - Data scientist opportunity: [lance-format/lance](https://github.com/lance-format/lance)
 - Most common risk pattern: usage examples unclear
@@ -18,21 +18,42 @@ LLM summary: `disabled`
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
 | 1 | [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) | General User | 95.34 | It maps to General User needs with an evidence-based score of 95.34. | Try today |
-| 2 | [tinyfish-io/agentql](https://github.com/tinyfish-io/agentql) | General User | 94.32 | It maps to General User needs with an evidence-based score of 94.32. | Try today |
-| 3 | [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) | General User | 93.37 | It maps to General User needs with an evidence-based score of 93.37. | Try today |
-| 4 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | General User | 91.82 | It maps to General User needs with an evidence-based score of 91.82. | Try today |
-| 5 | [PaulDuvall/ai-development-patterns](https://github.com/PaulDuvall/ai-development-patterns) | General User | 91.56 | It maps to General User needs with an evidence-based score of 91.56. | Try today |
-| 6 | [gokhantos/opencrow](https://github.com/gokhantos/opencrow) | General User | 91.31 | It maps to General User needs with an evidence-based score of 91.31. | Try today |
-| 7 | [simstudioai/sim](https://github.com/simstudioai/sim) | General User | 90.52 | It maps to General User needs with an evidence-based score of 90.52. | Try today |
-| 8 | [hexclave/hexclave](https://github.com/hexclave/hexclave) | General User | 89.65 | It maps to General User needs with an evidence-based score of 89.65. | Try today |
-| 9 | [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) | General User | 89.19 | It maps to General User needs with an evidence-based score of 89.19. | Try today |
-| 10 | [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) | General User | 87.79 | It maps to General User needs with an evidence-based score of 87.79. | Try today |
+| 2 | [simstudioai/sim](https://github.com/simstudioai/sim) | General User | 90.52 | It maps to General User needs with an evidence-based score of 90.52. | Try today |
+| 3 | [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) | General User | 89.19 | It maps to General User needs with an evidence-based score of 89.19. | Try today |
+| 4 | [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) | General User | 89.10 | It maps to General User needs with an evidence-based score of 89.10. | Try today |
+| 5 | [the911fund/skill-of-skills](https://github.com/the911fund/skill-of-skills) | General User | 88.86 | It maps to General User needs with an evidence-based score of 88.86. | Try today |
+| 6 | [bex-co/bex](https://github.com/bex-co/bex) | General User | 88.79 | It maps to General User needs with an evidence-based score of 88.79. | Try today |
+| 7 | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | General User | 88.66 | It maps to General User needs with an evidence-based score of 88.66. | Try today |
+| 8 | [trip2g/trip2g](https://github.com/trip2g/trip2g) | General User | 88.64 | It maps to General User needs with an evidence-based score of 88.64. | Try today |
+| 9 | [javinizer/javinizer-go](https://github.com/javinizer/javinizer-go) | General User | 88.45 | It maps to General User needs with an evidence-based score of 88.45. | Try today |
+| 10 | [im4codes/imcodes](https://github.com/im4codes/imcodes) | General User | 88.33 | It maps to General User needs with an evidence-based score of 88.33. | Try today |
 
 ## General User Finds
-### gokhantos/opencrow
-- What it is: gokhantos/opencrow is a TypeScript project for General User: Self-hosted multi-agent AI platform, orchestrate specialized agents across Telegram, WhatsApp, and web with 90+ tools, 15 autonomous scrapers, vector memory, and real-time market streaming
+### oomol-lab/open-connector
+- What it is: oomol-lab/open-connector is a TypeScript project for General User: Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 91.31
+- Score: 89.10
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### trip2g/trip2g
+- What it is: trip2g/trip2g is a Go project for General User: Open-source MCP knowledge mesh - self-host your second brain, expose it to AI agents, federate with peers.
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 88.64
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: many open issues relative to stars
+### im4codes/imcodes
+- What it is: im4codes/imcodes is a TypeScript project for General User: The IM for agents. Shared Agent Context & Memory, supervised execution, and cross-agent audit across AI providers.
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 88.33
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### rortan134/cache-app
+- What it is: rortan134/cache-app is a TypeScript project for General User: (New) The AI bookmark manager for busy people. With support for links, notes, images, and videos. ⭐
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 87.45
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
@@ -43,27 +64,6 @@ LLM summary: `disabled`
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### sortie-ai/sortie
-- What it is: sortie-ai/sortie is a Go project for General User: Turn tracker tickets into autonomous agent sessions
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 82.35
-- Difficulty: Intermediate
-- Recommended action: Try today
-- Risk: many open issues relative to stars
-### snomiao/agent-yes
-- What it is: snomiao/agent-yes is a TypeScript project for General User: Run AI coding agents (Claude, Codex, Gemini …) unattended — auto-answer prompts, auto-retry on rate limits, and list/tail/steer every agent locally or from agent-yes.com
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 82.11
-- Difficulty: Intermediate
-- Recommended action: Try today
-- Risk: many open issues relative to stars
-### puremachinery/carapace
-- What it is: puremachinery/carapace is a Rust project for General User: A secure, stable Rust alternative to openclaw/moltbot/clawdbot
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 80.37
-- Difficulty: Advanced
-- Recommended action: Try today
-- Risk: many open issues relative to stars
 
 ## Data Analyst Opportunities
 ### grafana/grafana
@@ -94,13 +94,13 @@ LLM summary: `disabled`
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### Diyorbek01660/aemr-energy-market-outage-analysis
-- What it is: Diyorbek01660/aemr-energy-market-outage-analysis is a unavailable project for Data Analyst: ⚡ Analyze AEMR outage data to identify high-risk energy generators and improve reliability monitoring across the U.S. energy market.
+### apache/superset
+- What it is: apache/superset is a TypeScript project for Data Analyst: Apache Superset is a Data Visualization and Data Exploration Platform
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 48.10
-- Difficulty: Unknown
-- Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
+- Score: 60.77
+- Difficulty: Advanced
+- Recommended action: Study for learning
+- Risk: no README evidence, installation unclear, usage examples unclear
 
 ## Data Scientist Research Radar
 ### lance-format/lance
@@ -110,20 +110,20 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
-### eullm/eullm
-- What it is: eullm/eullm is a Python project for Data Scientist: Open-source platform for creating, distributing and running sovereign EU-compliant LLMs. Verticalize any model for your domain, language and brand. AI Act ready.
+### FennelFetish/qapyq
+- What it is: FennelFetish/qapyq is a Python project for General User: AI-assisted media curator for large image/video datasets. Streamlined captioning, cropping, masking for LoRA/diffusion training workflows.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 83.38
+- Score: 79.31
+- Difficulty: Beginner
+- Recommended action: Use as portfolio reference
+- Risk: usage examples unclear
+### NVIDIA-NeMo/Automodel
+- What it is: NVIDIA-NeMo/Automodel is a Python project for Data Scientist: 🚀 Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 51.98
 - Difficulty: Research-heavy
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### langfuse/langfuse
-- What it is: langfuse/langfuse is a TypeScript project for Data Scientist: 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 55.83
-- Difficulty: Unknown
 - Recommended action: Track for research
-- Risk: no README evidence, installation unclear, usage examples unclear
+- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
 ### flyteorg/flyte
 - What it is: flyteorg/flyte is a Go project for General User: Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
@@ -131,19 +131,19 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear
-### MauroDruwel/NIMStats
-- What it is: MauroDruwel/NIMStats is a JavaScript project for Data Scientist: 📊 Automated hourly benchmarks for 20+ NVIDIA NIM models — interactive dashboard, zero infra, self-hostable. Open-source & community-driven.
+### kanaa257/sosumi.ai
+- What it is: kanaa257/sosumi.ai is a TypeScript project for Data Scientist: 📄 Enhance Apple Developer docs by converting them into AI-readable Markdown for easier access and improved usability.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 44.51
+- Score: 46.00
 - Difficulty: Research-heavy
-- Recommended action: Skip for now
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
+- Recommended action: Track for research
+- Risk: no README evidence, installation unclear, usage examples unclear
 
 ## Action List
-- Try today: jeremylongshore/claude-code-plugins-plus-skills, tinyfish-io/agentql, hyperdxio/hyperdx
-- Watch this week: langgenius/dify, nrwl/nx, googleapis/mcp-toolbox
-- Use as portfolio reference: sonichi/sutando, lissy93/dashy, Nebulock-Inc/agentic-threat-hunting-framework
-- Skip for now: faithlumumba/2025-tencent-advertising-algorithm-competition-finalist, atomantic/PortOS, MauroDruwel/NIMStats
+- Try today: jeremylongshore/claude-code-plugins-plus-skills, simstudioai/sim, dongdongbh/Mindwtr
+- Watch this week: trycua/cua, can1357/oh-my-pi, HBAI-Ltd/Toonflow-app
+- Use as portfolio reference: heypinchy/pinchy, FennelFetish/qapyq, suxrobGM/jobpilot
+- Skip for now: faithlumumba/2025-tencent-advertising-algorithm-competition-finalist, MauroDruwel/NIMStats, m96-chan/ai_research_dashboard
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.
