@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-07-12",
+    "generated_at": "2026-07-11T17:15:55+00:00",
+    "mode": "live",
+    "run_id": "live-2026-07-12-2026-07-11T171555-0000",
+    "daily_brief_path": "reports/daily/2026-07-12-daily-brief.md",
+    "json_path": "data/processed/2026-07-12-github-insight-projects.json",
+    "csv_path": "data/processed/2026-07-12-github-insight-projects.csv",
+    "selected_count": 200,
+    "top_project": "autobrr/autobrr"
+  },
+  {
     "date": "2026-07-11",
     "generated_at": "2026-07-11T06:27:08+00:00",
     "mode": "live",
