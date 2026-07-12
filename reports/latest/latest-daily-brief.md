@@ -1,6 +1,6 @@
 # GitHub Insight Daily Brief - 2026-07-12
 
-Generated at: `2026-07-11T17:15:55+00:00`
+Generated at: `2026-07-12T06:47:38+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -8,31 +8,38 @@ Image generation: `disabled`
 LLM summary: `disabled`
 
 ## Executive Summary
-- Top overall opportunity: [autobrr/autobrr](https://github.com/autobrr/autobrr) with score 94.04.
-- General user opportunity: [autobrr/autobrr](https://github.com/autobrr/autobrr)
+- Top overall opportunity: [rush86999/atom](https://github.com/rush86999/atom) with score 94.57.
+- General user opportunity: [rush86999/atom](https://github.com/rush86999/atom)
 - Data analyst opportunity: [metabase/metabase](https://github.com/metabase/metabase)
-- Data scientist opportunity: [NVIDIA-NeMo/Automodel](https://github.com/NVIDIA-NeMo/Automodel)
+- Data scientist opportunity: [kanaa257/sosumi.ai](https://github.com/kanaa257/sosumi.ai)
 - Most common risk pattern: usage examples unclear
 
 ## Top Overall Projects
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
-| 1 | [autobrr/autobrr](https://github.com/autobrr/autobrr) | General User | 94.04 | It maps to General User needs with an evidence-based score of 94.04. | Try today |
-| 2 | [majiayu000/spellbook](https://github.com/majiayu000/spellbook) | General User | 92.97 | It maps to General User needs with an evidence-based score of 92.97. | Try today |
-| 3 | [Rheosoph/flow-like](https://github.com/Rheosoph/flow-like) | General User | 92.00 | It maps to General User needs with an evidence-based score of 92.00. | Try today |
-| 4 | [StuMason/coolify-mcp](https://github.com/StuMason/coolify-mcp) | General User | 91.36 | It maps to General User needs with an evidence-based score of 91.36. | Try today |
-| 5 | [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) | General User | 89.19 | It maps to General User needs with an evidence-based score of 89.19. | Try today |
-| 6 | [Fractera/Agent-Engineering-Infrastructure](https://github.com/Fractera/Agent-Engineering-Infrastructure) | General User | 88.93 | It maps to General User needs with an evidence-based score of 88.93. | Try today |
-| 7 | [supernovae-st/nika](https://github.com/supernovae-st/nika) | General User | 88.71 | It maps to General User needs with an evidence-based score of 88.71. | Try today |
-| 8 | [ros-claw/rosclaw](https://github.com/ros-claw/rosclaw) | General User | 88.13 | It maps to General User needs with an evidence-based score of 88.13. | Try today |
-| 9 | [tianma-if/edgeever](https://github.com/tianma-if/edgeever) | General User | 87.79 | It maps to General User needs with an evidence-based score of 87.79. | Try today |
-| 10 | [Javis603/token-monitor](https://github.com/Javis603/token-monitor) | General User | 87.48 | It maps to General User needs with an evidence-based score of 87.48. | Try today |
+| 1 | [rush86999/atom](https://github.com/rush86999/atom) | General User | 94.57 | It maps to General User needs with an evidence-based score of 94.57. | Try today |
+| 2 | [umputun/ralphex](https://github.com/umputun/ralphex) | General User | 94.56 | It maps to General User needs with an evidence-based score of 94.56. | Try today |
+| 3 | [majiayu000/spellbook](https://github.com/majiayu000/spellbook) | General User | 92.97 | It maps to General User needs with an evidence-based score of 92.97. | Try today |
+| 4 | [Rheosoph/flow-like](https://github.com/Rheosoph/flow-like) | General User | 92.00 | It maps to General User needs with an evidence-based score of 92.00. | Try today |
+| 5 | [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) | General User | 91.64 | It maps to General User needs with an evidence-based score of 91.64. | Try today |
+| 6 | [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) | General User | 89.24 | It maps to General User needs with an evidence-based score of 89.24. | Try today |
+| 7 | [xingbofeng/VoxFlow](https://github.com/xingbofeng/VoxFlow) | General User | 89.11 | It maps to General User needs with an evidence-based score of 89.11. | Try today |
+| 8 | [the911fund/skill-of-skills](https://github.com/the911fund/skill-of-skills) | General User | 88.86 | It maps to General User needs with an evidence-based score of 88.86. | Try today |
+| 9 | [bex-co/bex](https://github.com/bex-co/bex) | General User | 88.80 | It maps to General User needs with an evidence-based score of 88.80. | Try today |
+| 10 | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | General User | 88.66 | It maps to General User needs with an evidence-based score of 88.66. | Try today |
 
 ## General User Finds
-### autobrr/autobrr
-- What it is: autobrr/autobrr is a Go project for General User: Modern, easy to use download automation for torrents and usenet.
+### rush86999/atom
+- What it is: rush86999/atom is a Python project for General User: Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 94.04
+- Score: 94.57
+- Difficulty: Advanced
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### umputun/ralphex
+- What it is: umputun/ralphex is a Go project for General User: Extended Ralph loop for autonomous AI-driven plan execution
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 94.56
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
@@ -50,20 +57,13 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### supernovae-st/nika
-- What it is: supernovae-st/nika is a Rust project for General User: Intent as Code | the workflow language for AI. One file, 4 verbs, one Rust binary. Local-first, any model, AGPL-3.0. 🦋
+### netease-youdao/LobsterAI
+- What it is: netease-youdao/LobsterAI is a TypeScript project for General User: Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 88.71
-- Difficulty: Advanced
+- Score: 91.64
+- Difficulty: Intermediate
 - Recommended action: Try today
-- Risk: many open issues relative to stars
-### ShaftHQ/SHAFT_ENGINE
-- What it is: ShaftHQ/SHAFT_ENGINE is a Java project for General User: Java test automation framework for web, mobile, API, CLI, database, and desktop E2E testing with a fluent API and built-in reporting.
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 84.19
-- Difficulty: Advanced
-- Recommended action: Try today
-- Risk: usage examples unclear
+- Risk: No major risk flag from collected evidence.
 
 ## Data Analyst Opportunities
 ### metabase/metabase
@@ -73,6 +73,13 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Study for learning
 - Risk: no README evidence, installation unclear, usage examples unclear
+### MahbubNibir/power-bi-retail-analytics-viz
+- What it is: MahbubNibir/power-bi-retail-analytics-viz is a HTML project for Data Analyst: Top Power BI Sales Dashboard 2026 for Profit & Regional Analysis
+- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
+- Score: 51.93
+- Difficulty: Unknown
+- Recommended action: Watch this week
+- Risk: no README evidence, installation unclear, usage examples unclear, no license
 ### valdeteselimi/DashPro-Monitor-IndustrialBI
 - What it is: valdeteselimi/DashPro-Monitor-IndustrialBI is a HTML project for Data Analyst: Power BI 2026: Smart Industrial Production Dashboard with DAX & Data Cleaning
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
@@ -94,22 +101,8 @@ LLM summary: `disabled`
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### youtukubek-tech/Netflix-Insights-Hub
-- What it is: youtukubek-tech/Netflix-Insights-Hub is a HTML project for Data Analyst: Top Netflix Movie & Show Trends Dashboard 2026 – Power BI Data Analytics
-- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 50.24
-- Difficulty: Unknown
-- Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
 
 ## Data Scientist Research Radar
-### NVIDIA-NeMo/Automodel
-- What it is: NVIDIA-NeMo/Automodel is a Python project for Data Scientist: 🚀 Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 51.98
-- Difficulty: Research-heavy
-- Recommended action: Track for research
-- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
 ### kanaa257/sosumi.ai
 - What it is: kanaa257/sosumi.ai is a TypeScript project for Data Scientist: 📄 Enhance Apple Developer docs by converting them into AI-readable Markdown for easier access and improved usability.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
@@ -124,13 +117,13 @@ LLM summary: `disabled`
 - Difficulty: Research-heavy
 - Recommended action: Skip for now
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### ITSpecialist111/HASS-AI-Orchestrator
-- What it is: ITSpecialist111/HASS-AI-Orchestrator is a Python project for General User: An autonomous multi-agent orchestration system for Home Assistant. Features local LLM control (Ollama/DeepSeek), & RAG-powered technical knowledge,
+### SikamikanikoBG/homelab-monitor
+- What it is: SikamikanikoBG/homelab-monitor is a Python project for Data Analyst: Plug-and-play homelab dashboard in one container — GPU, local-AI VRAM, Docker, systemd, host health. Built-in read-only MCP server so AI agents can explore it too.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 79.22
-- Difficulty: Intermediate
+- Score: 76.85
+- Difficulty: Beginner
 - Recommended action: Use as portfolio reference
-- Risk: no license
+- Risk: usage examples unclear
 ### Hal0ai/hal0
 - What it is: Hal0ai/hal0 is a Python project for General User: Open-source self-hosted home AI inference platform for AMD Strix Halo — multi-backend slots, OpenAI-compatible gateway, Vue 3 + FastAPI + systemd.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
@@ -138,12 +131,19 @@ LLM summary: `disabled`
 - Difficulty: Intermediate
 - Recommended action: Use as portfolio reference
 - Risk: many open issues relative to stars
+### unslothai/unsloth
+- What it is: unslothai/unsloth is a Python project for General User: Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 57.27
+- Difficulty: Unknown
+- Recommended action: Watch this week
+- Risk: no README evidence, installation unclear, usage examples unclear
 
 ## Action List
-- Try today: autobrr/autobrr, majiayu000/spellbook, Rheosoph/flow-like
-- Watch this week: can1357/oh-my-pi, HBAI-Ltd/Toonflow-app, rilldata/rill
-- Use as portfolio reference: Zettlr/Zettlr, amebalabs/TRex, naimkatiman/tradeclaw
-- Skip for now: faithlumumba/2025-tencent-advertising-algorithm-competition-finalist, MauroDruwel/NIMStats, m96-chan/ai_research_dashboard
+- Try today: rush86999/atom, umputun/ralphex, majiayu000/spellbook
+- Watch this week: HBAI-Ltd/Toonflow-app, rilldata/rill, archestra-ai/archestra
+- Use as portfolio reference: plainhub/plain-app, FluidifyAI/Regen, 0xPlaygrounds/rig
+- Skip for now: brianwestphal/glassbox, scikit-hep/awkward, faithlumumba/2025-tencent-advertising-algorithm-competition-finalist
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.

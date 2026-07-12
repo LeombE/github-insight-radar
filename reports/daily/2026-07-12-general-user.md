@@ -1,33 +1,41 @@
 # General User GitHub Insight - 2026-07-12
 
-Generated at: `2026-07-11T17:15:55+00:00`
+Generated at: `2026-07-12T06:47:38+00:00`
 Mode: `live`
 
 | Rank | Repo | Score | Action | Difficulty | Risk flags |
 | --- | --- | ---: | --- | --- | --- |
-| 1 | [autobrr/autobrr](https://github.com/autobrr/autobrr) | 100.00 | Try today | Intermediate | None |
-| 2 | [majiayu000/spellbook](https://github.com/majiayu000/spellbook) | 100.00 | Try today | Intermediate | None |
-| 3 | [Rheosoph/flow-like](https://github.com/Rheosoph/flow-like) | 100.00 | Try today | Advanced | None |
-| 4 | [supernovae-st/nika](https://github.com/supernovae-st/nika) | 100.00 | Try today | Advanced | many open issues relative to stars |
-| 5 | [ShaftHQ/SHAFT_ENGINE](https://github.com/ShaftHQ/SHAFT_ENGINE) | 100.00 | Try today | Advanced | usage examples unclear |
-| 6 | [Mann1988/awesome-claude-skills](https://github.com/Mann1988/awesome-claude-skills) | 100.00 | Try today | Intermediate | None |
-| 7 | [dcc-mcp/dcc-mcp-core](https://github.com/dcc-mcp/dcc-mcp-core) | 100.00 | Try today | Advanced | None |
-| 8 | [ninouanis84-sudo/foxl-orchestrator](https://github.com/ninouanis84-sudo/foxl-orchestrator) | 100.00 | Use as portfolio reference | Intermediate | no license |
-| 9 | [luqmanluqman7349-cloud/manga-synchronizer](https://github.com/luqmanluqman7349-cloud/manga-synchronizer) | 100.00 | Use as portfolio reference | Beginner | installation unclear, no license |
-| 10 | [StuMason/coolify-mcp](https://github.com/StuMason/coolify-mcp) | 90.50 | Try today | Intermediate | None |
-| 11 | [Fractera/Agent-Engineering-Infrastructure](https://github.com/Fractera/Agent-Engineering-Infrastructure) | 90.50 | Try today | Intermediate | None |
-| 12 | [ros-claw/rosclaw](https://github.com/ros-claw/rosclaw) | 90.50 | Try today | Intermediate | None |
-| 13 | [basefoundry/base](https://github.com/basefoundry/base) | 90.50 | Try today | Intermediate | None |
-| 14 | [cloudposse/atmos](https://github.com/cloudposse/atmos) | 90.50 | Try today | Intermediate | many open issues relative to stars |
-| 15 | [SynkraAI/aiox-core](https://github.com/SynkraAI/aiox-core) | 90.50 | Try today | Intermediate | None |
+| 1 | [rush86999/atom](https://github.com/rush86999/atom) | 100.00 | Try today | Advanced | None |
+| 2 | [umputun/ralphex](https://github.com/umputun/ralphex) | 100.00 | Try today | Intermediate | None |
+| 3 | [majiayu000/spellbook](https://github.com/majiayu000/spellbook) | 100.00 | Try today | Intermediate | None |
+| 4 | [Rheosoph/flow-like](https://github.com/Rheosoph/flow-like) | 100.00 | Try today | Advanced | None |
+| 5 | [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) | 100.00 | Try today | Intermediate | None |
+| 6 | [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) | 100.00 | Try today | Intermediate | None |
+| 7 | [xingbofeng/VoxFlow](https://github.com/xingbofeng/VoxFlow) | 100.00 | Try today | Intermediate | None |
+| 8 | [trip2g/trip2g](https://github.com/trip2g/trip2g) | 100.00 | Try today | Intermediate | many open issues relative to stars |
+| 9 | [ohdearquant/lionagi](https://github.com/ohdearquant/lionagi) | 100.00 | Try today | Intermediate | many open issues relative to stars |
+| 10 | [ShaftHQ/SHAFT_ENGINE](https://github.com/ShaftHQ/SHAFT_ENGINE) | 100.00 | Try today | Advanced | usage examples unclear |
+| 11 | [shinpr/claude-code-workflows](https://github.com/shinpr/claude-code-workflows) | 100.00 | Try today | Intermediate | None |
+| 12 | [Mann1988/awesome-claude-skills](https://github.com/Mann1988/awesome-claude-skills) | 100.00 | Try today | Intermediate | None |
+| 13 | [plainhub/plain-app](https://github.com/plainhub/plain-app) | 100.00 | Use as portfolio reference | Beginner | usage examples unclear |
+| 14 | [ninouanis84-sudo/foxl-orchestrator](https://github.com/ninouanis84-sudo/foxl-orchestrator) | 100.00 | Use as portfolio reference | Intermediate | no license |
+| 15 | [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) | 100.00 | Use as portfolio reference | Beginner | usage examples unclear, hype language without enough evidence, many open issues relative to stars |
 
 ## Project Notes
-### autobrr/autobrr
-- Summary: autobrr/autobrr is a Go project for General User: Modern, easy to use download automation for torrents and usenet.
-- Why it matters: It maps to General User needs with an evidence-based score of 94.04.
+### rush86999/atom
+- Summary: rush86999/atom is a Python project for General User: Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation
+- Why it matters: It maps to General User needs with an evidence-based score of 94.57.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn autobrr into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 2864; Forks: 211; Language: Go; License: GPL-2.0; README length: 20441; Topics: announce, autobrr, autodl-irssi, automation, bittorrent, deluge, docker, golang, irc, nzb, p2p, qbittorrent, radarr, sabnzbd, self-hosted, sonarr, torrent, transmission, usenet
+- Portfolio idea: Turn atom into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 785; Forks: 81; Language: Python; License: AGPL-3.0; README length: 20952; Topics: agentic-workflow, ai, ai-agent, calendar, finance, gdrive, gmail, google-calendar, notion, productivity, scheduler, shopify, slack, tasks, zoho, zoom
+- Confidence: high
+
+### umputun/ralphex
+- Summary: umputun/ralphex is a Go project for General User: Extended Ralph loop for autonomous AI-driven plan execution
+- Why it matters: It maps to General User needs with an evidence-based score of 94.56.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn ralphex into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 1361; Forks: 108; Language: Go; License: MIT; README length: 83058; Topics: automation, claude-code, codex, ralph-loop, ralph-wiggum, review
 - Confidence: high
 
 ### majiayu000/spellbook
@@ -43,15 +51,47 @@ Mode: `live`
 - Why it matters: It maps to General User needs with an evidence-based score of 92.00.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
 - Portfolio idea: Turn flow-like into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 910; Forks: 70; Language: TypeScript; License: NOASSERTION; README length: 13756; Topics: agents, ai, apis, automation, data-flow, development, llm, low-code, mcp, mcp-client, mcp-server, no-code, rust, self-hosted, typed, typescript, visual-scripting, workflow, workflow-automation
+- Evidence: Stars: 912; Forks: 70; Language: TypeScript; License: NOASSERTION; README length: 13756; Topics: agents, ai, apis, automation, data-flow, development, llm, low-code, mcp, mcp-client, mcp-server, no-code, rust, self-hosted, typed, typescript, visual-scripting, workflow, workflow-automation
 - Confidence: high
 
-### supernovae-st/nika
-- Summary: supernovae-st/nika is a Rust project for General User: Intent as Code | the workflow language for AI. One file, 4 verbs, one Rust binary. Local-first, any model, AGPL-3.0. 🦋
-- Why it matters: It maps to General User needs with an evidence-based score of 88.71.
+### netease-youdao/LobsterAI
+- Summary: netease-youdao/LobsterAI is a TypeScript project for General User: Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.
+- Why it matters: It maps to General User needs with an evidence-based score of 91.64.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn nika into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 25; Forks: 1; Language: Rust; License: AGPL-3.0; README length: 22785; Topics: agents, ai, ai-agents, ai-workflows, automation, cli, dag, developer-tools, devops, llm, local-ai, lsp, mcp, nika, ollama, rust, structured-output, workflow, workflow-engine, yaml
+- Portfolio idea: Turn LobsterAI into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 5518; Forks: 862; Language: TypeScript; License: MIT; README length: 10607; Topics: agent, ai-agent, ai-assistant, automation, autonomous-agents, chatbot, copilot, cross-platform, desktop-app, electron, llm, mcp, office-automation, openclaw, productivity, react, tyepscript
+- Confidence: high
+
+### oomol-lab/open-connector
+- Summary: oomol-lab/open-connector is a TypeScript project for General User: Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
+- Why it matters: It maps to General User needs with an evidence-based score of 89.24.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn open-connector into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 1473; Forks: 82; Language: TypeScript; License: Apache-2.0; README length: 14794; Topics: agent-tools, ai-agents, api-gateway, automation, cli, cloudflare-workers, connectors, integration-platform, mcp, model-context-protocol, oauth, oomol, openapi, openconnector, saas-integrations, sdk, self-hosted, typescript
+- Confidence: high
+
+### xingbofeng/VoxFlow
+- Summary: xingbofeng/VoxFlow is a Swift project for General User: A macOS voice, screenshot, clipboard, and coding-agent workbench.
+- Why it matters: It maps to General User needs with an evidence-based score of 89.11.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn VoxFlow into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 37; Forks: 2; Language: Swift; License: GPL-3.0; README length: 32130; Topics: appkit, asset-management, chinese, clipboard-manager, launcher, macos, menu-bar, open-source, productivity, screenshot-ocr, speech-recognition, swift
+- Confidence: high
+
+### trip2g/trip2g
+- Summary: trip2g/trip2g is a Go project for General User: Open-source MCP knowledge mesh - self-host your second brain, expose it to AI agents, federate with peers.
+- Why it matters: It maps to General User needs with an evidence-based score of 88.64.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn trip2g into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 23; Forks: 1; Language: Go; License: MIT; README length: 16917; Topics: ai-agent-memory, cms, digital-garden, golang, knowledge-base, markdown, mcp-server, obsidian, obsidian-publish, self-hosted, static-site-generator
+- Confidence: high
+
+### ohdearquant/lionagi
+- Summary: ohdearquant/lionagi is a Python project for General User: An intelligence orchestra
+- Why it matters: It maps to General User needs with an evidence-based score of 87.00.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn lionagi into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 400; Forks: 77; Language: Python; License: Apache-2.0; README length: 10122; Topics: agents, ai, automation, data, llm, machine-learning, workflow
 - Confidence: high
 
 ### ShaftHQ/SHAFT_ENGINE
@@ -62,6 +102,14 @@ Mode: `live`
 - Evidence: Stars: 394; Forks: 150; Language: Java; License: MIT; README length: 3351; Topics: appium, appium-framework, appium-java, automation, automation-engine, e2e-testing, end-to-end-testing, java, mcp-server, playwright-java, restassured, restassured-framework, selenium, selenium-grid, selenium-webdriver, test-automation, test-automation-framework, testing-framework, testing-tools
 - Confidence: high
 
+### shinpr/claude-code-workflows
+- Summary: shinpr/claude-code-workflows is a JavaScript project for General User: Production-ready development workflows for Claude Code, powered by specialized AI agents.
+- Why it matters: It maps to General User needs with an evidence-based score of 83.76.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn claude-code-workflows into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 628; Forks: 100; Language: JavaScript; License: MIT; README length: 22588; Topics: agent-skills, agentic-ai, ai-agents, automation, claude-code, claude-code-plugin, code-quality, developer-tools, development-workflow, llm-orchestration, productivity, prompt-engineering, skills
+- Confidence: high
+
 ### Mann1988/awesome-claude-skills
 - Summary: Mann1988/awesome-claude-skills is a Python project for General User: 📊 Explore high-quality Claude skills focused on business analysis and content creation, enhancing your AI capabilities for practical applications.
 - Why it matters: It maps to General User needs with an evidence-based score of 81.68.
@@ -70,12 +118,12 @@ Mode: `live`
 - Evidence: Stars: 63; Forks: 18; Language: Python; License: MIT; README length: 3584; Topics: anthropic, anthropic-claude, anthropic-skills, awesome-claude-code, claude-ai, claude-api, claude-code, claude-code-skills, claude-desktop, claude-skills, claude-skills-hub, codex-cli, gemini-cli, llama, openai, productivity, skills, tdd
 - Confidence: high
 
-### dcc-mcp/dcc-mcp-core
-- Summary: dcc-mcp/dcc-mcp-core is a Rust project for General User: Core runtime and shared tooling for DCC-MCP: safe, skill-first MCP integration across Maya, Blender, Houdini, Photoshop, and custom DCC hosts.
-- Why it matters: It maps to General User needs with an evidence-based score of 81.08.
+### plainhub/plain-app
+- Summary: plainhub/plain-app is a Kotlin project for General User: 🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.
+- Why it matters: It maps to General User needs with an evidence-based score of 79.97.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn dcc-mcp-core into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 32; Forks: 1; Language: Rust; License: MIT; README length: 7614; Topics: ai-agents, automation, blender, dcc, houdini, maya, mcp, model-context-protocol, photoshop, pyo3, python, rust
+- Portfolio idea: Turn plain-app into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 6019; Forks: 366; Language: Kotlin; License: AGPL-3.0; README length: 7976; Topics: android, android-app, compose, compose-ui, f-droid, fdroid, filemanager, graphql, jetpack-compose, ktor, learning, material-you, music-player, note-taking, privacy-protection, productivity, rss, rss-reader, screen-mirroring, web
 - Confidence: high
 
 ### ninouanis84-sudo/foxl-orchestrator
@@ -86,58 +134,10 @@ Mode: `live`
 - Evidence: Stars: 151; Forks: 0; Language: HTML; License: unavailable; README length: 7609; Topics: ai, ai-agent, anthropic, automation, browser-automation, chrome-extension, claude, claude-opus, claude-sonnet, desktop-app, electron, foxl, foxl-ai, macos, personal-agent, productivity, releases, scheduling, skills, windows
 - Confidence: high
 
-### luqmanluqman7349-cloud/manga-synchronizer
-- Summary: luqmanluqman7349-cloud/manga-synchronizer is a HTML project for General User: MeManga Pro 2026: Ultimate Manga Download Manager & CLI Power Tool
-- Why it matters: It maps to General User needs with an evidence-based score of 77.32.
+### TserenTserenov/FMT-exocortex-template
+- Summary: TserenTserenov/FMT-exocortex-template is a Shell project for General User: Exocortex template: fork & deploy your AI-powered personal knowledge system with Claude Code
+- Why it matters: It maps to General User needs with an evidence-based score of 70.95.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn manga-synchronizer into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 151; Forks: 0; Language: HTML; License: unavailable; README length: 8819; Topics: ebook, kindle, manga, manga-downloader, manga-scraper, self-hosted
-- Confidence: high
-
-### StuMason/coolify-mcp
-- Summary: StuMason/coolify-mcp is a TypeScript project for General User: MCP server for Coolify — 42 optimized tools for managing self-hosted PaaS through AI assistants
-- Why it matters: It maps to General User needs with an evidence-based score of 91.36.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn coolify-mcp into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 490; Forks: 67; Language: TypeScript; License: MIT; README length: 23602; Topics: ai, claude, coolify, deployment, devops, infrastructure, mcp, model-context-protocol, paas, self-hosted, typescript
-- Confidence: high
-
-### Fractera/Agent-Engineering-Infrastructure
-- Summary: Fractera/Agent-Engineering-Infrastructure is a TypeScript project for General User: Deploys your OS, databases, and SSL on your VPS in just 10 minutes. Orchestrates a team of AI agents for coding, marketing, and sales. The built-in optimizer saves up to 90% on token costs, letting you build and manage your online business directly through chat. Fully open-source.
-- Why it matters: It maps to General User needs with an evidence-based score of 88.93.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn Agent-Engineering-Infrastructure into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 33; Forks: 7; Language: TypeScript; License: NOASSERTION; README length: 48024; Topics: agent-engineering, b2b-automation, claude-code, devops-automation, edge-ai, hermes-agent, lightrag, local-rag, mcp-server, multi-agent-system, nextjs-aircraft-carrier, open-source, private-vps, self-hosted, token-efficiency
-- Confidence: high
-
-### ros-claw/rosclaw
-- Summary: ros-claw/rosclaw is a Python project for General User: Self-evolving runtime infrastructure for Physical AI and embodied agents. Ground AI agents into robot bodies with e-URDF, sandbox safety, capability routing, praxis capture, physical memory, runtime intervention, and skill evolution.
-- Why it matters: It maps to General User needs with an evidence-based score of 88.13.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn rosclaw into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 158; Forks: 31; Language: Python; License: MIT; README length: 10578; Topics: agent, agent-runtime, agent-runtimes, automation, autonomous-robotics, digital-twin, embodied-ai, llm, openclaw, physical-ai, robot, robot-operating-system, robot-safety, robotics, ros, ros2, self-evolving-ai, skill-learning, vla, vln
-- Confidence: high
-
-### basefoundry/base
-- Summary: basefoundry/base is a Python project for General User: Mac-first workspace orchestrator for bootstrapping developer environments, managing shell startup, and coordinating commands across peer project repos.
-- Why it matters: It maps to General User needs with an evidence-based score of 85.86.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn base into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 117; Forks: 13; Language: Python; License: NOASSERTION; README length: 70203; Topics: automation, bash, bash-scripts, bootstrap, cli, dev-environment, developer-tools, dotfiles, dotfiles-macos, homebrew, macos, multi-repo, project-orchestration, shell, workspace, workspace-management, zsh
-- Confidence: high
-
-### cloudposse/atmos
-- Summary: cloudposse/atmos is a Go project for General User: 👽 Terraform Orchestration Tool for DevOps. Keep environment configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile.
-- Why it matters: It maps to General User needs with an evidence-based score of 83.31.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn atmos into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 1330; Forks: 171; Language: Go; License: Apache-2.0; README length: 14180; Topics: automation, cli, cloud, devops, hcl2, helm, helmfile, orchestration, terraform, workflow
-- Confidence: high
-
-### SynkraAI/aiox-core
-- Summary: SynkraAI/aiox-core is a JavaScript project for General User: Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
-- Why it matters: It maps to General User needs with an evidence-based score of 82.91.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn aiox-core into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 3031; Forks: 931; Language: JavaScript; License: NOASSERTION; README length: 31499; Topics: agents, ai, ai-agents, automation, claude, cli, development, framework, fullstack, nodejs, orchestration, typescript
-- Confidence: high
+- Portfolio idea: Turn FMT-exocortex-template into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 41; Forks: 115; Language: Shell; License: MIT; README length: 16654; Topics: agent-skills, agentic-workflows, ai-agents, ai-second-brain, anthropic-claude, automation, claude-code, claude-plugin, developer-tools, exocortex, intellectual-work, knowledge-management, mcp, multi-agent, open-source, personal-knowledge-management, pkm, productivity-system, second-brain, self-improvement
+- Confidence: medium

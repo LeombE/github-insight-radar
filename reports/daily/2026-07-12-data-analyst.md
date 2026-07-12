@@ -1,24 +1,24 @@
 # Data Analyst GitHub Insight - 2026-07-12
 
-Generated at: `2026-07-11T17:15:55+00:00`
+Generated at: `2026-07-12T06:47:38+00:00`
 Mode: `live`
 
 | Rank | Repo | Score | Action | Difficulty | Risk flags |
 | --- | --- | ---: | --- | --- | --- |
 | 1 | [metabase/metabase](https://github.com/metabase/metabase) | 100.00 | Study for learning | Advanced | no README evidence, installation unclear, usage examples unclear |
-| 2 | [valdeteselimi/DashPro-Monitor-IndustrialBI](https://github.com/valdeteselimi/DashPro-Monitor-IndustrialBI) | 100.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 3 | [gbb014/IPL-Elite-Delivery-Forecast-Model](https://github.com/gbb014/IPL-Elite-Delivery-Forecast-Model) | 100.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 4 | [Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse](https://github.com/Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse) | 100.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 5 | [youtukubek-tech/Netflix-Insights-Hub](https://github.com/youtukubek-tech/Netflix-Insights-Hub) | 93.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 6 | [apache/superset](https://github.com/apache/superset) | 80.50 | Study for learning | Advanced | no README evidence, installation unclear, usage examples unclear |
-| 7 | [rilldata/rill](https://github.com/rilldata/rill) | 80.50 | Watch this week | Advanced | no README evidence, installation unclear, usage examples unclear |
-| 8 | [Diyorbek01660/aemr-energy-market-outage-analysis](https://github.com/Diyorbek01660/aemr-energy-market-outage-analysis) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 9 | [Lithiumgreentek/power-bi-design-vault](https://github.com/Lithiumgreentek/power-bi-design-vault) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 10 | [govinda25072003-ai/pbi-amazon-sales-dash](https://github.com/govinda25072003-ai/pbi-amazon-sales-dash) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 11 | [JingbiaoMei/Tokdash](https://github.com/JingbiaoMei/Tokdash) | 74.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear |
-| 12 | [sandro2211/powerbi-ml-insight-engine](https://github.com/sandro2211/powerbi-ml-insight-engine) | 68.00 | Skip for now | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 13 | [ArturSepp/QuantInvestStrats](https://github.com/ArturSepp/QuantInvestStrats) | 61.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear |
-| 14 | [AgamiAI/agami-core](https://github.com/AgamiAI/agami-core) | 61.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear |
+| 2 | [MahbubNibir/power-bi-retail-analytics-viz](https://github.com/MahbubNibir/power-bi-retail-analytics-viz) | 100.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 3 | [valdeteselimi/DashPro-Monitor-IndustrialBI](https://github.com/valdeteselimi/DashPro-Monitor-IndustrialBI) | 100.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 4 | [gbb014/IPL-Elite-Delivery-Forecast-Model](https://github.com/gbb014/IPL-Elite-Delivery-Forecast-Model) | 100.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 5 | [Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse](https://github.com/Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse) | 100.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 6 | [youtukubek-tech/Netflix-Insights-Hub](https://github.com/youtukubek-tech/Netflix-Insights-Hub) | 93.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 7 | [apache/superset](https://github.com/apache/superset) | 80.50 | Study for learning | Advanced | no README evidence, installation unclear, usage examples unclear |
+| 8 | [rilldata/rill](https://github.com/rilldata/rill) | 80.50 | Watch this week | Advanced | no README evidence, installation unclear, usage examples unclear |
+| 9 | [Diyorbek01660/aemr-energy-market-outage-analysis](https://github.com/Diyorbek01660/aemr-energy-market-outage-analysis) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 10 | [Lithiumgreentek/power-bi-design-vault](https://github.com/Lithiumgreentek/power-bi-design-vault) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 11 | [govinda25072003-ai/pbi-amazon-sales-dash](https://github.com/govinda25072003-ai/pbi-amazon-sales-dash) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 12 | [spiculedata/saiku](https://github.com/spiculedata/saiku) | 68.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear |
+| 13 | [sandro2211/powerbi-ml-insight-engine](https://github.com/sandro2211/powerbi-ml-insight-engine) | 68.00 | Skip for now | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 14 | [SikamikanikoBG/homelab-monitor](https://github.com/SikamikanikoBG/homelab-monitor) | 61.00 | Use as portfolio reference | Beginner | usage examples unclear |
 | 15 | [arabicapp/everything-claude-code](https://github.com/arabicapp/everything-claude-code) | 55.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear |
 
 ## Project Notes
@@ -27,7 +27,15 @@ Mode: `live`
 - Why it matters: It maps to Data Analyst needs with an evidence-based score of 65.95.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
 - Portfolio idea: Turn metabase into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 48150; Forks: 6657; Language: Clojure; License: NOASSERTION; README length: 0; Topics: analytics, bi, business-intelligence, businessintelligence, clojure, dashboard, data, data-analysis, data-visualization, database, metabase, mysql, postgres, postgresql, reporting, slack, sql-editor, visualization
+- Evidence: Stars: 48157; Forks: 6658; Language: Clojure; License: NOASSERTION; README length: 0; Topics: analytics, bi, business-intelligence, businessintelligence, clojure, dashboard, data, data-analysis, data-visualization, database, metabase, mysql, postgres, postgresql, reporting, slack, sql-editor, visualization
+- Confidence: low
+
+### MahbubNibir/power-bi-retail-analytics-viz
+- Summary: MahbubNibir/power-bi-retail-analytics-viz is a HTML project for Data Analyst: Top Power BI Sales Dashboard 2026 for Profit & Regional Analysis
+- Why it matters: It maps to Data Analyst needs with an evidence-based score of 51.93.
+- Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
+- Portfolio idea: Turn power-bi-retail-analytics-viz into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 152; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: blinkitdashboard, business-analytics, business-intelligence, css, data-cleaning, data-visualization, excel, interactivedashboard, javascript, parameshmandapaka, pivot-tables, powerbi-dashboards, powerquery, sales-analysis, sales-dashboard
 - Confidence: low
 
 ### valdeteselimi/DashPro-Monitor-IndustrialBI
@@ -67,7 +75,7 @@ Mode: `live`
 - Why it matters: It maps to Data Analyst needs with an evidence-based score of 60.77.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
 - Portfolio idea: Turn superset into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 73780; Forks: 17862; Language: TypeScript; License: Apache-2.0; README length: 0; Topics: analytics, apache, apache-superset, asf, bi, business-analytics, business-intelligence, data-analysis, data-analytics, data-engineering, data-science, data-visualization, data-viz, flask, python, react, sql-editor, superset
+- Evidence: Stars: 73785; Forks: 17866; Language: TypeScript; License: Apache-2.0; README length: 0; Topics: analytics, apache, apache-superset, asf, bi, business-analytics, business-intelligence, data-analysis, data-analytics, data-engineering, data-science, data-visualization, data-viz, flask, python, react, sql-editor, superset
 - Confidence: low
 
 ### rilldata/rill
@@ -75,7 +83,7 @@ Mode: `live`
 - Why it matters: It maps to Data Analyst needs with an evidence-based score of 58.97.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
 - Portfolio idea: Turn rill into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 2740; Forks: 186; Language: Go; License: Apache-2.0; README length: 0; Topics: ai, ai-chatbot, bi, business-analytics, csv, data, data-analysis, data-visualization, dataviz, duckdb, gen-ai, golang, parquet, parquet-tools, parquet-viewer, s3, sql, sql-editor, sveltekit
+- Evidence: Stars: 2743; Forks: 186; Language: Go; License: Apache-2.0; README length: 0; Topics: ai, ai-chatbot, bi, business-analytics, csv, data, data-analysis, data-visualization, dataviz, duckdb, gen-ai, golang, parquet, parquet-tools, parquet-viewer, s3, sql, sql-editor, sveltekit
 - Confidence: low
 
 ### Diyorbek01660/aemr-energy-market-outage-analysis
@@ -102,12 +110,12 @@ Mode: `live`
 - Evidence: Stars: 151; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: amazon, amazon-dashboard, amazon-dataset, amazonsales, data-analysis, data-science, data-visualization, dataanalyst, dataanalytics, power-bi, powerbi-dashboards, powerbi-projects, powerbi-visuals, powerbidashboard, visualization
 - Confidence: low
 
-### JingbiaoMei/Tokdash
-- Summary: JingbiaoMei/Tokdash is a Python project for Data Analyst: Agent Dashboard: Visualization and analytics for Sessions and Quota Usage. Track, analyze, and optimize token usage across providers with heatmaps, cost tracking, token counting and quota resets..
-- Why it matters: It maps to Data Analyst needs with an evidence-based score of 53.97.
+### spiculedata/saiku
+- Summary: spiculedata/saiku is a Java project for Data Analyst: Open-source semantic layer: one cube for Excel (MDX/XMLA), dashboards, and AI agents (MCP). Mondrian + Apache Calcite.
+- Why it matters: It maps to Data Analyst needs with an evidence-based score of 55.30.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
-- Portfolio idea: Turn Tokdash into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 35; Forks: 6; Language: Python; License: MIT; README length: 0; Topics: agent, analytics, anthropic, dashboard, developer-tools, llm, openai, visualization
+- Portfolio idea: Turn saiku into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 1309; Forks: 656; Language: Java; License: Apache-2.0; README length: 0; Topics: analytics, apache-calcite, business-intelligence, mcp, mdx, mondrian, olap, semantic-layer, xmla
 - Confidence: low
 
 ### sandro2211/powerbi-ml-insight-engine
@@ -118,21 +126,13 @@ Mode: `live`
 - Evidence: Stars: 151; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: data-analysis, dax, github-actions, powerbi-dashboards, python
 - Confidence: low
 
-### ArturSepp/QuantInvestStrats
-- Summary: ArturSepp/QuantInvestStrats is a Python project for Data Analyst: Quantitative Investment Strategies (QIS) package implements Python analytics for visualisation of financial data, performance reporting, analysis of quantitative strategies.
-- Why it matters: It maps to Data Analyst needs with an evidence-based score of 53.00.
+### SikamikanikoBG/homelab-monitor
+- Summary: SikamikanikoBG/homelab-monitor is a Python project for Data Analyst: Plug-and-play homelab dashboard in one container — GPU, local-AI VRAM, Docker, systemd, host health. Built-in read-only MCP server so AI agents can explore it too.
+- Why it matters: It maps to Data Analyst needs with an evidence-based score of 76.85.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
-- Portfolio idea: Turn QuantInvestStrats into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 580; Forks: 63; Language: Python; License: MIT; README length: 0; Topics: asset-management, data-analysis, data-visualization, investment-analysis, performance-attribution, portfolio-optimization, portfolio-risk-management, python, quantitative-finance
-- Confidence: low
-
-### AgamiAI/agami-core
-- Summary: AgamiAI/agami-core is a Python project for Data Analyst: The trust layer between AI and your data. Turns your database schema into a governed semantic model so AI answers with correct SQL and a receipt on every answer. Run it locally, or self-host a shared team server with Docker.
-- Why it matters: It maps to Data Analyst needs with an evidence-based score of 49.11.
-- Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
-- Portfolio idea: Turn agami-core into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 13; Forks: 0; Language: Python; License: NOASSERTION; README length: 0; Topics: analytics, business-intelligence, claude-skills, context-layer, context-layer-for-ai, mcp, nl2sql, semantic-layer, text-to-sql
-- Confidence: low
+- Portfolio idea: Turn homelab-monitor into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 149; Forks: 23; Language: Python; License: MIT; README length: 13186; Topics: agentic, ai-agents, ai-infrastructure, claude, dashboard, docker, gpu, gpu-monitoring, homelab, llm, local-ai, mcp, mcp-server, model-context-protocol, monitoring, nvidia, ollama, self-hosted, sysadmin, vram
+- Confidence: high
 
 ### arabicapp/everything-claude-code
 - Summary: arabicapp/everything-claude-code is a JavaScript project for General User: 🚀 Build powerful agents and configurations with the complete collection of Claude Code from an Anthropic hackathon winner, refined over 10+ months.
