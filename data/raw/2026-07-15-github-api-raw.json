@@ -1,0 +1,47 @@
+{
+  "mode": "live",
+  "queries": [
+    {
+      "audience": "general_user",
+      "query": "topic:productivity pushed:>=2026-07-07 stars:>20",
+      "count": 30
+    },
+    {
+      "audience": "general_user",
+      "query": "topic:automation pushed:>=2026-07-07 stars:>20",
+      "count": 30
+    },
+    {
+      "audience": "general_user",
+      "query": "topic:self-hosted pushed:>=2026-07-07 stars:>20",
+      "count": 30
+    },
+    {
+      "audience": "general_user",
+      "query": "topic:ai-tool pushed:>=2026-07-07 stars:>20",
+      "count": 5
+    },
+    {
+      "audience": "general_user",
+      "query": "topic:agent pushed:>=2026-07-07 stars:>20",
+      "count": 30
+    },
+    {
+      "audience": "general_user",
+      "query": "topic:cli pushed:>=2026-07-07 stars:>20",
+      "count": 30
+    },
+    {
+      "audience": "data_analyst",
+      "query": "topic:data-analysis pushed:>=2026-07-07 stars:>10",
+      "count": 30
+    },
+    {
+      "audience": "data_analyst",
+      "query": "topic:dashboard pushed:>=2026-07-07 stars:>10",
+      "count": 30
+    }
+  ],
+  "repository_count": 200,
+  "collected_at": "2026-07-14T17:34:02+00:00"
+}
