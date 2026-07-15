@@ -1,25 +1,25 @@
 # General User GitHub Insight - 2026-07-15
 
-Generated at: `2026-07-14T17:34:47+00:00`
+Generated at: `2026-07-15T06:28:18+00:00`
 Mode: `live`
 
 | Rank | Repo | Score | Action | Difficulty | Risk flags |
 | --- | --- | ---: | --- | --- | --- |
 | 1 | [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) | 100.00 | Try today | Intermediate | None |
-| 2 | [Peiiii/nextclaw](https://github.com/Peiiii/nextclaw) | 100.00 | Try today | Advanced | None |
-| 3 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 100.00 | Try today | Advanced | None |
-| 4 | [wshobson/agents](https://github.com/wshobson/agents) | 100.00 | Try today | Intermediate | None |
-| 5 | [automagik-dev/genie](https://github.com/automagik-dev/genie) | 100.00 | Try today | Intermediate | many open issues relative to stars |
-| 6 | [terrylica/cc-skills](https://github.com/terrylica/cc-skills) | 100.00 | Try today | Intermediate | many open issues relative to stars |
-| 7 | [deverman/FocusRelayMCP](https://github.com/deverman/FocusRelayMCP) | 100.00 | Try today | Intermediate | many open issues relative to stars |
-| 8 | [rortan134/cache-app](https://github.com/rortan134/cache-app) | 100.00 | Try today | Intermediate | many open issues relative to stars |
-| 9 | [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft) | 100.00 | Try today | Intermediate | None |
-| 10 | [floomhq/floom](https://github.com/floomhq/floom) | 100.00 | Try today | Intermediate | many open issues relative to stars |
-| 11 | [Mann1988/awesome-claude-skills](https://github.com/Mann1988/awesome-claude-skills) | 100.00 | Try today | Intermediate | None |
-| 12 | [ninouanis84-sudo/foxl-orchestrator](https://github.com/ninouanis84-sudo/foxl-orchestrator) | 100.00 | Use as portfolio reference | Intermediate | no license |
-| 13 | [Oolab-labs/patchwork-os](https://github.com/Oolab-labs/patchwork-os) | 100.00 | Use as portfolio reference | Beginner | usage examples unclear |
-| 14 | [J-nowcow/awesome-korean-agent-skills](https://github.com/J-nowcow/awesome-korean-agent-skills) | 100.00 | Study for learning | Beginner | installation unclear, usage examples unclear |
-| 15 | [apache/airflow](https://github.com/apache/airflow) | 90.50 | Try today | Advanced | None |
+| 2 | [chattermate/chattermate.chat](https://github.com/chattermate/chattermate.chat) | 100.00 | Try today | Intermediate | None |
+| 3 | [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) | 100.00 | Try today | Intermediate | None |
+| 4 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 100.00 | Try today | Advanced | None |
+| 5 | [basefoundry/base](https://github.com/basefoundry/base) | 100.00 | Try today | Intermediate | many open issues relative to stars |
+| 6 | [callstack/agent-device](https://github.com/callstack/agent-device) | 100.00 | Try today | Intermediate | None |
+| 7 | [leeguooooo/claude-code-usage-bar](https://github.com/leeguooooo/claude-code-usage-bar) | 100.00 | Try today | Intermediate | None |
+| 8 | [tsaijamey/frago](https://github.com/tsaijamey/frago) | 100.00 | Try today | Intermediate | None |
+| 9 | [Mann1988/awesome-claude-skills](https://github.com/Mann1988/awesome-claude-skills) | 100.00 | Try today | Intermediate | None |
+| 10 | [ninouanis84-sudo/foxl-orchestrator](https://github.com/ninouanis84-sudo/foxl-orchestrator) | 100.00 | Use as portfolio reference | Intermediate | no license |
+| 11 | [apache/airflow](https://github.com/apache/airflow) | 90.50 | Try today | Advanced | None |
+| 12 | [langgenius/dify](https://github.com/langgenius/dify) | 90.50 | Try today | Advanced | None |
+| 13 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 90.50 | Try today | Intermediate | None |
+| 14 | [Lyellr88/marm-memory](https://github.com/Lyellr88/marm-memory) | 90.50 | Try today | Intermediate | None |
+| 15 | [the911fund/skill-of-skills](https://github.com/the911fund/skill-of-skills) | 90.50 | Try today | Intermediate | many open issues relative to stars |
 
 ## Project Notes
 ### ykdojo/claude-code-tips
@@ -27,15 +27,23 @@ Mode: `live`
 - Why it matters: It maps to General User needs with an evidence-based score of 98.81.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
 - Portfolio idea: Turn claude-code-tips into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 9248; Forks: 731; Language: HTML; License: NOASSERTION; README length: 76666; Topics: agentic, agentic-ai, agentic-coding, agentic-workflow, ai, claude, claude-ai, claude-code, cli, developer-tools, productivity, tips-and-tricks
+- Evidence: Stars: 9266; Forks: 734; Language: HTML; License: NOASSERTION; README length: 75664; Topics: agentic, agentic-ai, agentic-coding, agentic-workflow, ai, claude, claude-ai, claude-code, cli, developer-tools, productivity, tips-and-tricks
 - Confidence: high
 
-### Peiiii/nextclaw
-- Summary: Peiiii/nextclaw is a TypeScript project for General User: Local-first AI workspace for agents, skills, files, browser tools, automations, and messaging channels.
-- Why it matters: It maps to General User needs with an evidence-based score of 92.91.
+### chattermate/chattermate.chat
+- Summary: chattermate/chattermate.chat is a Python project for General User: Open-source AI customer support platform — AI chatbot with human handoff, Shopify & Slack integrations, visual workflow builder. Self-hosted alternative to Intercom & Zendesk. Apache-2.0.
+- Why it matters: It maps to General User needs with an evidence-based score of 92.41.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn nextclaw into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 220; Forks: 33; Language: TypeScript; License: MIT; README length: 7862; Topics: agentic-workflows, ai-agent, ai-assistant, automation, desktop-app, feishu, llm, local-first, mcp, open-source, self-hosted, typescript, wechat
+- Portfolio idea: Turn chattermate.chat into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 73; Forks: 29; Language: Python; License: Apache-2.0; README length: 18310; Topics: ai, ai-agents, chatbot, customer-service, customer-support, fastapi, help-desk, human-handoff, intercom-alternative, live-chat, llm, open-source, self-hosted, shopify, vue, zendesk-alternative
+- Confidence: high
+
+### netease-youdao/LobsterAI
+- Summary: netease-youdao/LobsterAI is a TypeScript project for General User: Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.
+- Why it matters: It maps to General User needs with an evidence-based score of 91.64.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn LobsterAI into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 5555; Forks: 863; Language: TypeScript; License: MIT; README length: 10607; Topics: agent, ai-agent, ai-assistant, automation, autonomous-agents, chatbot, copilot, cross-platform, desktop-app, electron, llm, mcp, office-automation, openclaw, productivity, react, tyepscript
 - Confidence: high
 
 ### n8n-io/n8n
@@ -43,63 +51,39 @@ Mode: `live`
 - Why it matters: It maps to General User needs with an evidence-based score of 90.30.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
 - Portfolio idea: Turn n8n into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 196431; Forks: 59319; Language: TypeScript; License: NOASSERTION; README length: 3994; Topics: ai, apis, automation, cli, data-flow, development, integration-framework, integrations, ipaas, low-code, low-code-platform, mcp, mcp-client, mcp-server, n8n, no-code, self-hosted, typescript, workflow, workflow-automation
+- Evidence: Stars: 196485; Forks: 59329; Language: TypeScript; License: NOASSERTION; README length: 3994; Topics: ai, apis, automation, cli, data-flow, development, integration-framework, integrations, ipaas, low-code, low-code-platform, mcp, mcp-client, mcp-server, n8n, no-code, self-hosted, typescript, workflow, workflow-automation
 - Confidence: high
 
-### wshobson/agents
-- Summary: wshobson/agents is a Python project for General User: Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
-- Why it matters: It maps to General User needs with an evidence-based score of 88.10.
+### basefoundry/base
+- Summary: basefoundry/base is a Python project for General User: Mac-first workspace orchestrator for bootstrapping developer environments, managing shell startup, and coordinating commands across peer project repos.
+- Why it matters: It maps to General User needs with an evidence-based score of 90.10.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn agents into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 37905; Forks: 4073; Language: Python; License: MIT; README length: 8085; Topics: agent-skills, agentic-ai, agents, ai-agents, anthropic, automation, claude-code, claude-code-plugins, codex-cli, copilot, cursor, cursor-rules, developer-tools, gemini-cli, mcp, multi-agent, opencode, orchestration, prompt-engineering, workflows
+- Portfolio idea: Turn base into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 118; Forks: 13; Language: Python; License: NOASSERTION; README length: 74964; Topics: automation, bash, bash-scripts, bootstrap, cli, dev-environment, developer-tools, dotfiles, dotfiles-macos, homebrew, macos, multi-repo, project-orchestration, shell, workspace, workspace-management, zsh
 - Confidence: high
 
-### automagik-dev/genie
-- Summary: automagik-dev/genie is a TypeScript project for General User: Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.
-- Why it matters: It maps to General User needs with an evidence-based score of 87.61.
+### callstack/agent-device
+- Summary: callstack/agent-device is a TypeScript project for General User: CLI to control iOS and Android devices for AI agents
+- Why it matters: It maps to General User needs with an evidence-based score of 85.29.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn genie into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 323; Forks: 54; Language: TypeScript; License: MIT; README length: 23084; Topics: ai-agents, ai-developer-tools, anthropic, automation, autonomous-agents, claude, claude-code, cli, coding-agents, context-engineering, developer-tools, llm, mcp, orchestration, parallel-agents, productivity, terminal, typescript, vibe-coding, worktrees
+- Portfolio idea: Turn agent-device into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 3363; Forks: 185; Language: TypeScript; License: MIT; README length: 10107; Topics: adb, agentic-ai, agents, ai-agents, android-emulator, automation, e2e-testing, expo, flutter, ios-simulator, mcp, mobile, mobile-testing, performance-optimization, react-native, testing, xcuitest
 - Confidence: high
 
-### terrylica/cc-skills
-- Summary: terrylica/cc-skills is a Shell project for General User: Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, semantic versioning, and productivity workflows
-- Why it matters: It maps to General User needs with an evidence-based score of 87.46.
+### leeguooooo/claude-code-usage-bar
+- Summary: leeguooooo/claude-code-usage-bar is a Python project for General User: Lightweight Claude Code statusLine: 5h/7d rate-limit usage, reset countdowns, model + context window, prompt-cache age — one line, 3 styles × 9 themes, daemon fast-mode
+- Why it matters: It maps to General User needs with an evidence-based score of 84.34.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn cc-skills into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 58; Forks: 8; Language: Shell; License: MIT; README length: 34343; Topics: ai-agents, ai-tools, anthropic, automation, claude, claude-code, clickhouse, coding-assistant, developer-tools, devops, llm, marketplace, mcp, open-source, plugins, productivity, prompt-engineering, semantic-release, skills, workflow
+- Portfolio idea: Turn claude-code-usage-bar into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 315; Forks: 20; Language: Python; License: MIT; README length: 48925; Topics: ai-tools, anthropic, claude, claude-ai, claude-code, cli-tool, developer-tools, monitoring, productivity, python, rate-limit, status-bar, statusline, token-monitoring, usage-tracking
 - Confidence: high
 
-### deverman/FocusRelayMCP
-- Summary: deverman/FocusRelayMCP is a Swift project for General User: Fast native Swift OmniFocus MCP server and CLI for macOS. Let AI assistants safely read, update, complete, and organize tasks and projects through documented Omni Automation APIs.
-- Why it matters: It maps to General User needs with an evidence-based score of 86.70.
+### tsaijamey/frago
+- Summary: tsaijamey/frago is a Python project for General User: Multi-runtime automation infrastructure for AI agents. Native CDP browser control, metadata-driven Recipe system, and persistent Run context management.
+- Why it matters: It maps to General User needs with an evidence-based score of 82.84.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn FocusRelayMCP into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 31; Forks: 5; Language: Swift; License: MIT; README length: 11627; Topics: ai, ai-agent, automation, claude, cli, homebrew, llm, macos, mcp, mcp-server, model-context-protocol, modelcontextprotocol, omni-automation, omnifocus, omnifocus-mcp, productivity, swift, task-management
-- Confidence: high
-
-### rortan134/cache-app
-- Summary: rortan134/cache-app is a TypeScript project for General User: (New) The AI bookmark manager for busy people. With support for links, notes, images, and videos. ⭐
-- Why it matters: It maps to General User needs with an evidence-based score of 85.20.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn cache-app into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 22; Forks: 0; Language: TypeScript; License: Apache-2.0; README length: 8202; Topics: accessibility, agents, ai, aiagents, artificial-intelligence, automation, bookmark-manager, bookmarks, bookmarks-manager, chatbot, nextjs, prisma, productivity, rag, react, self-hosted, tailwindcss, typescript, zod
-- Confidence: high
-
-### sametcelikbicak/rolecraft
-- Summary: sametcelikbicak/rolecraft is a JavaScript project for General User: Zero-dependency CLI to install AI agent skills directly from any source. Skills + MCP servers. No marketplace, no registry, no signup. Works with opencode, claude-code, cursor, and all spec-compliant agents.
-- Why it matters: It maps to General User needs with an evidence-based score of 85.17.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn rolecraft into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 69; Forks: 9; Language: JavaScript; License: MIT; README length: 20374; Topics: agent, ai, ai-agents, aider, awesome, awesome-list, claude-code, cli, cline, copilot, cursor, devtools, gemini, opencode, productivity, skill, skill-installer, skill-tool, skills, windsurf
-- Confidence: high
-
-### floomhq/floom
-- Summary: floomhq/floom is a Python project for General User: AI runtime for creating, running, and supervising background AI workers.
-- Why it matters: It maps to General User needs with an evidence-based score of 85.03.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn floom into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 45; Forks: 2; Language: Python; License: MIT; README length: 16312; Topics: agent-runtime, ai-agents, ai-skills, ai-workers, automation, llm, mcp, python
+- Portfolio idea: Turn frago into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 60; Forks: 12; Language: Python; License: AGPL-3.0; README length: 2928; Topics: ai, ai-agents, automation, browser-automation, cdp, chrome-automation, chrome-devtools-protocol, claude-ai, claude-code, claude-cowork, cli, cowork-alternative, python, recipe-system
 - Confidence: high
 
 ### Mann1988/awesome-claude-skills
@@ -118,26 +102,42 @@ Mode: `live`
 - Evidence: Stars: 151; Forks: 0; Language: HTML; License: unavailable; README length: 7609; Topics: ai, ai-agent, anthropic, automation, browser-automation, chrome-extension, claude, claude-opus, claude-sonnet, desktop-app, electron, foxl, foxl-ai, macos, personal-agent, productivity, releases, scheduling, skills, windows
 - Confidence: high
 
-### Oolab-labs/patchwork-os
-- Summary: Oolab-labs/patchwork-os is a TypeScript project for General User: The decision layer for personal AI. Local-first runtime where agents automate across GitHub, Slack, Gmail & 45+ services — but every risky action stops for your yes, workers earn autonomy from track record, and every decision leaves a receipt. Your models, your machine, your policy. Includes an MCP bridge: 177 IDE tools for Claude Code.
-- Why it matters: It maps to General User needs with an evidence-based score of 76.28.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn patchwork-os into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 27; Forks: 4; Language: TypeScript; License: MIT; README length: 6533; Topics: ai-agent, anthropic, approval-queue, automation, claude, claude-code, ide, local-first, lsp, mcp, mcp-server, ollama, patchwork, recipes, vscode-extension
-- Confidence: high
-
-### J-nowcow/awesome-korean-agent-skills
-- Summary: J-nowcow/awesome-korean-agent-skills is a unavailable project for General User: 🇰🇷 400+ Korean AI Coding Agent Skills — Claude Code, Gemini CLI, Codex, Cursor 스킬을 기능별로 모은 큐레이션
-- Why it matters: It maps to General User needs with an evidence-based score of 67.53.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn awesome-korean-agent-skills into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 24; Forks: 7; Language: unavailable; License: CC0-1.0; README length: 8221; Topics: agent-skills, agents, ai-agents, ai-coding, automation, awesome, awesome-korean, awesome-list, claude, claude-code, claude-code-skills, codex-cli, cursor-rules, developer-tools, gemini-cli, korean, productivity, prompt-engineering, skills, vibe-coding
-- Confidence: medium
-
 ### apache/airflow
 - Summary: apache/airflow is a Python project for General User: Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - Why it matters: It maps to General User needs with an evidence-based score of 95.22.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
 - Portfolio idea: Turn airflow into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 46118; Forks: 17385; Language: Python; License: Apache-2.0; README length: 40549; Topics: airflow, apache, apache-airflow, automation, dag, data-engineering, data-integration, data-orchestrator, data-pipelines, data-science, elt, etl, machine-learning, mlops, orchestration, python, scheduler, workflow, workflow-engine, workflow-orchestration
+- Evidence: Stars: 46121; Forks: 17387; Language: Python; License: Apache-2.0; README length: 40549; Topics: airflow, apache, apache-airflow, automation, dag, data-engineering, data-integration, data-orchestrator, data-pipelines, data-science, elt, etl, machine-learning, mlops, orchestration, python, scheduler, workflow, workflow-engine, workflow-orchestration
+- Confidence: high
+
+### langgenius/dify
+- Summary: langgenius/dify is a TypeScript project for General User: Production-ready platform for agentic workflow development.
+- Why it matters: It maps to General User needs with an evidence-based score of 94.72.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn dify into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 148870; Forks: 23441; Language: TypeScript; License: NOASSERTION; README length: 14108; Topics: agent, agentic-ai, agentic-framework, agentic-workflow, ai, automation, gemini, genai, gpt, gpt-4, llm, low-code, mcp, nextjs, no-code, openai, orchestration, python, rag, workflow
+- Confidence: high
+
+### kestra-io/kestra
+- Summary: kestra-io/kestra is a Java project for General User: Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+- Why it matters: It maps to General User needs with an evidence-based score of 93.52.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn kestra into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 27435; Forks: 2817; Language: Java; License: Apache-2.0; README length: 14091; Topics: ai-agents, automation, control-plane, data-engineering, data-orchestration, data-orchestrator, devops, etl, hacktoberfest, high-availability, infra-automation, infra-ops, infrastructure-as-code, java, low-code, orchestration, pipeline, pipeline-as-code, scheduler, workflow
+- Confidence: high
+
+### Lyellr88/marm-memory
+- Summary: Lyellr88/marm-memory is a Python project for General User: Local-first 3-in-1 AI memory layer & MCP server for Claude Code & Cursor. Fuses session history, codebase indices & concept graphs in SQLite. Enables zero-cloud, privacy-first context & instant recall for multi-agent swarms.
+- Why it matters: It maps to General User needs with an evidence-based score of 93.44.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn marm-memory into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 308; Forks: 57; Language: Python; License: Apache-2.0; README length: 60044; Topics: agent-memory, ai-agents, ai-memory, claude-code, codex-cli, developer-tools, embeddings, indexing-engine, knowledge-graph, llm, local-first, long-term-memory, mcp, mcp-servers, model-context-protocol, persistent-memory, rag, self-hosted, sematic-search, sqlite
+- Confidence: high
+
+### the911fund/skill-of-skills
+- Summary: the911fund/skill-of-skills is a Python project for General User: The autonomous discovery engine for AI coding tools. Indexes skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
+- Why it matters: It maps to General User needs with an evidence-based score of 88.94.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn skill-of-skills into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 25; Forks: 9; Language: Python; License: MIT; README length: 245852; Topics: ai-tools, automation, claude-code, discovery-engine, mcp-servers, n8n, open-source, plugins, skills
 - Confidence: high
