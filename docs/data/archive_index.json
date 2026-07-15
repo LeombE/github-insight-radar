@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-07-16",
+    "generated_at": "2026-07-15T17:39:13+00:00",
+    "mode": "live",
+    "run_id": "live-2026-07-16-2026-07-15T173913-0000",
+    "daily_brief_path": "reports/daily/2026-07-16-daily-brief.md",
+    "json_path": "data/processed/2026-07-16-github-insight-projects.json",
+    "csv_path": "data/processed/2026-07-16-github-insight-projects.csv",
+    "selected_count": 200,
+    "top_project": "ykdojo/claude-code-tips"
+  },
+  {
     "date": "2026-07-15",
     "generated_at": "2026-07-15T06:28:18+00:00",
     "mode": "live",

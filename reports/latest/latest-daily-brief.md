@@ -1,6 +1,6 @@
-# GitHub Insight Daily Brief - 2026-07-15
+# GitHub Insight Daily Brief - 2026-07-16
 
-Generated at: `2026-07-15T06:28:18+00:00`
+Generated at: `2026-07-15T17:39:13+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -11,21 +11,21 @@ LLM summary: `disabled`
 - Top overall opportunity: [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) with score 98.81.
 - General user opportunity: [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips)
 - Data analyst opportunity: [grafana/grafana](https://github.com/grafana/grafana)
-- Data scientist opportunity: [hyeonsangjeon/gdpval-realworks](https://github.com/hyeonsangjeon/gdpval-realworks)
+- Data scientist opportunity: [lance-format/lance](https://github.com/lance-format/lance)
 - Most common risk pattern: usage examples unclear
 
 ## Top Overall Projects
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
 | 1 | [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) | General User | 98.81 | It maps to General User needs with an evidence-based score of 98.81. | Try today |
-| 2 | [apache/airflow](https://github.com/apache/airflow) | General User | 95.22 | It maps to General User needs with an evidence-based score of 95.22. | Try today |
-| 3 | [langgenius/dify](https://github.com/langgenius/dify) | General User | 94.72 | It maps to General User needs with an evidence-based score of 94.72. | Try today |
+| 2 | [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) | General User | 96.38 | It maps to General User needs with an evidence-based score of 96.38. | Try today |
+| 3 | [rush86999/atom](https://github.com/rush86999/atom) | General User | 94.57 | It maps to General User needs with an evidence-based score of 94.57. | Try today |
 | 4 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | General User | 93.52 | It maps to General User needs with an evidence-based score of 93.52. | Try today |
-| 5 | [Lyellr88/marm-memory](https://github.com/Lyellr88/marm-memory) | General User | 93.44 | It maps to General User needs with an evidence-based score of 93.44. | Try today |
-| 6 | [chattermate/chattermate.chat](https://github.com/chattermate/chattermate.chat) | General User | 92.41 | It maps to General User needs with an evidence-based score of 92.41. | Try today |
-| 7 | [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) | General User | 91.64 | It maps to General User needs with an evidence-based score of 91.64. | Try today |
-| 8 | [simstudioai/sim](https://github.com/simstudioai/sim) | General User | 90.52 | It maps to General User needs with an evidence-based score of 90.52. | Try today |
-| 9 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
+| 5 | [mattgierhart/PRD-driven-context-engineering](https://github.com/mattgierhart/PRD-driven-context-engineering) | General User | 92.86 | It maps to General User needs with an evidence-based score of 92.86. | Try today |
+| 6 | [SigNoz/signoz](https://github.com/SigNoz/signoz) | General User | 92.32 | It maps to General User needs with an evidence-based score of 92.32. | Try today |
+| 7 | [Bassey240/vikunja-pwa](https://github.com/Bassey240/vikunja-pwa) | General User | 91.31 | It maps to General User needs with an evidence-based score of 91.31. | Try today |
+| 8 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
+| 9 | [superplanehq/superplane](https://github.com/superplanehq/superplane) | General User | 90.13 | It maps to General User needs with an evidence-based score of 90.13. | Try today |
 | 10 | [basefoundry/base](https://github.com/basefoundry/base) | General User | 90.10 | It maps to General User needs with an evidence-based score of 90.10. | Try today |
 
 ## General User Finds
@@ -36,34 +36,34 @@ LLM summary: `disabled`
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### chattermate/chattermate.chat
-- What it is: chattermate/chattermate.chat is a Python project for General User: Open-source AI customer support platform — AI chatbot with human handoff, Shopify & Slack integrations, visual workflow builder. Self-hosted alternative to Intercom & Zendesk. Apache-2.0.
+### builderz-labs/mission-control
+- What it is: builderz-labs/mission-control is a TypeScript project for General User: Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 92.41
+- Score: 96.38
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### netease-youdao/LobsterAI
-- What it is: netease-youdao/LobsterAI is a TypeScript project for General User: Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.
+### rush86999/atom
+- What it is: rush86999/atom is a Python project for General User: Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 91.64
-- Difficulty: Intermediate
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### n8n-io/n8n
-- What it is: n8n-io/n8n is a TypeScript project for General User: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 90.30
+- Score: 94.57
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### basefoundry/base
-- What it is: basefoundry/base is a Python project for General User: Mac-first workspace orchestrator for bootstrapping developer environments, managing shell startup, and coordinating commands across peer project repos.
+### mattgierhart/PRD-driven-context-engineering
+- What it is: mattgierhart/PRD-driven-context-engineering is a HTML project for General User: PRD-driven Context Engineering: A systematic approach to building AI-powered products using progressive documentation and context-aware development workflows
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 90.10
+- Score: 92.86
 - Difficulty: Intermediate
 - Recommended action: Try today
-- Risk: many open issues relative to stars
+- Risk: No major risk flag from collected evidence.
+### Bassey240/vikunja-pwa
+- What it is: Bassey240/vikunja-pwa is a TypeScript project for General User: Unofficial third-party Vikunja client
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 91.31
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
 
 ## Data Analyst Opportunities
 ### grafana/grafana
@@ -87,22 +87,29 @@ LLM summary: `disabled`
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### youtukubek-tech/Netflix-Insights-Hub
-- What it is: youtukubek-tech/Netflix-Insights-Hub is a HTML project for Data Analyst: Top Netflix Movie & Show Trends Dashboard 2026 – Power BI Data Analytics
+### Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse
+- What it is: Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse is a HTML project for Data Analyst: Advanced MS SQL Server & Power BI Data Warehousing & Fleet Logistics Engine 2026
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 50.24
+- Score: 51.42
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### apache/superset
-- What it is: apache/superset is a TypeScript project for Data Analyst: Apache Superset is a Data Visualization and Data Exploration Platform
+### frappe/insights
+- What it is: frappe/insights is a Vue project for Data Analyst: Open Source Business Intelligence Tool
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 60.77
-- Difficulty: Advanced
-- Recommended action: Study for learning
-- Risk: no README evidence, installation unclear, usage examples unclear
+- Score: 59.27
+- Difficulty: Unknown
+- Recommended action: Watch this week
+- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
 
 ## Data Scientist Research Radar
+### lance-format/lance
+- What it is: lance-format/lance is a Rust project for Data Scientist: Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 55.73
+- Difficulty: Advanced
+- Recommended action: Track for research
+- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
 ### hyeonsangjeon/gdpval-realworks
 - What it is: hyeonsangjeon/gdpval-realworks is a Python project for Data Scientist: Benchmark LLMs on real professional tasks, not academic puzzles. YAML-driven experiment pipeline + live React dashboard for GDPVal Gold Subset (220 tasks across 11 industries).
 - Angle: Useful for model, benchmark, notebook, or experiment review.
@@ -110,6 +117,20 @@ LLM summary: `disabled`
 - Difficulty: Research-heavy
 - Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear
+### langfuse/langfuse
+- What it is: langfuse/langfuse is a TypeScript project for Data Scientist: 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 87.88
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### juspay/neurolink
+- What it is: juspay/neurolink is a TypeScript project for General User: One TypeScript interface for 24+ LLM providers — swap providers without rewriting. MCP-native (58+ servers), voice (TTS/STT/realtime), RAG, memory, file processors. Production-origin: powers Tara, Yama, and Clairvoyance at Juspay.
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 87.75
+- Difficulty: Advanced
+- Recommended action: Try today
+- Risk: many open issues relative to stars
 ### flyteorg/flyte
 - What it is: flyteorg/flyte is a Go project for General User: Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
@@ -117,40 +138,19 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear
-### kanaa257/sosumi.ai
-- What it is: kanaa257/sosumi.ai is a TypeScript project for Data Scientist: 📄 Enhance Apple Developer docs by converting them into AI-readable Markdown for easier access and improved usability.
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 46.00
-- Difficulty: Research-heavy
-- Recommended action: Track for research
-- Risk: no README evidence, installation unclear, usage examples unclear
-### MauroDruwel/NIMStats
-- What it is: MauroDruwel/NIMStats is a JavaScript project for Data Scientist: 📊 Automated hourly benchmarks for 20+ NVIDIA NIM models — interactive dashboard, zero infra, self-hostable. Open-source & community-driven.
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 44.54
-- Difficulty: Research-heavy
-- Recommended action: Skip for now
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
-### Lyellr88/marm-memory
-- What it is: Lyellr88/marm-memory is a Python project for General User: Local-first 3-in-1 AI memory layer & MCP server for Claude Code & Cursor. Fuses session history, codebase indices & concept graphs in SQLite. Enables zero-cloud, privacy-first context & instant recall for multi-agent swarms.
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 93.44
-- Difficulty: Intermediate
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
 
 ## Action List
-- Try today: ykdojo/claude-code-tips, apache/airflow, langgenius/dify
-- Watch this week: OpenHands/OpenHands, clawplays/ospec, HBAI-Ltd/Toonflow-app
-- Use as portfolio reference: Gusto/baerly-storage, urzeye/ophel, suxrobGM/jobpilot
-- Skip for now: faithlumumba/2025-tencent-advertising-algorithm-competition-finalist, atomantic/PortOS, MauroDruwel/NIMStats
+- Try today: ykdojo/claude-code-tips, builderz-labs/mission-control, rush86999/atom
+- Watch this week: AnalyseDeCircuit/oxideterm, OpenHands/OpenHands, esengine/DeepSeek-Reasonix
+- Use as portfolio reference: babyvibe/deplao-builder, TomBadash/Mouser, immich-app/immich
+- Skip for now: MauroDruwel/NIMStats, m96-chan/ai_research_dashboard, hamidi-dev/opentab
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.
 
 ## Data Files
-- Raw API JSON: `data/raw/2026-07-15-github-api-raw.json`
-- Daily projects JSON: `data/processed/2026-07-15-github-insight-projects.json`
-- Daily projects CSV: `data/processed/2026-07-15-github-insight-projects.csv`
+- Raw API JSON: `data/raw/2026-07-16-github-api-raw.json`
+- Daily projects JSON: `data/processed/2026-07-16-github-insight-projects.json`
+- Daily projects CSV: `data/processed/2026-07-16-github-insight-projects.csv`
 - Master CSV: `data/processed/github_repos_master.csv`
 - Dashboard JSON: `docs/data/latest.json`
