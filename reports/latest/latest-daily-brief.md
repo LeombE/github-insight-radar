@@ -1,6 +1,6 @@
-# GitHub Insight Daily Brief - 2026-07-17
+# GitHub Insight Daily Brief - 2026-07-18
 
-Generated at: `2026-07-17T06:28:13+00:00`
+Generated at: `2026-07-17T17:31:24+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -8,8 +8,8 @@ Image generation: `disabled`
 LLM summary: `disabled`
 
 ## Executive Summary
-- Top overall opportunity: [langgenius/dify](https://github.com/langgenius/dify) with score 94.72.
-- General user opportunity: [heymrun/heym](https://github.com/heymrun/heym)
+- Top overall opportunity: [coleam00/Archon](https://github.com/coleam00/Archon) with score 96.96.
+- General user opportunity: [coleam00/Archon](https://github.com/coleam00/Archon)
 - Data analyst opportunity: [grafana/grafana](https://github.com/grafana/grafana)
 - Data scientist opportunity: [lance-format/lance](https://github.com/lance-format/lance)
 - Most common risk pattern: usage examples unclear
@@ -17,30 +17,30 @@ LLM summary: `disabled`
 ## Top Overall Projects
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
-| 1 | [langgenius/dify](https://github.com/langgenius/dify) | General User | 94.72 | It maps to General User needs with an evidence-based score of 94.72. | Try today |
-| 2 | [heymrun/heym](https://github.com/heymrun/heym) | General User | 94.02 | It maps to General User needs with an evidence-based score of 94.02. | Try today |
-| 3 | [Paca-AI/paca](https://github.com/Paca-AI/paca) | General User | 92.44 | It maps to General User needs with an evidence-based score of 92.44. | Try today |
-| 4 | [SigNoz/signoz](https://github.com/SigNoz/signoz) | General User | 92.32 | It maps to General User needs with an evidence-based score of 92.32. | Try today |
-| 5 | [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) | General User | 91.65 | It maps to General User needs with an evidence-based score of 91.65. | Try today |
-| 6 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
-| 7 | [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) | General User | 89.81 | It maps to General User needs with an evidence-based score of 89.81. | Try today |
-| 8 | [moltis-org/moltis](https://github.com/moltis-org/moltis) | General User | 89.34 | It maps to General User needs with an evidence-based score of 89.34. | Try today |
-| 9 | [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) | General User | 89.22 | It maps to General User needs with an evidence-based score of 89.22. | Try today |
-| 10 | [rohansx/workz](https://github.com/rohansx/workz) | General User | 89.11 | It maps to General User needs with an evidence-based score of 89.11. | Try today |
+| 1 | [coleam00/Archon](https://github.com/coleam00/Archon) | General User | 96.96 | It maps to General User needs with an evidence-based score of 96.96. | Try today |
+| 2 | [apache/airflow](https://github.com/apache/airflow) | General User | 95.22 | It maps to General User needs with an evidence-based score of 95.22. | Try today |
+| 3 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | General User | 93.52 | It maps to General User needs with an evidence-based score of 93.52. | Try today |
+| 4 | [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) | General User | 93.37 | It maps to General User needs with an evidence-based score of 93.37. | Try today |
+| 5 | [Peiiii/nextclaw](https://github.com/Peiiii/nextclaw) | General User | 92.93 | It maps to General User needs with an evidence-based score of 92.93. | Try today |
+| 6 | [Paca-AI/paca](https://github.com/Paca-AI/paca) | General User | 92.44 | It maps to General User needs with an evidence-based score of 92.44. | Try today |
+| 7 | [schmitech/orbit](https://github.com/schmitech/orbit) | General User | 90.94 | It maps to General User needs with an evidence-based score of 90.94. | Try today |
+| 8 | [simstudioai/sim](https://github.com/simstudioai/sim) | General User | 90.52 | It maps to General User needs with an evidence-based score of 90.52. | Try today |
+| 9 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
+| 10 | [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops) | General User | 89.28 | It maps to General User needs with an evidence-based score of 89.28. | Try today |
 
 ## General User Finds
-### heymrun/heym
-- What it is: heymrun/heym is a Python project for General User: Build AI workflows by prompt or visual canvas. Heym is source-available and self-hosted, with agents, RAG, MCP, HITL, observability, evals, token cost tracking and more.
+### coleam00/Archon
+- What it is: coleam00/Archon is a TypeScript project for General User: The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 94.02
+- Score: 96.96
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### netease-youdao/LobsterAI
-- What it is: netease-youdao/LobsterAI is a TypeScript project for General User: Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.
+### Peiiii/nextclaw
+- What it is: Peiiii/nextclaw is a TypeScript project for General User: Local-first AI workspace for agents, skills, files, browser tools, automations, and messaging channels.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 91.65
-- Difficulty: Intermediate
+- Score: 92.93
+- Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
 ### n8n-io/n8n
@@ -50,20 +50,20 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### oomol-lab/open-connector
-- What it is: oomol-lab/open-connector is a TypeScript project for General User: Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
+### DaKheera47/job-ops
+- What it is: DaKheera47/job-ops is a TypeScript project for General User: job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 89.81
+- Score: 89.28
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### rohansx/workz
-- What it is: rohansx/workz is a Rust project for General User: The environment engine for agent worktrees - zero-config dep sync + port/DB/compose isolation
+### paperboytm/spool
+- What it is: paperboytm/spool is a TypeScript project for General User: Your local AI session library. Browse, pin, and ⌘K-search every Claude Code, Codex, Gemini & OpenCode session — and let the built-in scanner catch leaked secrets. Local-first, nothing leaves your machine.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 89.11
-- Difficulty: Advanced
+- Score: 85.72
+- Difficulty: Beginner
 - Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
+- Risk: usage examples unclear
 
 ## Data Analyst Opportunities
 ### grafana/grafana
@@ -80,6 +80,13 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Study for learning
 - Risk: no README evidence, installation unclear, usage examples unclear
+### MahbubNibir/power-bi-retail-analytics-viz
+- What it is: MahbubNibir/power-bi-retail-analytics-viz is a HTML project for Data Analyst: Top Power BI Sales Dashboard 2026 for Profit & Regional Analysis
+- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
+- Score: 51.93
+- Difficulty: Unknown
+- Recommended action: Watch this week
+- Risk: no README evidence, installation unclear, usage examples unclear, no license
 ### valdeteselimi/DashPro-Monitor-IndustrialBI
 - What it is: valdeteselimi/DashPro-Monitor-IndustrialBI is a HTML project for Data Analyst: Power BI 2026: Smart Industrial Production Dashboard with DAX & Data Cleaning
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
@@ -87,20 +94,13 @@ LLM summary: `disabled`
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### youtukubek-tech/Netflix-Insights-Hub
-- What it is: youtukubek-tech/Netflix-Insights-Hub is a HTML project for Data Analyst: Top Netflix Movie & Show Trends Dashboard 2026 – Power BI Data Analytics
+### gbb014/IPL-Elite-Delivery-Forecast-Model
+- What it is: gbb014/IPL-Elite-Delivery-Forecast-Model is a HTML project for Data Analyst: Power BI IPL 2026 Complete Ball-by-Ball Dashboard with Python Data Cleaning
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 50.24
+- Score: 51.92
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### apache/superset
-- What it is: apache/superset is a TypeScript project for Data Analyst: Apache Superset is a Data Visualization and Data Exploration Platform
-- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 60.77
-- Difficulty: Advanced
-- Recommended action: Study for learning
-- Risk: no README evidence, installation unclear, usage examples unclear
 
 ## Data Scientist Research Radar
 ### lance-format/lance
@@ -117,13 +117,13 @@ LLM summary: `disabled`
 - Difficulty: Research-heavy
 - Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear
-### juspay/neurolink
-- What it is: juspay/neurolink is a TypeScript project for General User: One TypeScript interface for 24+ LLM providers — swap providers without rewriting. MCP-native (58+ servers), voice (TTS/STT/realtime), RAG, memory, file processors. Production-origin: powers Tara, Yama, and Clairvoyance at Juspay.
+### trycua/cua
+- What it is: trycua/cua is a HTML project for General User: Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 87.75
+- Score: 59.56
 - Difficulty: Advanced
-- Recommended action: Try today
-- Risk: many open issues relative to stars
+- Recommended action: Watch this week
+- Risk: no README evidence, installation unclear, usage examples unclear
 ### kanaa257/sosumi.ai
 - What it is: kanaa257/sosumi.ai is a TypeScript project for Data Scientist: 📄 Enhance Apple Developer docs by converting them into AI-readable Markdown for easier access and improved usability.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
@@ -134,23 +134,23 @@ LLM summary: `disabled`
 ### MauroDruwel/NIMStats
 - What it is: MauroDruwel/NIMStats is a JavaScript project for Data Scientist: 📊 Automated hourly benchmarks for 20+ NVIDIA NIM models — interactive dashboard, zero infra, self-hostable. Open-source & community-driven.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 44.54
+- Score: 44.56
 - Difficulty: Research-heavy
 - Recommended action: Skip for now
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
 
 ## Action List
-- Try today: langgenius/dify, heymrun/heym, Paca-AI/paca
-- Watch this week: rilldata/rill, dataease/dataease, bytedance/deer-flow
-- Use as portfolio reference: heypinchy/pinchy, krelltunez/dayGLANCE, h4vzz/awesome-ai-agent-skills
-- Skip for now: faithlumumba/2025-tencent-advertising-algorithm-competition-finalist, atomantic/PortOS, MauroDruwel/NIMStats
+- Try today: coleam00/Archon, apache/airflow, kestra-io/kestra
+- Watch this week: AnalyseDeCircuit/oxideterm, juananzzz/resonus, OpenHands/OpenHands
+- Use as portfolio reference: EddieTYP/image-prompt-library, eval-exec/neomacs, dzianisv/opencode-mobile
+- Skip for now: scikit-hep/awkward, elkimek/get-based, faithlumumba/2025-tencent-advertising-algorithm-competition-finalist
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.
 
 ## Data Files
-- Raw API JSON: `data/raw/2026-07-17-github-api-raw.json`
-- Daily projects JSON: `data/processed/2026-07-17-github-insight-projects.json`
-- Daily projects CSV: `data/processed/2026-07-17-github-insight-projects.csv`
+- Raw API JSON: `data/raw/2026-07-18-github-api-raw.json`
+- Daily projects JSON: `data/processed/2026-07-18-github-insight-projects.json`
+- Daily projects CSV: `data/processed/2026-07-18-github-insight-projects.csv`
 - Master CSV: `data/processed/github_repos_master.csv`
 - Dashboard JSON: `docs/data/latest.json`
