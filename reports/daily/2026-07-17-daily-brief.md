@@ -1,6 +1,6 @@
 # GitHub Insight Daily Brief - 2026-07-17
 
-Generated at: `2026-07-16T17:40:59+00:00`
+Generated at: `2026-07-17T06:28:13+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -8,8 +8,8 @@ Image generation: `disabled`
 LLM summary: `disabled`
 
 ## Executive Summary
-- Top overall opportunity: [apache/airflow](https://github.com/apache/airflow) with score 95.22.
-- General user opportunity: [rush86999/atom](https://github.com/rush86999/atom)
+- Top overall opportunity: [langgenius/dify](https://github.com/langgenius/dify) with score 94.72.
+- General user opportunity: [heymrun/heym](https://github.com/heymrun/heym)
 - Data analyst opportunity: [grafana/grafana](https://github.com/grafana/grafana)
 - Data scientist opportunity: [lance-format/lance](https://github.com/lance-format/lance)
 - Most common risk pattern: usage examples unclear
@@ -17,23 +17,30 @@ LLM summary: `disabled`
 ## Top Overall Projects
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
-| 1 | [apache/airflow](https://github.com/apache/airflow) | General User | 95.22 | It maps to General User needs with an evidence-based score of 95.22. | Try today |
-| 2 | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | General User | 94.72 | It maps to General User needs with an evidence-based score of 94.72. | Try today |
-| 3 | [rush86999/atom](https://github.com/rush86999/atom) | General User | 94.57 | It maps to General User needs with an evidence-based score of 94.57. | Try today |
-| 4 | [simstudioai/sim](https://github.com/simstudioai/sim) | General User | 90.52 | It maps to General User needs with an evidence-based score of 90.52. | Try today |
-| 5 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
-| 6 | [superplanehq/superplane](https://github.com/superplanehq/superplane) | General User | 90.13 | It maps to General User needs with an evidence-based score of 90.13. | Try today |
-| 7 | [basefoundry/base](https://github.com/basefoundry/base) | General User | 90.10 | It maps to General User needs with an evidence-based score of 90.10. | Try today |
-| 8 | [openrundev/openrun](https://github.com/openrundev/openrun) | General User | 89.51 | It maps to General User needs with an evidence-based score of 89.51. | Try today |
+| 1 | [langgenius/dify](https://github.com/langgenius/dify) | General User | 94.72 | It maps to General User needs with an evidence-based score of 94.72. | Try today |
+| 2 | [heymrun/heym](https://github.com/heymrun/heym) | General User | 94.02 | It maps to General User needs with an evidence-based score of 94.02. | Try today |
+| 3 | [Paca-AI/paca](https://github.com/Paca-AI/paca) | General User | 92.44 | It maps to General User needs with an evidence-based score of 92.44. | Try today |
+| 4 | [SigNoz/signoz](https://github.com/SigNoz/signoz) | General User | 92.32 | It maps to General User needs with an evidence-based score of 92.32. | Try today |
+| 5 | [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) | General User | 91.65 | It maps to General User needs with an evidence-based score of 91.65. | Try today |
+| 6 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
+| 7 | [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) | General User | 89.81 | It maps to General User needs with an evidence-based score of 89.81. | Try today |
+| 8 | [moltis-org/moltis](https://github.com/moltis-org/moltis) | General User | 89.34 | It maps to General User needs with an evidence-based score of 89.34. | Try today |
 | 9 | [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) | General User | 89.22 | It maps to General User needs with an evidence-based score of 89.22. | Try today |
-| 10 | [mohitagw15856/pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) | General User | 89.16 | It maps to General User needs with an evidence-based score of 89.16. | Try today |
+| 10 | [rohansx/workz](https://github.com/rohansx/workz) | General User | 89.11 | It maps to General User needs with an evidence-based score of 89.11. | Try today |
 
 ## General User Finds
-### rush86999/atom
-- What it is: rush86999/atom is a Python project for General User: Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation
+### heymrun/heym
+- What it is: heymrun/heym is a Python project for General User: Build AI workflows by prompt or visual canvas. Heym is source-available and self-hosted, with agents, RAG, MCP, HITL, observability, evals, token cost tracking and more.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 94.57
-- Difficulty: Advanced
+- Score: 94.02
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### netease-youdao/LobsterAI
+- What it is: netease-youdao/LobsterAI is a TypeScript project for General User: Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 91.65
+- Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
 ### n8n-io/n8n
@@ -43,20 +50,13 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### superplanehq/superplane
-- What it is: superplanehq/superplane is a Go project for General User: The open source control plane for agentic engineering.
+### oomol-lab/open-connector
+- What it is: oomol-lab/open-connector is a TypeScript project for General User: Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 90.13
-- Difficulty: Advanced
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### basefoundry/base
-- What it is: basefoundry/base is a Python project for General User: A local, GitHub-centric operating contract that makes a collection of independent repositories behave like one understandable, verifiably ready workspace for humans and coding agents.
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 90.10
+- Score: 89.81
 - Difficulty: Intermediate
 - Recommended action: Try today
-- Risk: many open issues relative to stars
+- Risk: No major risk flag from collected evidence.
 ### rohansx/workz
 - What it is: rohansx/workz is a Rust project for General User: The environment engine for agent worktrees - zero-config dep sync + port/DB/compose isolation
 - Angle: Potential practical tool or workflow improvement for general users.
@@ -110,40 +110,40 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
-### eullm/eullm
-- What it is: eullm/eullm is a Python project for Data Scientist: Open-source platform for creating, distributing and running sovereign EU-compliant LLMs. Verticalize any model for your domain, language and brand. AI Act ready.
+### hyeonsangjeon/gdpval-realworks
+- What it is: hyeonsangjeon/gdpval-realworks is a Python project for Data Scientist: Benchmark LLMs on real professional tasks, not academic puzzles. YAML-driven experiment pipeline + live React dashboard for GDPVal Gold Subset (220 tasks across 11 industries).
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 83.38
+- Score: 51.45
 - Difficulty: Research-heavy
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### NVIDIA-NeMo/Automodel
-- What it is: NVIDIA-NeMo/Automodel is a Python project for Data Scientist: 🚀 Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 52.01
-- Difficulty: Research-heavy
-- Recommended action: Track for research
-- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
-### modl-org/modl
-- What it is: modl-org/modl is a Rust project for General User: Local-first AI image generation toolkit. Pull models, train LoRAs, generate images. One CLI, no glue code.
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 75.08
-- Difficulty: Advanced
-- Recommended action: Use as portfolio reference
-- Risk: usage examples unclear, many open issues relative to stars
-### langfuse/langfuse
-- What it is: langfuse/langfuse is a TypeScript project for Data Scientist: 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 55.83
-- Difficulty: Unknown
 - Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear
+### juspay/neurolink
+- What it is: juspay/neurolink is a TypeScript project for General User: One TypeScript interface for 24+ LLM providers — swap providers without rewriting. MCP-native (58+ servers), voice (TTS/STT/realtime), RAG, memory, file processors. Production-origin: powers Tara, Yama, and Clairvoyance at Juspay.
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 87.75
+- Difficulty: Advanced
+- Recommended action: Try today
+- Risk: many open issues relative to stars
+### kanaa257/sosumi.ai
+- What it is: kanaa257/sosumi.ai is a TypeScript project for Data Scientist: 📄 Enhance Apple Developer docs by converting them into AI-readable Markdown for easier access and improved usability.
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 46.00
+- Difficulty: Research-heavy
+- Recommended action: Track for research
+- Risk: no README evidence, installation unclear, usage examples unclear
+### MauroDruwel/NIMStats
+- What it is: MauroDruwel/NIMStats is a JavaScript project for Data Scientist: 📊 Automated hourly benchmarks for 20+ NVIDIA NIM models — interactive dashboard, zero infra, self-hostable. Open-source & community-driven.
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 44.54
+- Difficulty: Research-heavy
+- Recommended action: Skip for now
+- Risk: no README evidence, installation unclear, usage examples unclear, no license
 
 ## Action List
-- Try today: apache/airflow, rmyndharis/OpenWA, rush86999/atom
-- Watch this week: langgenius/dify, OpenHands/OpenHands, trycua/cua
-- Use as portfolio reference: sonichi/sutando, LanternOps/breeze, yanivy9h/ai-shipr
-- Skip for now: awesomestvi/navet, ItinerisLtd/composify, faithlumumba/2025-tencent-advertising-algorithm-competition-finalist
+- Try today: langgenius/dify, heymrun/heym, Paca-AI/paca
+- Watch this week: rilldata/rill, dataease/dataease, bytedance/deer-flow
+- Use as portfolio reference: heypinchy/pinchy, krelltunez/dayGLANCE, h4vzz/awesome-ai-agent-skills
+- Skip for now: faithlumumba/2025-tencent-advertising-algorithm-competition-finalist, atomantic/PortOS, MauroDruwel/NIMStats
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.
