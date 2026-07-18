@@ -1,41 +1,41 @@
 # General User GitHub Insight - 2026-07-18
 
-Generated at: `2026-07-17T17:31:24+00:00`
+Generated at: `2026-07-18T06:18:21+00:00`
 Mode: `live`
 
 | Rank | Repo | Score | Action | Difficulty | Risk flags |
 | --- | --- | ---: | --- | --- | --- |
-| 1 | [coleam00/Archon](https://github.com/coleam00/Archon) | 100.00 | Try today | Intermediate | None |
-| 2 | [Peiiii/nextclaw](https://github.com/Peiiii/nextclaw) | 100.00 | Try today | Advanced | None |
+| 1 | [umputun/ralphex](https://github.com/umputun/ralphex) | 100.00 | Try today | Intermediate | None |
+| 2 | [rush86999/atom](https://github.com/rush86999/atom) | 100.00 | Try today | Advanced | None |
 | 3 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 100.00 | Try today | Advanced | None |
-| 4 | [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops) | 100.00 | Try today | Intermediate | None |
-| 5 | [paperboytm/spool](https://github.com/paperboytm/spool) | 100.00 | Try today | Beginner | usage examples unclear |
-| 6 | [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) | 100.00 | Try today | Intermediate | None |
-| 7 | [callstack/agent-device](https://github.com/callstack/agent-device) | 100.00 | Try today | Intermediate | None |
-| 8 | [ClipboardHealth/groundcrew](https://github.com/ClipboardHealth/groundcrew) | 100.00 | Try today | Intermediate | None |
-| 9 | [ShaftHQ/SHAFT_ENGINE](https://github.com/ShaftHQ/SHAFT_ENGINE) | 100.00 | Try today | Advanced | usage examples unclear |
-| 10 | [microsoft/shell-use](https://github.com/microsoft/shell-use) | 100.00 | Try today | Advanced | None |
-| 11 | [sortie-ai/sortie](https://github.com/sortie-ai/sortie) | 100.00 | Try today | Intermediate | many open issues relative to stars |
-| 12 | [xopcai/xopc](https://github.com/xopcai/xopc) | 100.00 | Try today | Intermediate | None |
-| 13 | [Mann1988/awesome-claude-skills](https://github.com/Mann1988/awesome-claude-skills) | 100.00 | Try today | Intermediate | None |
-| 14 | [dcc-mcp/dcc-mcp-core](https://github.com/dcc-mcp/dcc-mcp-core) | 100.00 | Try today | Advanced | None |
-| 15 | [dzianisv/opencode-mobile](https://github.com/dzianisv/opencode-mobile) | 100.00 | Use as portfolio reference | Intermediate | many open issues relative to stars |
+| 4 | [deverman/FocusRelayMCP](https://github.com/deverman/FocusRelayMCP) | 100.00 | Try today | Intermediate | many open issues relative to stars |
+| 5 | [Devin-AXIS/iPolloWork](https://github.com/Devin-AXIS/iPolloWork) | 100.00 | Try today | Advanced | None |
+| 6 | [ShaftHQ/SHAFT_ENGINE](https://github.com/ShaftHQ/SHAFT_ENGINE) | 100.00 | Try today | Advanced | usage examples unclear |
+| 7 | [tsaijamey/frago](https://github.com/tsaijamey/frago) | 100.00 | Try today | Intermediate | None |
+| 8 | [Mann1988/awesome-claude-skills](https://github.com/Mann1988/awesome-claude-skills) | 100.00 | Try today | Intermediate | None |
+| 9 | [ninouanis84-sudo/foxl-orchestrator](https://github.com/ninouanis84-sudo/foxl-orchestrator) | 100.00 | Use as portfolio reference | Intermediate | no license |
+| 10 | [Peuqui/AIfred-Intelligence](https://github.com/Peuqui/AIfred-Intelligence) | 93.00 | Try today | Intermediate | None |
+| 11 | [langgenius/dify](https://github.com/langgenius/dify) | 90.50 | Try today | Advanced | None |
+| 12 | [Paca-AI/paca](https://github.com/Paca-AI/paca) | 90.50 | Try today | Intermediate | None |
+| 13 | [chmonitor/chmonitor](https://github.com/chmonitor/chmonitor) | 90.50 | Try today | Intermediate | None |
+| 14 | [open-ace/open-ace](https://github.com/open-ace/open-ace) | 90.50 | Try today | Intermediate | many open issues relative to stars |
+| 15 | [zeweihan/aiworkdeck](https://github.com/zeweihan/aiworkdeck) | 90.50 | Try today | Advanced | many open issues relative to stars |
 
 ## Project Notes
-### coleam00/Archon
-- Summary: coleam00/Archon is a TypeScript project for General User: The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
-- Why it matters: It maps to General User needs with an evidence-based score of 96.96.
+### umputun/ralphex
+- Summary: umputun/ralphex is a Go project for General User: Extended Ralph loop for autonomous AI-driven plan execution
+- Why it matters: It maps to General User needs with an evidence-based score of 94.58.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn Archon into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 22924; Forks: 3431; Language: TypeScript; License: MIT; README length: 18679; Topics: ai, automation, bun, claude, cli, coding-assistant, developer-tools, typescript, workflow-engine, yaml
+- Portfolio idea: Turn ralphex into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 1384; Forks: 113; Language: Go; License: MIT; README length: 84868; Topics: automation, claude-code, codex, ralph-loop, ralph-wiggum, review
 - Confidence: high
 
-### Peiiii/nextclaw
-- Summary: Peiiii/nextclaw is a TypeScript project for General User: Local-first AI workspace for agents, skills, files, browser tools, automations, and messaging channels.
-- Why it matters: It maps to General User needs with an evidence-based score of 92.93.
+### rush86999/atom
+- Summary: rush86999/atom is a Python project for General User: Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation
+- Why it matters: It maps to General User needs with an evidence-based score of 94.57.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn nextclaw into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 225; Forks: 33; Language: TypeScript; License: MIT; README length: 8057; Topics: agentic-workflows, ai-agent, ai-assistant, automation, desktop-app, feishu, llm, local-first, mcp, open-source, self-hosted, typescript, wechat
+- Portfolio idea: Turn atom into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 788; Forks: 81; Language: Python; License: AGPL-3.0; README length: 25155; Topics: agentic-workflow, ai, ai-agent, calendar, finance, gdrive, gmail, google-calendar, notion, productivity, scheduler, shopify, slack, tasks, zoho, zoom
 - Confidence: high
 
 ### n8n-io/n8n
@@ -43,47 +43,23 @@ Mode: `live`
 - Why it matters: It maps to General User needs with an evidence-based score of 90.30.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
 - Portfolio idea: Turn n8n into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 196821; Forks: 59404; Language: TypeScript; License: NOASSERTION; README length: 3994; Topics: ai, apis, automation, cli, data-flow, development, integration-framework, integrations, ipaas, low-code, low-code-platform, mcp, mcp-client, mcp-server, n8n, no-code, self-hosted, typescript, workflow, workflow-automation
+- Evidence: Stars: 196874; Forks: 59418; Language: TypeScript; License: NOASSERTION; README length: 3994; Topics: ai, apis, automation, cli, data-flow, development, integration-framework, integrations, ipaas, low-code, low-code-platform, mcp, mcp-client, mcp-server, n8n, no-code, self-hosted, typescript, workflow, workflow-automation
 - Confidence: high
 
-### DaKheera47/job-ops
-- Summary: DaKheera47/job-ops is a TypeScript project for General User: job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process
-- Why it matters: It maps to General User needs with an evidence-based score of 89.28.
+### deverman/FocusRelayMCP
+- Summary: deverman/FocusRelayMCP is a Swift project for General User: Fast native Swift OmniFocus MCP server and CLI for macOS. Let AI assistants safely read, update, complete, and organize tasks and projects through documented Omni Automation APIs.
+- Why it matters: It maps to General User needs with an evidence-based score of 86.86.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn job-ops into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 3730; Forks: 471; Language: TypeScript; License: NOASSERTION; README length: 7032; Topics: automation, career, dashboard, docker, job-search, jobhunt, jobtracker, nextjs, productivity, self-hosted, sponsorship
+- Portfolio idea: Turn FocusRelayMCP into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 37; Forks: 5; Language: Swift; License: MIT; README length: 11627; Topics: ai, ai-agent, automation, claude, cli, homebrew, llm, macos, mcp, mcp-server, model-context-protocol, modelcontextprotocol, omni-automation, omnifocus, omnifocus-mcp, productivity, swift, task-management
 - Confidence: high
 
-### paperboytm/spool
-- Summary: paperboytm/spool is a TypeScript project for General User: Your local AI session library. Browse, pin, and ⌘K-search every Claude Code, Codex, Gemini & OpenCode session — and let the built-in scanner catch leaked secrets. Local-first, nothing leaves your machine.
-- Why it matters: It maps to General User needs with an evidence-based score of 85.72.
+### Devin-AXIS/iPolloWork
+- Summary: Devin-AXIS/iPolloWork is a TypeScript project for General User: Next-gen, source-available alternative to Codex and Claude Code — one local-first, self-hostable agent workspace for code, office work, editable design, presentations, websites, and video. Build with AI, then edit text, images, colors, layouts, and scenes as easily as PowerPoint.
+- Why it matters: It maps to General User needs with an evidence-based score of 85.62.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn spool into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 568; Forks: 39; Language: TypeScript; License: NOASSERTION; README length: 5056; Topics: ai-agents, claude-code, codex, codex-cli, developer-tools, electron, full-text-search, gemini-cli, linux, local-first, macos, mcp, open-source, opencode, privacy, productivity, security
-- Confidence: high
-
-### rorkai/App-Store-Connect-CLI
-- Summary: rorkai/App-Store-Connect-CLI is a Go project for General User: Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts
-- Why it matters: It maps to General User needs with an evidence-based score of 85.67.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn App-Store-Connect-CLI into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 5104; Forks: 446; Language: Go; License: MIT; README length: 16607; Topics: app-store-connect, apple, automation, cicd, cli, command-line-tool, developer-tools, devops, go, golang, ios, macos, swift, testflight, xcode
-- Confidence: high
-
-### callstack/agent-device
-- Summary: callstack/agent-device is a TypeScript project for General User: CLI to control iOS and Android devices for AI agents
-- Why it matters: It maps to General User needs with an evidence-based score of 85.31.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn agent-device into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 3466; Forks: 192; Language: TypeScript; License: MIT; README length: 10107; Topics: adb, agentic-ai, agents, ai-agents, android-emulator, automation, e2e-testing, expo, flutter, ios-simulator, mcp, mobile, mobile-testing, performance-optimization, react-native, testing, xcuitest
-- Confidence: high
-
-### ClipboardHealth/groundcrew
-- Summary: ClipboardHealth/groundcrew is a TypeScript project for General User: Dispatch your task backlog to local, interactive AI coding agents. One git worktree per task, sandboxed by default.
-- Why it matters: It maps to General User needs with an evidence-based score of 84.96.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn groundcrew into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 55; Forks: 6; Language: TypeScript; License: MIT; README length: 9715; Topics: agentic, ai-agents, automation, claude, claude-code, cli, cmux, codex, coding-agents, developer-tools, git-worktree, jira, linear, local-first, orchestrator, parallel, sandbox, tmux, typescript, worktrees
+- Portfolio idea: Turn iPolloWork into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 1297; Forks: 172; Language: TypeScript; License: NOASSERTION; README length: 10700; Topics: agentic-ai, ai-agents, automation, design-tools, desktop-app, electron, fair-code, linux, llm, local-first, macos, mcp, model-context-protocol, opencode, react, self-hosted, source-available, typescript, video-tools, windows
 - Confidence: high
 
 ### ShaftHQ/SHAFT_ENGINE
@@ -94,28 +70,12 @@ Mode: `live`
 - Evidence: Stars: 397; Forks: 150; Language: Java; License: MIT; README length: 3351; Topics: appium, appium-framework, appium-java, automation, automation-engine, e2e-testing, end-to-end-testing, java, mcp-server, playwright-java, restassured, restassured-framework, selenium, selenium-grid, selenium-webdriver, test-automation, test-automation-framework, testing-framework, testing-tools
 - Confidence: high
 
-### microsoft/shell-use
-- Summary: microsoft/shell-use is a Rust project for General User: 💻 Make the terminal / shell accessible for AI agents. Automate tasks with ease.
-- Why it matters: It maps to General User needs with an evidence-based score of 82.71.
+### tsaijamey/frago
+- Summary: tsaijamey/frago is a Python project for General User: Multi-runtime automation infrastructure for AI agents. Native CDP browser control, metadata-driven Recipe system, and persistent Run context management.
+- Why it matters: It maps to General User needs with an evidence-based score of 82.84.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn shell-use into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 197; Forks: 17; Language: Rust; License: MIT; README length: 16807; Topics: ai-tools, automation, bash, cli, e2e-testing, fish, llm, powershell, pwsh, shell-use, terminal, testing, tui
-- Confidence: high
-
-### sortie-ai/sortie
-- Summary: sortie-ai/sortie is a Go project for General User: Turn tracker tickets into autonomous agent sessions
-- Why it matters: It maps to General User needs with an evidence-based score of 82.41.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn sortie into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 107; Forks: 8; Language: Go; License: Apache-2.0; README length: 4866; Topics: agent, agent-fleet, agent-swarm, agentic-ai, ai-agents, ai-orchestration, automation, claude-code, coding-agent, copilot-cli, developer-tools, devops, github-project, jira, jira-automation, kiro, linear, opencode, orchestration, orchestrator
-- Confidence: high
-
-### xopcai/xopc
-- Summary: xopcai/xopc is a TypeScript project for General User: Local-first AI assistant for long-running goals, automations, workflows, and multi-surface chat.
-- Why it matters: It maps to General User needs with an evidence-based score of 81.95.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn xopc into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 22; Forks: 4; Language: TypeScript; License: MIT; README length: 15334; Topics: agent-os, ai-agent, ai-assistant, automation, byok, cli, desktop, electron, llm, local-first, mcp, multi-agent, ollama, personal-ai, productivity, self-hosted, telegram, tui, wechat, workflow
+- Portfolio idea: Turn frago into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 60; Forks: 12; Language: Python; License: AGPL-3.0; README length: 2928; Topics: ai, ai-agents, automation, browser-automation, cdp, chrome-automation, chrome-devtools-protocol, claude-ai, claude-code, claude-cowork, cli, cowork-alternative, python, recipe-system
 - Confidence: high
 
 ### Mann1988/awesome-claude-skills
@@ -126,18 +86,58 @@ Mode: `live`
 - Evidence: Stars: 63; Forks: 18; Language: Python; License: MIT; README length: 3584; Topics: anthropic, anthropic-claude, anthropic-skills, awesome-claude-code, claude-ai, claude-api, claude-code, claude-code-skills, claude-desktop, claude-skills, claude-skills-hub, codex-cli, gemini-cli, llama, openai, productivity, skills, tdd
 - Confidence: high
 
-### dcc-mcp/dcc-mcp-core
-- Summary: dcc-mcp/dcc-mcp-core is a Rust project for General User: Core runtime and shared tooling for DCC-MCP: safe, skill-first MCP integration across Maya, Blender, Houdini, Photoshop, and custom DCC hosts.
-- Why it matters: It maps to General User needs with an evidence-based score of 81.11.
+### ninouanis84-sudo/foxl-orchestrator
+- Summary: ninouanis84-sudo/foxl-orchestrator is a HTML project for General User: Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant
+- Why it matters: It maps to General User needs with an evidence-based score of 77.67.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn dcc-mcp-core into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 33; Forks: 2; Language: Rust; License: MIT; README length: 7853; Topics: ai-agents, automation, blender, dcc, houdini, maya, mcp, model-context-protocol, photoshop, pyo3, python, rust
+- Portfolio idea: Turn foxl-orchestrator into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 151; Forks: 0; Language: HTML; License: unavailable; README length: 7609; Topics: ai, ai-agent, anthropic, automation, browser-automation, chrome-extension, claude, claude-opus, claude-sonnet, desktop-app, electron, foxl, foxl-ai, macos, personal-agent, productivity, releases, scheduling, skills, windows
 - Confidence: high
 
-### dzianisv/opencode-mobile
-- Summary: dzianisv/opencode-mobile is a TypeScript project for General User: OpenCode Mobile — open-source Android client for the OpenCode AI coding agent. Run AI coding sessions from your phone against your self-hosted server over Tailscale. Available on F-Droid.
-- Why it matters: It maps to General User needs with an evidence-based score of 78.28.
+### Peuqui/AIfred-Intelligence
+- Summary: Peuqui/AIfred-Intelligence is a Python project for General User: 🤵 AIfred-Intelligence — self-hosted Multi-Agent Assistant with Debate Modes (Symposion/Tribunal), Voice (STT + Streaming-TTS), RAG with Long-Term Memory, Web Research and Tool-Calling. Reachable via Web-UI or Telegram/Discord/Email/EPIM. Multi-Backend: llama-swap, Ollama, vLLM, TabbyAPI.
+- Why it matters: It maps to General User needs with an evidence-based score of 90.03.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn opencode-mobile into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 27; Forks: 4; Language: TypeScript; License: MIT; README length: 8827; Topics: ai, ai-agent, ai-coding-assistant, android, android-app, claude, coding-agent, developer-tools, expo, fdroid, llm, mobile-client, open-source, opencode, react-native, self-hosted, tailscale
+- Portfolio idea: Turn AIfred-Intelligence into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 33; Forks: 3; Language: Python; License: NOASSERTION; README length: 114740; Topics: ai, ai-assistant, chain-of-thought, chatbot, chromadb, llm, local-llm, multi-agent, ocr, ollama, python, rag, reflex, self-hosted, text-to-speech, tts, voice-assistant, voice-cloning, web-scraping, whisper
+- Confidence: high
+
+### langgenius/dify
+- Summary: langgenius/dify is a TypeScript project for General User: Production-ready platform for agentic workflow development.
+- Why it matters: It maps to General User needs with an evidence-based score of 94.72.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn dify into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 149190; Forks: 23506; Language: TypeScript; License: NOASSERTION; README length: 15157; Topics: agent, agentic-ai, agentic-framework, agentic-workflow, ai, automation, gemini, genai, gpt, gpt-4, llm, low-code, mcp, nextjs, no-code, openai, orchestration, python, rag, workflow
+- Confidence: high
+
+### Paca-AI/paca
+- Summary: Paca-AI/paca is a Go project for General User: AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the same goals. Self-hosted. Fully customizable via config and plugins.
+- Why it matters: It maps to General User needs with an evidence-based score of 92.44.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn paca into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 1611; Forks: 110; Language: Go; License: Apache-2.0; README length: 20313; Topics: ai-agent, bdd, clickup-alternative, jira-alternative, mcp, open-source, openhands, project-management, scrum, scrumban, self-hosted, trello-alternative, wasm-plugins
+- Confidence: high
+
+### chmonitor/chmonitor
+- Summary: chmonitor/chmonitor is a TypeScript project for General User: Open-source operational advisor for ClickHouse — real-time monitoring plus AI-driven index/partition/materialized-view recommendations. Self-host or use the cloud.
+- Why it matters: It maps to General User needs with an evidence-based score of 90.74.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn chmonitor into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 249; Forks: 40; Language: TypeScript; License: GPL-3.0; README length: 19314; Topics: ai-agent, chmonitor, clickhouse, cloudflare-workers, database-monitoring, duyet, mcp, monitoring, observability, open-source, self-hosted, tanstack-start
+- Confidence: high
+
+### open-ace/open-ace
+- Summary: open-ace/open-ace is a Python project for General User: Self-hosted enterprise AI workspace and governance platform
+- Why it matters: It maps to General User needs with an evidence-based score of 87.35.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn open-ace into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 40; Forks: 5; Language: Python; License: Apache-2.0; README length: 21853; Topics: ai-governance, ai-workspace, claude-code, codex-cli, enterprise-ai, qwen-code, self-hosted, zcode-app
+- Confidence: high
+
+### zeweihan/aiworkdeck
+- Summary: zeweihan/aiworkdeck is a Java project for General User: AI-native IDE workspace for legal and document-heavy workflows: files, agents, plugins, WPS editing, OCR, evidence chains. VS Code for lawyers.
+- Why it matters: It maps to General User needs with an evidence-based score of 87.22.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn aiworkdeck into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 61; Forks: 11; Language: Java; License: AGPL-3.0; README length: 16855; Topics: ai-agents, ai-workspace, compliance, document-ai, document-management, due-diligence, electron, ide, legal-ai, legaltech, mcp, ocr, open-source, productivity, rag, self-hosted, spring-boot, vue, workspace, wps
 - Confidence: high
