@@ -1,39 +1,39 @@
 # Data Scientist GitHub Insight - 2026-07-19
 
-Generated at: `2026-07-18T17:14:18+00:00`
+Generated at: `2026-07-19T06:45:25+00:00`
 Mode: `live`
 
 | Rank | Repo | Score | Action | Difficulty | Risk flags |
 | --- | --- | ---: | --- | --- | --- |
-| 1 | [Fortemi/fortemi](https://github.com/Fortemi/fortemi) | 62.00 | Try today | Advanced | None |
-| 2 | [trycua/cua](https://github.com/trycua/cua) | 62.00 | Watch this week | Advanced | no README evidence, installation unclear, usage examples unclear |
+| 1 | [lance-format/lance](https://github.com/lance-format/lance) | 75.00 | Track for research | Advanced | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
+| 2 | [hyeonsangjeon/gdpval-realworks](https://github.com/hyeonsangjeon/gdpval-realworks) | 68.00 | Track for research | Research-heavy | no README evidence, installation unclear, usage examples unclear |
 | 3 | [kanaa257/sosumi.ai](https://github.com/kanaa257/sosumi.ai) | 62.00 | Track for research | Research-heavy | no README evidence, installation unclear, usage examples unclear |
 | 4 | [MauroDruwel/NIMStats](https://github.com/MauroDruwel/NIMStats) | 62.00 | Skip for now | Research-heavy | no README evidence, installation unclear, usage examples unclear, no license |
-| 5 | [xlang-ai/OSWorld](https://github.com/xlang-ai/OSWorld) | 55.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear |
-| 6 | [faithlumumba/2025-tencent-advertising-algorithm-competition-finalist](https://github.com/faithlumumba/2025-tencent-advertising-algorithm-competition-finalist) | 55.50 | Skip for now | Unknown | no README evidence, installation unclear, usage examples unclear |
-| 7 | [kaderkck/hewn-forge](https://github.com/kaderkck/hewn-forge) | 49.50 | Use as portfolio reference | Intermediate | no license |
-| 8 | [samchon/nestia](https://github.com/samchon/nestia) | 49.50 | Track for research | Advanced | no README evidence, installation unclear, usage examples unclear |
-| 9 | [Niketkumardheeryan/ML-CaPsule](https://github.com/Niketkumardheeryan/ML-CaPsule) | 49.50 | Track for research | Advanced | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
-| 10 | [m96-chan/ai_research_dashboard](https://github.com/m96-chan/ai_research_dashboard) | 49.50 | Skip for now | Research-heavy | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
-| 11 | [ai-on-browser/ai-on-browser.github.io](https://github.com/ai-on-browser/ai-on-browser.github.io) | 49.50 | Skip for now | Unknown | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
-| 12 | [spectrochempy/spectrochempy](https://github.com/spectrochempy/spectrochempy) | 43.00 | Track for research | Advanced | no README evidence, installation unclear, usage examples unclear |
-| 13 | [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) | 31.00 | Track for research | Unknown | no README evidence, installation unclear, usage examples unclear |
+| 5 | [allcolor/PawFlow-Agents](https://github.com/allcolor/PawFlow-Agents) | 55.50 | Try today | Intermediate | None |
+| 6 | [ibuilder/massing](https://github.com/ibuilder/massing) | 55.50 | Try today | Intermediate | many open issues relative to stars |
+| 7 | [ianustec/openwebui-generate-slides](https://github.com/ianustec/openwebui-generate-slides) | 55.50 | Use as portfolio reference | Intermediate | None |
+| 8 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 55.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear |
+| 9 | [faithlumumba/2025-tencent-advertising-algorithm-competition-finalist](https://github.com/faithlumumba/2025-tencent-advertising-algorithm-competition-finalist) | 55.50 | Skip for now | Unknown | no README evidence, installation unclear, usage examples unclear |
+| 10 | [kaderkck/hewn-forge](https://github.com/kaderkck/hewn-forge) | 49.50 | Use as portfolio reference | Intermediate | no license |
+| 11 | [Niketkumardheeryan/ML-CaPsule](https://github.com/Niketkumardheeryan/ML-CaPsule) | 49.50 | Track for research | Advanced | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
+| 12 | [m96-chan/ai_research_dashboard](https://github.com/m96-chan/ai_research_dashboard) | 49.50 | Skip for now | Research-heavy | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
+| 13 | [ai-on-browser/ai-on-browser.github.io](https://github.com/ai-on-browser/ai-on-browser.github.io) | 49.50 | Skip for now | Unknown | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
 
 ## Project Notes
-### Fortemi/fortemi
-- Summary: Fortemi/fortemi is a Rust project for General User: Self-hosted AI knowledge base with hybrid semantic search (pgvector + FTS + RRF), MCP server, multi-provider LLM inference (Ollama, OpenAI, OpenRouter, llama.cpp), multimodal ingestion (vision, audio transcription, speaker diarization), and knowledge graph. Rust + PostgreSQL.
-- Why it matters: It maps to General User needs with an evidence-based score of 89.28.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn fortemi into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 25; Forks: 3; Language: Rust; License: NOASSERTION; README length: 49780; Topics: ai, embeddings, hybrid-search, knowledge-base, knowledge-graph, llm, mcp-server, model-context-protocol, multimodal, note-taking, ollama, pgvector, postgresql, rag, retrieval-augmented-generation, rust, second-brain, self-hosted, semantic-search, vector-search
-- Confidence: high
+### lance-format/lance
+- Summary: lance-format/lance is a Rust project for Data Scientist: Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
+- Why it matters: It maps to Data Scientist needs with an evidence-based score of 55.73.
+- Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
+- Portfolio idea: Turn lance into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 6823; Forks: 766; Language: Rust; License: Apache-2.0; README length: 0; Topics: apache-arrow, computer-vision, data-analysis, data-analytics, data-centric, data-format, data-science, dataops, deep-learning, duckdb, embeddings, llms, machine-learning, mlops, python, rust
+- Confidence: low
 
-### trycua/cua
-- Summary: trycua/cua is a HTML project for General User: Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
-- Why it matters: It maps to General User needs with an evidence-based score of 59.56.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn cua into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 20122; Forks: 1332; Language: HTML; License: MIT; README length: 0; Topics: agent, ai-agent, apple, computer-use, computer-use-agent, containerization, cua, desktop-automation, hacktoberfest, lume, macos, manus, operator, swift, virtualization, virtualization-framework, windows, windows-sandbox
+### hyeonsangjeon/gdpval-realworks
+- Summary: hyeonsangjeon/gdpval-realworks is a Python project for Data Scientist: Benchmark LLMs on real professional tasks, not academic puzzles. YAML-driven experiment pipeline + live React dashboard for GDPVal Gold Subset (220 tasks across 11 industries).
+- Why it matters: It maps to Data Scientist needs with an evidence-based score of 51.45.
+- Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
+- Portfolio idea: Turn gdpval-realworks into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 18; Forks: 3; Language: Python; License: MIT; README length: 0; Topics: ai-evaluation, anthropic, azure-openai, benchmark-automation, code-interpreter, dashboard, evaluation, gdpval, github-actions, gpt-5, huggingface, llm-benchmark, microsoft, mlops, openai, professional-tasks, real-world-tasks, self-qa, vite, yaml-pipeline
 - Confidence: low
 
 ### kanaa257/sosumi.ai
@@ -52,12 +52,36 @@ Mode: `live`
 - Evidence: Stars: 34; Forks: 10; Language: JavaScript; License: unavailable; README length: 0; Topics: ai, benchmark, dashboard, github-actions, llm, machine-learning, nim, nvidia, open-source
 - Confidence: low
 
-### xlang-ai/OSWorld
-- Summary: xlang-ai/OSWorld is a Python project for General User: [NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
-- Why it matters: It maps to General User needs with an evidence-based score of 57.96.
+### allcolor/PawFlow-Agents
+- Summary: allcolor/PawFlow-Agents is a Python project for General User: PawFlow (Platform for Agentic Workflows) Self-hosted agent runtime for real infrastructure. Run durable AI agents against your own files, tools, browsers, desktops, services, and workflows with relay-backed execution, shared context, multi-provider agents, and deterministic flows.
+- Why it matters: It maps to General User needs with an evidence-based score of 86.71.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn OSWorld into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 3022; Forks: 494; Language: Python; License: Apache-2.0; README length: 0; Topics: agent, artificial-intelligence, benchmark, cli, code-generation, gui, language-model, large-action-model, llm, multimodal, natural-language-processing, reinforcement-learning, rpa, vlm
+- Portfolio idea: Turn PawFlow-Agents into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 23; Forks: 1; Language: Python; License: MIT; README length: 25495; Topics: agentic-ai, agentic-coding, agentic-workflows, ai-agents, ai-tools, developer-tools, llm, mcp, orchestrator, remote-desktop, self-hosted, webchat-server
+- Confidence: high
+
+### ibuilder/massing
+- Summary: ibuilder/massing is a Python project for General User: Open, self-hosted, IFC-native AEC platform: web BIM viewer + modeling, a ~100-module GC portal (RFIs, pay apps, CPM, construction accounting — double-entry GL/WIP → QuickBooks, e-sign), AI assist, IDS authoring, estimating + embodied carbon, a development proforma, and operate/dispose (CMMS, facility condition, rent roll, waterfall).
+- Why it matters: It maps to General User needs with an evidence-based score of 85.87.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn massing into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 112; Forks: 56; Language: Python; License: MIT; README length: 43766; Topics: aec, appraisal, bcf, bim, bim-viewer, clash-detection, construction, construction-management, disposition, fastapi, ids, ifc, ifc-viewer, ifcopenshell, massing, openbim, proforma, real-estate, self-hosted, tauri
+- Confidence: high
+
+### ianustec/openwebui-generate-slides
+- Summary: ianustec/openwebui-generate-slides is a Python project for General User: Native PowerPoint (.pptx) generator tool for Open WebUI — JSON spec in, native charts/icons/layouts out. MIT.
+- Why it matters: It maps to General User needs with an evidence-based score of 78.45.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn openwebui-generate-slides into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 34; Forks: 4; Language: Python; License: MIT; README length: 6270; Topics: ai-tools, llm, open-webui, openwebui, powerpoint, pptx, python-pptx, self-hosted
+- Confidence: high
+
+### unslothai/unsloth
+- Summary: unslothai/unsloth is a Python project for General User: Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.
+- Why it matters: It maps to General User needs with an evidence-based score of 57.27.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn unsloth into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 68386; Forks: 6152; Language: Python; License: Apache-2.0; README length: 0; Topics: agent, deepseek, fine-tuning, gemma, gemma3, gpt-oss, llama, llama3, llm, llms, mistral, openai, qwen, reinforcement-learning, self-hosted, text-to-speech, tts, ui, unsloth
 - Confidence: low
 
 ### faithlumumba/2025-tencent-advertising-algorithm-competition-finalist
@@ -76,20 +100,12 @@ Mode: `live`
 - Evidence: Stars: 150; Forks: 0; Language: HTML; License: unavailable; README length: 8722; Topics: agents, anthropic, anthropic-claude, benchmarking, claude, claude-code, claude-opus, claude-sonnet, cli, developer-tools, llm, productivity, prompt-compression, prompt-engineering, token-efficiency
 - Confidence: high
 
-### samchon/nestia
-- Summary: samchon/nestia is a TypeScript project for Data Scientist: NestJS Helper + AI Chatbot Development
-- Why it matters: It maps to Data Scientist needs with an evidence-based score of 50.82.
-- Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
-- Portfolio idea: Turn nestia into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 2169; Forks: 124; Language: TypeScript; License: MIT; README length: 0; Topics: agent, ai, api, class-validator, decorator, hacktoberfest, large-language-model, llm, llm-function-calling, nestjs, rag, retrieval-augmented-generation, sdk, swagger, trpc, typescript, typia, validator
-- Confidence: low
-
 ### Niketkumardheeryan/ML-CaPsule
 - Summary: Niketkumardheeryan/ML-CaPsule is a Jupyter Notebook project for Data Scientist: ML-capsule is a Project for beginners and experienced data science Enthusiasts who don't have a mentor or guidance and wish to learn Machine learning. Using our repo they can learn ML, DL, and many related technologies with different real-world projects and become Interview ready.
 - Why it matters: It maps to Data Scientist needs with an evidence-based score of 49.71.
 - Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
 - Portfolio idea: Turn ML-CaPsule into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 676; Forks: 728; Language: Jupyter Notebook; License: MIT; README length: 0; Topics: analytics, data-analysis, data-science, data-visualization, datascience, deep-learning, deep-neural-networks, deployment, flask, heroku-deployment, machine-learning, python, r, statistics, streamlit-webapp
+- Evidence: Stars: 677; Forks: 731; Language: Jupyter Notebook; License: MIT; README length: 0; Topics: analytics, data-analysis, data-science, data-visualization, datascience, deep-learning, deep-neural-networks, deployment, flask, heroku-deployment, machine-learning, python, r, statistics, streamlit-webapp
 - Confidence: low
 
 ### m96-chan/ai_research_dashboard
@@ -106,20 +122,4 @@ Mode: `live`
 - Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
 - Portfolio idea: Turn ai-on-browser.github.io into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
 - Evidence: Stars: 18; Forks: 2; Language: JavaScript; License: MIT; README length: 0; Topics: ai, anomaly-detection, classification, clustering, data-analysis, demo, dimension-reduction, edge-detection, educational, feature-selection, generative-model, interpolation, javascript, machine-learning, pure-javascript, regression, reinforcement-learning, segmentation, semi-supervised-classification, timeseries-forecasting
-- Confidence: low
-
-### spectrochempy/spectrochempy
-- Summary: spectrochempy/spectrochempy is a Python project for Data Scientist: SpectroChemPy is a framework for processing, analyzing and modeling spectroscopic data for chemistry with Python
-- Why it matters: It maps to Data Scientist needs with an evidence-based score of 46.99.
-- Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
-- Portfolio idea: Turn spectrochempy into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 178; Forks: 37; Language: Python; License: NOASSERTION; README length: 0; Topics: chemistry, data-analysis, datasets, ftir, ftir-data-analysis, infrared, nmr, nmr-data, nmr-spectroscopy, processing, python, raman, raman-spectra, raman-spectroscopy, spectroscopy, uv-vis
-- Confidence: low
-
-### scikit-learn/scikit-learn
-- Summary: scikit-learn/scikit-learn is a Python project for Data Scientist: scikit-learn: machine learning in Python
-- Why it matters: It maps to Data Scientist needs with an evidence-based score of 48.39.
-- Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
-- Portfolio idea: Turn scikit-learn into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 66716; Forks: 27195; Language: Python; License: BSD-3-Clause; README length: 0; Topics: data-analysis, data-science, machine-learning, python, statistics
 - Confidence: low

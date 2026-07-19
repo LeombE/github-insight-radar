@@ -1,6 +1,6 @@
 # GitHub Insight Daily Brief - 2026-07-19
 
-Generated at: `2026-07-18T17:14:18+00:00`
+Generated at: `2026-07-19T06:45:25+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -8,62 +8,62 @@ Image generation: `disabled`
 LLM summary: `disabled`
 
 ## Executive Summary
-- Top overall opportunity: [heymrun/heym](https://github.com/heymrun/heym) with score 94.03.
-- General user opportunity: [heymrun/heym](https://github.com/heymrun/heym)
+- Top overall opportunity: [nxin-github/Auteur](https://github.com/nxin-github/Auteur) with score 90.32.
+- General user opportunity: [nxin-github/Auteur](https://github.com/nxin-github/Auteur)
 - Data analyst opportunity: [grafana/grafana](https://github.com/grafana/grafana)
-- Data scientist opportunity: [Fortemi/fortemi](https://github.com/Fortemi/fortemi)
+- Data scientist opportunity: [lance-format/lance](https://github.com/lance-format/lance)
 - Most common risk pattern: usage examples unclear
 
 ## Top Overall Projects
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
-| 1 | [heymrun/heym](https://github.com/heymrun/heym) | General User | 94.03 | It maps to General User needs with an evidence-based score of 94.03. | Try today |
-| 2 | [huginn/huginn](https://github.com/huginn/huginn) | General User | 93.52 | It maps to General User needs with an evidence-based score of 93.52. | Try today |
-| 3 | [Peiiii/nextclaw](https://github.com/Peiiii/nextclaw) | General User | 92.93 | It maps to General User needs with an evidence-based score of 92.93. | Try today |
-| 4 | [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) | General User | 91.43 | It maps to General User needs with an evidence-based score of 91.43. | Try today |
-| 5 | [chmonitor/chmonitor](https://github.com/chmonitor/chmonitor) | General User | 90.75 | It maps to General User needs with an evidence-based score of 90.75. | Try today |
-| 6 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
-| 7 | [Fortemi/fortemi](https://github.com/Fortemi/fortemi) | General User | 89.28 | It maps to General User needs with an evidence-based score of 89.28. | Try today |
-| 8 | [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) | General User | 89.22 | It maps to General User needs with an evidence-based score of 89.22. | Try today |
-| 9 | [leopu00/job-hunter-team](https://github.com/leopu00/job-hunter-team) | General User | 89.06 | It maps to General User needs with an evidence-based score of 89.06. | Try today |
-| 10 | [ulsklyc/yuvomi](https://github.com/ulsklyc/yuvomi) | General User | 89.00 | It maps to General User needs with an evidence-based score of 89.00. | Try today |
+| 1 | [nxin-github/Auteur](https://github.com/nxin-github/Auteur) | General User | 90.32 | It maps to General User needs with an evidence-based score of 90.32. | Try today |
+| 2 | [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) | General User | 89.23 | It maps to General User needs with an evidence-based score of 89.23. | Try today |
+| 3 | [the911fund/skill-of-skills](https://github.com/the911fund/skill-of-skills) | General User | 88.94 | It maps to General User needs with an evidence-based score of 88.94. | Try today |
+| 4 | [bex-co/bex](https://github.com/bex-co/bex) | General User | 88.80 | It maps to General User needs with an evidence-based score of 88.80. | Try today |
+| 5 | [xusenlin/workavera](https://github.com/xusenlin/workavera) | General User | 88.78 | It maps to General User needs with an evidence-based score of 88.78. | Try today |
+| 6 | [im4codes/imcodes](https://github.com/im4codes/imcodes) | General User | 88.49 | It maps to General User needs with an evidence-based score of 88.49. | Try today |
+| 7 | [tianma-if/edgeever](https://github.com/tianma-if/edgeever) | General User | 88.48 | It maps to General User needs with an evidence-based score of 88.48. | Try today |
+| 8 | [foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) | General User | 88.10 | It maps to General User needs with an evidence-based score of 88.10. | Try today |
+| 9 | [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) | General User | 87.70 | It maps to General User needs with an evidence-based score of 87.70. | Try today |
+| 10 | [terrylica/cc-skills](https://github.com/terrylica/cc-skills) | General User | 87.48 | It maps to General User needs with an evidence-based score of 87.48. | Try today |
 
 ## General User Finds
-### heymrun/heym
-- What it is: heymrun/heym is a Python project for General User: Build AI workflows by prompt or visual canvas. Heym is source-available and self-hosted, with agents, RAG, MCP, HITL, observability, evals, token cost tracking and more.
+### nxin-github/Auteur
+- What it is: nxin-github/Auteur is a Java project for General User: 🎬 16-role AI film studio · End-to-end short video pipeline · Multi-agent · Self-hosted
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 94.03
+- Score: 90.32
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### Peiiii/nextclaw
-- What it is: Peiiii/nextclaw is a TypeScript project for General User: Local-first AI workspace for agents, skills, files, browser tools, automations, and messaging channels.
+### im4codes/imcodes
+- What it is: im4codes/imcodes is a TypeScript project for General User: The IM for agents. Shared Agent Context & Memory, supervised execution, and cross-agent audit across AI providers.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 92.93
-- Difficulty: Advanced
+- Score: 88.49
+- Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### n8n-io/n8n
-- What it is: n8n-io/n8n is a TypeScript project for General User: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+### terrylica/cc-skills
+- What it is: terrylica/cc-skills is a Shell project for General User: Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, semantic versioning, and productivity workflows
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 90.30
-- Difficulty: Advanced
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### leopu00/job-hunter-team
-- What it is: leopu00/job-hunter-team is a TypeScript project for General User: A team of AI agents that runs your job search — self-hosted, on your own LLM subscription. MIT.
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 89.06
-- Difficulty: Advanced
+- Score: 87.48
+- Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: many open issues relative to stars
-### kstevica/captain-claw
-- What it is: kstevica/captain-claw is a Python project for General User: Self-hosted framework for orchestrating fleets of specialist AI agents — ensemble reasoning and a full agentic coding pipeline, model-agnostic and local-friendly.
+### karanb192/claude-code-hooks
+- What it is: karanb192/claude-code-hooks is a JavaScript project for General User: 🪝 Claude Code hooks + an installable plugin marketplace: safety, cost, observability, productivity.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 88.43
+- Score: 86.86
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
+### deverman/FocusRelayMCP
+- What it is: deverman/FocusRelayMCP is a Swift project for General User: Fast native Swift OmniFocus MCP server and CLI for macOS. Let AI assistants safely read, update, complete, and organize tasks and projects through documented Omni Automation APIs.
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 86.86
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: many open issues relative to stars
 
 ## Data Analyst Opportunities
 ### grafana/grafana
@@ -80,17 +80,17 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Study for learning
 - Risk: no README evidence, installation unclear, usage examples unclear
+### MahbubNibir/power-bi-retail-analytics-viz
+- What it is: MahbubNibir/power-bi-retail-analytics-viz is a HTML project for Data Analyst: Top Power BI Sales Dashboard 2026 for Profit & Regional Analysis
+- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
+- Score: 51.93
+- Difficulty: Unknown
+- Recommended action: Watch this week
+- Risk: no README evidence, installation unclear, usage examples unclear, no license
 ### valdeteselimi/DashPro-Monitor-IndustrialBI
 - What it is: valdeteselimi/DashPro-Monitor-IndustrialBI is a HTML project for Data Analyst: Power BI 2026: Smart Industrial Production Dashboard with DAX & Data Cleaning
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
 - Score: 51.92
-- Difficulty: Unknown
-- Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
-### Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse
-- What it is: Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse is a HTML project for Data Analyst: Advanced MS SQL Server & Power BI Data Warehousing & Fleet Logistics Engine 2026
-- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 51.42
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
@@ -103,19 +103,19 @@ LLM summary: `disabled`
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
 
 ## Data Scientist Research Radar
-### Fortemi/fortemi
-- What it is: Fortemi/fortemi is a Rust project for General User: Self-hosted AI knowledge base with hybrid semantic search (pgvector + FTS + RRF), MCP server, multi-provider LLM inference (Ollama, OpenAI, OpenRouter, llama.cpp), multimodal ingestion (vision, audio transcription, speaker diarization), and knowledge graph. Rust + PostgreSQL.
+### lance-format/lance
+- What it is: lance-format/lance is a Rust project for Data Scientist: Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 89.28
+- Score: 55.73
 - Difficulty: Advanced
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### trycua/cua
-- What it is: trycua/cua is a HTML project for General User: Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+- Recommended action: Track for research
+- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
+### hyeonsangjeon/gdpval-realworks
+- What it is: hyeonsangjeon/gdpval-realworks is a Python project for Data Scientist: Benchmark LLMs on real professional tasks, not academic puzzles. YAML-driven experiment pipeline + live React dashboard for GDPVal Gold Subset (220 tasks across 11 industries).
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 59.56
-- Difficulty: Advanced
-- Recommended action: Watch this week
+- Score: 51.45
+- Difficulty: Research-heavy
+- Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear
 ### kanaa257/sosumi.ai
 - What it is: kanaa257/sosumi.ai is a TypeScript project for Data Scientist: 📄 Enhance Apple Developer docs by converting them into AI-readable Markdown for easier access and improved usability.
@@ -131,19 +131,19 @@ LLM summary: `disabled`
 - Difficulty: Research-heavy
 - Recommended action: Skip for now
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### xlang-ai/OSWorld
-- What it is: xlang-ai/OSWorld is a Python project for General User: [NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
+### allcolor/PawFlow-Agents
+- What it is: allcolor/PawFlow-Agents is a Python project for General User: PawFlow (Platform for Agentic Workflows) Self-hosted agent runtime for real infrastructure. Run durable AI agents against your own files, tools, browsers, desktops, services, and workflows with relay-backed execution, shared context, multi-provider agents, and deterministic flows.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 57.96
-- Difficulty: Unknown
-- Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear
+- Score: 86.71
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
 
 ## Action List
-- Try today: heymrun/heym, huginn/huginn, Peiiii/nextclaw
-- Watch this week: trycua/cua, can1357/oh-my-pi, lanxiuyun/Catrace
-- Use as portfolio reference: CPAtoCybersecurity/csf_profile, immich-app/immich, eval-exec/neomacs
-- Skip for now: faithlumumba/2025-tencent-advertising-algorithm-competition-finalist, StreamIntelligenceLab/Kolibrie, VintaBytes/Ciencia-de-datos
+- Try today: nxin-github/Auteur, dongdongbh/Mindwtr, the911fund/skill-of-skills
+- Watch this week: AnalyseDeCircuit/oxideterm, esengine/DeepSeek-Reasonix, unslothai/unsloth
+- Use as portfolio reference: atomchung/ccstory, tjdrhs90/flutter-flame-harness, krelltunez/dayGLANCE
+- Skip for now: charannyk06/conductor-oss, scikit-hep/awkward, faithlumumba/2025-tencent-advertising-algorithm-competition-finalist
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.
