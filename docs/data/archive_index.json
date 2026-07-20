@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-07-21",
+    "generated_at": "2026-07-20T18:19:49+00:00",
+    "mode": "live",
+    "run_id": "live-2026-07-21-2026-07-20T181949-0000",
+    "daily_brief_path": "reports/daily/2026-07-21-daily-brief.md",
+    "json_path": "data/processed/2026-07-21-github-insight-projects.json",
+    "csv_path": "data/processed/2026-07-21-github-insight-projects.csv",
+    "selected_count": 200,
+    "top_project": "langgenius/dify"
+  },
+  {
     "date": "2026-07-20",
     "generated_at": "2026-07-20T07:28:57+00:00",
     "mode": "live",

@@ -1,6 +1,6 @@
-# GitHub Insight Daily Brief - 2026-07-20
+# GitHub Insight Daily Brief - 2026-07-21
 
-Generated at: `2026-07-20T07:28:57+00:00`
+Generated at: `2026-07-20T18:19:49+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -8,8 +8,8 @@ Image generation: `disabled`
 LLM summary: `disabled`
 
 ## Executive Summary
-- Top overall opportunity: [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) with score 98.82.
-- General user opportunity: [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips)
+- Top overall opportunity: [langgenius/dify](https://github.com/langgenius/dify) with score 97.00.
+- General user opportunity: [langgenius/dify](https://github.com/langgenius/dify)
 - Data analyst opportunity: [grafana/grafana](https://github.com/grafana/grafana)
 - Data scientist opportunity: [lance-format/lance](https://github.com/lance-format/lance)
 - Most common risk pattern: usage examples unclear
@@ -17,53 +17,53 @@ LLM summary: `disabled`
 ## Top Overall Projects
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
-| 1 | [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) | General User | 98.82 | It maps to General User needs with an evidence-based score of 98.82. | Try today |
-| 2 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | General User | 95.22 | It maps to General User needs with an evidence-based score of 95.22. | Try today |
-| 3 | [langgenius/dify](https://github.com/langgenius/dify) | General User | 94.72 | It maps to General User needs with an evidence-based score of 94.72. | Try today |
-| 4 | [SigNoz/signoz](https://github.com/SigNoz/signoz) | General User | 92.32 | It maps to General User needs with an evidence-based score of 92.32. | Try today |
-| 5 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | General User | 91.82 | It maps to General User needs with an evidence-based score of 91.82. | Try today |
-| 6 | [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) | General User | 91.65 | It maps to General User needs with an evidence-based score of 91.65. | Try today |
-| 7 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
-| 8 | [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) | General User | 89.89 | It maps to General User needs with an evidence-based score of 89.89. | Try today |
-| 9 | [edrewitz/WxData](https://github.com/edrewitz/WxData) | General User | 89.69 | It maps to General User needs with an evidence-based score of 89.69. | Try today |
-| 10 | [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) | General User | 89.24 | It maps to General User needs with an evidence-based score of 89.24. | Try today |
+| 1 | [langgenius/dify](https://github.com/langgenius/dify) | General User | 97.00 | It maps to General User needs with an evidence-based score of 97.00. | Try today |
+| 2 | [Osmantic/ODS](https://github.com/Osmantic/ODS) | General User | 95.88 | It maps to General User needs with an evidence-based score of 95.88. | Try today |
+| 3 | [av/harbor](https://github.com/av/harbor) | General User | 95.55 | It maps to General User needs with an evidence-based score of 95.55. | Try today |
+| 4 | [rush86999/atom](https://github.com/rush86999/atom) | General User | 94.57 | It maps to General User needs with an evidence-based score of 94.57. | Try today |
+| 5 | [clidey/whodb](https://github.com/clidey/whodb) | General User | 94.54 | It maps to General User needs with an evidence-based score of 94.54. | Try today |
+| 6 | [heymrun/heym](https://github.com/heymrun/heym) | General User | 94.04 | It maps to General User needs with an evidence-based score of 94.04. | Try today |
+| 7 | [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) | General User | 93.37 | It maps to General User needs with an evidence-based score of 93.37. | Try today |
+| 8 | [SigNoz/signoz](https://github.com/SigNoz/signoz) | General User | 92.32 | It maps to General User needs with an evidence-based score of 92.32. | Try today |
+| 9 | [markrai/scrumboy](https://github.com/markrai/scrumboy) | General User | 91.20 | It maps to General User needs with an evidence-based score of 91.20. | Try today |
+| 10 | [schmitech/orbit](https://github.com/schmitech/orbit) | General User | 90.94 | It maps to General User needs with an evidence-based score of 90.94. | Try today |
 
 ## General User Finds
-### ykdojo/claude-code-tips
-- What it is: ykdojo/claude-code-tips is a HTML project for General User: 40+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script and Claude Code running itself in a container. Also includes the dx plugin: skills for everyday dev workflows.
+### langgenius/dify
+- What it is: langgenius/dify is a TypeScript project for General User: Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 98.82
-- Difficulty: Intermediate
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### netease-youdao/LobsterAI
-- What it is: netease-youdao/LobsterAI is a TypeScript project for General User: Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 91.65
-- Difficulty: Intermediate
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### n8n-io/n8n
-- What it is: n8n-io/n8n is a TypeScript project for General User: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 90.30
+- Score: 97.00
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### oomol-lab/open-connector
-- What it is: oomol-lab/open-connector is a TypeScript project for General User: Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
+### Osmantic/ODS
+- What it is: Osmantic/ODS is a Shell project for General User: Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 89.89
+- Score: 95.88
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### automagik-dev/genie
-- What it is: automagik-dev/genie is a TypeScript project for General User: Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.
+### rush86999/atom
+- What it is: rush86999/atom is a Python project for General User: Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 87.61
+- Score: 94.57
+- Difficulty: Advanced
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### clidey/whodb
+- What it is: clidey/whodb is a Go project for General User: Where data access meets operational intelligence
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 94.54
 - Difficulty: Intermediate
 - Recommended action: Try today
-- Risk: many open issues relative to stars
+- Risk: No major risk flag from collected evidence.
+### heymrun/heym
+- What it is: heymrun/heym is a Python project for General User: Build AI workflows by prompt or visual canvas. Heym is source-available and self-hosted, with agents, RAG, MCP, HITL, observability, evals, token cost tracking and more.
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 94.04
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
 
 ## Data Analyst Opportunities
 ### grafana/grafana
@@ -87,17 +87,17 @@ LLM summary: `disabled`
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
+### gbb014/IPL-Elite-Delivery-Forecast-Model
+- What it is: gbb014/IPL-Elite-Delivery-Forecast-Model is a HTML project for Data Analyst: Power BI IPL 2026 Complete Ball-by-Ball Dashboard with Python Data Cleaning
+- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
+- Score: 51.92
+- Difficulty: Unknown
+- Recommended action: Watch this week
+- Risk: no README evidence, installation unclear, usage examples unclear, no license
 ### Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse
 - What it is: Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse is a HTML project for Data Analyst: Advanced MS SQL Server & Power BI Data Warehousing & Fleet Logistics Engine 2026
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
 - Score: 51.42
-- Difficulty: Unknown
-- Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
-### youtukubek-tech/Netflix-Insights-Hub
-- What it is: youtukubek-tech/Netflix-Insights-Hub is a HTML project for Data Analyst: Top Netflix Movie & Show Trends Dashboard 2026 – Power BI Data Analytics
-- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 50.24
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
@@ -110,10 +110,24 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
+### NVIDIA-NeMo/Automodel
+- What it is: NVIDIA-NeMo/Automodel is a Python project for Data Scientist: 🚀 Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 52.03
+- Difficulty: Research-heavy
+- Recommended action: Track for research
+- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
 ### trycua/cua
 - What it is: trycua/cua is a HTML project for General User: Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
 - Score: 59.57
+- Difficulty: Advanced
+- Recommended action: Watch this week
+- Risk: no README evidence, installation unclear, usage examples unclear
+### flyteorg/flyte
+- What it is: flyteorg/flyte is a Go project for General User: Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 55.02
 - Difficulty: Advanced
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear
@@ -124,33 +138,19 @@ LLM summary: `disabled`
 - Difficulty: Research-heavy
 - Recommended action: Skip for now
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### uxlfoundation/scikit-learn-intelex
-- What it is: uxlfoundation/scikit-learn-intelex is a Python project for Data Scientist: Extension for Scikit-learn is a seamless way to speed up your Scikit-learn application
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 51.95
-- Difficulty: Research-heavy
-- Recommended action: Track for research
-- Risk: no README evidence, installation unclear, usage examples unclear
-### unslothai/unsloth
-- What it is: unslothai/unsloth is a Python project for General User: Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 91.82
-- Difficulty: Intermediate
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
 
 ## Action List
-- Try today: ykdojo/claude-code-tips, affaan-m/ECC, langgenius/dify
-- Watch this week: trycua/cua, rilldata/rill, LearningCircuit/local-deep-research
-- Use as portfolio reference: PurpleDoubleD/locally-uncensored, ela-compil/BACnet, apify/apify-client-python
+- Try today: langgenius/dify, Osmantic/ODS, av/harbor
+- Watch this week: nrwl/nx, trycua/cua, rilldata/rill
+- Use as portfolio reference: Artexis10/endstate, OpenC3/cosmos, krelltunez/dayGLANCE
 - Skip for now: MauroDruwel/NIMStats, m96-chan/ai_research_dashboard, denesdata/roem
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.
 
 ## Data Files
-- Raw API JSON: `data/raw/2026-07-20-github-api-raw.json`
-- Daily projects JSON: `data/processed/2026-07-20-github-insight-projects.json`
-- Daily projects CSV: `data/processed/2026-07-20-github-insight-projects.csv`
+- Raw API JSON: `data/raw/2026-07-21-github-api-raw.json`
+- Daily projects JSON: `data/processed/2026-07-21-github-insight-projects.json`
+- Daily projects CSV: `data/processed/2026-07-21-github-insight-projects.csv`
 - Master CSV: `data/processed/github_repos_master.csv`
 - Dashboard JSON: `docs/data/latest.json`
