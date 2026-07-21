@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-07-22",
+    "generated_at": "2026-07-21T17:45:44+00:00",
+    "mode": "live",
+    "run_id": "live-2026-07-22-2026-07-21T174544-0000",
+    "daily_brief_path": "reports/daily/2026-07-22-daily-brief.md",
+    "json_path": "data/processed/2026-07-22-github-insight-projects.json",
+    "csv_path": "data/processed/2026-07-22-github-insight-projects.csv",
+    "selected_count": 200,
+    "top_project": "SHAdd0WTAka/Zen-Ai-Pentest"
+  },
+  {
     "date": "2026-07-21",
     "generated_at": "2026-07-21T06:42:11+00:00",
     "mode": "live",
