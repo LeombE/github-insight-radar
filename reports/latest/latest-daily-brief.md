@@ -1,6 +1,6 @@
-# GitHub Insight Daily Brief - 2026-07-23
+# GitHub Insight Daily Brief - 2026-07-24
 
-Generated at: `2026-07-23T06:40:13+00:00`
+Generated at: `2026-07-23T17:45:37+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -8,8 +8,8 @@ Image generation: `disabled`
 LLM summary: `disabled`
 
 ## Executive Summary
-- Top overall opportunity: [langgenius/dify](https://github.com/langgenius/dify) with score 97.00.
-- General user opportunity: [langgenius/dify](https://github.com/langgenius/dify)
+- Top overall opportunity: [apache/airflow](https://github.com/apache/airflow) with score 95.22.
+- General user opportunity: [theexperiencecompany/gaia](https://github.com/theexperiencecompany/gaia)
 - Data analyst opportunity: [grafana/grafana](https://github.com/grafana/grafana)
 - Data scientist opportunity: [lance-format/lance](https://github.com/lance-format/lance)
 - Most common risk pattern: usage examples unclear
@@ -17,44 +17,23 @@ LLM summary: `disabled`
 ## Top Overall Projects
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
-| 1 | [langgenius/dify](https://github.com/langgenius/dify) | General User | 97.00 | It maps to General User needs with an evidence-based score of 97.00. | Try today |
-| 2 | [apache/airflow](https://github.com/apache/airflow) | General User | 95.22 | It maps to General User needs with an evidence-based score of 95.22. | Try today |
-| 3 | [openops-cloud/openops](https://github.com/openops-cloud/openops) | General User | 93.63 | It maps to General User needs with an evidence-based score of 93.63. | Try today |
-| 4 | [vmDeshpande/ai-agent-automation](https://github.com/vmDeshpande/ai-agent-automation) | General User | 92.69 | It maps to General User needs with an evidence-based score of 92.69. | Try today |
-| 5 | [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) | General User | 91.66 | It maps to General User needs with an evidence-based score of 91.66. | Try today |
-| 6 | [simstudioai/sim](https://github.com/simstudioai/sim) | General User | 90.52 | It maps to General User needs with an evidence-based score of 90.52. | Try today |
-| 7 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
-| 8 | [the911fund/skill-of-skills](https://github.com/the911fund/skill-of-skills) | General User | 88.97 | It maps to General User needs with an evidence-based score of 88.97. | Try today |
-| 9 | [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) | General User | 88.92 | It maps to General User needs with an evidence-based score of 88.92. | Try today |
-| 10 | [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) | General User | 87.79 | It maps to General User needs with an evidence-based score of 87.79. | Try today |
+| 1 | [apache/airflow](https://github.com/apache/airflow) | General User | 95.22 | It maps to General User needs with an evidence-based score of 95.22. | Try today |
+| 2 | [theexperiencecompany/gaia](https://github.com/theexperiencecompany/gaia) | General User | 93.01 | It maps to General User needs with an evidence-based score of 93.01. | Try today |
+| 3 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
+| 4 | [openrundev/openrun](https://github.com/openrundev/openrun) | General User | 89.51 | It maps to General User needs with an evidence-based score of 89.51. | Try today |
+| 5 | [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) | General User | 89.38 | It maps to General User needs with an evidence-based score of 89.38. | Try today |
+| 6 | [Fractera/Agent-Engineering-Infrastructure](https://github.com/Fractera/Agent-Engineering-Infrastructure) | General User | 88.98 | It maps to General User needs with an evidence-based score of 88.98. | Try today |
+| 7 | [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) | General User | 88.47 | It maps to General User needs with an evidence-based score of 88.47. | Try today |
+| 8 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | General User | 87.52 | It maps to General User needs with an evidence-based score of 87.52. | Try today |
+| 9 | [deverman/FocusRelayMCP](https://github.com/deverman/FocusRelayMCP) | General User | 86.88 | It maps to General User needs with an evidence-based score of 86.88. | Try today |
+| 10 | [RikyZ90/ShibaClaw](https://github.com/RikyZ90/ShibaClaw) | General User | 86.67 | It maps to General User needs with an evidence-based score of 86.67. | Try today |
 
 ## General User Finds
-### langgenius/dify
-- What it is: langgenius/dify is a TypeScript project for General User: Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
+### theexperiencecompany/gaia
+- What it is: theexperiencecompany/gaia is a Python project for General User: Your proactive personal AI assistant & companion for daily productivity 🌎
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 97.00
+- Score: 93.01
 - Difficulty: Advanced
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### openops-cloud/openops
-- What it is: openops-cloud/openops is a TypeScript project for General User: The batteries-included, No-Code FinOps automation platform, with the AI you trust.
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 93.63
-- Difficulty: Intermediate
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### vmDeshpande/ai-agent-automation
-- What it is: vmDeshpande/ai-agent-automation is a TypeScript project for General User: Modular AI agent workflow automation platform with schedulers, tools, and observability. https://vmdeshpande.github.io/ai-automation-platform-website/
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 92.69
-- Difficulty: Intermediate
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### netease-youdao/LobsterAI
-- What it is: netease-youdao/LobsterAI is a TypeScript project for General User: Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 91.66
-- Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
 ### n8n-io/n8n
@@ -64,6 +43,27 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
+### deverman/FocusRelayMCP
+- What it is: deverman/FocusRelayMCP is a Swift project for General User: Fast native Swift OmniFocus MCP server and CLI for macOS. Let AI assistants safely read, update, complete, and organize tasks and projects through documented Omni Automation APIs.
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 86.88
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: many open issues relative to stars
+### ohmyzsh/ohmyzsh
+- What it is: ohmyzsh/ohmyzsh is a Shell project for General User: 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 85.30
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### jordigilh/kubernaut
+- What it is: jordigilh/kubernaut is a Go project for General User: An AIOps platform that closes the loop from Kubernetes alert to automated remediation: An AI Agent investigates via MCP tools, selects a fix from a pre-seeded workflow catalog and delegates execution (K8s Job, Tekton, Ansible) — or escalates with a full RCA. Approval gates, OPA policies, and audit trails keep humans in control.
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 84.44
+- Difficulty: Advanced
+- Recommended action: Try today
+- Risk: many open issues relative to stars
 
 ## Data Analyst Opportunities
 ### grafana/grafana
@@ -80,13 +80,6 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Study for learning
 - Risk: no README evidence, installation unclear, usage examples unclear
-### MahbubNibir/power-bi-retail-analytics-viz
-- What it is: MahbubNibir/power-bi-retail-analytics-viz is a HTML project for Data Analyst: Top Power BI Sales Dashboard 2026 for Profit & Regional Analysis
-- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 51.93
-- Difficulty: Unknown
-- Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
 ### valdeteselimi/DashPro-Monitor-IndustrialBI
 - What it is: valdeteselimi/DashPro-Monitor-IndustrialBI is a HTML project for Data Analyst: Power BI 2026: Smart Industrial Production Dashboard with DAX & Data Cleaning
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
@@ -94,13 +87,20 @@ LLM summary: `disabled`
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### gbb014/IPL-Elite-Delivery-Forecast-Model
-- What it is: gbb014/IPL-Elite-Delivery-Forecast-Model is a HTML project for Data Analyst: Power BI IPL 2026 Complete Ball-by-Ball Dashboard with Python Data Cleaning
+### youtukubek-tech/Netflix-Insights-Hub
+- What it is: youtukubek-tech/Netflix-Insights-Hub is a HTML project for Data Analyst: Top Netflix Movie & Show Trends Dashboard 2026 – Power BI Data Analytics
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 51.92
+- Score: 50.24
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
+### apache/superset
+- What it is: apache/superset is a Python project for Data Analyst: Apache Superset is a Data Visualization and Data Exploration Platform
+- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
+- Score: 62.21
+- Difficulty: Advanced
+- Recommended action: Study for learning
+- Risk: no README evidence, installation unclear, usage examples unclear
 
 ## Data Scientist Research Radar
 ### lance-format/lance
@@ -117,12 +117,19 @@ LLM summary: `disabled`
 - Difficulty: Research-heavy
 - Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
-### Tencent/WeKnora
-- What it is: Tencent/WeKnora is a Go project for Data Scientist: Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+### flyingriverhorse/Skyulf
+- What it is: flyingriverhorse/Skyulf is a Jupyter Notebook project for General User: Build and ship production ML pipelines faster: a pipeline library with an optional self-hosted visual layer for modular, reproducible workflows, local testing, and experiment tracking.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 55.69
-- Difficulty: Unknown
-- Recommended action: Track for research
+- Score: 86.32
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### trycua/cua
+- What it is: trycua/cua is a HTML project for General User: Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 59.57
+- Difficulty: Advanced
+- Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear
 ### flyteorg/flyte
 - What it is: flyteorg/flyte is a Go project for General User: Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
@@ -131,26 +138,19 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear
-### MauroDruwel/NIMStats
-- What it is: MauroDruwel/NIMStats is a JavaScript project for Data Scientist: 📊 Automated hourly benchmarks for 20+ NVIDIA NIM models — interactive dashboard, zero infra, self-hostable. Open-source & community-driven.
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 44.59
-- Difficulty: Research-heavy
-- Recommended action: Skip for now
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
 
 ## Action List
-- Try today: langgenius/dify, apache/airflow, openops-cloud/openops
-- Watch this week: chartbrew/chartbrew, Effect-TS/effect, iflytek/astron-agent
-- Use as portfolio reference: Snap-Mind/snap-mind, atomchung/ccstory, ninouanis84-sudo/foxl-orchestrator
-- Skip for now: The-Pulse-Engine/Pulse-Engine_Market_Intelligence_Platform, MauroDruwel/NIMStats, m96-chan/ai_research_dashboard
+- Try today: apache/airflow, theexperiencecompany/gaia, n8n-io/n8n
+- Watch this week: AnalyseDeCircuit/oxideterm, nrwl/nx, trycua/cua
+- Use as portfolio reference: plainhub/plain-app, danielvm-git/bigpowers, tmwclaxton/autoapplycv
+- Skip for now: atomantic/PortOS, MauroDruwel/NIMStats, m96-chan/ai_research_dashboard
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.
 
 ## Data Files
-- Raw API JSON: `data/raw/2026-07-23-github-api-raw.json`
-- Daily projects JSON: `data/processed/2026-07-23-github-insight-projects.json`
-- Daily projects CSV: `data/processed/2026-07-23-github-insight-projects.csv`
+- Raw API JSON: `data/raw/2026-07-24-github-api-raw.json`
+- Daily projects JSON: `data/processed/2026-07-24-github-insight-projects.json`
+- Daily projects CSV: `data/processed/2026-07-24-github-insight-projects.csv`
 - Master CSV: `data/processed/github_repos_master.csv`
 - Dashboard JSON: `docs/data/latest.json`
