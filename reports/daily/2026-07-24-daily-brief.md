@@ -1,6 +1,6 @@
 # GitHub Insight Daily Brief - 2026-07-24
 
-Generated at: `2026-07-23T17:45:37+00:00`
+Generated at: `2026-07-24T06:39:43+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -8,8 +8,8 @@ Image generation: `disabled`
 LLM summary: `disabled`
 
 ## Executive Summary
-- Top overall opportunity: [apache/airflow](https://github.com/apache/airflow) with score 95.22.
-- General user opportunity: [theexperiencecompany/gaia](https://github.com/theexperiencecompany/gaia)
+- Top overall opportunity: [langgenius/dify](https://github.com/langgenius/dify) with score 97.00.
+- General user opportunity: [langgenius/dify](https://github.com/langgenius/dify)
 - Data analyst opportunity: [grafana/grafana](https://github.com/grafana/grafana)
 - Data scientist opportunity: [lance-format/lance](https://github.com/lance-format/lance)
 - Most common risk pattern: usage examples unclear
@@ -17,53 +17,53 @@ LLM summary: `disabled`
 ## Top Overall Projects
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
-| 1 | [apache/airflow](https://github.com/apache/airflow) | General User | 95.22 | It maps to General User needs with an evidence-based score of 95.22. | Try today |
-| 2 | [theexperiencecompany/gaia](https://github.com/theexperiencecompany/gaia) | General User | 93.01 | It maps to General User needs with an evidence-based score of 93.01. | Try today |
-| 3 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
-| 4 | [openrundev/openrun](https://github.com/openrundev/openrun) | General User | 89.51 | It maps to General User needs with an evidence-based score of 89.51. | Try today |
-| 5 | [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) | General User | 89.38 | It maps to General User needs with an evidence-based score of 89.38. | Try today |
-| 6 | [Fractera/Agent-Engineering-Infrastructure](https://github.com/Fractera/Agent-Engineering-Infrastructure) | General User | 88.98 | It maps to General User needs with an evidence-based score of 88.98. | Try today |
-| 7 | [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) | General User | 88.47 | It maps to General User needs with an evidence-based score of 88.47. | Try today |
-| 8 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | General User | 87.52 | It maps to General User needs with an evidence-based score of 87.52. | Try today |
-| 9 | [deverman/FocusRelayMCP](https://github.com/deverman/FocusRelayMCP) | General User | 86.88 | It maps to General User needs with an evidence-based score of 86.88. | Try today |
-| 10 | [RikyZ90/ShibaClaw](https://github.com/RikyZ90/ShibaClaw) | General User | 86.67 | It maps to General User needs with an evidence-based score of 86.67. | Try today |
+| 1 | [langgenius/dify](https://github.com/langgenius/dify) | General User | 97.00 | It maps to General User needs with an evidence-based score of 97.00. | Try today |
+| 2 | [Osmantic/ODS](https://github.com/Osmantic/ODS) | General User | 95.92 | It maps to General User needs with an evidence-based score of 95.92. | Try today |
+| 3 | [dagucloud/dagu](https://github.com/dagucloud/dagu) | General User | 95.47 | It maps to General User needs with an evidence-based score of 95.47. | Try today |
+| 4 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | General User | 95.22 | It maps to General User needs with an evidence-based score of 95.22. | Try today |
+| 5 | [aannoo/hcom](https://github.com/aannoo/hcom) | General User | 91.24 | It maps to General User needs with an evidence-based score of 91.24. | Try today |
+| 6 | [pssah4/vault-operator](https://github.com/pssah4/vault-operator) | General User | 90.69 | It maps to General User needs with an evidence-based score of 90.69. | Try today |
+| 7 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
+| 8 | [manykarim/rf-mcp](https://github.com/manykarim/rf-mcp) | General User | 89.99 | It maps to General User needs with an evidence-based score of 89.99. | Try today |
+| 9 | [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) | General User | 89.93 | It maps to General User needs with an evidence-based score of 89.93. | Try today |
+| 10 | [Team-Commonly/commonly](https://github.com/Team-Commonly/commonly) | General User | 89.83 | It maps to General User needs with an evidence-based score of 89.83. | Try today |
 
 ## General User Finds
-### theexperiencecompany/gaia
-- What it is: theexperiencecompany/gaia is a Python project for General User: Your proactive personal AI assistant & companion for daily productivity 🌎
+### langgenius/dify
+- What it is: langgenius/dify is a TypeScript project for General User: Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 93.01
+- Score: 97.00
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### n8n-io/n8n
-- What it is: n8n-io/n8n is a TypeScript project for General User: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+### Osmantic/ODS
+- What it is: Osmantic/ODS is a Python project for General User: Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 90.30
-- Difficulty: Advanced
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### deverman/FocusRelayMCP
-- What it is: deverman/FocusRelayMCP is a Swift project for General User: Fast native Swift OmniFocus MCP server and CLI for macOS. Let AI assistants safely read, update, complete, and organize tasks and projects through documented Omni Automation APIs.
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 86.88
-- Difficulty: Intermediate
-- Recommended action: Try today
-- Risk: many open issues relative to stars
-### ohmyzsh/ohmyzsh
-- What it is: ohmyzsh/ohmyzsh is a Shell project for General User: 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 85.30
+- Score: 95.92
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### jordigilh/kubernaut
-- What it is: jordigilh/kubernaut is a Go project for General User: An AIOps platform that closes the loop from Kubernetes alert to automated remediation: An AI Agent investigates via MCP tools, selects a fix from a pre-seeded workflow catalog and delegates execution (K8s Job, Tekton, Ansible) — or escalates with a full RCA. Approval gates, OPA policies, and audit trails keep humans in control.
+### dagucloud/dagu
+- What it is: dagucloud/dagu is a Go project for General User: Local-first workflow engine for ops automation and AI-assisted operations. Open source and self-hostable: single binary, no DBMS. Define DAGs in declarative YAML. Built-in MCP server so AI agents can manage your DAGs.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 84.44
+- Score: 95.47
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### aannoo/hcom
+- What it is: aannoo/hcom is a Rust project for General User: Let AI agents message, watch, and spawn each other across terminals. Claude Code, Codex, Antigravity CLI, Cursor CLI, OpenCode, Kilo, Pi, Kimi
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 91.24
 - Difficulty: Advanced
 - Recommended action: Try today
-- Risk: many open issues relative to stars
+- Risk: No major risk flag from collected evidence.
+### pssah4/vault-operator
+- What it is: pssah4/vault-operator is a TypeScript project for General User: Real AI agent for your vault. Coworker, Copilot & thinking partner, that maintains your memory & knowledge, adapts to your workflows, uses plugins, skills & tools with full safety controls. BYOK & MCP.
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 90.69
+- Difficulty: Advanced
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
 
 ## Data Analyst Opportunities
 ### grafana/grafana
@@ -87,20 +87,20 @@ LLM summary: `disabled`
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### youtukubek-tech/Netflix-Insights-Hub
-- What it is: youtukubek-tech/Netflix-Insights-Hub is a HTML project for Data Analyst: Top Netflix Movie & Show Trends Dashboard 2026 – Power BI Data Analytics
+### gbb014/IPL-Elite-Delivery-Forecast-Model
+- What it is: gbb014/IPL-Elite-Delivery-Forecast-Model is a HTML project for Data Analyst: Power BI IPL 2026 Complete Ball-by-Ball Dashboard with Python Data Cleaning
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 50.24
+- Score: 51.92
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### apache/superset
-- What it is: apache/superset is a Python project for Data Analyst: Apache Superset is a Data Visualization and Data Exploration Platform
+### Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse
+- What it is: Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse is a HTML project for Data Analyst: Advanced MS SQL Server & Power BI Data Warehousing & Fleet Logistics Engine 2026
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 62.21
-- Difficulty: Advanced
-- Recommended action: Study for learning
-- Risk: no README evidence, installation unclear, usage examples unclear
+- Score: 51.42
+- Difficulty: Unknown
+- Recommended action: Watch this week
+- Risk: no README evidence, installation unclear, usage examples unclear, no license
 
 ## Data Scientist Research Radar
 ### lance-format/lance
@@ -110,40 +110,40 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
-### NVIDIA-NeMo/Automodel
-- What it is: NVIDIA-NeMo/Automodel is a Python project for Data Scientist: 🚀 Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
+### Fortemi/fortemi
+- What it is: Fortemi/fortemi is a Rust project for General User: Self-hosted AI knowledge base with hybrid semantic search (pgvector + FTS + RRF), MCP server, multi-provider LLM inference (Ollama, OpenAI, OpenRouter, llama.cpp), multimodal ingestion (vision, audio transcription, speaker diarization), and knowledge graph. Rust + PostgreSQL.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 52.06
-- Difficulty: Research-heavy
-- Recommended action: Track for research
-- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
-### flyingriverhorse/Skyulf
-- What it is: flyingriverhorse/Skyulf is a Jupyter Notebook project for General User: Build and ship production ML pipelines faster: a pipeline library with an optional self-hosted visual layer for modular, reproducible workflows, local testing, and experiment tracking.
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 86.32
-- Difficulty: Intermediate
+- Score: 89.35
+- Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### trycua/cua
-- What it is: trycua/cua is a HTML project for General User: Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+### garfiec/Librechat-Mobile
+- What it is: garfiec/Librechat-Mobile is a Kotlin project for General User: Native Android & iOS client for LibreChat, built with Kotlin Multiplatform and Compose Multiplatform
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 59.57
-- Difficulty: Advanced
-- Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear
-### flyteorg/flyte
-- What it is: flyteorg/flyte is a Go project for General User: Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
+- Score: 75.35
+- Difficulty: Intermediate
+- Recommended action: Use as portfolio reference
+- Risk: many open issues relative to stars
+### MauroDruwel/NIMStats
+- What it is: MauroDruwel/NIMStats is a JavaScript project for Data Scientist: 📊 Automated hourly benchmarks for 20+ NVIDIA NIM models — interactive dashboard, zero infra, self-hostable. Open-source & community-driven.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 55.02
-- Difficulty: Advanced
-- Recommended action: Watch this week
+- Score: 44.59
+- Difficulty: Research-heavy
+- Recommended action: Skip for now
+- Risk: no README evidence, installation unclear, usage examples unclear, no license
+### uxlfoundation/scikit-learn-intelex
+- What it is: uxlfoundation/scikit-learn-intelex is a Python project for Data Scientist: Extension for Scikit-learn is a seamless way to speed up your Scikit-learn application
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 51.95
+- Difficulty: Research-heavy
+- Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear
 
 ## Action List
-- Try today: apache/airflow, theexperiencecompany/gaia, n8n-io/n8n
-- Watch this week: AnalyseDeCircuit/oxideterm, nrwl/nx, trycua/cua
-- Use as portfolio reference: plainhub/plain-app, danielvm-git/bigpowers, tmwclaxton/autoapplycv
-- Skip for now: atomantic/PortOS, MauroDruwel/NIMStats, m96-chan/ai_research_dashboard
+- Try today: langgenius/dify, Osmantic/ODS, dagucloud/dagu
+- Watch this week: AnalyseDeCircuit/oxideterm, esengine/DeepSeek-Reasonix, can1357/oh-my-pi
+- Use as portfolio reference: plainhub/plain-app, krelltunez/lifeGLANCE, defilantech/LLMKube
+- Skip for now: openyida/openyida, MauroDruwel/NIMStats, m96-chan/ai_research_dashboard
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.
