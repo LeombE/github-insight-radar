@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-07-25",
+    "generated_at": "2026-07-24T17:51:50+00:00",
+    "mode": "live",
+    "run_id": "live-2026-07-25-2026-07-24T175150-0000",
+    "daily_brief_path": "reports/daily/2026-07-25-daily-brief.md",
+    "json_path": "data/processed/2026-07-25-github-insight-projects.json",
+    "csv_path": "data/processed/2026-07-25-github-insight-projects.csv",
+    "selected_count": 200,
+    "top_project": "affaan-m/ECC"
+  },
+  {
     "date": "2026-07-24",
     "generated_at": "2026-07-24T06:39:43+00:00",
     "mode": "live",
