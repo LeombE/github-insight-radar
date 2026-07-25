@@ -1,6 +1,6 @@
 # GitHub Insight Daily Brief - 2026-07-25
 
-Generated at: `2026-07-24T17:51:50+00:00`
+Generated at: `2026-07-25T06:29:46+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -8,71 +8,64 @@ Image generation: `disabled`
 LLM summary: `disabled`
 
 ## Executive Summary
-- Top overall opportunity: [affaan-m/ECC](https://github.com/affaan-m/ECC) with score 95.22.
-- General user opportunity: [heymrun/heym](https://github.com/heymrun/heym)
-- Data analyst opportunity: [grafana/grafana](https://github.com/grafana/grafana)
+- Top overall opportunity: [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) with score 98.82.
+- General user opportunity: [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips)
+- Data analyst opportunity: [metabase/metabase](https://github.com/metabase/metabase)
 - Data scientist opportunity: [lance-format/lance](https://github.com/lance-format/lance)
 - Most common risk pattern: usage examples unclear
 
 ## Top Overall Projects
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
-| 1 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | General User | 95.22 | It maps to General User needs with an evidence-based score of 95.22. | Try today |
-| 2 | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | General User | 94.75 | It maps to General User needs with an evidence-based score of 94.75. | Try today |
-| 3 | [heymrun/heym](https://github.com/heymrun/heym) | General User | 94.07 | It maps to General User needs with an evidence-based score of 94.07. | Try today |
-| 4 | [PerpetualSoftware/pad](https://github.com/PerpetualSoftware/pad) | General User | 92.19 | It maps to General User needs with an evidence-based score of 92.19. | Try today |
-| 5 | [gokhantos/opencrow](https://github.com/gokhantos/opencrow) | General User | 91.31 | It maps to General User needs with an evidence-based score of 91.31. | Try today |
-| 6 | [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) | General User | 90.33 | It maps to General User needs with an evidence-based score of 90.33. | Try today |
-| 7 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
-| 8 | [fabiodalez-dev/Pinakes](https://github.com/fabiodalez-dev/Pinakes) | General User | 89.73 | It maps to General User needs with an evidence-based score of 89.73. | Try today |
-| 9 | [hexclave/hexclave](https://github.com/hexclave/hexclave) | General User | 89.66 | It maps to General User needs with an evidence-based score of 89.66. | Try today |
-| 10 | [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) | General User | 89.39 | It maps to General User needs with an evidence-based score of 89.39. | Try today |
+| 1 | [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) | General User | 98.82 | It maps to General User needs with an evidence-based score of 98.82. | Try today |
+| 2 | [apache/airflow](https://github.com/apache/airflow) | General User | 95.22 | It maps to General User needs with an evidence-based score of 95.22. | Try today |
+| 3 | [tianma-if/edgeever](https://github.com/tianma-if/edgeever) | General User | 94.08 | It maps to General User needs with an evidence-based score of 94.08. | Try today |
+| 4 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | General User | 91.82 | It maps to General User needs with an evidence-based score of 91.82. | Try today |
+| 5 | [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) | General User | 89.39 | It maps to General User needs with an evidence-based score of 89.39. | Try today |
+| 6 | [moltis-org/moltis](https://github.com/moltis-org/moltis) | General User | 89.34 | It maps to General User needs with an evidence-based score of 89.34. | Try today |
+| 7 | [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) | General User | 89.32 | It maps to General User needs with an evidence-based score of 89.32. | Try today |
+| 8 | [ulsklyc/yuvomi](https://github.com/ulsklyc/yuvomi) | General User | 89.03 | It maps to General User needs with an evidence-based score of 89.03. | Try today |
+| 9 | [the911fund/skill-of-skills](https://github.com/the911fund/skill-of-skills) | General User | 89.00 | It maps to General User needs with an evidence-based score of 89.00. | Try today |
+| 10 | [xalgord/xalgorix](https://github.com/xalgord/xalgorix) | General User | 88.81 | It maps to General User needs with an evidence-based score of 88.81. | Try today |
 
 ## General User Finds
-### heymrun/heym
-- What it is: heymrun/heym is a Python project for General User: Build AI workflows by prompt or visual canvas. Heym is source-available and self-hosted, with agents, RAG, MCP, HITL, observability, evals, token cost tracking and more.
+### ykdojo/claude-code-tips
+- What it is: ykdojo/claude-code-tips is a HTML project for General User: 40+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script and Claude Code running itself in a container. Also includes the dx plugin: skills for everyday dev workflows.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 94.07
+- Score: 98.82
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### PerpetualSoftware/pad
-- What it is: PerpetualSoftware/pad is a Go project for General User: Project Management for the agent era
+### unhappychoice/gitlogue
+- What it is: unhappychoice/gitlogue is a Rust project for General User: A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 92.19
-- Difficulty: Intermediate
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### gokhantos/opencrow
-- What it is: gokhantos/opencrow is a TypeScript project for General User: Self-hosted multi-agent AI platform, orchestrate specialized agents across Telegram, WhatsApp, and web with 90+ tools, 15 autonomous scrapers, vector memory, and real-time market streaming
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 91.31
-- Difficulty: Intermediate
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### n8n-io/n8n
-- What it is: n8n-io/n8n is a TypeScript project for General User: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 90.30
+- Score: 89.32
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### ohdearquant/lionagi
-- What it is: ohdearquant/lionagi is a Python project for General User: An intelligence orchestra
+### Vinix24/vnx-orchestration
+- What it is: Vinix24/vnx-orchestration is a Python project for General User: Governance-first orchestration for Claude Code, Codex, and Gemini CLI — parallel workers, receipts, quality gates, and full provenance.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 87.00
+- Score: 85.19
 - Difficulty: Intermediate
 - Recommended action: Try today
-- Risk: many open issues relative to stars
+- Risk: No major risk flag from collected evidence.
+### mhattingpete/claude-skills-marketplace
+- What it is: mhattingpete/claude-skills-marketplace is a HTML project for General User: Claude Code Skills for software engineering workflows - Git automation, testing, and code review
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 85.00
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### unhappychoice/gittype
+- What it is: unhappychoice/gittype is a Rust project for General User: A CLI code-typing game that turns your source code into typing challenges
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 84.57
+- Difficulty: Advanced
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
 
 ## Data Analyst Opportunities
-### grafana/grafana
-- What it is: grafana/grafana is a TypeScript project for Data Analyst: The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 65.95
-- Difficulty: Advanced
-- Recommended action: Study for learning
-- Risk: no README evidence, installation unclear, usage examples unclear
 ### metabase/metabase
 - What it is: metabase/metabase is a Clojure project for Data Analyst: The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
@@ -80,13 +73,6 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Study for learning
 - Risk: no README evidence, installation unclear, usage examples unclear
-### MahbubNibir/power-bi-retail-analytics-viz
-- What it is: MahbubNibir/power-bi-retail-analytics-viz is a HTML project for Data Analyst: Top Power BI Sales Dashboard 2026 for Profit & Regional Analysis
-- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 51.93
-- Difficulty: Unknown
-- Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
 ### valdeteselimi/DashPro-Monitor-IndustrialBI
 - What it is: valdeteselimi/DashPro-Monitor-IndustrialBI is a HTML project for Data Analyst: Power BI 2026: Smart Industrial Production Dashboard with DAX & Data Cleaning
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
@@ -94,10 +80,24 @@ LLM summary: `disabled`
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### gbb014/IPL-Elite-Delivery-Forecast-Model
-- What it is: gbb014/IPL-Elite-Delivery-Forecast-Model is a HTML project for Data Analyst: Power BI IPL 2026 Complete Ball-by-Ball Dashboard with Python Data Cleaning
+### apache/superset
+- What it is: apache/superset is a Python project for Data Analyst: Apache Superset is a Data Visualization and Data Exploration Platform
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 51.92
+- Score: 62.21
+- Difficulty: Advanced
+- Recommended action: Study for learning
+- Risk: no README evidence, installation unclear, usage examples unclear
+### Diyorbek01660/aemr-energy-market-outage-analysis
+- What it is: Diyorbek01660/aemr-energy-market-outage-analysis is a unavailable project for Data Analyst: ⚡ Analyze AEMR outage data to identify high-risk energy generators and improve reliability monitoring across the U.S. energy market.
+- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
+- Score: 48.10
+- Difficulty: Unknown
+- Recommended action: Watch this week
+- Risk: no README evidence, installation unclear, usage examples unclear, no license
+### govinda25072003-ai/pbi-amazon-sales-dash
+- What it is: govinda25072003-ai/pbi-amazon-sales-dash is a HTML project for Data Analyst: Top 5 Amazon Sales Dashboard Trends & Insights for 2026
+- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
+- Score: 47.24
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
@@ -110,19 +110,12 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
-### NVIDIA-NeMo/Automodel
-- What it is: NVIDIA-NeMo/Automodel is a Python project for Data Scientist: 🚀 Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
+### hyeonsangjeon/gdpval-realworks
+- What it is: hyeonsangjeon/gdpval-realworks is a Python project for Data Scientist: Open-source benchmark for evaluating LLMs on 220 real professional tasks across 9 sectors and 44 occupations. Reproducible experiments, artifact validation, grading, and a live evidence dashboard.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 52.06
+- Score: 51.54
 - Difficulty: Research-heavy
 - Recommended action: Track for research
-- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
-### trycua/cua
-- What it is: trycua/cua is a HTML project for General User: Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 59.57
-- Difficulty: Advanced
-- Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear
 ### kanaa257/sosumi.ai
 - What it is: kanaa257/sosumi.ai is a TypeScript project for Data Scientist: 📄 Enhance Apple Developer docs by converting them into AI-readable Markdown for easier access and improved usability.
@@ -138,12 +131,19 @@ LLM summary: `disabled`
 - Difficulty: Research-heavy
 - Recommended action: Skip for now
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
+### unslothai/unsloth
+- What it is: unslothai/unsloth is a Python project for General User: Unsloth is a local UI for training and running Gemma 4, Qwen3.6, DeepSeek, Kimi, GLM and other models.
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 91.82
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
 
 ## Action List
-- Try today: affaan-m/ECC, rmyndharis/OpenWA, heymrun/heym
-- Watch this week: trycua/cua, ogulcancelik/herdr, rilldata/rill
-- Use as portfolio reference: jyao97/xylocopa, danielvm-git/bigpowers, Zettlr/Zettlr
-- Skip for now: atomantic/PortOS, scikit-hep/awkward, MauroDruwel/NIMStats
+- Try today: ykdojo/claude-code-tips, apache/airflow, tianma-if/edgeever
+- Watch this week: AnalyseDeCircuit/oxideterm, Suwayomi/Suwayomi-Tsumiru, esengine/DeepSeek-Reasonix
+- Use as portfolio reference: appium/appium, danielvm-git/bigpowers, dramaclaw/dramaclaw
+- Skip for now: cldwalker/bb-clis, faithlumumba/2025-tencent-advertising-algorithm-competition-finalist, MauroDruwel/NIMStats
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.
