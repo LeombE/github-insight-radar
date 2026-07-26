@@ -1,25 +1,25 @@
 # Data Analyst GitHub Insight - 2026-07-26
 
-Generated at: `2026-07-25T17:14:41+00:00`
+Generated at: `2026-07-26T06:49:03+00:00`
 Mode: `live`
 
 | Rank | Repo | Score | Action | Difficulty | Risk flags |
 | --- | --- | ---: | --- | --- | --- |
 | 1 | [metabase/metabase](https://github.com/metabase/metabase) | 100.00 | Study for learning | Advanced | no README evidence, installation unclear, usage examples unclear |
-| 2 | [MahbubNibir/power-bi-retail-analytics-viz](https://github.com/MahbubNibir/power-bi-retail-analytics-viz) | 100.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 2 | [MoonMao42/ReceiptBI](https://github.com/MoonMao42/ReceiptBI) | 100.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear |
 | 3 | [valdeteselimi/DashPro-Monitor-IndustrialBI](https://github.com/valdeteselimi/DashPro-Monitor-IndustrialBI) | 100.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 4 | [gbb014/IPL-Elite-Delivery-Forecast-Model](https://github.com/gbb014/IPL-Elite-Delivery-Forecast-Model) | 100.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 5 | [Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse](https://github.com/Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse) | 100.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 6 | [youtukubek-tech/Netflix-Insights-Hub](https://github.com/youtukubek-tech/Netflix-Insights-Hub) | 93.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 7 | [MUDAS100/Swiggy-Instamart-Metrics-Dashboard-Power-BI](https://github.com/MUDAS100/Swiggy-Instamart-Metrics-Dashboard-Power-BI) | 93.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 8 | [apache/superset](https://github.com/apache/superset) | 86.50 | Study for learning | Advanced | no README evidence, installation unclear, usage examples unclear |
-| 9 | [Diyorbek01660/aemr-energy-market-outage-analysis](https://github.com/Diyorbek01660/aemr-energy-market-outage-analysis) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 10 | [Lithiumgreentek/power-bi-design-vault](https://github.com/Lithiumgreentek/power-bi-design-vault) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 11 | [govinda25072003-ai/pbi-amazon-sales-dash](https://github.com/govinda25072003-ai/pbi-amazon-sales-dash) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 12 | [goodmorningbeautyful-lab/PhonePe-Pulse-Analyzer](https://github.com/goodmorningbeautyful-lab/PhonePe-Pulse-Analyzer) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 13 | [nehamarora5635-glitch/gadget-market-intelligence-dashboard](https://github.com/nehamarora5635-glitch/gadget-market-intelligence-dashboard) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 14 | [sandro2211/powerbi-ml-insight-engine](https://github.com/sandro2211/powerbi-ml-insight-engine) | 68.00 | Skip for now | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 15 | [airbytehq/airbyte](https://github.com/airbytehq/airbyte) | 61.50 | Watch this week | Advanced | no README evidence, installation unclear, usage examples unclear |
+| 4 | [Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse](https://github.com/Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse) | 100.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 5 | [youtukubek-tech/Netflix-Insights-Hub](https://github.com/youtukubek-tech/Netflix-Insights-Hub) | 93.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 6 | [apache/superset](https://github.com/apache/superset) | 86.50 | Study for learning | Advanced | no README evidence, installation unclear, usage examples unclear |
+| 7 | [Diyorbek01660/aemr-energy-market-outage-analysis](https://github.com/Diyorbek01660/aemr-energy-market-outage-analysis) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 8 | [Lithiumgreentek/power-bi-design-vault](https://github.com/Lithiumgreentek/power-bi-design-vault) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 9 | [govinda25072003-ai/pbi-amazon-sales-dash](https://github.com/govinda25072003-ai/pbi-amazon-sales-dash) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 10 | [goodmorningbeautyful-lab/PhonePe-Pulse-Analyzer](https://github.com/goodmorningbeautyful-lab/PhonePe-Pulse-Analyzer) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 11 | [dataease/dataease](https://github.com/dataease/dataease) | 68.00 | Watch this week | Advanced | no README evidence, installation unclear, usage examples unclear |
+| 12 | [sandro2211/powerbi-ml-insight-engine](https://github.com/sandro2211/powerbi-ml-insight-engine) | 68.00 | Skip for now | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 13 | [ArturSepp/QuantInvestStrats](https://github.com/ArturSepp/QuantInvestStrats) | 61.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear |
+| 14 | [trilogy-data/pytrilogy](https://github.com/trilogy-data/pytrilogy) | 61.50 | Watch this week | Advanced | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
+| 15 | [AgamiAI/agami-core](https://github.com/AgamiAI/agami-core) | 61.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
 
 ## Project Notes
 ### metabase/metabase
@@ -27,15 +27,15 @@ Mode: `live`
 - Why it matters: It maps to Data Analyst needs with an evidence-based score of 65.95.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
 - Portfolio idea: Turn metabase into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 48364; Forks: 6687; Language: Clojure; License: NOASSERTION; README length: 0; Topics: analytics, bi, business-intelligence, businessintelligence, clojure, dashboard, data, data-analysis, data-visualization, database, metabase, mysql, postgres, postgresql, reporting, slack, sql-editor, visualization
+- Evidence: Stars: 48372; Forks: 6687; Language: Clojure; License: NOASSERTION; README length: 0; Topics: analytics, bi, business-intelligence, businessintelligence, clojure, dashboard, data, data-analysis, data-visualization, database, metabase, mysql, postgres, postgresql, reporting, slack, sql-editor, visualization
 - Confidence: low
 
-### MahbubNibir/power-bi-retail-analytics-viz
-- Summary: MahbubNibir/power-bi-retail-analytics-viz is a HTML project for Data Analyst: Top Power BI Sales Dashboard 2026 for Profit & Regional Analysis
-- Why it matters: It maps to Data Analyst needs with an evidence-based score of 51.93.
+### MoonMao42/ReceiptBI
+- Summary: MoonMao42/ReceiptBI is a Python project for Data Analyst: Open-source local-first AI data analyst for CSV, Excel, and read-only databases. Verify evidence and build editable reports.
+- Why it matters: It maps to Data Analyst needs with an evidence-based score of 56.18.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
-- Portfolio idea: Turn power-bi-retail-analytics-viz into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 153; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: blinkitdashboard, business-analytics, business-intelligence, css, data-cleaning, data-visualization, excel, interactivedashboard, javascript, parameshmandapaka, pivot-tables, powerbi-dashboards, powerquery, sales-analysis, sales-dashboard
+- Portfolio idea: Turn ReceiptBI into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 38; Forks: 0; Language: Python; License: MIT; README length: 0; Topics: ai-data-analyst, business-intelligence, chatbi, csv, data-analysis, data-visualization, desktop-app, duckdb, excel, local-first, natural-language-query, open-source, read-only-database, reporting, self-hosted, semantic-layer, sql, text-to-sql
 - Confidence: low
 
 ### valdeteselimi/DashPro-Monitor-IndustrialBI
@@ -44,14 +44,6 @@ Mode: `live`
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
 - Portfolio idea: Turn DashPro-Monitor-IndustrialBI into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
 - Evidence: Stars: 151; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: business-intelligence, dados, dashboard, data-analysis, data-analytics, data-visualization, datavisualization, dax, excel, kpi, kpis, portfolio, portfolio-fiama, power-bi, powerbi, powerbi-dashboards, producao, qualidade
-- Confidence: low
-
-### gbb014/IPL-Elite-Delivery-Forecast-Model
-- Summary: gbb014/IPL-Elite-Delivery-Forecast-Model is a HTML project for Data Analyst: Power BI IPL 2026 Complete Ball-by-Ball Dashboard with Python Data Cleaning
-- Why it matters: It maps to Data Analyst needs with an evidence-based score of 51.92.
-- Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
-- Portfolio idea: Turn IPL-Elite-Delivery-Forecast-Model into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 151; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: business-intelligence, data-analytics, data-cleaning, data-visualization, ipl-analysis, powerbi-dashboards, python-pandas, sql-analytics
 - Confidence: low
 
 ### Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse
@@ -70,20 +62,12 @@ Mode: `live`
 - Evidence: Stars: 151; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: business-intelligence, dashboard, data-analytics, data-visualization, dax, netflix, portfolio-project, powerbi, powerbi-dashboards
 - Confidence: low
 
-### MUDAS100/Swiggy-Instamart-Metrics-Dashboard-Power-BI
-- Summary: MUDAS100/Swiggy-Instamart-Metrics-Dashboard-Power-BI is a HTML project for Data Analyst: Interactive Logistics & Delivery Analytics Dashboard for Quick Commerce 2026
-- Why it matters: It maps to Data Analyst needs with an evidence-based score of 49.75.
-- Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
-- Portfolio idea: Turn Swiggy-Instamart-Metrics-Dashboard-Power-BI into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 153; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: business-intelligence, powerbi, powerbi-dashboards, powerbi-report, powerbi-reports, powerbi-visuals, powerbidashboard, sales-analysis, sales-analytics, sales-dashboard, swiggy, swiggy-app, swiggy-data-analysis, swiggy-food-app, swiggy-food-delivery, swiggy-instamart
-- Confidence: low
-
 ### apache/superset
 - Summary: apache/superset is a Python project for Data Analyst: Apache Superset is a Data Visualization and Data Exploration Platform
 - Why it matters: It maps to Data Analyst needs with an evidence-based score of 62.21.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
 - Portfolio idea: Turn superset into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 73977; Forks: 17945; Language: Python; License: Apache-2.0; README length: 0; Topics: analytics, apache, apache-superset, asf, bi, business-analytics, business-intelligence, data-analysis, data-analytics, data-engineering, data-science, data-visualization, data-viz, flask, python, react, sql-editor, superset
+- Evidence: Stars: 73993; Forks: 17949; Language: Python; License: Apache-2.0; README length: 0; Topics: analytics, apache, apache-superset, asf, bi, business-analytics, business-intelligence, data-analysis, data-analytics, data-engineering, data-science, data-visualization, data-viz, flask, python, react, sql-editor, superset
 - Confidence: low
 
 ### Diyorbek01660/aemr-energy-market-outage-analysis
@@ -118,12 +102,12 @@ Mode: `live`
 - Evidence: Stars: 151; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: busniess-intelligence, dashboard, data-visualization, dax, phonepe, power-bi, power-query, powerbi-dashboards
 - Confidence: low
 
-### nehamarora5635-glitch/gadget-market-intelligence-dashboard
-- Summary: nehamarora5635-glitch/gadget-market-intelligence-dashboard is a HTML project for Data Analyst: 2026 Gadget Sales Analytics: Brand Profitability & Consumer Demographics Optimization
-- Why it matters: It maps to Data Analyst needs with an evidence-based score of 46.74.
+### dataease/dataease
+- Summary: dataease/dataease is a Java project for Data Analyst: 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.
+- Why it matters: It maps to Data Analyst needs with an evidence-based score of 57.76.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
-- Portfolio idea: Turn gadget-market-intelligence-dashboard into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 151; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: business-intelligence, powerbi-dashboards, retail-analytics, sales-analysis
+- Portfolio idea: Turn dataease into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 24251; Forks: 4230; Language: Java; License: GPL-3.0; README length: 0; Topics: apache-doris, business-intelligence, data-analysis, data-visualization, echarts, kettle, superset, tableau
 - Confidence: low
 
 ### sandro2211/powerbi-ml-insight-engine
@@ -134,10 +118,26 @@ Mode: `live`
 - Evidence: Stars: 151; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: data-analysis, dax, github-actions, powerbi-dashboards, python
 - Confidence: low
 
-### airbytehq/airbyte
-- Summary: airbytehq/airbyte is a Python project for Data Analyst: Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
-- Why it matters: It maps to Data Analyst needs with an evidence-based score of 55.64.
+### ArturSepp/QuantInvestStrats
+- Summary: ArturSepp/QuantInvestStrats is a Python project for Data Analyst: Quantitative Investment Strategies (QIS) package implements Python analytics for visualisation of financial data, performance reporting, analysis of quantitative strategies.
+- Why it matters: It maps to Data Analyst needs with an evidence-based score of 53.01.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
-- Portfolio idea: Turn airbyte into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 21697; Forks: 5276; Language: Python; License: NOASSERTION; README length: 0; Topics: bigquery, change-data-capture, data, data-analysis, data-collection, data-engineering, data-integration, data-pipeline, elt, etl, java, mssql, mysql, pipeline, postgresql, python, redshift, s3, self-hosted, snowflake
+- Portfolio idea: Turn QuantInvestStrats into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 589; Forks: 65; Language: Python; License: MIT; README length: 0; Topics: asset-management, data-analysis, data-visualization, investment-analysis, performance-attribution, portfolio-optimization, portfolio-risk-management, python, quantitative-finance
+- Confidence: low
+
+### trilogy-data/pytrilogy
+- Summary: trilogy-data/pytrilogy is a Python project for Data Analyst: Can we improve the best language for data analytics? Strongly typed, composable, cross-engine SQL. More declarative and expressive, safer, and simpler for humans and agents.
+- Why it matters: It maps to Data Analyst needs with an evidence-based score of 48.72.
+- Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
+- Portfolio idea: Turn pytrilogy into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 61; Forks: 3; Language: Python; License: MIT; README length: 0; Topics: data, data-analysis, data-visualization, sql
+- Confidence: low
+
+### AgamiAI/agami-core
+- Summary: AgamiAI/agami-core is a Python project for Data Analyst: The trust layer between AI and your data. Turns your database schema - messy joins, undocumented tables,  into a governed semantic model so AI answers with correct SQL and a receipt on every answer. Run it locally, or self-host a shared team server with Docker.
+- Why it matters: It maps to Data Analyst needs with an evidence-based score of 47.19.
+- Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
+- Portfolio idea: Turn agami-core into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 19; Forks: 0; Language: Python; License: NOASSERTION; README length: 0; Topics: analytics, business-intelligence, claude-skills, context-layer, context-layer-for-ai, mcp, nl2sql, semantic-layer, text-to-sql
 - Confidence: low
