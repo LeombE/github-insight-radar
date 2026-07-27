@@ -1,33 +1,41 @@
 # Data Analyst GitHub Insight - 2026-07-27
 
-Generated at: `2026-07-26T17:15:42+00:00`
+Generated at: `2026-07-27T07:50:10+00:00`
 Mode: `live`
 
 | Rank | Repo | Score | Action | Difficulty | Risk flags |
 | --- | --- | ---: | --- | --- | --- |
-| 1 | [metabase/metabase](https://github.com/metabase/metabase) | 100.00 | Study for learning | Advanced | no README evidence, installation unclear, usage examples unclear |
-| 2 | [valdeteselimi/DashPro-Monitor-IndustrialBI](https://github.com/valdeteselimi/DashPro-Monitor-IndustrialBI) | 100.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 3 | [gbb014/IPL-Elite-Delivery-Forecast-Model](https://github.com/gbb014/IPL-Elite-Delivery-Forecast-Model) | 100.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 1 | [grafana/grafana](https://github.com/grafana/grafana) | 100.00 | Study for learning | Advanced | no README evidence, installation unclear, usage examples unclear |
+| 2 | [metabase/metabase](https://github.com/metabase/metabase) | 100.00 | Study for learning | Advanced | no README evidence, installation unclear, usage examples unclear |
+| 3 | [valdeteselimi/DashPro-Monitor-IndustrialBI](https://github.com/valdeteselimi/DashPro-Monitor-IndustrialBI) | 100.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
 | 4 | [Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse](https://github.com/Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse) | 100.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 5 | [youtukubek-tech/Netflix-Insights-Hub](https://github.com/youtukubek-tech/Netflix-Insights-Hub) | 93.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 6 | [MUDAS100/Swiggy-Instamart-Metrics-Dashboard-Power-BI](https://github.com/MUDAS100/Swiggy-Instamart-Metrics-Dashboard-Power-BI) | 93.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 5 | [mprove-io/mprove](https://github.com/mprove-io/mprove) | 93.00 | Study for learning | Unknown | no README evidence, installation unclear, usage examples unclear |
+| 6 | [sopho-tech/sopho](https://github.com/sopho-tech/sopho) | 93.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
 | 7 | [apache/superset](https://github.com/apache/superset) | 86.50 | Study for learning | Advanced | no README evidence, installation unclear, usage examples unclear |
 | 8 | [lightdash/lightdash](https://github.com/lightdash/lightdash) | 80.50 | Watch this week | Advanced | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
 | 9 | [Diyorbek01660/aemr-energy-market-outage-analysis](https://github.com/Diyorbek01660/aemr-energy-market-outage-analysis) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
 | 10 | [Lithiumgreentek/power-bi-design-vault](https://github.com/Lithiumgreentek/power-bi-design-vault) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
 | 11 | [govinda25072003-ai/pbi-amazon-sales-dash](https://github.com/govinda25072003-ai/pbi-amazon-sales-dash) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 12 | [goodmorningbeautyful-lab/PhonePe-Pulse-Analyzer](https://github.com/goodmorningbeautyful-lab/PhonePe-Pulse-Analyzer) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 13 | [nehamarora5635-glitch/gadget-market-intelligence-dashboard](https://github.com/nehamarora5635-glitch/gadget-market-intelligence-dashboard) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 14 | [DeibyGS/claudestat](https://github.com/DeibyGS/claudestat) | 68.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear |
+| 12 | [douglasmonsky/codex-usage-tracker](https://github.com/douglasmonsky/codex-usage-tracker) | 74.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear |
+| 13 | [dataease/dataease](https://github.com/dataease/dataease) | 68.00 | Watch this week | Advanced | no README evidence, installation unclear, usage examples unclear |
+| 14 | [cube-js/cube](https://github.com/cube-js/cube) | 68.00 | Watch this week | Advanced | no README evidence, installation unclear, usage examples unclear |
 | 15 | [sandro2211/powerbi-ml-insight-engine](https://github.com/sandro2211/powerbi-ml-insight-engine) | 68.00 | Skip for now | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
 
 ## Project Notes
+### grafana/grafana
+- Summary: grafana/grafana is a TypeScript project for Data Analyst: The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+- Why it matters: It maps to Data Analyst needs with an evidence-based score of 65.95.
+- Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
+- Portfolio idea: Turn grafana into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 75803; Forks: 14368; Language: TypeScript; License: AGPL-3.0; README length: 0; Topics: alerting, analytics, business-intelligence, dashboard, data-visualization, elasticsearch, go, grafana, hacktoberfest, influxdb, metrics, monitoring, mysql, postgres, prometheus
+- Confidence: low
+
 ### metabase/metabase
 - Summary: metabase/metabase is a Clojure project for Data Analyst: The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - Why it matters: It maps to Data Analyst needs with an evidence-based score of 65.95.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
 - Portfolio idea: Turn metabase into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 48375; Forks: 6689; Language: Clojure; License: NOASSERTION; README length: 0; Topics: analytics, bi, business-intelligence, businessintelligence, clojure, dashboard, data, data-analysis, data-visualization, database, metabase, mysql, postgres, postgresql, reporting, slack, sql-editor, visualization
+- Evidence: Stars: 48384; Forks: 6691; Language: Clojure; License: NOASSERTION; README length: 0; Topics: analytics, bi, business-intelligence, businessintelligence, clojure, dashboard, data, data-analysis, data-visualization, database, metabase, mysql, postgres, postgresql, reporting, slack, sql-editor, visualization
 - Confidence: low
 
 ### valdeteselimi/DashPro-Monitor-IndustrialBI
@@ -38,14 +46,6 @@ Mode: `live`
 - Evidence: Stars: 151; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: business-intelligence, dados, dashboard, data-analysis, data-analytics, data-visualization, datavisualization, dax, excel, kpi, kpis, portfolio, portfolio-fiama, power-bi, powerbi, powerbi-dashboards, producao, qualidade
 - Confidence: low
 
-### gbb014/IPL-Elite-Delivery-Forecast-Model
-- Summary: gbb014/IPL-Elite-Delivery-Forecast-Model is a HTML project for Data Analyst: Power BI IPL 2026 Complete Ball-by-Ball Dashboard with Python Data Cleaning
-- Why it matters: It maps to Data Analyst needs with an evidence-based score of 51.92.
-- Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
-- Portfolio idea: Turn IPL-Elite-Delivery-Forecast-Model into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 151; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: business-intelligence, data-analytics, data-cleaning, data-visualization, ipl-analysis, powerbi-dashboards, python-pandas, sql-analytics
-- Confidence: low
-
 ### Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse
 - Summary: Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse is a HTML project for Data Analyst: Advanced MS SQL Server & Power BI Data Warehousing & Fleet Logistics Engine 2026
 - Why it matters: It maps to Data Analyst needs with an evidence-based score of 51.42.
@@ -54,20 +54,20 @@ Mode: `live`
 - Evidence: Stars: 151; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: business-intelligence, data-modeling, excel, kpi-dashboard, logistic-management, powerbi, powerbi-dashboards, sql, sql-server, supply-chain-analytics
 - Confidence: low
 
-### youtukubek-tech/Netflix-Insights-Hub
-- Summary: youtukubek-tech/Netflix-Insights-Hub is a HTML project for Data Analyst: Top Netflix Movie & Show Trends Dashboard 2026 – Power BI Data Analytics
-- Why it matters: It maps to Data Analyst needs with an evidence-based score of 50.24.
+### mprove-io/mprove
+- Summary: mprove-io/mprove is a TypeScript project for Data Analyst: Open Source Agentic Business Intelligence with Malloy Semantic Layer :tada:
+- Why it matters: It maps to Data Analyst needs with an evidence-based score of 60.07.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
-- Portfolio idea: Turn Netflix-Insights-Hub into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 151; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: business-intelligence, dashboard, data-analytics, data-visualization, dax, netflix, portfolio-project, powerbi, powerbi-dashboards
+- Portfolio idea: Turn mprove into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 338; Forks: 26; Language: TypeScript; License: Apache-2.0; README length: 0; Topics: analytics, bigquery, business-intelligence, dashboard, data-engineering, googleanalytics, looker, malloy, metrics, postgresql, reports, semantic, snowflake, sql
 - Confidence: low
 
-### MUDAS100/Swiggy-Instamart-Metrics-Dashboard-Power-BI
-- Summary: MUDAS100/Swiggy-Instamart-Metrics-Dashboard-Power-BI is a HTML project for Data Analyst: Interactive Logistics & Delivery Analytics Dashboard for Quick Commerce 2026
-- Why it matters: It maps to Data Analyst needs with an evidence-based score of 49.75.
+### sopho-tech/sopho
+- Summary: sopho-tech/sopho is a TypeScript project for Data Analyst: Open Source Business Intelligence
+- Why it matters: It maps to Data Analyst needs with an evidence-based score of 54.85.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
-- Portfolio idea: Turn Swiggy-Instamart-Metrics-Dashboard-Power-BI into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 153; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: business-intelligence, powerbi, powerbi-dashboards, powerbi-report, powerbi-reports, powerbi-visuals, powerbidashboard, sales-analysis, sales-analytics, sales-dashboard, swiggy, swiggy-app, swiggy-data-analysis, swiggy-food-app, swiggy-food-delivery, swiggy-instamart
+- Portfolio idea: Turn sopho into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 12; Forks: 0; Language: TypeScript; License: AGPL-3.0; README length: 0; Topics: analytics, big-data, business-intelligence, data, data-analytics, data-engineering, data-visualization, notebook, react, reporting, rust, sql, sql-editor, typescript, visualization
 - Confidence: low
 
 ### apache/superset
@@ -75,7 +75,7 @@ Mode: `live`
 - Why it matters: It maps to Data Analyst needs with an evidence-based score of 62.21.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
 - Portfolio idea: Turn superset into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 73994; Forks: 17953; Language: Python; License: Apache-2.0; README length: 0; Topics: analytics, apache, apache-superset, asf, bi, business-analytics, business-intelligence, data-analysis, data-analytics, data-engineering, data-science, data-visualization, data-viz, flask, python, react, sql-editor, superset
+- Evidence: Stars: 73996; Forks: 17960; Language: Python; License: Apache-2.0; README length: 0; Topics: analytics, apache, apache-superset, asf, bi, business-analytics, business-intelligence, data-analysis, data-analytics, data-engineering, data-science, data-visualization, data-viz, flask, python, react, sql-editor, superset
 - Confidence: low
 
 ### lightdash/lightdash
@@ -110,28 +110,28 @@ Mode: `live`
 - Evidence: Stars: 151; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: amazon, amazon-dashboard, amazon-dataset, amazonsales, data-analysis, data-science, data-visualization, dataanalyst, dataanalytics, power-bi, powerbi-dashboards, powerbi-projects, powerbi-visuals, powerbidashboard, visualization
 - Confidence: low
 
-### goodmorningbeautyful-lab/PhonePe-Pulse-Analyzer
-- Summary: goodmorningbeautyful-lab/PhonePe-Pulse-Analyzer is a HTML project for Data Analyst: PhonePe Transaction Trends & User Analytics Dashboard 2026 – Power BI Guide
-- Why it matters: It maps to Data Analyst needs with an evidence-based score of 47.24.
+### douglasmonsky/codex-usage-tracker
+- Summary: douglasmonsky/codex-usage-tracker is a Python project for Data Analyst: Local-first MCP tools and dashboard for investigating Codex token usage, credits, costs, caching, and thread patterns.
+- Why it matters: It maps to Data Analyst needs with an evidence-based score of 54.97.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
-- Portfolio idea: Turn PhonePe-Pulse-Analyzer into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 151; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: busniess-intelligence, dashboard, data-visualization, dax, phonepe, power-bi, power-query, powerbi-dashboards
+- Portfolio idea: Turn codex-usage-tracker into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 187; Forks: 16; Language: Python; License: MIT; README length: 0; Topics: cli, codex, codex-cli, codex-plugin, codex-skill, cost-analysis, dashboard, developer-tools, llm-observability, local-first, mcp, model-context-protocol, openai, privacy-first, prompt-caching, pypi, python, sqlite, token-usage, usage-analytics
 - Confidence: low
 
-### nehamarora5635-glitch/gadget-market-intelligence-dashboard
-- Summary: nehamarora5635-glitch/gadget-market-intelligence-dashboard is a HTML project for Data Analyst: 2026 Gadget Sales Analytics: Brand Profitability & Consumer Demographics Optimization
-- Why it matters: It maps to Data Analyst needs with an evidence-based score of 46.74.
+### dataease/dataease
+- Summary: dataease/dataease is a Java project for Data Analyst: 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.
+- Why it matters: It maps to Data Analyst needs with an evidence-based score of 57.76.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
-- Portfolio idea: Turn gadget-market-intelligence-dashboard into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 151; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: business-intelligence, powerbi-dashboards, retail-analytics, sales-analysis
+- Portfolio idea: Turn dataease into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 24256; Forks: 4232; Language: Java; License: GPL-3.0; README length: 0; Topics: apache-doris, business-intelligence, data-analysis, data-visualization, echarts, kettle, superset, tableau
 - Confidence: low
 
-### DeibyGS/claudestat
-- Summary: DeibyGS/claudestat is a TypeScript project for General User: Real-time execution trace and cost intelligence for Claude Code
-- Why it matters: It maps to General User needs with an evidence-based score of 55.18.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn claudestat into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 12; Forks: 2; Language: TypeScript; License: MIT; README length: 0; Topics: agentic-workflow, ai-productivity, anthropic, anthropic-claude, claude, claude-ai, claude-ai-tools, claude-code, claude-code-plugin, claude-hooks, cli, cost-analytics, dashboard, developer-tools, llm-tools, monitoring, observability, quota-management, sqlite, token-tracking
+### cube-js/cube
+- Summary: cube-js/cube is a Rust project for Data Analyst: 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
+- Why it matters: It maps to Data Analyst needs with an evidence-based score of 57.17.
+- Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
+- Portfolio idea: Turn cube into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 20498; Forks: 2088; Language: Rust; License: NOASSERTION; README length: 0; Topics: agentic-analytics, agents, ai, analytics, bi, bigquery, business-intelligence, businessintelligence, conversational-analytics, cube, databricks, embedded-analytics, headless-bi, mysql, postgresql, rust, semantic-layer, snowflake, sql
 - Confidence: low
 
 ### sandro2211/powerbi-ml-insight-engine
