@@ -1,25 +1,25 @@
 # General User GitHub Insight - 2026-07-30
 
-Generated at: `2026-07-29T17:38:30+00:00`
+Generated at: `2026-07-30T06:41:23+00:00`
 Mode: `live`
 
 | Rank | Repo | Score | Action | Difficulty | Risk flags |
 | --- | --- | ---: | --- | --- | --- |
 | 1 | [langgenius/dify](https://github.com/langgenius/dify) | 100.00 | Try today | Advanced | None |
-| 2 | [umputun/ralphex](https://github.com/umputun/ralphex) | 100.00 | Try today | Intermediate | None |
-| 3 | [drenlia/easy-kanban](https://github.com/drenlia/easy-kanban) | 100.00 | Try today | Intermediate | None |
-| 4 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 100.00 | Try today | Advanced | None |
-| 5 | [superplanehq/superplane](https://github.com/superplanehq/superplane) | 100.00 | Try today | Advanced | None |
-| 6 | [vcmf/dim0](https://github.com/vcmf/dim0) | 100.00 | Try today | Intermediate | None |
-| 7 | [leopu00/job-hunter-team](https://github.com/leopu00/job-hunter-team) | 100.00 | Try today | Advanced | many open issues relative to stars |
-| 8 | [The01Geek/devflow-autopilot](https://github.com/The01Geek/devflow-autopilot) | 100.00 | Try today | Intermediate | many open issues relative to stars |
-| 9 | [kdlbs/kandev](https://github.com/kdlbs/kandev) | 100.00 | Try today | Intermediate | None |
-| 10 | [ota-run/ota](https://github.com/ota-run/ota) | 100.00 | Try today | Advanced | None |
-| 11 | [ClipboardHealth/groundcrew](https://github.com/ClipboardHealth/groundcrew) | 100.00 | Try today | Intermediate | None |
-| 12 | [jordigilh/kubernaut](https://github.com/jordigilh/kubernaut) | 100.00 | Try today | Advanced | many open issues relative to stars |
-| 13 | [st0012/cctop](https://github.com/st0012/cctop) | 100.00 | Try today | Intermediate | None |
-| 14 | [markusleben/ha-nova](https://github.com/markusleben/ha-nova) | 100.00 | Try today | Intermediate | many open issues relative to stars |
-| 15 | [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) | 100.00 | Try today | Beginner | installation unclear |
+| 2 | [rcarmo/piclaw](https://github.com/rcarmo/piclaw) | 100.00 | Try today | Intermediate | None |
+| 3 | [kriuchkov/tock](https://github.com/kriuchkov/tock) | 100.00 | Try today | Intermediate | None |
+| 4 | [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) | 100.00 | Try today | Intermediate | None |
+| 5 | [drenlia/easy-kanban](https://github.com/drenlia/easy-kanban) | 100.00 | Try today | Intermediate | None |
+| 6 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 100.00 | Try today | Advanced | None |
+| 7 | [preloop/preloop](https://github.com/preloop/preloop) | 100.00 | Try today | Intermediate | many open issues relative to stars |
+| 8 | [browserstack/mcp-server](https://github.com/browserstack/mcp-server) | 100.00 | Try today | Intermediate | many open issues relative to stars |
+| 9 | [Vinix24/vnx-orchestration](https://github.com/Vinix24/vnx-orchestration) | 100.00 | Try today | Intermediate | None |
+| 10 | [5dive-ai/5dive](https://github.com/5dive-ai/5dive) | 100.00 | Try today | Intermediate | many open issues relative to stars |
+| 11 | [nczz/kiro-discord-bot](https://github.com/nczz/kiro-discord-bot) | 100.00 | Try today | Intermediate | None |
+| 12 | [Pinvou/pinvou-agent](https://github.com/Pinvou/pinvou-agent) | 100.00 | Use as portfolio reference | Advanced | installation unclear |
+| 13 | [ninouanis84-sudo/foxl-orchestrator](https://github.com/ninouanis84-sudo/foxl-orchestrator) | 100.00 | Use as portfolio reference | Intermediate | no license |
+| 14 | [basilisk-labs/agentplane](https://github.com/basilisk-labs/agentplane) | 100.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
+| 15 | [atomantic/PortOS](https://github.com/atomantic/PortOS) | 93.00 | Try today | Intermediate | many open issues relative to stars |
 
 ## Project Notes
 ### langgenius/dify
@@ -27,15 +27,31 @@ Mode: `live`
 - Why it matters: It maps to General User needs with an evidence-based score of 97.00.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
 - Portfolio idea: Turn dify into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 150699; Forks: 23748; Language: TypeScript; License: NOASSERTION; README length: 15130; Topics: agent, agentic-ai, agentic-framework, agentic-workflow, ai, automation, claude, genai, gpt, llm, low-code, mcp, nextjs, no-code, openai, orchestration, python, rag, skills, workflow
+- Evidence: Stars: 150751; Forks: 23760; Language: TypeScript; License: NOASSERTION; README length: 15130; Topics: agent, agentic-ai, agentic-framework, agentic-workflow, ai, automation, claude, genai, gpt, llm, low-code, mcp, nextjs, no-code, openai, orchestration, python, rag, skills, workflow
 - Confidence: high
 
-### umputun/ralphex
-- Summary: umputun/ralphex is a Go project for General User: Extended Ralph loop for autonomous AI-driven plan execution
-- Why it matters: It maps to General User needs with an evidence-based score of 94.59.
+### rcarmo/piclaw
+- Summary: rcarmo/piclaw is a TypeScript project for General User: pi coding agent in a technicolor web trenchcoat
+- Why it matters: It maps to General User needs with an evidence-based score of 94.09.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn ralphex into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 1402; Forks: 119; Language: Go; License: MIT; README length: 84976; Topics: automation, claude-code, codex, ralph-loop, ralph-wiggum, review
+- Portfolio idea: Turn piclaw into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 806; Forks: 74; Language: TypeScript; License: MIT; README length: 10414; Topics: adaptive-cards, ai-agent, bun, coding-agent, docker, llm, pi-agent, self-hosted, typescript, vnc, web-ui, workspace
+- Confidence: high
+
+### kriuchkov/tock
+- Summary: kriuchkov/tock is a Go project for General User: Tock is a powerful time tracking tool for the command line. It saves activity logs as plaintext files and provides an interactive terminal UI for viewing your time.
+- Why it matters: It maps to General User needs with an evidence-based score of 91.36.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn tock into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 449; Forks: 20; Language: Go; License: GPL-3.0; README length: 29341; Topics: cli, command-line, openclaw, openclaw-skill, productivity, time-tracking, time-tracking-app, timewarrior, todotxt
+- Confidence: high
+
+### oomol-lab/open-connector
+- Summary: oomol-lab/open-connector is a TypeScript project for General User: Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
+- Why it matters: It maps to General User needs with an evidence-based score of 91.22.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn open-connector into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 3469; Forks: 281; Language: TypeScript; License: Apache-2.0; README length: 15831; Topics: agent-tools, ai-agents, api-gateway, automation, cli, cloudflare-workers, connectors, integration-platform, mcp, model-context-protocol, oauth, oomol, openapi, openconnector, saas-integrations, sdk, self-hosted, typescript
 - Confidence: high
 
 ### drenlia/easy-kanban
@@ -51,93 +67,77 @@ Mode: `live`
 - Why it matters: It maps to General User needs with an evidence-based score of 90.30.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
 - Portfolio idea: Turn n8n into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 198552; Forks: 59744; Language: TypeScript; License: NOASSERTION; README length: 3994; Topics: ai, apis, automation, cli, data-flow, development, integration-framework, integrations, ipaas, low-code, low-code-platform, mcp, mcp-client, mcp-server, n8n, no-code, self-hosted, typescript, workflow, workflow-automation
+- Evidence: Stars: 198629; Forks: 59757; Language: TypeScript; License: NOASSERTION; README length: 3994; Topics: ai, apis, automation, cli, data-flow, development, integration-framework, integrations, ipaas, low-code, low-code-platform, mcp, mcp-client, mcp-server, n8n, no-code, self-hosted, typescript, workflow, workflow-automation
 - Confidence: high
 
-### superplanehq/superplane
-- Summary: superplanehq/superplane is a Go project for General User: The open source control plane for agentic engineering.
-- Why it matters: It maps to General User needs with an evidence-based score of 90.22.
+### preloop/preloop
+- Summary: preloop/preloop is a Python project for General User: The open-source AI agent control plane: MCP firewall, model gateway with budgets, human approvals, runtime observability, and audit trails
+- Why it matters: It maps to General User needs with an evidence-based score of 89.19.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn superplane into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 4362; Forks: 372; Language: Go; License: Apache-2.0; README length: 22474; Topics: automation, control-plane, devops, event-driven, go, kubernetes, platform-engineering, python, react, release-automation, self-hosted, workflow-automation
+- Portfolio idea: Turn preloop into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 43; Forks: 11; Language: Python; License: Apache-2.0; README length: 27891; Topics: agentops, ai-agent-control-plane, ai-agents, ai-gateway, ai-safety, automation, claude-code, firewall, governance, guardrails, human-in-the-loop, llm, llm-gateway, mcp, mcp-proxy, observability, policy-as-code, self-hosted
 - Confidence: high
 
-### vcmf/dim0
-- Summary: vcmf/dim0 is a TypeScript project for General User: Open-source, real-time collaborative AI canvas - notes, mini-apps, and agents on one infinite board.
-- Why it matters: It maps to General User needs with an evidence-based score of 89.49.
+### browserstack/mcp-server
+- Summary: browserstack/mcp-server is a TypeScript project for General User: BrowserStack's Official MCP Server
+- Why it matters: It maps to General User needs with an evidence-based score of 86.89.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn dim0 into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 79; Forks: 12; Language: TypeScript; License: MIT; README length: 12136; Topics: ai-agent, canvas, fastapi, generative-ui, infinite-canvas, knowledge-graph, mindmap, mini-apps, multiplayer, note-taking, productivity, qdrant, rag, react, real-time-collaboration, research-tool, self-hosted, semantic-search, thinking-canvas, whiteboard
+- Portfolio idea: Turn mcp-server into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 146; Forks: 51; Language: TypeScript; License: AGPL-3.0; README length: 27661; Topics: accessibility, automation, browserstack, mcp-server, quality-assurance, testing
 - Confidence: high
 
-### leopu00/job-hunter-team
-- Summary: leopu00/job-hunter-team is a TypeScript project for General User: A team of AI agents that runs your job search — self-hosted, on your own LLM subscription. MIT.
-- Why it matters: It maps to General User needs with an evidence-based score of 89.08.
+### Vinix24/vnx-orchestration
+- Summary: Vinix24/vnx-orchestration is a Python project for General User: Governance-first orchestration for Claude Code, Codex, and Gemini CLI — parallel workers, receipts, quality gates, and full provenance.
+- Why it matters: It maps to General User needs with an evidence-based score of 85.18.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn job-hunter-team into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 38; Forks: 5; Language: TypeScript; License: MIT; README length: 9182; Topics: ai, ai-agents, artificial-intelligence, automation, career, cli, cv, electron, job-application, job-hunting, job-search, llm, multi-agent, multi-agent-system, nextjs, open-source, python, resume, supabase, typescript
+- Portfolio idea: Turn vnx-orchestration into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 50; Forks: 6; Language: Python; License: MIT; README length: 22007; Topics: agent-orchestration, agentic-ai, ai-agents, ai-coding, ai-governance, ai-orchestration, audit-trail, automation, claude, claude-code, cli, code-quality, codex, devtools, governance, human-in-the-loop, llm, multi-agent, observability, tmux
 - Confidence: high
 
-### The01Geek/devflow-autopilot
-- Summary: The01Geek/devflow-autopilot is a Shell project for General User: Make agentic coding work on real codebases. DevFlow is a Claude Code plugin that turns a request into a complete, tested, reviewed, documented pull request that's ready for your final review, and improves itself weekly.
-- Why it matters: It maps to General User needs with an evidence-based score of 88.75.
+### 5dive-ai/5dive
+- Summary: 5dive-ai/5dive is a Shell project for General User: Run a company of AI agents on a server you own. Spin up named agents (claude, codex, pi…), put them on an org chart with a shared backlog, let them hand off work and ping your phone only when a human must decide. MIT.
+- Why it matters: It maps to General User needs with an evidence-based score of 84.70.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn devflow-autopilot into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 26; Forks: 15; Language: Shell; License: MIT; README length: 18028; Topics: agentic-ai, ai-agents, ai-coding-assistant, automation, claude-code, code-review, code-review-automation, developer-productivity, developer-tools, documentation, github-actions, plugin, pull-request, software-development
+- Portfolio idea: Turn 5dive into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 31; Forks: 5; Language: Shell; License: MIT; README length: 20459; Topics: agent-runtime, agentic-engineering, agentic-loops, agents, ai-agents, ai-assistant, ai-coding-assistant, ai-tools, antigravity, autonomous-agents, claude, claude-code, codex, codex-cli, coding-agent, loop-engineering, multi-agent, openclaw, self-hosted, zero-human-company
 - Confidence: high
 
-### kdlbs/kandev
-- Summary: kdlbs/kandev is a Go project for General User: AI Kanban & Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry.
-- Why it matters: It maps to General User needs with an evidence-based score of 88.27.
+### nczz/kiro-discord-bot
+- Summary: nczz/kiro-discord-bot is a Go project for General User: Discord control plane for project-bound ACP agents. Kiro CLI by default, optional OMP, MCP policy, audit, usage, cron, and thread agents.
+- Why it matters: It maps to General User needs with an evidence-based score of 82.28.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn kandev into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 509; Forks: 69; Language: Go; License: AGPL-3.0; README length: 14440; Topics: acp, agent-orchestration, agentic-ai, agentic-development-environment, ai-agents, claude-code, code-review, coding-agents, developer-tools, github-copilot, golang, kanban, nextjs, open-source, self-hosted, task-manager, tui, vibe-coding, workflow-automation, worktrees
+- Portfolio idea: Turn kiro-discord-bot into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 32; Forks: 6; Language: Go; License: MIT; README length: 5349; Topics: acp, agent-client-protocol, agent-control-plane, ai-agent, automation, chatops, coding-assistant, cron, devops, discord-bot, golang, kiro, kiro-cli, mcp, model-context-protocol, multi-agent, omp, project-bound-agents
 - Confidence: high
 
-### ota-run/ota
-- Summary: ota-run/ota is a Rust project for General User: One contract for execution governance across every stack, every team, and every AI agent.
-- Why it matters: It maps to General User needs with an evidence-based score of 85.11.
+### Pinvou/pinvou-agent
+- Summary: Pinvou/pinvou-agent is a JavaScript project for General User: Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.
+- Why it matters: It maps to General User needs with an evidence-based score of 79.64.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn ota into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 65; Forks: 2; Language: Rust; License: Apache-2.0; README length: 38082; Topics: cli, configuration, contracts, developer-tools, infrastructure, ota, productivity, repo-readiness, rust, terminal, validation, workspace
+- Portfolio idea: Turn pinvou-agent into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 99; Forks: 14; Language: JavaScript; License: MIT; README length: 10525; Topics: ai-agent, automation, desktop-app, llm, local-first, mcp, open-source, react, rust, tauri
 - Confidence: high
 
-### ClipboardHealth/groundcrew
-- Summary: ClipboardHealth/groundcrew is a TypeScript project for General User: Dispatch your task backlog to local, interactive AI coding agents. One git worktree per task, sandboxed by default.
-- Why it matters: It maps to General User needs with an evidence-based score of 85.01.
+### ninouanis84-sudo/foxl-orchestrator
+- Summary: ninouanis84-sudo/foxl-orchestrator is a HTML project for General User: Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant
+- Why it matters: It maps to General User needs with an evidence-based score of 77.68.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn groundcrew into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 58; Forks: 8; Language: TypeScript; License: MIT; README length: 9939; Topics: agentic, ai-agents, automation, claude, claude-code, cli, cmux, codex, coding-agents, developer-tools, git-worktree, jira, linear, local-first, orchestrator, parallel, sandbox, tmux, typescript, worktrees
+- Portfolio idea: Turn foxl-orchestrator into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 152; Forks: 1; Language: HTML; License: unavailable; README length: 7609; Topics: ai, ai-agent, anthropic, automation, browser-automation, chrome-extension, claude, claude-opus, claude-sonnet, desktop-app, electron, foxl, foxl-ai, macos, personal-agent, productivity, releases, scheduling, skills, windows
 - Confidence: high
 
-### jordigilh/kubernaut
-- Summary: jordigilh/kubernaut is a Go project for General User: An AIOps platform that closes the loop from Kubernetes alert to automated remediation: An AI Agent investigates via MCP tools, selects a fix from a pre-seeded workflow catalog and delegates execution (K8s Job, Tekton, Ansible) — or escalates with a full RCA. Approval gates, OPA policies, and audit trails keep humans in control.
-- Why it matters: It maps to General User needs with an evidence-based score of 84.48.
+### basilisk-labs/agentplane
+- Summary: basilisk-labs/agentplane is a TypeScript project for General User: 🛩️ Git-native workflow control for coding agents: approved plans, verification, and reviewable evidence for Claude Code, Codex, Cursor, and Aider.
+- Why it matters: It maps to General User needs with an evidence-based score of 57.60.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn kubernaut into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 24; Forks: 5; Language: Go; License: Apache-2.0; README length: 12782; Topics: a2a-agent, adk-google, agentic-workflow, aiops, alertmanager, audit-trail, automation, golang, google, incident-response, kubernetes, observability, remediation, root-cause-analysis, self-healing, sre
-- Confidence: high
+- Portfolio idea: Turn agentplane into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 72; Forks: 9; Language: TypeScript; License: MIT; README length: 0; Topics: agent-change-record, agentic-coding, agentplane, ai-agents, ai-code-review, aider, audit-trail, claude-code, cli, codex, coding-agents, cursor, developer-tools, git-workflow, governance, local-first, typescript, verification, workflow-automation
+- Confidence: low
 
-### st0012/cctop
-- Summary: st0012/cctop is a Swift project for General User: A keyboard-first menubar app to monitor and jump between AI coding sessions — minimum setup required.
-- Why it matters: It maps to General User needs with an evidence-based score of 83.56.
+### atomantic/PortOS
+- Summary: atomantic/PortOS is a JavaScript project for General User: Self-hosted dev machine OS — app management, AI agent orchestration, digital twin, second brain, and creative pipeline from a single dashboard over Tailscale
+- Why it matters: It maps to General User needs with an evidence-based score of 87.72.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn cctop into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 134; Forks: 19; Language: Swift; License: MIT; README length: 14554; Topics: agentic-workflow, ai-agents, ai-coding, claude-code, codex, coding-agent, developer-tools, macos, macos-app, menubar, menubar-app, opencode, productivity, swift, swiftui
-- Confidence: high
-
-### markusleben/ha-nova
-- Summary: markusleben/ha-nova is a Go project for General User: AI-powered Home Assistant control. Lean relay + LLM skills for Claude Code, Codex, and OpenCode.
-- Why it matters: It maps to General User needs with an evidence-based score of 81.86.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn ha-nova into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 21; Forks: 1; Language: Go; License: MIT; README length: 20777; Topics: ai, automation, claude, codex, home-assistant, llm, opencode, relay, smart-home, typescript
-- Confidence: high
-
-### cobusgreyling/loop-engineering
-- Summary: cobusgreyling/loop-engineering is a JavaScript project for General User: Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.
-- Why it matters: It maps to General User needs with an evidence-based score of 80.39.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn loop-engineering into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 9581; Forks: 1311; Language: JavaScript; License: MIT; README length: 22881; Topics: agentic-ai, ai-agents, ai-coding, anthropic, automation, claude, claude-code, codex, coding-agents, devops-automation, devtools, github-actions, grok, llm, loop-engineering, mcp, prompt-engineering
+- Portfolio idea: Turn PortOS into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 31; Forks: 12; Language: JavaScript; License: MIT; README length: 30211; Topics: ai-agents, dashboard, developer-tools, digital-twin, expressjs, pm2, quantified-self, react, second-brain, self-hosted, tailscale, threejs
 - Confidence: high
