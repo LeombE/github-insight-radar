@@ -1,6 +1,6 @@
 # GitHub Insight Daily Brief - 2026-08-01
 
-Generated at: `2026-07-31T17:52:15+00:00`
+Generated at: `2026-08-01T06:41:12+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -8,45 +8,31 @@ Image generation: `disabled`
 LLM summary: `disabled`
 
 ## Executive Summary
-- Top overall opportunity: [langgenius/dify](https://github.com/langgenius/dify) with score 97.00.
-- General user opportunity: [langgenius/dify](https://github.com/langgenius/dify)
-- Data analyst opportunity: [grafana/grafana](https://github.com/grafana/grafana)
-- Data scientist opportunity: [thomas-villani/all2md](https://github.com/thomas-villani/all2md)
-- Most common risk pattern: installation unclear
+- Top overall opportunity: [apache/airflow](https://github.com/apache/airflow) with score 95.22.
+- General user opportunity: [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector)
+- Data analyst opportunity: [metabase/metabase](https://github.com/metabase/metabase)
+- Data scientist opportunity: [lance-format/lance](https://github.com/lance-format/lance)
+- Most common risk pattern: usage examples unclear
 
 ## Top Overall Projects
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
-| 1 | [langgenius/dify](https://github.com/langgenius/dify) | General User | 97.00 | It maps to General User needs with an evidence-based score of 97.00. | Try today |
-| 2 | [rush86999/atom](https://github.com/rush86999/atom) | General User | 94.60 | It maps to General User needs with an evidence-based score of 94.60. | Try today |
-| 3 | [tianma-if/edgeever](https://github.com/tianma-if/edgeever) | General User | 94.22 | It maps to General User needs with an evidence-based score of 94.22. | Try today |
-| 4 | [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | General User | 93.99 | It maps to General User needs with an evidence-based score of 93.99. | Try today |
-| 5 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | General User | 93.52 | It maps to General User needs with an evidence-based score of 93.52. | Try today |
-| 6 | [drenlia/easy-kanban](https://github.com/drenlia/easy-kanban) | General User | 91.09 | It maps to General User needs with an evidence-based score of 91.09. | Try today |
-| 7 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
-| 8 | [gridctl/gridctl](https://github.com/gridctl/gridctl) | General User | 89.48 | It maps to General User needs with an evidence-based score of 89.48. | Try today |
-| 9 | [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) | General User | 89.42 | It maps to General User needs with an evidence-based score of 89.42. | Try today |
-| 10 | [supernovae-st/nika](https://github.com/supernovae-st/nika) | General User | 89.11 | It maps to General User needs with an evidence-based score of 89.11. | Try today |
+| 1 | [apache/airflow](https://github.com/apache/airflow) | General User | 95.22 | It maps to General User needs with an evidence-based score of 95.22. | Try today |
+| 2 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | General User | 93.52 | It maps to General User needs with an evidence-based score of 93.52. | Try today |
+| 3 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | General User | 91.82 | It maps to General User needs with an evidence-based score of 91.82. | Try today |
+| 4 | [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) | General User | 91.34 | It maps to General User needs with an evidence-based score of 91.34. | Try today |
+| 5 | [simstudioai/sim](https://github.com/simstudioai/sim) | General User | 90.52 | It maps to General User needs with an evidence-based score of 90.52. | Try today |
+| 6 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
+| 7 | [The01Geek/prflow](https://github.com/The01Geek/prflow) | General User | 90.05 | It maps to General User needs with an evidence-based score of 90.05. | Try today |
+| 8 | [ulsklyc/yuvomi](https://github.com/ulsklyc/yuvomi) | General User | 89.18 | It maps to General User needs with an evidence-based score of 89.18. | Try today |
+| 9 | [the911fund/skill-of-skills](https://github.com/the911fund/skill-of-skills) | General User | 89.06 | It maps to General User needs with an evidence-based score of 89.06. | Try today |
+| 10 | [jchultarsky/mirador](https://github.com/jchultarsky/mirador) | General User | 88.69 | It maps to General User needs with an evidence-based score of 88.69. | Try today |
 
 ## General User Finds
-### langgenius/dify
-- What it is: langgenius/dify is a TypeScript project for General User: Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
+### oomol-lab/open-connector
+- What it is: oomol-lab/open-connector is a TypeScript project for General User: Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 97.00
-- Difficulty: Advanced
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### rush86999/atom
-- What it is: rush86999/atom is a Python project for General User: Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 94.60
-- Difficulty: Advanced
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### drenlia/easy-kanban
-- What it is: drenlia/easy-kanban is a TypeScript project for General User: Simple and easy Kanban web application built with React TS (with Cursor AI)
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 91.09
+- Score: 91.34
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
@@ -57,22 +43,29 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### supernovae-st/nika
-- What it is: supernovae-st/nika is a Rust project for General User: Intent as Code | the workflow language for AI. One file, 4 verbs, one Rust binary. Local-first, any model, AGPL-3.0. 🦋
+### The01Geek/prflow
+- What it is: The01Geek/prflow is a Shell project for General User: Turn feature requests into review-ready pull requests: issue, implementation, tests, a review-and-fix loop, and docs. Runs locally or on GitHub Actions, and is built for complex brownfield repos. Each week its retrospective reads what you actually merged and proposes improvements to your skill extensions.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 89.11
-- Difficulty: Advanced
+- Score: 90.05
+- Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: many open issues relative to stars
+### kawayiYokami/P-ai
+- What it is: kawayiYokami/P-ai is a Rust project for General User: A ready-to-use self-growing desktop AI assistant for long-running tasks, memory, agents, tool reviews, MCP, and high-concurrency workspace automation. / 开箱即用的自我成长型桌面 AI 助理，面向长期任务、记忆、部门协作、工具审查、MCP 与高并发工作区自动化。
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 84.39
+- Difficulty: Advanced
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### girishr/SpecPilot
+- What it is: girishr/SpecPilot is a TypeScript project for General User: A powerful CLI tool for initializing specification-driven development projects with flexible, production-ready structures.
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 81.91
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
 
 ## Data Analyst Opportunities
-### grafana/grafana
-- What it is: grafana/grafana is a TypeScript project for Data Analyst: The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 65.95
-- Difficulty: Advanced
-- Recommended action: Study for learning
-- Risk: no README evidence, installation unclear, usage examples unclear
 ### metabase/metabase
 - What it is: metabase/metabase is a Clojure project for Data Analyst: The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
@@ -87,13 +80,6 @@ LLM summary: `disabled`
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### frappe/insights
-- What it is: frappe/insights is a Vue project for Data Analyst: Open Source Business Intelligence Tool
-- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 59.28
-- Difficulty: Unknown
-- Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
 ### apache/superset
 - What it is: apache/superset is a Python project for Data Analyst: Apache Superset is a Data Visualization and Data Exploration Platform
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
@@ -101,29 +87,36 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Study for learning
 - Risk: no README evidence, installation unclear, usage examples unclear
-
-## Data Scientist Research Radar
-### thomas-villani/all2md
-- What it is: thomas-villani/all2md is a Python project for Data Scientist: Convert PDF, Word, PowerPoint, HTML, email & 40+ formats to clean Markdown — and back. Built for LLMs, RAG & Python pipelines, with a built-in MCP server.
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 48.91
-- Difficulty: Unknown
-- Recommended action: Track for research
-- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
-### langfuse/langfuse
-- What it is: langfuse/langfuse is a TypeScript project for Data Scientist: 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 87.88
-- Difficulty: Intermediate
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### flyteorg/flyte
-- What it is: flyteorg/flyte is a Go project for General User: Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 55.02
+### rilldata/rill
+- What it is: rilldata/rill is a Go project for Data Analyst: The fastest business intelligence tool for humans and agents.
+- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
+- Score: 58.98
 - Difficulty: Advanced
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear
+### Lithiumgreentek/power-bi-design-vault
+- What it is: Lithiumgreentek/power-bi-design-vault is a HTML project for Data Analyst: Power BI Design Blueprints for 2026: Advanced Dashboards, Datasets & Visual Resources
+- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
+- Score: 47.25
+- Difficulty: Unknown
+- Recommended action: Watch this week
+- Risk: no README evidence, installation unclear, usage examples unclear, no license
+
+## Data Scientist Research Radar
+### lance-format/lance
+- What it is: lance-format/lance is a Rust project for Data Scientist: Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 57.99
+- Difficulty: Advanced
+- Recommended action: Track for research
+- Risk: no README evidence, installation unclear, usage examples unclear
+### MasihMoafi/Elpis
+- What it is: MasihMoafi/Elpis is a Rust project for General User: You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 84.42
+- Difficulty: Advanced
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
 ### MauroDruwel/NIMStats
 - What it is: MauroDruwel/NIMStats is a JavaScript project for Data Scientist: 📊 Automated hourly benchmarks for 20+ NVIDIA NIM models — interactive dashboard, zero infra, self-hostable. Open-source & community-driven.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
@@ -131,19 +124,26 @@ LLM summary: `disabled`
 - Difficulty: Research-heavy
 - Recommended action: Skip for now
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### uxlfoundation/scikit-learn-intelex
-- What it is: uxlfoundation/scikit-learn-intelex is a Python project for Data Scientist: Extension for Scikit-learn is a seamless way to speed up your Scikit-learn application
+### unslothai/unsloth
+- What it is: unslothai/unsloth is a Python project for General User: Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 51.95
-- Difficulty: Research-heavy
-- Recommended action: Track for research
-- Risk: no README evidence, installation unclear, usage examples unclear
+- Score: 91.82
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### VyomKulshrestha/Heliox-OS
+- What it is: VyomKulshrestha/Heliox-OS is a Python project for General User: An open-source, privacy-first AI System Control Agent (JARVIS-like) using voice and hand gestures
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 87.70
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: many open issues relative to stars
 
 ## Action List
-- Try today: langgenius/dify, rush86999/atom, tianma-if/edgeever
-- Watch this week: esengine/DeepSeek-Reasonix, HBAI-Ltd/Toonflow-app, frappe/insights
-- Use as portfolio reference: t0mer/Find-my-kids, psyb0t/docker-stealthy-auto-browse, appium/appium
-- Skip for now: nicho92/MtgDesktopCompanion, dsebastien/obsidian-life-tracker-base-view, MauroDruwel/NIMStats
+- Try today: apache/airflow, kestra-io/kestra, unslothai/unsloth
+- Watch this week: OpenHands/OpenHands, can1357/oh-my-pi, sqmw/desk_tidy_sticky
+- Use as portfolio reference: heypinchy/pinchy, ArchiveBox/ArchiveBox, itsPremkumar/Automated-Video-Generator
+- Skip for now: dsebastien/obsidian-life-tracker-base-view, atomantic/PortOS, shadcndashboard/shadcndashboard
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.
