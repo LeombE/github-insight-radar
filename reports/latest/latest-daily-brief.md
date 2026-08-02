@@ -1,6 +1,6 @@
 # GitHub Insight Daily Brief - 2026-08-02
 
-Generated at: `2026-08-01T17:14:11+00:00`
+Generated at: `2026-08-02T06:45:30+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -8,45 +8,52 @@ Image generation: `disabled`
 LLM summary: `disabled`
 
 ## Executive Summary
-- Top overall opportunity: [rush86999/atom](https://github.com/rush86999/atom) with score 94.60.
-- General user opportunity: [rush86999/atom](https://github.com/rush86999/atom)
-- Data analyst opportunity: [grafana/grafana](https://github.com/grafana/grafana)
+- Top overall opportunity: [langgenius/dify](https://github.com/langgenius/dify) with score 97.00.
+- General user opportunity: [langgenius/dify](https://github.com/langgenius/dify)
+- Data analyst opportunity: [metabase/metabase](https://github.com/metabase/metabase)
 - Data scientist opportunity: [lance-format/lance](https://github.com/lance-format/lance)
 - Most common risk pattern: usage examples unclear
 
 ## Top Overall Projects
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
-| 1 | [rush86999/atom](https://github.com/rush86999/atom) | General User | 94.60 | It maps to General User needs with an evidence-based score of 94.60. | Try today |
-| 2 | [tianma-if/edgeever](https://github.com/tianma-if/edgeever) | General User | 94.22 | It maps to General User needs with an evidence-based score of 94.22. | Try today |
-| 3 | [basefoundry/base](https://github.com/basefoundry/base) | General User | 92.35 | It maps to General User needs with an evidence-based score of 92.35. | Try today |
-| 4 | [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) | General User | 91.60 | It maps to General User needs with an evidence-based score of 91.60. | Try today |
-| 5 | [zhikunqingtao/zhikuncode](https://github.com/zhikunqingtao/zhikuncode) | General User | 90.49 | It maps to General User needs with an evidence-based score of 90.49. | Try today |
-| 6 | [The01Geek/prflow](https://github.com/The01Geek/prflow) | General User | 90.05 | It maps to General User needs with an evidence-based score of 90.05. | Try today |
-| 7 | [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) | General User | 89.42 | It maps to General User needs with an evidence-based score of 89.42. | Try today |
-| 8 | [deverman/FocusRelayMCP](https://github.com/deverman/FocusRelayMCP) | General User | 89.13 | It maps to General User needs with an evidence-based score of 89.13. | Try today |
-| 9 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | General User | 89.10 | It maps to General User needs with an evidence-based score of 89.10. | Try today |
-| 10 | [NexaFlowFrance/OpenFamily](https://github.com/NexaFlowFrance/OpenFamily) | General User | 88.94 | It maps to General User needs with an evidence-based score of 88.94. | Try today |
+| 1 | [langgenius/dify](https://github.com/langgenius/dify) | General User | 97.00 | It maps to General User needs with an evidence-based score of 97.00. | Try today |
+| 2 | [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | General User | 93.99 | It maps to General User needs with an evidence-based score of 93.99. | Try today |
+| 3 | [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) | General User | 91.67 | It maps to General User needs with an evidence-based score of 91.67. | Try today |
+| 4 | [ShaftHQ/SHAFT_ENGINE](https://github.com/ShaftHQ/SHAFT_ENGINE) | General User | 91.26 | It maps to General User needs with an evidence-based score of 91.26. | Try today |
+| 5 | [simstudioai/sim](https://github.com/simstudioai/sim) | General User | 90.52 | It maps to General User needs with an evidence-based score of 90.52. | Try today |
+| 6 | [The01Geek/prflow](https://github.com/The01Geek/prflow) | General User | 90.06 | It maps to General User needs with an evidence-based score of 90.06. | Try today |
+| 7 | [deverman/FocusRelayMCP](https://github.com/deverman/FocusRelayMCP) | General User | 89.13 | It maps to General User needs with an evidence-based score of 89.13. | Try today |
+| 8 | [the911fund/skill-of-skills](https://github.com/the911fund/skill-of-skills) | General User | 89.06 | It maps to General User needs with an evidence-based score of 89.06. | Try today |
+| 9 | [bex-co/bex](https://github.com/bex-co/bex) | General User | 88.81 | It maps to General User needs with an evidence-based score of 88.81. | Try today |
+| 10 | [atomantic/PortOS](https://github.com/atomantic/PortOS) | General User | 88.22 | It maps to General User needs with an evidence-based score of 88.22. | Try today |
 
 ## General User Finds
-### rush86999/atom
-- What it is: rush86999/atom is a Python project for General User: Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation
+### langgenius/dify
+- What it is: langgenius/dify is a TypeScript project for General User: Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 94.60
+- Score: 97.00
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### basefoundry/base
-- What it is: basefoundry/base is a Python project for General User: A local, GitHub-centric operating contract that makes a collection of independent repositories behave like one understandable, verifiably ready workspace for humans and coding agents.
+### netease-youdao/LobsterAI
+- What it is: netease-youdao/LobsterAI is a TypeScript project for General User: Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 92.35
+- Score: 91.67
 - Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### ShaftHQ/SHAFT_ENGINE
+- What it is: ShaftHQ/SHAFT_ENGINE is a Java project for General User: Java test automation framework for web, mobile, API, CLI, database, and desktop E2E testing with a fluent API and built-in reporting.
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 91.26
+- Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
 ### The01Geek/prflow
 - What it is: The01Geek/prflow is a Shell project for General User: Turn feature requests into review-ready pull requests: issue, implementation, tests, a review-and-fix loop, and docs. Runs locally or on GitHub Actions, and is built for complex brownfield repos. Each week its retrospective reads what you actually merged and proposes improvements to your skill extensions.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 90.05
+- Score: 90.06
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: many open issues relative to stars
@@ -57,22 +64,8 @@ LLM summary: `disabled`
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: many open issues relative to stars
-### rtk-ai/rtk
-- What it is: rtk-ai/rtk is a Rust project for General User: CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 89.10
-- Difficulty: Advanced
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
 
 ## Data Analyst Opportunities
-### grafana/grafana
-- What it is: grafana/grafana is a TypeScript project for Data Analyst: The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 65.95
-- Difficulty: Advanced
-- Recommended action: Study for learning
-- Risk: no README evidence, installation unclear, usage examples unclear
 ### metabase/metabase
 - What it is: metabase/metabase is a Clojure project for Data Analyst: The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
@@ -80,13 +73,6 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Study for learning
 - Risk: no README evidence, installation unclear, usage examples unclear
-### MahbubNibir/power-bi-retail-analytics-viz
-- What it is: MahbubNibir/power-bi-retail-analytics-viz is a HTML project for Data Analyst: Top Power BI Sales Dashboard 2026 for Profit & Regional Analysis
-- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 51.93
-- Difficulty: Unknown
-- Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
 ### valdeteselimi/DashPro-Monitor-IndustrialBI
 - What it is: valdeteselimi/DashPro-Monitor-IndustrialBI is a HTML project for Data Analyst: Power BI 2026: Smart Industrial Production Dashboard with DAX & Data Cleaning
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
@@ -101,6 +87,20 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Study for learning
 - Risk: no README evidence, installation unclear, usage examples unclear
+### Lithiumgreentek/power-bi-design-vault
+- What it is: Lithiumgreentek/power-bi-design-vault is a HTML project for Data Analyst: Power BI Design Blueprints for 2026: Advanced Dashboards, Datasets & Visual Resources
+- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
+- Score: 47.25
+- Difficulty: Unknown
+- Recommended action: Watch this week
+- Risk: no README evidence, installation unclear, usage examples unclear, no license
+### govinda25072003-ai/pbi-amazon-sales-dash
+- What it is: govinda25072003-ai/pbi-amazon-sales-dash is a HTML project for Data Analyst: Top 5 Amazon Sales Dashboard Trends & Insights for 2026
+- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
+- Score: 47.24
+- Difficulty: Unknown
+- Recommended action: Watch this week
+- Risk: no README evidence, installation unclear, usage examples unclear, no license
 
 ## Data Scientist Research Radar
 ### lance-format/lance
@@ -110,6 +110,20 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear
+### trycua/cua
+- What it is: trycua/cua is a HTML project for General User: Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 59.58
+- Difficulty: Advanced
+- Recommended action: Watch this week
+- Risk: no README evidence, installation unclear, usage examples unclear
+### flyteorg/flyte
+- What it is: flyteorg/flyte is a Go project for General User: Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 55.02
+- Difficulty: Advanced
+- Recommended action: Watch this week
+- Risk: no README evidence, installation unclear, usage examples unclear
 ### MauroDruwel/NIMStats
 - What it is: MauroDruwel/NIMStats is a JavaScript project for Data Scientist: 📊 Automated hourly benchmarks for 20+ NVIDIA NIM models — interactive dashboard, zero infra, self-hostable. Open-source & community-driven.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
@@ -117,32 +131,18 @@ LLM summary: `disabled`
 - Difficulty: Research-heavy
 - Recommended action: Skip for now
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### winstonkoh87/Athena-Public
-- What it is: winstonkoh87/Athena-Public is a Python project for General User: Athena is a local-first agentic PKM that helps you make better decisions with your own context — persistent memory, structured reasoning, and governed AI agents that work across any LLM. Own the state. Rent the intelligence.
+### LearningCircuit/local-deep-research
+- What it is: LearningCircuit/local-deep-research is a Python project for General User: ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 88.47
+- Score: 93.99
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### unslothai/unsloth
-- What it is: unslothai/unsloth is a Python project for General User: Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models.
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 57.27
-- Difficulty: Unknown
-- Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear
-### Bike4Mind/bike4mind
-- What it is: Bike4Mind/bike4mind is a TypeScript project for General User: The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama/vLLM. BSL 1.1,  auto-converting to Apache-2.0 on a two-year clock. Your AI keeps running when theirs doesn't.
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 82.10
-- Difficulty: Intermediate
-- Recommended action: Try today
-- Risk: many open issues relative to stars
 
 ## Action List
-- Try today: rush86999/atom, tianma-if/edgeever, basefoundry/base
-- Watch this week: OpenHands/OpenHands, esengine/DeepSeek-Reasonix, herdrdev/herdr
-- Use as portfolio reference: KunAgent/Kun, immich-app/immich, QuackbackIO/quackback
+- Try today: langgenius/dify, LearningCircuit/local-deep-research, netease-youdao/LobsterAI
+- Watch this week: trycua/cua, Effect-TS/effect, HBAI-Ltd/Toonflow-app
+- Use as portfolio reference: BlackMixture/Mix-Studio, KunAgent/Kun, HarmanPreet-Singh-XYT/Scolect-ScreenTimeApp
 - Skip for now: MauroDruwel/NIMStats, m96-chan/ai_research_dashboard, pip-install-python/Dash-Documentation-Boilerplate
 
 ## Methodology
