@@ -1,6 +1,6 @@
 # GitHub Insight Daily Brief - 2026-08-03
 
-Generated at: `2026-08-02T17:14:55+00:00`
+Generated at: `2026-08-03T07:45:58+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -10,23 +10,23 @@ LLM summary: `disabled`
 ## Executive Summary
 - Top overall opportunity: [langgenius/dify](https://github.com/langgenius/dify) with score 97.00.
 - General user opportunity: [langgenius/dify](https://github.com/langgenius/dify)
-- Data analyst opportunity: [valdeteselimi/DashPro-Monitor-IndustrialBI](https://github.com/valdeteselimi/DashPro-Monitor-IndustrialBI)
-- Data scientist opportunity: [lance-format/lance](https://github.com/lance-format/lance)
-- Most common risk pattern: installation unclear
+- Data analyst opportunity: [grafana/grafana](https://github.com/grafana/grafana)
+- Data scientist opportunity: [probabl-ai/skore](https://github.com/probabl-ai/skore)
+- Most common risk pattern: usage examples unclear
 
 ## Top Overall Projects
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
 | 1 | [langgenius/dify](https://github.com/langgenius/dify) | General User | 97.00 | It maps to General User needs with an evidence-based score of 97.00. | Try today |
-| 2 | [Gimanh/taskview-community](https://github.com/Gimanh/taskview-community) | General User | 94.37 | It maps to General User needs with an evidence-based score of 94.37. | Try today |
-| 3 | [flytohub/flyto-core](https://github.com/flytohub/flyto-core) | General User | 93.62 | It maps to General User needs with an evidence-based score of 93.62. | Try today |
-| 4 | [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) | General User | 91.61 | It maps to General User needs with an evidence-based score of 91.61. | Try today |
-| 5 | [kriuchkov/tock](https://github.com/kriuchkov/tock) | General User | 91.36 | It maps to General User needs with an evidence-based score of 91.36. | Try today |
-| 6 | [The01Geek/prflow](https://github.com/The01Geek/prflow) | General User | 90.06 | It maps to General User needs with an evidence-based score of 90.06. | Try today |
-| 7 | [Observal/Observal](https://github.com/Observal/Observal) | General User | 89.62 | It maps to General User needs with an evidence-based score of 89.62. | Try today |
-| 8 | [mixpeek/amux](https://github.com/mixpeek/amux) | General User | 89.57 | It maps to General User needs with an evidence-based score of 89.57. | Try today |
-| 9 | [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) | General User | 89.42 | It maps to General User needs with an evidence-based score of 89.42. | Try today |
-| 10 | [Fractera/Agent-Engineering-Infrastructure](https://github.com/Fractera/Agent-Engineering-Infrastructure) | General User | 89.38 | It maps to General User needs with an evidence-based score of 89.38. | Try today |
+| 2 | [coleam00/Archon](https://github.com/coleam00/Archon) | General User | 96.96 | It maps to General User needs with an evidence-based score of 96.96. | Try today |
+| 3 | [apache/airflow](https://github.com/apache/airflow) | General User | 95.22 | It maps to General User needs with an evidence-based score of 95.22. | Try today |
+| 4 | [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | General User | 94.78 | It maps to General User needs with an evidence-based score of 94.78. | Try today |
+| 5 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | General User | 93.52 | It maps to General User needs with an evidence-based score of 93.52. | Try today |
+| 6 | [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) | General User | 91.68 | It maps to General User needs with an evidence-based score of 91.68. | Try today |
+| 7 | [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) | General User | 91.38 | It maps to General User needs with an evidence-based score of 91.38. | Try today |
+| 8 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
+| 9 | [rortan134/cache-app](https://github.com/rortan134/cache-app) | General User | 89.80 | It maps to General User needs with an evidence-based score of 89.80. | Try today |
+| 10 | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | General User | 88.67 | It maps to General User needs with an evidence-based score of 88.67. | Try today |
 
 ## General User Finds
 ### langgenius/dify
@@ -36,36 +36,50 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### Gimanh/taskview-community
-- What it is: Gimanh/taskview-community is a TypeScript project for General User: TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task managers.
+### coleam00/Archon
+- What it is: coleam00/Archon is a TypeScript project for General User: The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 94.37
+- Score: 96.96
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### flytohub/flyto-core
-- What it is: flytohub/flyto-core is a Python project for General User: Flyto2 Core is the open-source execution kernel for automation and AI-agent workflows: 452 registry-backed modules, MCP-native transport, YAML recipes, evidence capture, replay, triggers, queue, versioning, and metering.
+### beenuar/AiSOC
+- What it is: beenuar/AiSOC is a Python project for General User: Open-source AI-powered Security Operations Center — alert fusion, purple-team drills, agent-assisted triage, MITRE ATT&CK investigation. MIT-licensed, self-hostable.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 93.62
+- Score: 94.78
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### kriuchkov/tock
-- What it is: kriuchkov/tock is a Go project for General User: Tock is a powerful time tracking tool for the command line. It saves activity logs as plaintext files and provides an interactive terminal UI for viewing your time.
+### netease-youdao/LobsterAI
+- What it is: netease-youdao/LobsterAI is a TypeScript project for General User: Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 91.36
+- Score: 91.68
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### The01Geek/prflow
-- What it is: The01Geek/prflow is a Shell project for General User: Turn feature requests into review-ready pull requests: issue, implementation, tests, a review-and-fix loop, and docs. Runs locally or on GitHub Actions, and is built for complex brownfield repos. Each week its retrospective reads what you actually merged and proposes improvements to your skill extensions.
+### oomol-lab/open-connector
+- What it is: oomol-lab/open-connector is a TypeScript project for General User: Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 90.06
+- Score: 91.38
 - Difficulty: Intermediate
 - Recommended action: Try today
-- Risk: many open issues relative to stars
+- Risk: No major risk flag from collected evidence.
 
 ## Data Analyst Opportunities
+### grafana/grafana
+- What it is: grafana/grafana is a TypeScript project for Data Analyst: The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
+- Score: 65.95
+- Difficulty: Advanced
+- Recommended action: Study for learning
+- Risk: no README evidence, installation unclear, usage examples unclear
+### metabase/metabase
+- What it is: metabase/metabase is a Clojure project for Data Analyst: The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
+- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
+- Score: 65.95
+- Difficulty: Advanced
+- Recommended action: Study for learning
+- Risk: no README evidence, installation unclear, usage examples unclear
 ### valdeteselimi/DashPro-Monitor-IndustrialBI
 - What it is: valdeteselimi/DashPro-Monitor-IndustrialBI is a HTML project for Data Analyst: Power BI 2026: Smart Industrial Production Dashboard with DAX & Data Cleaning
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
@@ -80,29 +94,22 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Study for learning
 - Risk: no README evidence, installation unclear, usage examples unclear
-### Lithiumgreentek/power-bi-design-vault
-- What it is: Lithiumgreentek/power-bi-design-vault is a HTML project for Data Analyst: Power BI Design Blueprints for 2026: Advanced Dashboards, Datasets & Visual Resources
+### rilldata/rill
+- What it is: rilldata/rill is a Go project for Data Analyst: The fastest business intelligence tool for humans and agents.
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 47.25
-- Difficulty: Unknown
+- Score: 58.98
+- Difficulty: Advanced
 - Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
-### govinda25072003-ai/pbi-amazon-sales-dash
-- What it is: govinda25072003-ai/pbi-amazon-sales-dash is a HTML project for Data Analyst: Top 5 Amazon Sales Dashboard Trends & Insights for 2026
-- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 47.24
-- Difficulty: Unknown
-- Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
-### goodmorningbeautyful-lab/PhonePe-Pulse-Analyzer
-- What it is: goodmorningbeautyful-lab/PhonePe-Pulse-Analyzer is a HTML project for Data Analyst: PhonePe Transaction Trends & User Analytics Dashboard 2026 – Power BI Guide
-- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 47.24
-- Difficulty: Unknown
-- Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
+- Risk: no README evidence, installation unclear, usage examples unclear
 
 ## Data Scientist Research Radar
+### probabl-ai/skore
+- What it is: probabl-ai/skore is a Python project for Data Scientist: Track your Data Science. Skore's open-source Python library accelerates ML model development with automated evaluation reports, smart methodological guidance, and comprehensive cross-validation analysis.
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 55.42
+- Difficulty: Unknown
+- Recommended action: Track for research
+- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
 ### lance-format/lance
 - What it is: lance-format/lance is a Rust project for Data Scientist: Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
 - Angle: Useful for model, benchmark, notebook, or experiment review.
@@ -110,40 +117,33 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear
-### trycua/cua
-- What it is: trycua/cua is a HTML project for General User: Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+### NVIDIA-NeMo/Automodel
+- What it is: NVIDIA-NeMo/Automodel is a Python project for Data Scientist: 🚀 Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 59.58
-- Difficulty: Advanced
-- Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear
-### MauroDruwel/NIMStats
-- What it is: MauroDruwel/NIMStats is a JavaScript project for Data Scientist: 📊 Automated hourly benchmarks for 20+ NVIDIA NIM models — interactive dashboard, zero infra, self-hostable. Open-source & community-driven.
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 44.66
+- Score: 52.09
 - Difficulty: Research-heavy
-- Recommended action: Skip for now
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
-### flytohub/flyto-core
-- What it is: flytohub/flyto-core is a Python project for General User: Flyto2 Core is the open-source execution kernel for automation and AI-agent workflows: 452 registry-backed modules, MCP-native transport, YAML recipes, evidence capture, replay, triggers, queue, versioning, and metering.
+- Recommended action: Track for research
+- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
+### Nixtla/nixtla
+- What it is: Nixtla/nixtla is a Jupyter Notebook project for Data Scientist: TimeGPT-1: production ready pre-trained Time Series Foundation Model  for forecasting and anomaly detection. Generative pretrained transformer for time series trained on over 100B data points. It's capable of accurately predicting various domains such as retail, electricity, finance, and IoT with just a few lines of code 🚀.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 93.62
-- Difficulty: Intermediate
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### ibuilder/massing
-- What it is: ibuilder/massing is a Python project for General User: Open, self-hosted, IFC-native AEC platform: web BIM viewer + modeling, a ~100-module GC portal (RFIs, pay apps, CPM, construction accounting — double-entry GL/WIP → QuickBooks, e-sign), AI assist, IDS authoring, estimating + embodied carbon, a development proforma, and operate/dispose (CMMS, facility condition, rent roll, waterfall).
+- Score: 59.17
+- Difficulty: Advanced
+- Recommended action: Track for research
+- Risk: no README evidence, installation unclear, usage examples unclear
+### Tencent/WeKnora
+- What it is: Tencent/WeKnora is a Go project for Data Scientist: Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 87.66
-- Difficulty: Intermediate
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
+- Score: 55.70
+- Difficulty: Unknown
+- Recommended action: Track for research
+- Risk: no README evidence, installation unclear, usage examples unclear
 
 ## Action List
-- Try today: langgenius/dify, Gimanh/taskview-community, flytohub/flyto-core
-- Watch this week: esengine/DeepSeek-Reasonix, trycua/cua, HBAI-Ltd/Toonflow-app
-- Use as portfolio reference: modelship-ai/modelship, YishenTu/claudian, navidrome/navidrome
-- Skip for now: Wholiver/metis, straightchlorine/honeywatch, TheDuffman85/crowdsec-web-ui
+- Try today: langgenius/dify, coleam00/Archon, apache/airflow
+- Watch this week: esengine/DeepSeek-Reasonix, QwenLM/qwen-code, can1357/oh-my-pi
+- Use as portfolio reference: YishenTu/claudian, apify/crawlee-python, spl0k/supysonic
+- Skip for now: atomantic/PortOS, AhmedOsman101/commit-sage-cli, MauroDruwel/NIMStats
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.
