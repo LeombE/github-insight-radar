@@ -1,6 +1,6 @@
 # GitHub Insight Daily Brief - 2026-08-04
 
-Generated at: `2026-08-03T18:04:57+00:00`
+Generated at: `2026-08-04T06:40:32+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -8,8 +8,8 @@ Image generation: `disabled`
 LLM summary: `disabled`
 
 ## Executive Summary
-- Top overall opportunity: [schmitech/orbit](https://github.com/schmitech/orbit) with score 93.28.
-- General user opportunity: [schmitech/orbit](https://github.com/schmitech/orbit)
+- Top overall opportunity: [langgenius/dify](https://github.com/langgenius/dify) with score 97.00.
+- General user opportunity: [langgenius/dify](https://github.com/langgenius/dify)
 - Data analyst opportunity: [grafana/grafana](https://github.com/grafana/grafana)
 - Data scientist opportunity: [lance-format/lance](https://github.com/lance-format/lance)
 - Most common risk pattern: usage examples unclear
@@ -17,30 +17,44 @@ LLM summary: `disabled`
 ## Top Overall Projects
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
-| 1 | [schmitech/orbit](https://github.com/schmitech/orbit) | General User | 93.28 | It maps to General User needs with an evidence-based score of 93.28. | Try today |
-| 2 | [coco-research/coco](https://github.com/coco-research/coco) | General User | 92.81 | It maps to General User needs with an evidence-based score of 92.81. | Try today |
-| 3 | [simstudioai/sim](https://github.com/simstudioai/sim) | General User | 90.52 | It maps to General User needs with an evidence-based score of 90.52. | Try today |
-| 4 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
-| 5 | [slothflowlabs/duckle](https://github.com/slothflowlabs/duckle) | General User | 89.51 | It maps to General User needs with an evidence-based score of 89.51. | Try today |
-| 6 | [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) | General User | 89.43 | It maps to General User needs with an evidence-based score of 89.43. | Try today |
-| 7 | [Fractera/Agent-Engineering-Infrastructure](https://github.com/Fractera/Agent-Engineering-Infrastructure) | General User | 89.38 | It maps to General User needs with an evidence-based score of 89.38. | Try today |
-| 8 | [supernovae-st/nika](https://github.com/supernovae-st/nika) | General User | 89.11 | It maps to General User needs with an evidence-based score of 89.11. | Try today |
-| 9 | [atomantic/PortOS](https://github.com/atomantic/PortOS) | General User | 88.22 | It maps to General User needs with an evidence-based score of 88.22. | Try today |
-| 10 | [ibuilder/massing](https://github.com/ibuilder/massing) | General User | 87.66 | It maps to General User needs with an evidence-based score of 87.66. | Try today |
+| 1 | [langgenius/dify](https://github.com/langgenius/dify) | General User | 97.00 | It maps to General User needs with an evidence-based score of 97.00. | Try today |
+| 2 | [coleam00/Archon](https://github.com/coleam00/Archon) | General User | 96.96 | It maps to General User needs with an evidence-based score of 96.96. | Try today |
+| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | General User | 95.22 | It maps to General User needs with an evidence-based score of 95.22. | Try today |
+| 4 | [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | General User | 93.99 | It maps to General User needs with an evidence-based score of 93.99. | Try today |
+| 5 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | General User | 93.52 | It maps to General User needs with an evidence-based score of 93.52. | Try today |
+| 6 | [ArnasDon/wacrm](https://github.com/ArnasDon/wacrm) | General User | 92.55 | It maps to General User needs with an evidence-based score of 92.55. | Try today |
+| 7 | [gotempsh/temps](https://github.com/gotempsh/temps) | General User | 92.03 | It maps to General User needs with an evidence-based score of 92.03. | Try today |
+| 8 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | General User | 91.82 | It maps to General User needs with an evidence-based score of 91.82. | Try today |
+| 9 | [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) | General User | 91.68 | It maps to General User needs with an evidence-based score of 91.68. | Try today |
+| 10 | [ShaftHQ/SHAFT_ENGINE](https://github.com/ShaftHQ/SHAFT_ENGINE) | General User | 91.26 | It maps to General User needs with an evidence-based score of 91.26. | Try today |
 
 ## General User Finds
-### schmitech/orbit
-- What it is: schmitech/orbit is a Python project for General User: Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.
+### langgenius/dify
+- What it is: langgenius/dify is a TypeScript project for General User: Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 93.28
+- Score: 97.00
+- Difficulty: Advanced
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### coleam00/Archon
+- What it is: coleam00/Archon is a TypeScript project for General User: The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 96.96
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### coco-research/coco
-- What it is: coco-research/coco is a JavaScript project for General User: Meet Coco. A superintelligent agent framework powered by an advisory board of 389 world-class minds. Scale your AI assistant into a complete engineering department with 142 skills, 277 commands, and persistent state. Universal compatibility. Local privacy. Free and open source.
+### netease-youdao/LobsterAI
+- What it is: netease-youdao/LobsterAI is a TypeScript project for General User: Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 92.81
+- Score: 91.68
 - Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### ShaftHQ/SHAFT_ENGINE
+- What it is: ShaftHQ/SHAFT_ENGINE is a Java project for General User: Java test automation framework for web, mobile, API, CLI, database, and desktop E2E testing with a fluent API and built-in reporting.
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 91.26
+- Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
 ### n8n-io/n8n
@@ -50,20 +64,6 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### supernovae-st/nika
-- What it is: supernovae-st/nika is a Rust project for General User: Intent as Code | the workflow language for AI. One file, 4 verbs, one Rust binary. Local-first, any model, AGPL-3.0. 🦋
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 89.11
-- Difficulty: Advanced
-- Recommended action: Try today
-- Risk: many open issues relative to stars
-### ohdearquant/lionagi
-- What it is: ohdearquant/lionagi is a Python project for General User: An intelligence orchestra
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 87.00
-- Difficulty: Intermediate
-- Recommended action: Try today
-- Risk: many open issues relative to stars
 
 ## Data Analyst Opportunities
 ### grafana/grafana
@@ -110,20 +110,6 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear
-### NVIDIA-NeMo/Automodel
-- What it is: NVIDIA-NeMo/Automodel is a Python project for Data Scientist: 🚀 Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 52.09
-- Difficulty: Research-heavy
-- Recommended action: Track for research
-- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
-### flyteorg/flyte
-- What it is: flyteorg/flyte is a Go project for General User: Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 55.03
-- Difficulty: Advanced
-- Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear
 ### MauroDruwel/NIMStats
 - What it is: MauroDruwel/NIMStats is a JavaScript project for Data Scientist: 📊 Automated hourly benchmarks for 20+ NVIDIA NIM models — interactive dashboard, zero infra, self-hostable. Open-source & community-driven.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
@@ -131,19 +117,33 @@ LLM summary: `disabled`
 - Difficulty: Research-heavy
 - Recommended action: Skip for now
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### ibuilder/massing
-- What it is: ibuilder/massing is a Python project for General User: Open, self-hosted, IFC-native AEC platform: web BIM viewer + modeling, a ~100-module GC portal (RFIs, pay apps, CPM, construction accounting — double-entry GL/WIP → QuickBooks, e-sign), AI assist, IDS authoring, estimating + embodied carbon, a development proforma, and operate/dispose (CMMS, facility condition, rent roll, waterfall).
+### LearningCircuit/local-deep-research
+- What it is: LearningCircuit/local-deep-research is a Python project for General User: ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 87.66
+- Score: 93.99
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
+### unslothai/unsloth
+- What it is: unslothai/unsloth is a Python project for General User: Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models.
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 91.82
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### VyomKulshrestha/Heliox-OS
+- What it is: VyomKulshrestha/Heliox-OS is a Python project for General User: An open-source, privacy-first AI System Control Agent (JARVIS-like) using voice and hand gestures
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 87.70
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: many open issues relative to stars
 
 ## Action List
-- Try today: schmitech/orbit, coco-research/coco, simstudioai/sim
-- Watch this week: OpenHands/OpenHands, esengine/DeepSeek-Reasonix, herdrdev/herdr
-- Use as portfolio reference: immich-app/immich, ipitio/backage, krelltunez/dayGLANCE
-- Skip for now: MauroDruwel/NIMStats, denisotree/tuitab, m96-chan/ai_research_dashboard
+- Try today: langgenius/dify, coleam00/Archon, affaan-m/ECC
+- Watch this week: esengine/DeepSeek-Reasonix, can1357/oh-my-pi, HBAI-Ltd/Toonflow-app
+- Use as portfolio reference: dramaclaw/dramaclaw, YishenTu/claudian, krelltunez/lastGLANCE
+- Skip for now: MauroDruwel/NIMStats, m96-chan/ai_research_dashboard, deepnote/vscode-deepnote
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.
