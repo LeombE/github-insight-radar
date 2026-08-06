@@ -1,6 +1,6 @@
 # GitHub Insight Daily Brief - 2026-08-06
 
-Generated at: `2026-08-05T17:54:25+00:00`
+Generated at: `2026-08-06T06:45:15+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -8,8 +8,8 @@ Image generation: `disabled`
 LLM summary: `disabled`
 
 ## Executive Summary
-- Top overall opportunity: [rush86999/atom](https://github.com/rush86999/atom) with score 94.60.
-- General user opportunity: [rush86999/atom](https://github.com/rush86999/atom)
+- Top overall opportunity: [langgenius/dify](https://github.com/langgenius/dify) with score 97.00.
+- General user opportunity: [langgenius/dify](https://github.com/langgenius/dify)
 - Data analyst opportunity: [grafana/grafana](https://github.com/grafana/grafana)
 - Data scientist opportunity: [lance-format/lance](https://github.com/lance-format/lance)
 - Most common risk pattern: usage examples unclear
@@ -17,18 +17,32 @@ LLM summary: `disabled`
 ## Top Overall Projects
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
-| 1 | [rush86999/atom](https://github.com/rush86999/atom) | General User | 94.60 | It maps to General User needs with an evidence-based score of 94.60. | Try today |
-| 2 | [Squirreljetpack/matchmaker](https://github.com/Squirreljetpack/matchmaker) | General User | 90.70 | It maps to General User needs with an evidence-based score of 90.70. | Try today |
-| 3 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
-| 4 | [superplanehq/superplane](https://github.com/superplanehq/superplane) | General User | 90.29 | It maps to General User needs with an evidence-based score of 90.29. | Try today |
-| 5 | [fabiodalez-dev/Pinakes](https://github.com/fabiodalez-dev/Pinakes) | General User | 89.74 | It maps to General User needs with an evidence-based score of 89.74. | Try today |
-| 6 | [Mindburn-Labs/helm-ai-kernel](https://github.com/Mindburn-Labs/helm-ai-kernel) | General User | 89.38 | It maps to General User needs with an evidence-based score of 89.38. | Try today |
-| 7 | [leopu00/job-hunter-team](https://github.com/leopu00/job-hunter-team) | General User | 89.08 | It maps to General User needs with an evidence-based score of 89.08. | Try today |
-| 8 | [will-be-done/will-be-done](https://github.com/will-be-done/will-be-done) | General User | 88.86 | It maps to General User needs with an evidence-based score of 88.86. | Try today |
-| 9 | [lobu-ai/lobu](https://github.com/lobu-ai/lobu) | General User | 88.61 | It maps to General User needs with an evidence-based score of 88.61. | Try today |
-| 10 | [certimate-go/certimate](https://github.com/certimate-go/certimate) | General User | 88.60 | It maps to General User needs with an evidence-based score of 88.60. | Try today |
+| 1 | [langgenius/dify](https://github.com/langgenius/dify) | General User | 97.00 | It maps to General User needs with an evidence-based score of 97.00. | Try today |
+| 2 | [dagucloud/dagu](https://github.com/dagucloud/dagu) | General User | 95.47 | It maps to General User needs with an evidence-based score of 95.47. | Try today |
+| 3 | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | General User | 94.80 | It maps to General User needs with an evidence-based score of 94.80. | Try today |
+| 4 | [rush86999/atom](https://github.com/rush86999/atom) | General User | 94.60 | It maps to General User needs with an evidence-based score of 94.60. | Try today |
+| 5 | [AndrewDryga/emisar](https://github.com/AndrewDryga/emisar) | General User | 94.00 | It maps to General User needs with an evidence-based score of 94.00. | Try today |
+| 6 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | General User | 91.82 | It maps to General User needs with an evidence-based score of 91.82. | Try today |
+| 7 | [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) | General User | 91.68 | It maps to General User needs with an evidence-based score of 91.68. | Try today |
+| 8 | [skyhook-io/radar](https://github.com/skyhook-io/radar) | General User | 91.02 | It maps to General User needs with an evidence-based score of 91.02. | Try today |
+| 9 | [simstudioai/sim](https://github.com/simstudioai/sim) | General User | 90.52 | It maps to General User needs with an evidence-based score of 90.52. | Try today |
+| 10 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
 
 ## General User Finds
+### langgenius/dify
+- What it is: langgenius/dify is a TypeScript project for General User: Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 97.00
+- Difficulty: Advanced
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### dagucloud/dagu
+- What it is: dagucloud/dagu is a Go project for General User: Local-first workflow engine for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, and AI agents; keep workflows separate from business logic. One binary, no database. Airflow alternative.
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 95.47
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
 ### rush86999/atom
 - What it is: rush86999/atom is a Python project for General User: Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation
 - Angle: Potential practical tool or workflow improvement for general users.
@@ -36,31 +50,17 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### n8n-io/n8n
-- What it is: n8n-io/n8n is a TypeScript project for General User: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+### AndrewDryga/emisar
+- What it is: AndrewDryga/emisar is a Elixir project for General User: An MCP that lets AI tools securely connect to your infrastructure, write IaaS code, debug issues, and assist during incidents - without risking production stability. Built for security teams to approve and infrastructure teams to experience like magic.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 90.30
-- Difficulty: Advanced
+- Score: 94.00
+- Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### superplanehq/superplane
-- What it is: superplanehq/superplane is a Go project for General User: The open source control plane for agentic engineering.
+### netease-youdao/LobsterAI
+- What it is: netease-youdao/LobsterAI is a TypeScript project for General User: Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 90.29
-- Difficulty: Advanced
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### leopu00/job-hunter-team
-- What it is: leopu00/job-hunter-team is a TypeScript project for General User: A team of AI agents that runs your job search — self-hosted, on your own LLM subscription. MIT.
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 89.08
-- Difficulty: Advanced
-- Recommended action: Try today
-- Risk: many open issues relative to stars
-### lobu-ai/lobu
-- What it is: lobu-ai/lobu is a TypeScript project for General User: Open-source control plane and runtime for organisational agents: shared company context, isolated execution, approvals and MCP.
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 88.61
+- Score: 91.68
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
@@ -87,19 +87,19 @@ LLM summary: `disabled`
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### visivo-io/visivo
-- What it is: visivo-io/visivo is a JavaScript project for Data Analyst: ✨ Build dashboards with end-to-end version control. 🔋 CLI w/ batteries included, no infra required. Develop on your laptop for instant results, deploy changes safely (with automated checks), and keep every report trustworthy for stakeholders, analysts and agents 🤖
-- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 59.98
-- Difficulty: Unknown
-- Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear
 ### apache/superset
 - What it is: apache/superset is a Python project for Data Analyst: Apache Superset is a Data Visualization and Data Exploration Platform
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
 - Score: 62.21
 - Difficulty: Advanced
 - Recommended action: Study for learning
+- Risk: no README evidence, installation unclear, usage examples unclear
+### rilldata/rill
+- What it is: rilldata/rill is a Go project for Data Analyst: The fastest business intelligence tool for humans and agents.
+- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
+- Score: 58.99
+- Difficulty: Advanced
+- Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear
 
 ## Data Scientist Research Radar
@@ -110,40 +110,40 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear
-### NVIDIA-NeMo/Automodel
-- What it is: NVIDIA-NeMo/Automodel is a Python project for Data Scientist: 🚀 Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
+### bybit-exchange/kaas
+- What it is: bybit-exchange/kaas is a Python project for General User: Turn scattered notes, docs and transcripts into a queryable Markdown wiki — an LLM knowledge-base compiler with MCP access, no embeddings, self-hosted.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 52.10
-- Difficulty: Research-heavy
-- Recommended action: Track for research
-- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
-### eullm/eullm
-- What it is: eullm/eullm is a Rust project for Data Scientist: Open-source platform for creating, distributing and running sovereign EU-compliant LLMs. Verticalize any model for your domain, language and brand. AI Act ready.
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 82.51
-- Difficulty: Research-heavy
+- Score: 83.18
+- Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### flyteorg/flyte
-- What it is: flyteorg/flyte is a Go project for General User: Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
+### juspay/neurolink
+- What it is: juspay/neurolink is a TypeScript project for General User: One TypeScript interface for 24+ LLM providers — swap providers without rewriting. MCP-native (connect any MCP server), voice (TTS/STT/realtime), RAG, memory, file processors. Production-origin: powers Tara, Yama, and Clairvoyance at Juspay.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 55.03
+- Score: 87.81
 - Difficulty: Advanced
-- Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear
-### MauroDruwel/NIMStats
-- What it is: MauroDruwel/NIMStats is a JavaScript project for Data Scientist: 📊 Automated hourly benchmarks for 20+ NVIDIA NIM models — interactive dashboard, zero infra, self-hostable. Open-source & community-driven.
+- Recommended action: Try today
+- Risk: many open issues relative to stars
+### langfuse/langfuse
+- What it is: langfuse/langfuse is a TypeScript project for Data Scientist: 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 44.69
-- Difficulty: Research-heavy
-- Recommended action: Skip for now
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
+- Score: 55.83
+- Difficulty: Advanced
+- Recommended action: Track for research
+- Risk: no README evidence, installation unclear, usage examples unclear
+### Tencent/WeKnora
+- What it is: Tencent/WeKnora is a Go project for Data Scientist: Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 55.71
+- Difficulty: Unknown
+- Recommended action: Track for research
+- Risk: no README evidence, installation unclear, usage examples unclear
 
 ## Action List
-- Try today: rush86999/atom, Squirreljetpack/matchmaker, n8n-io/n8n
-- Watch this week: visivo-io/visivo, nrwl/nx, Kilo-Org/kilocode
-- Use as portfolio reference: akhayam99/goodboy, lissy93/dashy, smp46/pingvin-share-x
-- Skip for now: GeiserX/CashPilot, atomantic/PortOS, MauroDruwel/NIMStats
+- Try today: langgenius/dify, dagucloud/dagu, rmyndharis/OpenWA
+- Watch this week: OpenHands/OpenHands, esengine/DeepSeek-Reasonix, QwenLM/qwen-code
+- Use as portfolio reference: smixs/iva, YishenTu/claudian, go-gitea/gitea
+- Skip for now: MauroDruwel/NIMStats, jiazhenz026/SciStudio, m96-chan/ai_research_dashboard
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.
