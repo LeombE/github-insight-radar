@@ -1,6 +1,6 @@
 # GitHub Insight Daily Brief - 2026-08-09
 
-Generated at: `2026-08-08T16:51:42+00:00`
+Generated at: `2026-08-09T05:18:24+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -8,45 +8,38 @@ Image generation: `disabled`
 LLM summary: `disabled`
 
 ## Executive Summary
-- Top overall opportunity: [apache/airflow](https://github.com/apache/airflow) with score 95.22.
-- General user opportunity: [rush86999/atom](https://github.com/rush86999/atom)
+- Top overall opportunity: [langgenius/dify](https://github.com/langgenius/dify) with score 97.00.
+- General user opportunity: [langgenius/dify](https://github.com/langgenius/dify)
 - Data analyst opportunity: [MahbubNibir/power-bi-retail-analytics-viz](https://github.com/MahbubNibir/power-bi-retail-analytics-viz)
 - Data scientist opportunity: [lance-format/lance](https://github.com/lance-format/lance)
-- Most common risk pattern: usage examples unclear
+- Most common risk pattern: installation unclear
 
 ## Top Overall Projects
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
-| 1 | [apache/airflow](https://github.com/apache/airflow) | General User | 95.22 | It maps to General User needs with an evidence-based score of 95.22. | Try today |
-| 2 | [rush86999/atom](https://github.com/rush86999/atom) | General User | 94.11 | It maps to General User needs with an evidence-based score of 94.11. | Try today |
-| 3 | [theexperiencecompany/gaia](https://github.com/theexperiencecompany/gaia) | General User | 93.06 | It maps to General User needs with an evidence-based score of 93.06. | Try today |
-| 4 | [Peiiii/nextclaw](https://github.com/Peiiii/nextclaw) | General User | 93.02 | It maps to General User needs with an evidence-based score of 93.02. | Try today |
-| 5 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | General User | 91.82 | It maps to General User needs with an evidence-based score of 91.82. | Try today |
-| 6 | [drenlia/agila](https://github.com/drenlia/agila) | General User | 91.09 | It maps to General User needs with an evidence-based score of 91.09. | Try today |
-| 7 | [zhikunqingtao/zhikuncode](https://github.com/zhikunqingtao/zhikuncode) | General User | 90.69 | It maps to General User needs with an evidence-based score of 90.69. | Try today |
-| 8 | [hasanyilmaz/operon](https://github.com/hasanyilmaz/operon) | General User | 90.47 | It maps to General User needs with an evidence-based score of 90.47. | Try today |
-| 9 | [atomantic/PortOS](https://github.com/atomantic/PortOS) | General User | 90.47 | It maps to General User needs with an evidence-based score of 90.47. | Try today |
-| 10 | [rortan134/cache-app](https://github.com/rortan134/cache-app) | General User | 89.80 | It maps to General User needs with an evidence-based score of 89.80. | Try today |
+| 1 | [langgenius/dify](https://github.com/langgenius/dify) | General User | 97.00 | It maps to General User needs with an evidence-based score of 97.00. | Try today |
+| 2 | [Paca-AI/paca](https://github.com/Paca-AI/paca) | General User | 92.49 | It maps to General User needs with an evidence-based score of 92.49. | Try today |
+| 3 | [ShaftHQ/SHAFT_ENGINE](https://github.com/ShaftHQ/SHAFT_ENGINE) | General User | 91.26 | It maps to General User needs with an evidence-based score of 91.26. | Try today |
+| 4 | [drenlia/agila](https://github.com/drenlia/agila) | General User | 91.09 | It maps to General User needs with an evidence-based score of 91.09. | Try today |
+| 5 | [atomantic/PortOS](https://github.com/atomantic/PortOS) | General User | 90.47 | It maps to General User needs with an evidence-based score of 90.47. | Try today |
+| 6 | [The01Geek/prflow](https://github.com/The01Geek/prflow) | General User | 90.06 | It maps to General User needs with an evidence-based score of 90.06. | Try today |
+| 7 | [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) | General User | 89.44 | It maps to General User needs with an evidence-based score of 89.44. | Try today |
+| 8 | [lobu-ai/lobu](https://github.com/lobu-ai/lobu) | General User | 88.63 | It maps to General User needs with an evidence-based score of 88.63. | Try today |
+| 9 | [Dicklesworthstone/frankenterm](https://github.com/Dicklesworthstone/frankenterm) | General User | 87.75 | It maps to General User needs with an evidence-based score of 87.75. | Try today |
+| 10 | [willdady/platypus](https://github.com/willdady/platypus) | General User | 87.60 | It maps to General User needs with an evidence-based score of 87.60. | Try today |
 
 ## General User Finds
-### rush86999/atom
-- What it is: rush86999/atom is a Python project for General User: Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation
+### langgenius/dify
+- What it is: langgenius/dify is a TypeScript project for General User: Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 94.11
+- Score: 97.00
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### theexperiencecompany/gaia
-- What it is: theexperiencecompany/gaia is a Python project for General User: Your proactive personal AI assistant & companion for daily productivity 🌎
+### ShaftHQ/SHAFT_ENGINE
+- What it is: ShaftHQ/SHAFT_ENGINE is a Java project for General User: Java test automation framework for web, mobile, API, CLI, database, and desktop E2E testing with a fluent API and built-in reporting.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 93.06
-- Difficulty: Advanced
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### Peiiii/nextclaw
-- What it is: Peiiii/nextclaw is a TypeScript project for General User: An open-source, extensible, self-hosted agent workspace with multi-runtime support for Codex, Claude Code, and more, plus reusable local apps for custom interfaces and services.
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 93.02
+- Score: 91.26
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
@@ -57,10 +50,17 @@ LLM summary: `disabled`
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### hasanyilmaz/operon
-- What it is: hasanyilmaz/operon is a TypeScript project for General User: Task management system for humans and agents in Obsidian.
+### The01Geek/prflow
+- What it is: The01Geek/prflow is a Shell project for General User: Turn feature requests into review-ready pull requests: issue, implementation, tests, a review-and-fix loop, and docs. Runs locally or on GitHub Actions, and is built for complex brownfield repos. Each week its retrospective reads what you actually merged and proposes improvements to your skill extensions.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 90.47
+- Score: 90.06
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: many open issues relative to stars
+### lobu-ai/lobu
+- What it is: lobu-ai/lobu is a TypeScript project for General User: Open-source control plane and runtime for organisational agents: shared company context, isolated execution, approvals and MCP.
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 88.63
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
@@ -80,24 +80,24 @@ LLM summary: `disabled`
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### gbb014/IPL-Elite-Delivery-Forecast-Model
-- What it is: gbb014/IPL-Elite-Delivery-Forecast-Model is a HTML project for Data Analyst: Power BI IPL 2026 Complete Ball-by-Ball Dashboard with Python Data Cleaning
+### apache/superset
+- What it is: apache/superset is a Python project for Data Analyst: Apache Superset is a Data Visualization and Data Exploration Platform
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 51.92
+- Score: 62.21
+- Difficulty: Advanced
+- Recommended action: Study for learning
+- Risk: no README evidence, installation unclear, usage examples unclear
+### Lithiumgreentek/power-bi-design-vault
+- What it is: Lithiumgreentek/power-bi-design-vault is a HTML project for Data Analyst: Power BI Design Blueprints for 2026: Advanced Dashboards, Datasets & Visual Resources
+- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
+- Score: 47.25
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse
-- What it is: Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse is a HTML project for Data Analyst: Advanced MS SQL Server & Power BI Data Warehousing & Fleet Logistics Engine 2026
+### govinda25072003-ai/pbi-amazon-sales-dash
+- What it is: govinda25072003-ai/pbi-amazon-sales-dash is a HTML project for Data Analyst: Top 5 Amazon Sales Dashboard Trends & Insights for 2026
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 51.42
-- Difficulty: Unknown
-- Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
-### MUDAS100/Swiggy-Instamart-Metrics-Dashboard-Power-BI
-- What it is: MUDAS100/Swiggy-Instamart-Metrics-Dashboard-Power-BI is a HTML project for Data Analyst: Interactive Logistics & Delivery Analytics Dashboard for Quick Commerce 2026
-- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 49.75
+- Score: 47.25
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
@@ -110,6 +110,20 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear
+### frangelbarrera/Artificial-Intelligence-Universe
+- What it is: frangelbarrera/Artificial-Intelligence-Universe is a unavailable project for General User: Awesome AI directory 2026 — 800+ AI tools incl. Kimi K3, AI agents, LLMs, MCP servers, generative AI & dev resources. Updated.
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 83.96
+- Difficulty: Beginner
+- Recommended action: Try today
+- Risk: installation unclear, many open issues relative to stars
+### flyteorg/flyte
+- What it is: flyteorg/flyte is a Go project for General User: Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 55.03
+- Difficulty: Advanced
+- Recommended action: Watch this week
+- Risk: no README evidence, installation unclear, usage examples unclear
 ### MauroDruwel/NIMStats
 - What it is: MauroDruwel/NIMStats is a JavaScript project for Data Scientist: 📊 Automated hourly benchmarks for 20+ NVIDIA NIM models — interactive dashboard, zero infra, self-hostable. Open-source & community-driven.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
@@ -117,33 +131,19 @@ LLM summary: `disabled`
 - Difficulty: Research-heavy
 - Recommended action: Skip for now
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### shibing624/agentica
-- What it is: shibing624/agentica is a Python project for General User: Build AI agents that run for hours, not seconds. Async-first Python harness: auto context-compaction, cost budgets & death-spiral guards, persistent cross-session memory, self-evolving SKILL.md, /goal long-task loop, 40+ tools, 20+ models, MCP/ACP. Ships a CLI + Web Gateway out of the box.
+### SikamikanikoBG/homelab-monitor
+- What it is: SikamikanikoBG/homelab-monitor is a Python project for Data Analyst: Plug-and-play homelab dashboard in one container — GPU, local-AI VRAM, Docker, systemd, host health. Built-in read-only MCP server so AI agents can explore it too.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 58.98
-- Difficulty: Unknown
-- Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear
-### gradio-app/gradio
-- What it is: gradio-app/gradio is a Python project for Data Scientist: Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 54.77
-- Difficulty: Advanced
-- Recommended action: Track for research
-- Risk: no README evidence, installation unclear, usage examples unclear
-### supernovae-st/nika
-- What it is: supernovae-st/nika is a Rust project for General User: Intent as Code | the workflow language for AI. One file, 4 verbs, one Rust binary. Local-first, any model, AGPL-3.0. 🦋
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 89.15
-- Difficulty: Advanced
-- Recommended action: Try today
-- Risk: many open issues relative to stars
+- Score: 76.99
+- Difficulty: Beginner
+- Recommended action: Use as portfolio reference
+- Risk: usage examples unclear
 
 ## Action List
-- Try today: apache/airflow, rush86999/atom, theexperiencecompany/gaia
-- Watch this week: esengine/DeepSeek-Reasonix, QwenLM/qwen-code, shibing624/agentica
-- Use as portfolio reference: marceld23/BlocksBeyondTheStars, immich-app/immich, BeyteFlow/ReadmeGenAI
-- Skip for now: scikit-hep/awkward, MauroDruwel/NIMStats, StreamIntelligenceLab/Kolibrie
+- Try today: langgenius/dify, Paca-AI/paca, ShaftHQ/SHAFT_ENGINE
+- Watch this week: esengine/DeepSeek-Reasonix, QwenLM/qwen-code, immich-app/immich
+- Use as portfolio reference: Snap-Mind/snap-mind, HarmanPreet-Singh-XYT/Scolect-ScreenTimeApp, krelltunez/lifeGLANCE
+- Skip for now: MauroDruwel/NIMStats, jiazhenz026/SciStudio, arhamkhnz/next-shadcn-admin-dashboard-baseui
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.
