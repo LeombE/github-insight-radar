@@ -1,32 +1,39 @@
 # Data Scientist GitHub Insight - 2026-08-10
 
-Generated at: `2026-08-09T16:54:25+00:00`
+Generated at: `2026-08-10T05:43:54+00:00`
 Mode: `live`
 
 | Rank | Repo | Score | Action | Difficulty | Risk flags |
 | --- | --- | ---: | --- | --- | --- |
-| 1 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 62.00 | Track for research | Advanced | no README evidence, installation unclear, usage examples unclear |
-| 2 | [kanaa257/sosumi.ai](https://github.com/kanaa257/sosumi.ai) | 62.00 | Track for research | Research-heavy | no README evidence, installation unclear, usage examples unclear |
-| 3 | [MauroDruwel/NIMStats](https://github.com/MauroDruwel/NIMStats) | 62.00 | Skip for now | Research-heavy | no README evidence, installation unclear, usage examples unclear, no license |
-| 4 | [ibuilder/massing](https://github.com/ibuilder/massing) | 55.50 | Try today | Intermediate | None |
-| 5 | [john-broadway/proximo](https://github.com/john-broadway/proximo) | 55.50 | Try today | Intermediate | None |
-| 6 | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | 55.50 | Watch this week | Advanced | no README evidence, installation unclear, usage examples unclear |
-| 7 | [Hazrat-Ali9/Water_Potability_Check_ML](https://github.com/Hazrat-Ali9/Water_Potability_Check_ML) | 55.50 | Skip for now | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 8 | [kaderkck/hewn-forge](https://github.com/kaderkck/hewn-forge) | 49.50 | Use as portfolio reference | Intermediate | no license |
+| 1 | [lance-format/lance](https://github.com/lance-format/lance) | 75.00 | Track for research | Advanced | no README evidence, installation unclear, usage examples unclear |
+| 2 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 62.00 | Track for research | Unknown | no README evidence, installation unclear, usage examples unclear |
+| 3 | [kanaa257/sosumi.ai](https://github.com/kanaa257/sosumi.ai) | 62.00 | Track for research | Research-heavy | no README evidence, installation unclear, usage examples unclear |
+| 4 | [MauroDruwel/NIMStats](https://github.com/MauroDruwel/NIMStats) | 62.00 | Skip for now | Research-heavy | no README evidence, installation unclear, usage examples unclear, no license |
+| 5 | [ibuilder/massing](https://github.com/ibuilder/massing) | 55.50 | Try today | Intermediate | None |
+| 6 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | 55.50 | Study for learning | Unknown | no README evidence, installation unclear, usage examples unclear |
+| 7 | [langgenius/dify](https://github.com/langgenius/dify) | 49.50 | Try today | Advanced | None |
+| 8 | [daniel3303/Equibles](https://github.com/daniel3303/Equibles) | 49.50 | Try today | Intermediate | many open issues relative to stars |
 | 9 | [Niketkumardheeryan/ML-CaPsule](https://github.com/Niketkumardheeryan/ML-CaPsule) | 49.50 | Track for research | Advanced | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
 | 10 | [putervision/vision-memory-mcp](https://github.com/putervision/vision-memory-mcp) | 49.50 | Track for research | Unknown | no README evidence, installation unclear, usage examples unclear |
 | 11 | [m96-chan/ai_research_dashboard](https://github.com/m96-chan/ai_research_dashboard) | 49.50 | Skip for now | Research-heavy | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
-| 12 | [vishalGitthub/cli-llm-mesh](https://github.com/vishalGitthub/cli-llm-mesh) | 49.50 | Skip for now | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 13 | [spectrochempy/spectrochempy](https://github.com/spectrochempy/spectrochempy) | 43.00 | Track for research | Advanced | no README evidence, installation unclear, usage examples unclear |
-| 14 | [nickpoison/astsa](https://github.com/nickpoison/astsa) | 37.00 | Skip for now | Unknown | no README evidence, installation unclear, usage examples unclear |
+| 12 | [ai-on-browser/ai-on-browser.github.io](https://github.com/ai-on-browser/ai-on-browser.github.io) | 49.50 | Skip for now | Unknown | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
+| 13 | [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 31.00 | Track for research | Unknown | no README evidence, installation unclear, usage examples unclear |
 
 ## Project Notes
-### langfuse/langfuse
-- Summary: langfuse/langfuse is a TypeScript project for Data Scientist: 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
-- Why it matters: It maps to Data Scientist needs with an evidence-based score of 55.83.
+### lance-format/lance
+- Summary: lance-format/lance is a Rust project for Data Scientist: Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
+- Why it matters: It maps to Data Scientist needs with an evidence-based score of 57.99.
 - Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
-- Portfolio idea: Turn langfuse into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 32777; Forks: 3522; Language: TypeScript; License: NOASSERTION; README length: 0; Topics: analytics, autogen, evaluation, langchain, large-language-models, llama-index, llm, llm-evaluation, llm-observability, llmops, monitoring, observability, open-source, openai, playground, prompt-engineering, prompt-management, self-hosted, ycombinator
+- Portfolio idea: Turn lance into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 6923; Forks: 798; Language: Rust; License: Apache-2.0; README length: 0; Topics: apache-arrow, computer-vision, data-analysis, data-analytics, data-centric, data-format, data-science, dataops, deep-learning, duckdb, embeddings, llms, machine-learning, mlops, python, rust
+- Confidence: low
+
+### Tencent/WeKnora
+- Summary: Tencent/WeKnora is a Go project for Data Scientist: Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+- Why it matters: It maps to Data Scientist needs with an evidence-based score of 55.71.
+- Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
+- Portfolio idea: Turn WeKnora into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 19575; Forks: 2804; Language: Go; License: NOASSERTION; README length: 0; Topics: agent, agentic, ai, chatbot, embeddings, evaluation, generative-ai, golang, knowledge-base, llm, multi-tenant, multimodel, ollama, openai, question-answering, rag, reranking, semantic-search, vector-search, wiki
 - Confidence: low
 
 ### kanaa257/sosumi.ai
@@ -53,36 +60,28 @@ Mode: `live`
 - Evidence: Stars: 123; Forks: 57; Language: Python; License: MIT; README length: 29538; Topics: aec, appraisal, bcf, bim, bim-viewer, clash-detection, construction, construction-management, disposition, fastapi, ids, ifc, ifc-viewer, ifcopenshell, massing, openbim, proforma, real-estate, self-hosted, tauri
 - Confidence: high
 
-### john-broadway/proximo
-- Summary: john-broadway/proximo is a Python project for General User: The Proxmox MCP you can hand the keys: VE/PBS/PMG/PDM. Plan, prove, undo, diagnose. MCP/A2A/API.
-- Why it matters: It maps to General User needs with an evidence-based score of 83.82.
+### WenyuChiou/awesome-agentic-ai-zh
+- Summary: WenyuChiou/awesome-agentic-ai-zh is a Python project for General User: A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。
+- Why it matters: It maps to General User needs with an evidence-based score of 61.44.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn proximo into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 26; Forks: 3; Language: Python; License: Apache-2.0; README length: 25868; Topics: a2a, agents, ai-agents, api, devops, homelab, infrastructure, llm-tools, management, mcp, model-context-protocol, multi-cluster, pbs, proxmox, proxmox-backup-server, proxmox-datacenter-manager, proxmox-mail-gateway, proxmox-ve, pve, self-hosted
+- Portfolio idea: Turn awesome-agentic-ai-zh into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 5134; Forks: 697; Language: Python; License: MIT; README length: 0; Topics: agentic-ai, agentic-workflows, ai-agent, ai-agents, awesome-list, chinese-llm, claude-code, claude-skills, cli, learning-roadmap, llm, llm-agents, mcp, model-context-protocol, multi-agent-systems, prompt-engineering, rag, trilingual, tutorial
+- Confidence: low
+
+### langgenius/dify
+- Summary: langgenius/dify is a TypeScript project for General User: Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
+- Why it matters: It maps to General User needs with an evidence-based score of 97.00.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn dify into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 151906; Forks: 23977; Language: TypeScript; License: NOASSERTION; README length: 14477; Topics: agent, agentic-ai, agentic-framework, agentic-workflow, ai, automation, claude, genai, gpt, llm, low-code, mcp, nextjs, no-code, openai, orchestration, python, rag, skills, workflow
 - Confidence: high
 
-### bojieli/ai-agent-book
-- Summary: bojieli/ai-agent-book is a Python project for General User: 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
-- Why it matters: It maps to General User needs with an evidence-based score of 50.67.
+### daniel3303/Equibles
+- Summary: daniel3303/Equibles is a C# project for General User: Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trades, short interest, FRED, CFTC/CBOE and daily prices across 64 MCP tools. Equibles Cloud adds earnings call transcripts, live quotes, options chains with Greeks, guidance and a screener.
+- Why it matters: It maps to General User needs with an evidence-based score of 85.87.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn ai-agent-book into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 35157; Forks: 3811; Language: Python; License: Apache-2.0; README length: 0; Topics: agent, agent-memory, ai-agent, book, coding-agent, context-engineering, large-language-models, llm, mcp, multi-agent, multimodal, rag, reinforcement-learning
-- Confidence: low
-
-### Hazrat-Ali9/Water_Potability_Check_ML
-- Summary: Hazrat-Ali9/Water_Potability_Check_ML is a Python project for Data Scientist: 🤖 Water 🤡 Potability ⚽ Check ⚾ ML 🥎 is a 🏀 project 🏐 designed 🏈 to 🏉 predict 🎮 whether 🎳 water 🧶 is safe 🏘 drinking 🕌 using 🚞 key 🚅 physicochemical 🚃 properties 🚋 system 🏭 analyzes 🚒 water 🚁 quality ✈ parameters 🚀 classifies 🛸 water 🚢 potable 🚠 data 🛼 driven 🚝 decision 🪐 making ☂ public health and environmental monitoring
-- Why it matters: It maps to Data Scientist needs with an evidence-based score of 42.12.
-- Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
-- Portfolio idea: Turn Water_Potability_Check_ML into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 22; Forks: 0; Language: Python; License: unavailable; README length: 0; Topics: data-analysis, datset, kaggle, machine-learning, model, python
-- Confidence: low
-
-### kaderkck/hewn-forge
-- Summary: kaderkck/hewn-forge is a HTML project for General User: HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code
-- Why it matters: It maps to General User needs with an evidence-based score of 75.39.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn hewn-forge into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 151; Forks: 0; Language: HTML; License: unavailable; README length: 8722; Topics: agents, anthropic, anthropic-claude, benchmarking, claude, claude-code, claude-opus, claude-sonnet, cli, developer-tools, llm, productivity, prompt-compression, prompt-engineering, token-efficiency
+- Portfolio idea: Turn Equibles into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 195; Forks: 21; Language: C#; License: AGPL-3.0; README length: 25926; Topics: ai, ai-agents, artificial-intelligence, claude, earnings-calls, finance, financial-data, fintech, insider-trading, llm, market-data, mcp, mcp-server, model-context-protocol, options-trading, quantitative-finance, sec, sec-filings, self-hosted, stock-market
 - Confidence: high
 
 ### Niketkumardheeryan/ML-CaPsule
@@ -109,26 +108,18 @@ Mode: `live`
 - Evidence: Stars: 13; Forks: 1; Language: Astro; License: MIT; README length: 0; Topics: ai, arxiv, astro, dashboard, github-trending, huggingface, machine-learning, rss
 - Confidence: low
 
-### vishalGitthub/cli-llm-mesh
-- Summary: vishalGitthub/cli-llm-mesh is a HTML project for General User: Top 5 AI Models CLI Chat 2026 – Minimal & Fast
-- Why it matters: It maps to General User needs with an evidence-based score of 39.65.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn cli-llm-mesh into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 152; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: ai, ai-chat-free, ai-chatbot, chat, cli, cross-platform, docker, free-ai-api, free-ai-software, go, golang, grok, groq, groq-ai, groq-api, lightweight, openai-api-chatbot, openrouter-api, xai
+### ai-on-browser/ai-on-browser.github.io
+- Summary: ai-on-browser/ai-on-browser.github.io is a JavaScript project for Data Scientist: This project is an educational, pure JavaScript library designed to help developers and students understand the inner workings of ML algorithms without the magic of external libraries.
+- Why it matters: It maps to Data Scientist needs with an evidence-based score of 44.26.
+- Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
+- Portfolio idea: Turn ai-on-browser.github.io into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 18; Forks: 2; Language: JavaScript; License: MIT; README length: 0; Topics: ai, anomaly-detection, classification, clustering, data-analysis, demo, dimension-reduction, edge-detection, educational, feature-selection, generative-model, interpolation, javascript, machine-learning, pure-javascript, regression, reinforcement-learning, segmentation, semi-supervised-classification, timeseries-forecasting
 - Confidence: low
 
-### spectrochempy/spectrochempy
-- Summary: spectrochempy/spectrochempy is a Python project for Data Scientist: SpectroChemPy is a framework for processing, analyzing and modeling spectroscopic data for chemistry with Python
-- Why it matters: It maps to Data Scientist needs with an evidence-based score of 47.00.
+### 666ghj/BettaFish
+- Summary: 666ghj/BettaFish is a Python project for Data Scientist: 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+- Why it matters: It maps to Data Scientist needs with an evidence-based score of 48.39.
 - Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
-- Portfolio idea: Turn spectrochempy into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 180; Forks: 36; Language: Python; License: NOASSERTION; README length: 0; Topics: chemistry, data-analysis, datasets, ftir, ftir-data-analysis, infrared, nmr, nmr-data, nmr-spectroscopy, processing, python, raman, raman-spectra, raman-spectroscopy, spectroscopy, uv-vis
-- Confidence: low
-
-### nickpoison/astsa
-- Summary: nickpoison/astsa is a R project for Data Scientist: R package to accompany Time Series Analysis and Its Applications: With R Examples -and- Time Series: A Data Analysis Approach Using R
-- Why it matters: It maps to Data Scientist needs with an evidence-based score of 41.72.
-- Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
-- Portfolio idea: Turn astsa into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 138; Forks: 46; Language: R; License: GPL-3.0; README length: 0; Topics: astsa, data-analysis, data-science, dna-sequences, em-algorithm, kalman-filter, missing-data, package, r, state-space-models, time-series-analysis
+- Portfolio idea: Turn BettaFish into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 41990; Forks: 7632; Language: Python; License: GPL-2.0; README length: 0; Topics: agent-framework, data-analysis, deep-research, deep-search, llms, multi-agent-system, nlp, public-opinion-analysis, python3, sentiment-analysis
 - Confidence: low

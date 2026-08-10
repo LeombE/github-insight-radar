@@ -1,6 +1,6 @@
 # GitHub Insight Daily Brief - 2026-08-10
 
-Generated at: `2026-08-09T16:54:25+00:00`
+Generated at: `2026-08-10T05:43:54+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -8,27 +8,41 @@ Image generation: `disabled`
 LLM summary: `disabled`
 
 ## Executive Summary
-- Top overall opportunity: [tinyfish-io/agentql](https://github.com/tinyfish-io/agentql) with score 94.34.
-- General user opportunity: [rush86999/atom](https://github.com/rush86999/atom)
+- Top overall opportunity: [langgenius/dify](https://github.com/langgenius/dify) with score 97.00.
+- General user opportunity: [langgenius/dify](https://github.com/langgenius/dify)
 - Data analyst opportunity: [grafana/grafana](https://github.com/grafana/grafana)
-- Data scientist opportunity: [langfuse/langfuse](https://github.com/langfuse/langfuse)
+- Data scientist opportunity: [lance-format/lance](https://github.com/lance-format/lance)
 - Most common risk pattern: usage examples unclear
 
 ## Top Overall Projects
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
-| 1 | [tinyfish-io/agentql](https://github.com/tinyfish-io/agentql) | General User | 94.34 | It maps to General User needs with an evidence-based score of 94.34. | Try today |
-| 2 | [rush86999/atom](https://github.com/rush86999/atom) | General User | 94.11 | It maps to General User needs with an evidence-based score of 94.11. | Try today |
-| 3 | [Peiiii/nextclaw](https://github.com/Peiiii/nextclaw) | General User | 93.02 | It maps to General User needs with an evidence-based score of 93.02. | Try today |
-| 4 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | General User | 91.82 | It maps to General User needs with an evidence-based score of 91.82. | Try today |
-| 5 | [aannoo/hcom](https://github.com/aannoo/hcom) | General User | 91.32 | It maps to General User needs with an evidence-based score of 91.32. | Try today |
-| 6 | [ShaftHQ/SHAFT_ENGINE](https://github.com/ShaftHQ/SHAFT_ENGINE) | General User | 91.26 | It maps to General User needs with an evidence-based score of 91.26. | Try today |
-| 7 | [hasanyilmaz/operon](https://github.com/hasanyilmaz/operon) | General User | 90.47 | It maps to General User needs with an evidence-based score of 90.47. | Try today |
+| 1 | [langgenius/dify](https://github.com/langgenius/dify) | General User | 97.00 | It maps to General User needs with an evidence-based score of 97.00. | Try today |
+| 2 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | General User | 95.22 | It maps to General User needs with an evidence-based score of 95.22. | Try today |
+| 3 | [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) | General User | 95.06 | It maps to General User needs with an evidence-based score of 95.06. | Try today |
+| 4 | [rush86999/atom](https://github.com/rush86999/atom) | General User | 94.11 | It maps to General User needs with an evidence-based score of 94.11. | Try today |
+| 5 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | General User | 91.82 | It maps to General User needs with an evidence-based score of 91.82. | Try today |
+| 6 | [cerb/cerb-release](https://github.com/cerb/cerb-release) | General User | 91.63 | It maps to General User needs with an evidence-based score of 91.63. | Try today |
+| 7 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
 | 8 | [rortan134/cache-app](https://github.com/rortan134/cache-app) | General User | 89.80 | It maps to General User needs with an evidence-based score of 89.80. | Try today |
-| 9 | [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | General User | 88.98 | It maps to General User needs with an evidence-based score of 88.98. | Try today |
-| 10 | [will-be-done/will-be-done](https://github.com/will-be-done/will-be-done) | General User | 88.89 | It maps to General User needs with an evidence-based score of 88.89. | Try today |
+| 9 | [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) | General User | 89.45 | It maps to General User needs with an evidence-based score of 89.45. | Try today |
+| 10 | [talayash/claude-terminal](https://github.com/talayash/claude-terminal) | General User | 89.05 | It maps to General User needs with an evidence-based score of 89.05. | Try today |
 
 ## General User Finds
+### langgenius/dify
+- What it is: langgenius/dify is a TypeScript project for General User: Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 97.00
+- Difficulty: Advanced
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### spacedriveapp/spacebot
+- What it is: spacedriveapp/spacebot is a Rust project for General User: An AI agent for teams, communities, and multi-user environments.
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 95.06
+- Difficulty: Advanced
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
 ### rush86999/atom
 - What it is: rush86999/atom is a Python project for General User: Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation
 - Angle: Potential practical tool or workflow improvement for general users.
@@ -36,38 +50,31 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### Peiiii/nextclaw
-- What it is: Peiiii/nextclaw is a TypeScript project for General User: An open-source, extensible, self-hosted agent workspace with multi-runtime support for Codex, Claude Code, and more, plus reusable local apps for custom interfaces and services.
+### cerb/cerb-release
+- What it is: cerb/cerb-release is a PHP project for General User: Cerb automates helpdesk inboxes and workflows. Create high volume shared inboxes. Integrate with any API-based service and automate nearly any repetitive digital workflow using the specialized KATA language and browser-based coding tools. Development repo: https://github.com/jstanden/cerb/
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 93.02
-- Difficulty: Advanced
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### aannoo/hcom
-- What it is: aannoo/hcom is a Rust project for General User: Let AI agents message, watch, and spawn each other across terminals. Claude Code, Codex, Antigravity CLI, Cursor CLI, OpenCode, Kilo, Pi, Kimi
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 91.32
-- Difficulty: Advanced
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### ShaftHQ/SHAFT_ENGINE
-- What it is: ShaftHQ/SHAFT_ENGINE is a Java project for General User: Java test automation framework for web, mobile, API, CLI, database, and desktop E2E testing with a fluent API and built-in reporting.
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 91.26
-- Difficulty: Advanced
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### hasanyilmaz/operon
-- What it is: hasanyilmaz/operon is a TypeScript project for General User: Task management system for humans and agents in Obsidian.
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 90.47
+- Score: 91.63
 - Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### n8n-io/n8n
+- What it is: n8n-io/n8n is a TypeScript project for General User: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 90.30
+- Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
 
 ## Data Analyst Opportunities
 ### grafana/grafana
 - What it is: grafana/grafana is a TypeScript project for Data Analyst: The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
+- Score: 65.95
+- Difficulty: Advanced
+- Recommended action: Study for learning
+- Risk: no README evidence, installation unclear, usage examples unclear
+### metabase/metabase
+- What it is: metabase/metabase is a Clojure project for Data Analyst: The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
 - Score: 65.95
 - Difficulty: Advanced
@@ -80,34 +87,34 @@ LLM summary: `disabled`
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### Diyorbek01660/aemr-energy-market-outage-analysis
-- What it is: Diyorbek01660/aemr-energy-market-outage-analysis is a unavailable project for Data Analyst: ⚡ Analyze AEMR outage data to identify high-risk energy generators and improve reliability monitoring across the U.S. energy market.
+### Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse
+- What it is: Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse is a HTML project for Data Analyst: Advanced MS SQL Server & Power BI Data Warehousing & Fleet Logistics Engine 2026
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 48.10
+- Score: 51.42
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### Lithiumgreentek/power-bi-design-vault
-- What it is: Lithiumgreentek/power-bi-design-vault is a HTML project for Data Analyst: Power BI Design Blueprints for 2026: Advanced Dashboards, Datasets & Visual Resources
+### apache/superset
+- What it is: apache/superset is a Python project for Data Analyst: Apache Superset is a Data Visualization and Data Exploration Platform
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 47.25
-- Difficulty: Unknown
-- Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
-### govinda25072003-ai/pbi-amazon-sales-dash
-- What it is: govinda25072003-ai/pbi-amazon-sales-dash is a HTML project for Data Analyst: Top 5 Amazon Sales Dashboard Trends & Insights for 2026
-- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 47.25
-- Difficulty: Unknown
-- Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
+- Score: 62.21
+- Difficulty: Advanced
+- Recommended action: Study for learning
+- Risk: no README evidence, installation unclear, usage examples unclear
 
 ## Data Scientist Research Radar
-### langfuse/langfuse
-- What it is: langfuse/langfuse is a TypeScript project for Data Scientist: 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+### lance-format/lance
+- What it is: lance-format/lance is a Rust project for Data Scientist: Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 55.83
+- Score: 57.99
 - Difficulty: Advanced
+- Recommended action: Track for research
+- Risk: no README evidence, installation unclear, usage examples unclear
+### Tencent/WeKnora
+- What it is: Tencent/WeKnora is a Go project for Data Scientist: Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 55.71
+- Difficulty: Unknown
 - Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear
 ### kanaa257/sosumi.ai
@@ -131,19 +138,12 @@ LLM summary: `disabled`
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### john-broadway/proximo
-- What it is: john-broadway/proximo is a Python project for General User: The Proxmox MCP you can hand the keys: VE/PBS/PMG/PDM. Plan, prove, undo, diagnose. MCP/A2A/API.
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 83.82
-- Difficulty: Intermediate
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
 
 ## Action List
-- Try today: tinyfish-io/agentql, rush86999/atom, Peiiii/nextclaw
-- Watch this week: brinkdaimyogenerator/process-lasso-workbench-2026, esengine/DeepSeek-Reasonix, tinyfish-io/tinyfish-cookbook
-- Use as portfolio reference: krelltunez/lifeGLANCE, nuxencs/seasonpackarr, ipitio/backage
-- Skip for now: MauroDruwel/NIMStats, m96-chan/ai_research_dashboard, mescon/Muximux
+- Try today: langgenius/dify, affaan-m/ECC, spacedriveapp/spacebot
+- Watch this week: jeecgboot/jimureport, brinkdaimyogenerator/process-lasso-workbench-2026, esengine/DeepSeek-Reasonix
+- Use as portfolio reference: papadopouloskyriakos/agentic-chatops, urzeye/ophel, HarmanPreet-Singh-XYT/Scolect-ScreenTimeApp
+- Skip for now: MauroDruwel/NIMStats, m96-chan/ai_research_dashboard, ai-on-browser/ai-on-browser.github.io
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.
