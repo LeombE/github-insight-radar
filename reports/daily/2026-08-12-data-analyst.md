@@ -1,6 +1,6 @@
 # Data Analyst GitHub Insight - 2026-08-12
 
-Generated at: `2026-08-11T17:12:35+00:00`
+Generated at: `2026-08-12T05:45:54+00:00`
 Mode: `live`
 
 | Rank | Repo | Score | Action | Difficulty | Risk flags |
@@ -8,18 +8,18 @@ Mode: `live`
 | 1 | [grafana/grafana](https://github.com/grafana/grafana) | 100.00 | Study for learning | Advanced | no README evidence, installation unclear, usage examples unclear |
 | 2 | [metabase/metabase](https://github.com/metabase/metabase) | 100.00 | Study for learning | Advanced | no README evidence, installation unclear, usage examples unclear |
 | 3 | [valdeteselimi/DashPro-Monitor-IndustrialBI](https://github.com/valdeteselimi/DashPro-Monitor-IndustrialBI) | 100.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 4 | [gbb014/IPL-Elite-Delivery-Forecast-Model](https://github.com/gbb014/IPL-Elite-Delivery-Forecast-Model) | 100.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 5 | [MUDAS100/Swiggy-Instamart-Metrics-Dashboard-Power-BI](https://github.com/MUDAS100/Swiggy-Instamart-Metrics-Dashboard-Power-BI) | 93.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 6 | [apache/superset](https://github.com/apache/superset) | 86.50 | Study for learning | Advanced | no README evidence, installation unclear, usage examples unclear |
-| 7 | [rilldata/rill](https://github.com/rilldata/rill) | 80.50 | Watch this week | Advanced | no README evidence, installation unclear, usage examples unclear |
-| 8 | [lightdash/lightdash](https://github.com/lightdash/lightdash) | 80.50 | Watch this week | Advanced | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
-| 9 | [Lithiumgreentek/power-bi-design-vault](https://github.com/Lithiumgreentek/power-bi-design-vault) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 10 | [govinda25072003-ai/pbi-amazon-sales-dash](https://github.com/govinda25072003-ai/pbi-amazon-sales-dash) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 11 | [goodmorningbeautyful-lab/PhonePe-Pulse-Analyzer](https://github.com/goodmorningbeautyful-lab/PhonePe-Pulse-Analyzer) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 12 | [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) | 68.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear |
-| 13 | [getnao/nao](https://github.com/getnao/nao) | 68.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear |
-| 14 | [sandro2211/powerbi-ml-insight-engine](https://github.com/sandro2211/powerbi-ml-insight-engine) | 68.00 | Skip for now | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 15 | [regix1/lancache-manager](https://github.com/regix1/lancache-manager) | 67.50 | Try today | Intermediate | many open issues relative to stars |
+| 4 | [apache/superset](https://github.com/apache/superset) | 86.50 | Study for learning | Advanced | no README evidence, installation unclear, usage examples unclear |
+| 5 | [Lithiumgreentek/power-bi-design-vault](https://github.com/Lithiumgreentek/power-bi-design-vault) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 6 | [govinda25072003-ai/pbi-amazon-sales-dash](https://github.com/govinda25072003-ai/pbi-amazon-sales-dash) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 7 | [goodmorningbeautyful-lab/PhonePe-Pulse-Analyzer](https://github.com/goodmorningbeautyful-lab/PhonePe-Pulse-Analyzer) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 8 | [airbytehq/airbyte](https://github.com/airbytehq/airbyte) | 73.50 | Try today | Advanced | None |
+| 9 | [dataease/dataease](https://github.com/dataease/dataease) | 68.00 | Watch this week | Advanced | no README evidence, installation unclear, usage examples unclear |
+| 10 | [sandro2211/powerbi-ml-insight-engine](https://github.com/sandro2211/powerbi-ml-insight-engine) | 68.00 | Skip for now | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 11 | [trilogy-data/pytrilogy](https://github.com/trilogy-data/pytrilogy) | 61.50 | Watch this week | Advanced | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
+| 12 | [cliftonc/drizzle-cube](https://github.com/cliftonc/drizzle-cube) | 55.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
+| 13 | [regix1/lancache-manager](https://github.com/regix1/lancache-manager) | 55.50 | Skip for now | Unknown | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
+| 14 | [graphene-data/graphene](https://github.com/graphene-data/graphene) | 55.50 | Skip for now | Unknown | no README evidence, installation unclear, usage examples unclear, no license, many open issues relative to stars |
+| 15 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 49.00 | Watch this week | Advanced | no README evidence, installation unclear, usage examples unclear |
 
 ## Project Notes
 ### grafana/grafana
@@ -27,7 +27,7 @@ Mode: `live`
 - Why it matters: It maps to Data Analyst needs with an evidence-based score of 65.95.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
 - Portfolio idea: Turn grafana into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 76222; Forks: 14550; Language: TypeScript; License: AGPL-3.0; README length: 0; Topics: alerting, analytics, business-intelligence, dashboard, data-visualization, elasticsearch, go, grafana, hacktoberfest, influxdb, metrics, monitoring, mysql, postgres, prometheus
+- Evidence: Stars: 76250; Forks: 14553; Language: TypeScript; License: AGPL-3.0; README length: 0; Topics: alerting, analytics, business-intelligence, dashboard, data-visualization, elasticsearch, go, grafana, hacktoberfest, influxdb, metrics, monitoring, mysql, postgres, prometheus
 - Confidence: low
 
 ### metabase/metabase
@@ -35,7 +35,7 @@ Mode: `live`
 - Why it matters: It maps to Data Analyst needs with an evidence-based score of 65.95.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
 - Portfolio idea: Turn metabase into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 48664; Forks: 6733; Language: Clojure; License: NOASSERTION; README length: 0; Topics: analytics, bi, business-intelligence, businessintelligence, clojure, dashboard, data, data-analysis, data-visualization, database, metabase, mysql, postgres, postgresql, reporting, slack, sql-editor, visualization
+- Evidence: Stars: 48680; Forks: 6734; Language: Clojure; License: NOASSERTION; README length: 0; Topics: analytics, bi, business-intelligence, businessintelligence, clojure, dashboard, data, data-analysis, data-visualization, database, metabase, mysql, postgres, postgresql, reporting, slack, sql-editor, visualization
 - Confidence: low
 
 ### valdeteselimi/DashPro-Monitor-IndustrialBI
@@ -46,44 +46,12 @@ Mode: `live`
 - Evidence: Stars: 151; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: business-intelligence, dados, dashboard, data-analysis, data-analytics, data-visualization, datavisualization, dax, excel, kpi, kpis, portfolio, portfolio-fiama, power-bi, powerbi, powerbi-dashboards, producao, qualidade
 - Confidence: low
 
-### gbb014/IPL-Elite-Delivery-Forecast-Model
-- Summary: gbb014/IPL-Elite-Delivery-Forecast-Model is a HTML project for Data Analyst: Power BI IPL 2026 Complete Ball-by-Ball Dashboard with Python Data Cleaning
-- Why it matters: It maps to Data Analyst needs with an evidence-based score of 51.92.
-- Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
-- Portfolio idea: Turn IPL-Elite-Delivery-Forecast-Model into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 151; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: business-intelligence, data-analytics, data-cleaning, data-visualization, ipl-analysis, powerbi-dashboards, python-pandas, sql-analytics
-- Confidence: low
-
-### MUDAS100/Swiggy-Instamart-Metrics-Dashboard-Power-BI
-- Summary: MUDAS100/Swiggy-Instamart-Metrics-Dashboard-Power-BI is a HTML project for Data Analyst: Interactive Logistics & Delivery Analytics Dashboard for Quick Commerce 2026
-- Why it matters: It maps to Data Analyst needs with an evidence-based score of 49.76.
-- Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
-- Portfolio idea: Turn Swiggy-Instamart-Metrics-Dashboard-Power-BI into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 154; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: business-intelligence, powerbi, powerbi-dashboards, powerbi-report, powerbi-reports, powerbi-visuals, powerbidashboard, sales-analysis, sales-analytics, sales-dashboard, swiggy, swiggy-app, swiggy-data-analysis, swiggy-food-app, swiggy-food-delivery, swiggy-instamart
-- Confidence: low
-
 ### apache/superset
 - Summary: apache/superset is a Python project for Data Analyst: Apache Superset is a Data Visualization and Data Exploration Platform
 - Why it matters: It maps to Data Analyst needs with an evidence-based score of 62.21.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
 - Portfolio idea: Turn superset into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 74219; Forks: 18091; Language: Python; License: Apache-2.0; README length: 0; Topics: analytics, apache, apache-superset, asf, bi, business-analytics, business-intelligence, data-analysis, data-analytics, data-engineering, data-science, data-visualization, data-viz, flask, python, react, sql-editor, superset
-- Confidence: low
-
-### rilldata/rill
-- Summary: rilldata/rill is a Go project for Data Analyst: The fastest business intelligence tool for humans and agents.
-- Why it matters: It maps to Data Analyst needs with an evidence-based score of 58.99.
-- Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
-- Portfolio idea: Turn rill into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 2802; Forks: 191; Language: Go; License: Apache-2.0; README length: 0; Topics: ai, ai-chatbot, bi, business-analytics, csv, data, data-analysis, data-visualization, dataviz, duckdb, gen-ai, golang, parquet, parquet-tools, parquet-viewer, s3, sql, sql-editor, sveltekit
-- Confidence: low
-
-### lightdash/lightdash
-- Summary: lightdash/lightdash is a TypeScript project for Data Analyst: Agentic BI. Analytics at the speed of code ⚡️
-- Why it matters: It maps to Data Analyst needs with an evidence-based score of 57.44.
-- Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
-- Portfolio idea: Turn lightdash into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 6027; Forks: 760; Language: TypeScript; License: NOASSERTION; README length: 0; Topics: business-intelligence, data-analytics, data-visualization, dbt
+- Evidence: Stars: 74230; Forks: 18094; Language: Python; License: Apache-2.0; README length: 0; Topics: analytics, apache, apache-superset, asf, bi, business-analytics, business-intelligence, data-analysis, data-analytics, data-engineering, data-science, data-visualization, data-viz, flask, python, react, sql-editor, superset
 - Confidence: low
 
 ### Lithiumgreentek/power-bi-design-vault
@@ -110,20 +78,20 @@ Mode: `live`
 - Evidence: Stars: 151; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: busniess-intelligence, dashboard, data-visualization, dax, phonepe, power-bi, power-query, powerbi-dashboards
 - Confidence: low
 
-### hyperdxio/hyperdx
-- Summary: hyperdxio/hyperdx is a TypeScript project for Data Analyst: Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
-- Why it matters: It maps to Data Analyst needs with an evidence-based score of 57.13.
-- Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
-- Portfolio idea: Turn hyperdx into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 9818; Forks: 452; Language: TypeScript; License: MIT; README length: 0; Topics: alerting, analytics, apm, application-monitoring, clickhouse, dashboard, frontend-monitoring, kubernetes, log-management, logs, metrics, monitoring, observability, opentelemetry, react, self-hosted, session-replay, traces, typescript
-- Confidence: low
+### airbytehq/airbyte
+- Summary: airbytehq/airbyte is a Python project for General User: Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
+- Why it matters: It maps to General User needs with an evidence-based score of 85.86.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn airbyte into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 21873; Forks: 5304; Language: Python; License: NOASSERTION; README length: 8659; Topics: bigquery, change-data-capture, data, data-analysis, data-collection, data-engineering, data-integration, data-pipeline, elt, etl, java, mssql, mysql, pipeline, postgresql, python, redshift, s3, self-hosted, snowflake
+- Confidence: high
 
-### getnao/nao
-- Summary: getnao/nao is a TypeScript project for Data Analyst: 👾 nao is an open source analytics agent. (1) Create context with nao-core cli, (2) deploy nao chat interface for everyone
-- Why it matters: It maps to Data Analyst needs with an evidence-based score of 54.95.
+### dataease/dataease
+- Summary: dataease/dataease is a Java project for Data Analyst: 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.
+- Why it matters: It maps to Data Analyst needs with an evidence-based score of 57.76.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
-- Portfolio idea: Turn nao into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 1548; Forks: 233; Language: TypeScript; License: NOASSERTION; README length: 0; Topics: agentic-analytics, analytics, analytics-engineering, bigquery, business-intelligence, chat-with-your-data, context-engineering, data, data-analysis, data-analyst, data-engineering, databricks, postgresql, self-hosted, slack-bot, slackbot, snowflake, sql, text-to-sql
+- Portfolio idea: Turn dataease into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 24321; Forks: 4242; Language: Java; License: GPL-3.0; README length: 0; Topics: apache-doris, business-intelligence, data-analysis, data-visualization, echarts, kettle, superset, tableau
 - Confidence: low
 
 ### sandro2211/powerbi-ml-insight-engine
@@ -134,10 +102,42 @@ Mode: `live`
 - Evidence: Stars: 151; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: data-analysis, dax, github-actions, powerbi-dashboards, python
 - Confidence: low
 
+### trilogy-data/pytrilogy
+- Summary: trilogy-data/pytrilogy is a Python project for Data Analyst: Can we improve the best language for data analytics? Strongly typed, composable, cross-engine SQL. More declarative and expressive, safer, and simpler for humans and agents.
+- Why it matters: It maps to Data Analyst needs with an evidence-based score of 48.72.
+- Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
+- Portfolio idea: Turn pytrilogy into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 61; Forks: 3; Language: Python; License: MIT; README length: 0; Topics: data, data-analysis, data-visualization, sql
+- Confidence: low
+
+### cliftonc/drizzle-cube
+- Summary: cliftonc/drizzle-cube is a TypeScript project for Data Analyst: An embeddable multi-dimensional semantic layer and self-service analytics module (built on Drizzle) - broadly compliant with cube-js concepts and semantic definitions.
+- Why it matters: It maps to Data Analyst needs with an evidence-based score of 46.73.
+- Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
+- Portfolio idea: Turn drizzle-cube into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 58; Forks: 16; Language: TypeScript; License: MIT; README length: 0; Topics: business-intelligence, drizzle-orm, embedded, mit-license, react, reporting, tailwindcss
+- Confidence: low
+
 ### regix1/lancache-manager
 - Summary: regix1/lancache-manager is a C# project for Data Analyst: LANCache Manager - Self-hosted web dashboard for monitoring Lancache data, Real-time download tracking, bandwidth analytics, cache management, and client monitoring. Docker deployment with Prometheus metrics and Grafana integration.
-- Why it matters: It maps to Data Analyst needs with an evidence-based score of 80.46.
+- Why it matters: It maps to Data Analyst needs with an evidence-based score of 43.13.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
 - Portfolio idea: Turn lancache-manager into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 33; Forks: 6; Language: C#; License: AGPL-3.0; README length: 5526; Topics: cache-server, dashboard, data, docker, game-cache, grafana, lancache, lancache-interface, lancache-manager, lancache-ui, lancachenet, lancacheui, prefill, prometheus, react, rust, self-hosted, steam-prefill, ui, web-interface
-- Confidence: high
+- Evidence: Stars: 33; Forks: 6; Language: C#; License: AGPL-3.0; README length: 0; Topics: cache-server, dashboard, data, docker, game-cache, grafana, lancache, lancache-interface, lancache-manager, lancache-ui, lancachenet, lancacheui, prefill, prometheus, react, rust, self-hosted, steam-prefill, ui, web-interface
+- Confidence: low
+
+### graphene-data/graphene
+- Summary: graphene-data/graphene is a TypeScript project for Data Analyst: Turn your coding agent into a world-class data analyst
+- Why it matters: It maps to Data Analyst needs with an evidence-based score of 41.65.
+- Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
+- Portfolio idea: Turn graphene into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 53; Forks: 6; Language: TypeScript; License: unavailable; README length: 0; Topics: analytics, dashboards, data-analysis, data-analytics, data-visualization, semantic-modeling
+- Confidence: low
+
+### K-Dense-AI/scientific-agent-skills
+- Summary: K-Dense-AI/scientific-agent-skills is a Python project for Data Analyst: Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 158 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+- Why it matters: It maps to Data Analyst needs with an evidence-based score of 53.21.
+- Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
+- Portfolio idea: Turn scientific-agent-skills into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 33261; Forks: 3264; Language: Python; License: MIT; README length: 0; Topics: agent-skills, ai-scientist, bioinformatics, chemoinformatics, claude, claude-skills, claudecode, clinical-research, computational-biology, data-analysis, drug-discovery, genomics, materials-science, metabolomics, proteomics, scientific-computing, scientific-visualization
+- Confidence: low
