@@ -1,6 +1,6 @@
 # GitHub Insight Daily Brief - 2026-08-13
 
-Generated at: `2026-08-12T17:12:42+00:00`
+Generated at: `2026-08-13T05:48:55+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -10,7 +10,7 @@ LLM summary: `disabled`
 ## Executive Summary
 - Top overall opportunity: [langgenius/dify](https://github.com/langgenius/dify) with score 97.00.
 - General user opportunity: [langgenius/dify](https://github.com/langgenius/dify)
-- Data analyst opportunity: [grafana/grafana](https://github.com/grafana/grafana)
+- Data analyst opportunity: [metabase/metabase](https://github.com/metabase/metabase)
 - Data scientist opportunity: [lance-format/lance](https://github.com/lance-format/lance)
 - Most common risk pattern: usage examples unclear
 
@@ -18,15 +18,15 @@ LLM summary: `disabled`
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
 | 1 | [langgenius/dify](https://github.com/langgenius/dify) | General User | 97.00 | It maps to General User needs with an evidence-based score of 97.00. | Try today |
-| 2 | [apache/airflow](https://github.com/apache/airflow) | General User | 95.22 | It maps to General User needs with an evidence-based score of 95.22. | Try today |
-| 3 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | General User | 94.82 | It maps to General User needs with an evidence-based score of 94.82. | Try today |
-| 4 | [tianma-if/edgeever](https://github.com/tianma-if/edgeever) | General User | 94.62 | It maps to General User needs with an evidence-based score of 94.62. | Try today |
-| 5 | [autobrr/autobrr](https://github.com/autobrr/autobrr) | General User | 94.07 | It maps to General User needs with an evidence-based score of 94.07. | Try today |
-| 6 | [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) | General User | 93.31 | It maps to General User needs with an evidence-based score of 93.31. | Try today |
-| 7 | [simstudioai/sim](https://github.com/simstudioai/sim) | General User | 90.52 | It maps to General User needs with an evidence-based score of 90.52. | Try today |
-| 8 | [hasanyilmaz/operon](https://github.com/hasanyilmaz/operon) | General User | 90.47 | It maps to General User needs with an evidence-based score of 90.47. | Try today |
-| 9 | [polterguy/magic](https://github.com/polterguy/magic) | General User | 90.24 | It maps to General User needs with an evidence-based score of 90.24. | Try today |
-| 10 | [automagik-dev/genie](https://github.com/automagik-dev/genie) | General User | 89.88 | It maps to General User needs with an evidence-based score of 89.88. | Try today |
+| 2 | [heymrun/heym](https://github.com/heymrun/heym) | General User | 94.21 | It maps to General User needs with an evidence-based score of 94.21. | Try today |
+| 3 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | General User | 93.52 | It maps to General User needs with an evidence-based score of 93.52. | Try today |
+| 4 | [majiayu000/spellbook](https://github.com/majiayu000/spellbook) | General User | 93.06 | It maps to General User needs with an evidence-based score of 93.06. | Try today |
+| 5 | [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) | General User | 91.70 | It maps to General User needs with an evidence-based score of 91.70. | Try today |
+| 6 | [drenlia-inc/agila](https://github.com/drenlia-inc/agila) | General User | 91.09 | It maps to General User needs with an evidence-based score of 91.09. | Try today |
+| 7 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
+| 8 | [atomantic/PortOS](https://github.com/atomantic/PortOS) | General User | 88.25 | It maps to General User needs with an evidence-based score of 88.25. | Try today |
+| 9 | [karanhudia/borg-ui](https://github.com/karanhudia/borg-ui) | General User | 88.00 | It maps to General User needs with an evidence-based score of 88.00. | Try today |
+| 10 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | Data Scientist | 87.88 | It maps to Data Scientist needs with an evidence-based score of 87.88. | Try today |
 
 ## General User Finds
 ### langgenius/dify
@@ -36,43 +36,36 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### autobrr/autobrr
-- What it is: autobrr/autobrr is a Go project for General User: Modern, easy to use download automation for torrents and usenet.
+### heymrun/heym
+- What it is: heymrun/heym is a Python project for General User: Build agentic systems. Run them with confidence. Orchestrate agents, automate business processes, inspect every execution, and keep humans in control. Deploy Heym on your own infrastructure.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 94.07
+- Score: 94.21
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### hasanyilmaz/operon
-- What it is: hasanyilmaz/operon is a TypeScript project for General User: Task management system for humans and agents in Obsidian.
+### majiayu000/spellbook
+- What it is: majiayu000/spellbook is a Python project for General User: Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 90.47
+- Score: 93.06
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### automagik-dev/genie
-- What it is: automagik-dev/genie is a TypeScript project for General User: Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.
+### netease-youdao/LobsterAI
+- What it is: netease-youdao/LobsterAI is a TypeScript project for General User: Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 89.88
+- Score: 91.70
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### leopu00/job-hunter-team
-- What it is: leopu00/job-hunter-team is a TypeScript project for General User: A team of AI agents that runs your job search — self-hosted, on your own LLM subscription. MIT.
+### drenlia-inc/agila
+- What it is: drenlia-inc/agila is a TypeScript project for General User: Simple and easy Kanban web application built with React TS PostgreSQL
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 89.15
-- Difficulty: Advanced
+- Score: 91.09
+- Difficulty: Intermediate
 - Recommended action: Try today
-- Risk: many open issues relative to stars
+- Risk: No major risk flag from collected evidence.
 
 ## Data Analyst Opportunities
-### grafana/grafana
-- What it is: grafana/grafana is a TypeScript project for Data Analyst: The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 65.95
-- Difficulty: Advanced
-- Recommended action: Study for learning
-- Risk: no README evidence, installation unclear, usage examples unclear
 ### metabase/metabase
 - What it is: metabase/metabase is a Clojure project for Data Analyst: The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
@@ -80,6 +73,13 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Study for learning
 - Risk: no README evidence, installation unclear, usage examples unclear
+### MahbubNibir/power-bi-retail-analytics-viz
+- What it is: MahbubNibir/power-bi-retail-analytics-viz is a HTML project for Data Analyst: Top Power BI Sales Dashboard 2026 for Profit & Regional Analysis
+- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
+- Score: 51.94
+- Difficulty: Unknown
+- Recommended action: Watch this week
+- Risk: no README evidence, installation unclear, usage examples unclear, no license
 ### valdeteselimi/DashPro-Monitor-IndustrialBI
 - What it is: valdeteselimi/DashPro-Monitor-IndustrialBI is a HTML project for Data Analyst: Power BI 2026: Smart Industrial Production Dashboard with DAX & Data Cleaning
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
@@ -87,63 +87,63 @@ LLM summary: `disabled`
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### visivo-io/visivo
-- What it is: visivo-io/visivo is a JavaScript project for Data Analyst: ✨ Build dashboards with end-to-end version control. 🔋 CLI w/ batteries included, no infra required. Develop on your laptop for instant results, deploy changes safely (with automated checks), and keep every report trustworthy for stakeholders, analysts and agents 🤖
+### gbb014/IPL-Elite-Delivery-Forecast-Model
+- What it is: gbb014/IPL-Elite-Delivery-Forecast-Model is a HTML project for Data Analyst: Power BI IPL 2026 Complete Ball-by-Ball Dashboard with Python Data Cleaning
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 59.98
+- Score: 51.92
 - Difficulty: Unknown
 - Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear
-### apache/superset
-- What it is: apache/superset is a Python project for Data Analyst: Apache Superset is a Data Visualization and Data Exploration Platform
+- Risk: no README evidence, installation unclear, usage examples unclear, no license
+### Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse
+- What it is: Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse is a HTML project for Data Analyst: Advanced MS SQL Server & Power BI Data Warehousing & Fleet Logistics Engine 2026
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 62.21
-- Difficulty: Advanced
-- Recommended action: Study for learning
-- Risk: no README evidence, installation unclear, usage examples unclear
+- Score: 51.42
+- Difficulty: Unknown
+- Recommended action: Watch this week
+- Risk: no README evidence, installation unclear, usage examples unclear, no license
 
 ## Data Scientist Research Radar
 ### lance-format/lance
 - What it is: lance-format/lance is a Rust project for Data Scientist: Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 57.99
+- Score: 58.00
 - Difficulty: Advanced
 - Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear
 ### NVIDIA-NeMo/Automodel
 - What it is: NVIDIA-NeMo/Automodel is a Python project for Data Scientist: 🚀 Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 52.11
+- Score: 52.12
 - Difficulty: Research-heavy
 - Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
-### hyeonsangjeon/gdpval-realworks
-- What it is: hyeonsangjeon/gdpval-realworks is a Python project for Data Scientist: Open-source benchmark for evaluating LLMs on 220 real professional tasks across 9 sectors and 44 occupations. Reproducible experiments, artifact validation, grading, and a live evidence dashboard.
+### langfuse/langfuse
+- What it is: langfuse/langfuse is a TypeScript project for Data Scientist: 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 51.62
-- Difficulty: Research-heavy
-- Recommended action: Track for research
-- Risk: no README evidence, installation unclear, usage examples unclear
-### trycua/cua
-- What it is: trycua/cua is a HTML project for General User: Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+- Score: 87.88
+- Difficulty: Advanced
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### flyteorg/flyte
+- What it is: flyteorg/flyte is a Go project for General User: Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 59.59
+- Score: 55.03
 - Difficulty: Advanced
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear
-### MauroDruwel/NIMStats
-- What it is: MauroDruwel/NIMStats is a JavaScript project for Data Scientist: 📊 Automated hourly benchmarks for 20+ NVIDIA NIM models — interactive dashboard, zero infra, self-hostable. Open-source & community-driven.
+### CurvineIO/curvine
+- What it is: CurvineIO/curvine is a Rust project for Data Scientist: AI-Native & Cloud-Native FS:  A high-performance file semantic layer for cloud object storage, integrated with high-speed cache. CNCF Sandbox Project.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 44.71
+- Score: 50.76
 - Difficulty: Research-heavy
-- Recommended action: Skip for now
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
+- Recommended action: Track for research
+- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
 
 ## Action List
-- Try today: langgenius/dify, apache/airflow, unslothai/unsloth
-- Watch this week: visivo-io/visivo, herdrdev/herdr, trycua/cua
-- Use as portfolio reference: LanternOps/breeze, Wox-launcher/Wox, go-gitea/gitea
-- Skip for now: dsebastien/obsidian-life-tracker-base-view, scikit-hep/awkward, MauroDruwel/NIMStats
+- Try today: langgenius/dify, heymrun/heym, kestra-io/kestra
+- Watch this week: QwenLM/qwen-code, superset-sh/superset, modelstudioai/cli
+- Use as portfolio reference: krelltunez/lastGLANCE, ipitio/backage, ArchiveBox/ArchiveBox
+- Skip for now: MauroDruwel/NIMStats, m96-chan/ai_research_dashboard, pacphi/agentic-kit
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.
