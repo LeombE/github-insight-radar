@@ -64,6 +64,14 @@
       "last_score": 75.31,
       "last_seen": "2026-08-11"
     },
+    "0xfnzero/sol-safekey": {
+      "appearances": 1,
+      "first_seen": "2026-08-14",
+      "full_name": "0xfnzero/sol-safekey",
+      "last_run_label": "live",
+      "last_score": 75.51,
+      "last_seen": "2026-08-14"
+    },
     "0xjacky/nginx-ui": {
       "appearances": 2,
       "first_seen": "2026-07-27",
@@ -185,12 +193,12 @@
       "last_seen": "2026-08-13"
     },
     "2202alejandro/originlab-originpro-workflow-templates": {
-      "appearances": 82,
+      "appearances": 83,
       "first_seen": "2026-07-02",
       "full_name": "2202alejandro/OriginLab-OriginPro-workflow-templates",
       "last_run_label": "live",
       "last_score": 32.06,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "2501035-wq/mobile-sim-streamer": {
       "appearances": 1,
@@ -1153,20 +1161,20 @@
       "last_seen": "2026-07-10"
     },
     "aipoch/open-science": {
-      "appearances": 38,
+      "appearances": 39,
       "first_seen": "2026-07-12",
       "full_name": "aipoch/open-science",
       "last_run_label": "live",
-      "last_score": 55.24,
-      "last_seen": "2026-08-13"
+      "last_score": 50.97,
+      "last_seen": "2026-08-14"
     },
     "airbytehq/airbyte": {
-      "appearances": 55,
+      "appearances": 56,
       "first_seen": "2026-07-02",
       "full_name": "airbytehq/airbyte",
       "last_run_label": "live",
       "last_score": 55.65,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "airqo-platform/airqo-frontend": {
       "appearances": 12,
@@ -1217,12 +1225,12 @@
       "last_seen": "2026-08-01"
     },
     "akfamily/akshare": {
-      "appearances": 9,
+      "appearances": 10,
       "first_seen": "2026-07-21",
       "full_name": "akfamily/akshare",
       "last_run_label": "live",
       "last_score": 46.65,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "akhayam99/goodboy": {
       "appearances": 9,
@@ -1511,6 +1519,14 @@
       "last_run_label": "live",
       "last_score": 50.25,
       "last_seen": "2026-08-13"
+    },
+    "alkalim/knopo": {
+      "appearances": 1,
+      "first_seen": "2026-08-14",
+      "full_name": "alkalim/Knopo",
+      "last_run_label": "live",
+      "last_score": 67.43,
+      "last_seen": "2026-08-14"
     },
     "alkoleft/v8-runner-rust": {
       "appearances": 1,
@@ -1889,12 +1905,12 @@
       "last_seen": "2026-07-18"
     },
     "andrewdryga/emisar": {
-      "appearances": 5,
+      "appearances": 6,
       "first_seen": "2026-07-27",
       "full_name": "AndrewDryga/emisar",
       "last_run_label": "live",
-      "last_score": 94.0,
-      "last_seen": "2026-08-12"
+      "last_score": 56.76,
+      "last_seen": "2026-08-14"
     },
     "andrewferrier/memy": {
       "appearances": 1,
@@ -2073,12 +2089,12 @@
       "last_seen": "2026-07-14"
     },
     "anthony-chaudhary/fak": {
-      "appearances": 5,
+      "appearances": 6,
       "first_seen": "2026-07-29",
       "full_name": "anthony-chaudhary/fak",
       "last_run_label": "live",
       "last_score": 77.69,
-      "last_seen": "2026-08-11"
+      "last_seen": "2026-08-14"
     },
     "antigmalabs/ante": {
       "appearances": 1,
@@ -2249,20 +2265,20 @@
       "last_seen": "2026-08-13"
     },
     "apache/streampipes": {
-      "appearances": 11,
+      "appearances": 12,
       "first_seen": "2026-07-03",
       "full_name": "apache/streampipes",
       "last_run_label": "live",
       "last_score": 48.77,
-      "last_seen": "2026-08-05"
+      "last_seen": "2026-08-14"
     },
     "apache/superset": {
-      "appearances": 82,
+      "appearances": 83,
       "first_seen": "2026-07-02",
       "full_name": "apache/superset",
       "last_run_label": "live",
       "last_score": 62.21,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "aphalo/ggpmisc": {
       "appearances": 2,
@@ -2393,12 +2409,12 @@
       "last_seen": "2026-07-19"
     },
     "appsmithorg/appsmith": {
-      "appearances": 3,
+      "appearances": 4,
       "first_seen": "2026-07-07",
       "full_name": "appsmithorg/appsmith",
       "last_run_label": "live",
       "last_score": 84.95,
-      "last_seen": "2026-07-24"
+      "last_seen": "2026-08-14"
     },
     "appwrite/appwrite": {
       "appearances": 5,
@@ -2417,12 +2433,12 @@
       "last_seen": "2026-08-12"
     },
     "apurvsinghgautam/robin": {
-      "appearances": 25,
+      "appearances": 26,
       "first_seen": "2026-07-16",
       "full_name": "apurvsinghgautam/robin",
       "last_run_label": "live",
       "last_score": 46.63,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "aquantumofdonuts/mixarr": {
       "appearances": 1,
@@ -2497,12 +2513,12 @@
       "last_seen": "2026-08-12"
     },
     "archivebox/archivebox": {
-      "appearances": 8,
+      "appearances": 9,
       "first_seen": "2026-07-26",
       "full_name": "ArchiveBox/ArchiveBox",
       "last_run_label": "live",
       "last_score": 79.12,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "arcreel/arcreel": {
       "appearances": 2,
@@ -2513,12 +2529,12 @@
       "last_seen": "2026-08-12"
     },
     "arcsin1/oh-my-ppt": {
-      "appearances": 54,
+      "appearances": 55,
       "first_seen": "2026-07-17",
       "full_name": "arcsin1/oh-my-ppt",
       "last_run_label": "live",
       "last_score": 55.12,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "areal-project/areal": {
       "appearances": 1,
@@ -2673,12 +2689,12 @@
       "last_seen": "2026-08-04"
     },
     "arnaudbuchholz/ui5-test-runner": {
-      "appearances": 3,
+      "appearances": 4,
       "first_seen": "2026-07-03",
       "full_name": "ArnaudBuchholz/ui5-test-runner",
       "last_run_label": "live",
       "last_score": 69.9,
-      "last_seen": "2026-07-24"
+      "last_seen": "2026-08-14"
     },
     "arnaudcrl/immich-automated-selfie-timelapse": {
       "appearances": 1,
@@ -2985,12 +3001,12 @@
       "last_seen": "2026-08-07"
     },
     "atomantic/portos": {
-      "appearances": 61,
+      "appearances": 62,
       "first_seen": "2026-07-02",
       "full_name": "atomantic/PortOS",
       "last_run_label": "live",
       "last_score": 88.25,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "atomchung/ccstory": {
       "appearances": 7,
@@ -3393,12 +3409,12 @@
       "last_seen": "2026-08-13"
     },
     "babyvibe/deplao-builder": {
-      "appearances": 2,
+      "appearances": 3,
       "first_seen": "2026-07-13",
       "full_name": "babyvibe/deplao-builder",
       "last_run_label": "live",
-      "last_score": 79.61,
-      "last_seen": "2026-07-16"
+      "last_score": 76.71,
+      "last_seen": "2026-08-14"
     },
     "bacalhau-project/bacalhau": {
       "appearances": 3,
@@ -3449,12 +3465,12 @@
       "last_seen": "2026-07-21"
     },
     "bakiraa/qyvaria-hardlogic-kernel-engine": {
-      "appearances": 28,
+      "appearances": 29,
       "first_seen": "2026-07-02",
       "full_name": "bakiraa/qyvaria-hardlogic-kernel-engine",
       "last_run_label": "live",
       "last_score": 66.54,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "balabalabalading/huuuuuuho-skills": {
       "appearances": 1,
@@ -3473,12 +3489,12 @@
       "last_seen": "2026-07-16"
     },
     "barbiez/nitro-sniper-checker": {
-      "appearances": 18,
+      "appearances": 19,
       "first_seen": "2026-07-02",
       "full_name": "barbiez/Nitro-Sniper-Checker",
       "last_run_label": "live",
       "last_score": 63.54,
-      "last_seen": "2026-08-12"
+      "last_seen": "2026-08-14"
     },
     "barry-ran/quickdesk": {
       "appearances": 1,
@@ -3599,6 +3615,14 @@
       "last_run_label": "live",
       "last_score": 40.34,
       "last_seen": "2026-08-10"
+    },
+    "bdffzi/alife": {
+      "appearances": 1,
+      "first_seen": "2026-08-14",
+      "full_name": "BDFFZI/Alife",
+      "last_run_label": "live",
+      "last_score": 43.17,
+      "last_seen": "2026-08-14"
     },
     "beam-cloud/beta9": {
       "appearances": 1,
@@ -3897,20 +3921,20 @@
       "last_seen": "2026-07-08"
     },
     "bike4mind/bike4mind": {
-      "appearances": 19,
+      "appearances": 20,
       "first_seen": "2026-07-06",
       "full_name": "Bike4Mind/bike4mind",
       "last_run_label": "live",
-      "last_score": 82.12,
-      "last_seen": "2026-08-12"
+      "last_score": 47.07,
+      "last_seen": "2026-08-14"
     },
     "bikeshaving/termdom": {
-      "appearances": 2,
+      "appearances": 3,
       "first_seen": "2026-08-11",
       "full_name": "bikeshaving/termdom",
       "last_run_label": "live",
-      "last_score": 49.14,
-      "last_seen": "2026-08-13"
+      "last_score": 49.23,
+      "last_seen": "2026-08-14"
     },
     "bilalpeera86/claude-session-flow": {
       "appearances": 27,
@@ -4249,12 +4273,12 @@
       "last_seen": "2026-07-20"
     },
     "boxlite-ai/boxlite": {
-      "appearances": 2,
+      "appearances": 3,
       "first_seen": "2026-07-22",
       "full_name": "boxlite-ai/boxlite",
       "last_run_label": "live",
-      "last_score": 70.57,
-      "last_seen": "2026-07-27"
+      "last_score": 52.29,
+      "last_seen": "2026-08-14"
     },
     "boykush/scraps": {
       "appearances": 1,
@@ -4401,12 +4425,12 @@
       "last_seen": "2026-07-30"
     },
     "bruin-data/bruin": {
-      "appearances": 20,
+      "appearances": 21,
       "first_seen": "2026-07-02",
       "full_name": "bruin-data/bruin",
       "last_run_label": "live",
       "last_score": 52.02,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "brycewang-stanford/stata-code": {
       "appearances": 6,
@@ -4593,12 +4617,12 @@
       "last_seen": "2026-08-13"
     },
     "c-wilkinson/stravadataanalysis": {
-      "appearances": 82,
+      "appearances": 83,
       "first_seen": "2026-07-02",
       "full_name": "c-wilkinson/StravaDataAnalysis",
       "last_run_label": "live",
       "last_score": 38.13,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "c410-f3r/wtx": {
       "appearances": 1,
@@ -4633,12 +4657,12 @@
       "last_seen": "2026-08-09"
     },
     "calesthio/openmontage": {
-      "appearances": 1,
+      "appearances": 2,
       "first_seen": "2026-07-18",
       "full_name": "calesthio/OpenMontage",
       "last_run_label": "live",
       "last_score": 54.27,
-      "last_seen": "2026-07-18"
+      "last_seen": "2026-08-14"
     },
     "calkit/calkit": {
       "appearances": 1,
@@ -4705,12 +4729,12 @@
       "last_seen": "2026-08-02"
     },
     "caoyingjunz/pixiu-ui": {
-      "appearances": 17,
+      "appearances": 18,
       "first_seen": "2026-07-03",
       "full_name": "caoyingjunz/pixiu-ui",
       "last_run_label": "live",
       "last_score": 40.11,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "carapace-sh/carapace-bin": {
       "appearances": 11,
@@ -5225,12 +5249,12 @@
       "last_seen": "2026-08-01"
     },
     "circleci-public/circleci-cli": {
-      "appearances": 4,
+      "appearances": 5,
       "first_seen": "2026-07-08",
       "full_name": "CircleCI-Public/circleci-cli",
       "last_run_label": "live",
-      "last_score": 50.98,
-      "last_seen": "2026-07-24"
+      "last_score": 53.23,
+      "last_seen": "2026-08-14"
     },
     "circleci-tools/circleci-cli": {
       "appearances": 1,
@@ -5409,12 +5433,12 @@
       "last_seen": "2026-07-11"
     },
     "clickhouse/clickhouse": {
-      "appearances": 42,
+      "appearances": 43,
       "first_seen": "2026-07-02",
       "full_name": "ClickHouse/ClickHouse",
       "last_run_label": "live",
       "last_score": 87.52,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "clidey/whodb": {
       "appearances": 7,
@@ -5441,12 +5465,12 @@
       "last_seen": "2026-07-23"
     },
     "clipboardhealth/groundcrew": {
-      "appearances": 3,
+      "appearances": 4,
       "first_seen": "2026-07-18",
       "full_name": "ClipboardHealth/groundcrew",
       "last_run_label": "live",
-      "last_score": 85.01,
-      "last_seen": "2026-07-30"
+      "last_score": 85.05,
+      "last_seen": "2026-08-14"
     },
     "closedloop-ai/claude-plugins": {
       "appearances": 1,
@@ -5497,12 +5521,12 @@
       "last_seen": "2026-07-25"
     },
     "cloudquery/cloudquery": {
-      "appearances": 13,
+      "appearances": 14,
       "first_seen": "2026-07-04",
       "full_name": "cloudquery/cloudquery",
       "last_run_label": "live",
       "last_score": 53.25,
-      "last_seen": "2026-08-08"
+      "last_seen": "2026-08-14"
     },
     "cluaiz/cluaiz": {
       "appearances": 1,
@@ -5728,6 +5752,14 @@
       "last_score": 58.35,
       "last_seen": "2026-07-24"
     },
+    "coinlobster/coinlobster-mcp": {
+      "appearances": 1,
+      "first_seen": "2026-08-14",
+      "full_name": "CoinLobster/coinlobster-mcp",
+      "last_run_label": "live",
+      "last_score": 48.33,
+      "last_seen": "2026-08-14"
+    },
     "col-e/recaf": {
       "appearances": 2,
       "first_seen": "2026-07-04",
@@ -5897,12 +5929,12 @@
       "last_seen": "2026-07-27"
     },
     "copilotkit/copilotkit": {
-      "appearances": 19,
+      "appearances": 20,
       "first_seen": "2026-07-02",
       "full_name": "CopilotKit/CopilotKit",
       "last_run_label": "live",
       "last_score": 51.27,
-      "last_seen": "2026-08-08"
+      "last_seen": "2026-08-14"
     },
     "copybrainapp/copybrainapp": {
       "appearances": 1,
@@ -6145,12 +6177,12 @@
       "last_seen": "2026-07-24"
     },
     "crezy-haker/videocutterai": {
-      "appearances": 79,
+      "appearances": 80,
       "first_seen": "2026-07-02",
       "full_name": "Crezy-haker/videocutterAI",
       "last_run_label": "live",
-      "last_score": 81.24,
-      "last_seen": "2026-08-13"
+      "last_score": 53.49,
+      "last_seen": "2026-08-14"
     },
     "criccomini/outcrop": {
       "appearances": 1,
@@ -6257,12 +6289,12 @@
       "last_seen": "2026-07-31"
     },
     "crystallabs/crysterm": {
-      "appearances": 4,
+      "appearances": 5,
       "first_seen": "2026-07-04",
       "full_name": "crystallabs/crysterm",
       "last_run_label": "live",
       "last_score": 51.63,
-      "last_seen": "2026-08-04"
+      "last_seen": "2026-08-14"
     },
     "cterence/homelab-gitops": {
       "appearances": 3,
@@ -6273,12 +6305,12 @@
       "last_seen": "2026-07-28"
     },
     "ctxrs/ctx": {
-      "appearances": 14,
+      "appearances": 15,
       "first_seen": "2026-07-03",
       "full_name": "ctxrs/ctx",
       "last_run_label": "live",
-      "last_score": 54.57,
-      "last_seen": "2026-08-13"
+      "last_score": 54.58,
+      "last_seen": "2026-08-14"
     },
     "cube-js/cube": {
       "appearances": 10,
@@ -6385,12 +6417,12 @@
       "last_seen": "2026-08-05"
     },
     "cytechmobile/sendium": {
-      "appearances": 1,
+      "appearances": 2,
       "first_seen": "2026-07-03",
       "full_name": "cytechmobile/sendium",
       "last_run_label": "live",
-      "last_score": 71.9,
-      "last_seen": "2026-07-03"
+      "last_score": 72.09,
+      "last_seen": "2026-08-14"
     },
     "cyvid7-darus10/claude-mission-control": {
       "appearances": 1,
@@ -6529,12 +6561,12 @@
       "last_seen": "2026-08-05"
     },
     "daniel3303/equibles": {
-      "appearances": 6,
+      "appearances": 7,
       "first_seen": "2026-07-03",
       "full_name": "daniel3303/Equibles",
       "last_run_label": "live",
-      "last_score": 85.87,
-      "last_seen": "2026-08-10"
+      "last_score": 85.88,
+      "last_seen": "2026-08-14"
     },
     "danielbilek/writemd": {
       "appearances": 1,
@@ -6785,12 +6817,12 @@
       "last_seen": "2026-07-16"
     },
     "davekilleen/dex": {
-      "appearances": 29,
+      "appearances": 30,
       "first_seen": "2026-07-11",
       "full_name": "davekilleen/Dex",
       "last_run_label": "live",
       "last_score": 75.61,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "david-crty/databasement": {
       "appearances": 1,
@@ -6809,12 +6841,12 @@
       "last_seen": "2026-07-27"
     },
     "davidedc/fizzygum": {
-      "appearances": 27,
+      "appearances": 28,
       "first_seen": "2026-07-02",
       "full_name": "davidedc/Fizzygum",
       "last_run_label": "live",
       "last_score": 41.73,
-      "last_seen": "2026-08-12"
+      "last_seen": "2026-08-14"
     },
     "davidgasquez/filecoin-data-portal": {
       "appearances": 2,
@@ -6897,12 +6929,12 @@
       "last_seen": "2026-08-13"
     },
     "dcellison/kai": {
-      "appearances": 1,
+      "appearances": 2,
       "first_seen": "2026-08-12",
       "full_name": "dcellison/kai",
       "last_run_label": "live",
       "last_score": 80.11,
-      "last_seen": "2026-08-12"
+      "last_seen": "2026-08-14"
     },
     "dcouple/pane": {
       "appearances": 1,
@@ -7073,12 +7105,12 @@
       "last_seen": "2026-07-19"
     },
     "denesdata/roem": {
-      "appearances": 84,
+      "appearances": 85,
       "first_seen": "2026-07-02",
       "full_name": "denesdata/roem",
       "last_run_label": "live",
       "last_score": 43.91,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "denisotree/tuitab": {
       "appearances": 4,
@@ -7240,6 +7272,14 @@
       "last_score": 79.54,
       "last_seen": "2026-07-22"
     },
+    "devops-thiago/thrillhousebot": {
+      "appearances": 1,
+      "first_seen": "2026-08-14",
+      "full_name": "devops-thiago/ThrillhouseBot",
+      "last_run_label": "live",
+      "last_score": 81.46,
+      "last_seen": "2026-08-14"
+    },
     "devsy-org/devsy": {
       "appearances": 9,
       "first_seen": "2026-08-01",
@@ -7281,12 +7321,12 @@
       "last_seen": "2026-07-17"
     },
     "dicklesworthstone/franken_whisper": {
-      "appearances": 20,
+      "appearances": 21,
       "first_seen": "2026-07-03",
       "full_name": "Dicklesworthstone/franken_whisper",
       "last_run_label": "live",
-      "last_score": 50.49,
-      "last_seen": "2026-08-10"
+      "last_score": 50.76,
+      "last_seen": "2026-08-14"
     },
     "dicklesworthstone/frankenmermaid": {
       "appearances": 7,
@@ -7601,12 +7641,12 @@
       "last_seen": "2026-08-01"
     },
     "dongdongbh/mindwtr": {
-      "appearances": 58,
+      "appearances": 59,
       "first_seen": "2026-07-03",
       "full_name": "dongdongbh/Mindwtr",
       "last_run_label": "live",
-      "last_score": 89.46,
-      "last_seen": "2026-08-13"
+      "last_score": 89.47,
+      "last_seen": "2026-08-14"
     },
     "dorakoo/doubao-studio": {
       "appearances": 1,
@@ -7705,12 +7745,12 @@
       "last_seen": "2026-08-06"
     },
     "drcruz-lang/optigrab": {
-      "appearances": 27,
+      "appearances": 28,
       "first_seen": "2026-07-05",
       "full_name": "drcruz-lang/OptiGrab",
       "last_run_label": "live",
       "last_score": 72.39,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "dreamrec/livepilot": {
       "appearances": 1,
@@ -7729,12 +7769,12 @@
       "last_seen": "2026-08-04"
     },
     "drenlia-inc/agila": {
-      "appearances": 1,
+      "appearances": 2,
       "first_seen": "2026-08-13",
       "full_name": "drenlia-inc/agila",
       "last_run_label": "live",
       "last_score": 91.09,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "drenlia/agila": {
       "appearances": 3,
@@ -7905,12 +7945,12 @@
       "last_seen": "2026-08-06"
     },
     "dzhng/duet-agent": {
-      "appearances": 2,
+      "appearances": 3,
       "first_seen": "2026-07-20",
       "full_name": "dzhng/duet-agent",
       "last_run_label": "live",
       "last_score": 42.07,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "dzianisv/opencode-mobile": {
       "appearances": 2,
@@ -7929,12 +7969,12 @@
       "last_seen": "2026-07-15"
     },
     "e2b-dev/e2b": {
-      "appearances": 5,
+      "appearances": 6,
       "first_seen": "2026-07-03",
       "full_name": "e2b-dev/E2B",
       "last_run_label": "live",
       "last_score": 53.91,
-      "last_seen": "2026-08-11"
+      "last_seen": "2026-08-14"
     },
     "e2b-dev/e2b-cookbook": {
       "appearances": 1,
@@ -7993,12 +8033,12 @@
       "last_seen": "2026-08-10"
     },
     "echovic/blade-code": {
-      "appearances": 5,
+      "appearances": 6,
       "first_seen": "2026-07-31",
       "full_name": "echoVic/blade-code",
       "last_run_label": "live",
       "last_score": 55.37,
-      "last_seen": "2026-08-12"
+      "last_seen": "2026-08-14"
     },
     "eddietyp/image-prompt-library": {
       "appearances": 2,
@@ -8225,12 +8265,12 @@
       "last_seen": "2026-07-18"
     },
     "elizaos/eliza": {
-      "appearances": 38,
+      "appearances": 39,
       "first_seen": "2026-07-02",
       "full_name": "elizaOS/eliza",
       "last_run_label": "live",
-      "last_score": 51.13,
-      "last_seen": "2026-08-12"
+      "last_score": 51.14,
+      "last_seen": "2026-08-14"
     },
     "eljulians/skillfile": {
       "appearances": 4,
@@ -8249,12 +8289,12 @@
       "last_seen": "2026-08-11"
     },
     "elkimek/get-based": {
-      "appearances": 43,
+      "appearances": 44,
       "first_seen": "2026-07-05",
       "full_name": "elkimek/get-based",
       "last_run_label": "live",
       "last_score": 47.13,
-      "last_seen": "2026-08-12"
+      "last_seen": "2026-08-14"
     },
     "ellite/wallos": {
       "appearances": 1,
@@ -8329,20 +8369,20 @@
       "last_seen": "2026-08-03"
     },
     "emmanuelvassquez429-rgb/shapez-2-shift-logic-expansion": {
-      "appearances": 50,
+      "appearances": 51,
       "first_seen": "2026-07-02",
       "full_name": "emmanuelvassquez429-rgb/Shapez-2-Shift-Logic-Expansion",
       "last_run_label": "live",
       "last_score": 78.13,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "empty5i/logicore-analytics-adaptive-supply-chain-pulse": {
-      "appearances": 34,
+      "appearances": 35,
       "first_seen": "2026-07-03",
       "full_name": "Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse",
       "last_run_label": "live",
       "last_score": 51.42,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "emsl-computing/corems": {
       "appearances": 1,
@@ -8361,12 +8401,12 @@
       "last_seen": "2026-07-06"
     },
     "endothedev/ometer": {
-      "appearances": 7,
+      "appearances": 8,
       "first_seen": "2026-08-07",
       "full_name": "EndoTheDev/OMeter",
       "last_run_label": "live",
       "last_score": 43.88,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "enflexit/agentworkbench": {
       "appearances": 1,
@@ -8521,12 +8561,12 @@
       "last_seen": "2026-08-01"
     },
     "esengine/deepseek-reasonix": {
-      "appearances": 39,
+      "appearances": 40,
       "first_seen": "2026-07-04",
       "full_name": "esengine/DeepSeek-Reasonix",
       "last_run_label": "live",
       "last_score": 59.67,
-      "last_seen": "2026-08-12"
+      "last_seen": "2026-08-14"
     },
     "esnet/gdg": {
       "appearances": 2,
@@ -8585,12 +8625,12 @@
       "last_seen": "2026-08-12"
     },
     "eval-exec/neomacs": {
-      "appearances": 75,
+      "appearances": 76,
       "first_seen": "2026-07-02",
       "full_name": "eval-exec/neomacs",
       "last_run_label": "live",
       "last_score": 70.12,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "evanzhang008/open-walnut": {
       "appearances": 1,
@@ -8609,12 +8649,12 @@
       "last_seen": "2026-08-08"
     },
     "ever-co/ever-gauzy": {
-      "appearances": 18,
+      "appearances": 19,
       "first_seen": "2026-07-05",
       "full_name": "ever-co/ever-gauzy",
       "last_run_label": "live",
       "last_score": 86.14,
-      "last_seen": "2026-08-11"
+      "last_seen": "2026-08-14"
     },
     "ever-co/ever-teams": {
       "appearances": 2,
@@ -8633,12 +8673,12 @@
       "last_seen": "2026-07-16"
     },
     "excalidraw/excalidraw": {
-      "appearances": 18,
+      "appearances": 19,
       "first_seen": "2026-07-02",
       "full_name": "excalidraw/excalidraw",
       "last_run_label": "live",
       "last_score": 66.77,
-      "last_seen": "2026-08-11"
+      "last_seen": "2026-08-14"
     },
     "exg1o/constructor-telegram-bots-backend": {
       "appearances": 1,
@@ -8873,12 +8913,12 @@
       "last_seen": "2026-08-11"
     },
     "fbiego/auto-follow-unfollow": {
-      "appearances": 41,
+      "appearances": 42,
       "first_seen": "2026-07-02",
       "full_name": "fbiego/auto-follow-unfollow",
       "last_run_label": "live",
       "last_score": 47.9,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "fdabench/fdabench": {
       "appearances": 1,
@@ -8985,12 +9025,12 @@
       "last_seen": "2026-07-15"
     },
     "fighter90/career-ops-ui": {
-      "appearances": 3,
+      "appearances": 4,
       "first_seen": "2026-07-04",
       "full_name": "Fighter90/career-ops-ui",
       "last_run_label": "live",
-      "last_score": 73.83,
-      "last_seen": "2026-07-10"
+      "last_score": 48.77,
+      "last_seen": "2026-08-14"
     },
     "filebrowser/filebrowser": {
       "appearances": 1,
@@ -9001,12 +9041,12 @@
       "last_seen": "2026-07-25"
     },
     "files-community/files": {
-      "appearances": 21,
+      "appearances": 22,
       "first_seen": "2026-07-06",
       "full_name": "files-community/Files",
       "last_run_label": "live",
       "last_score": 68.32,
-      "last_seen": "2026-08-12"
+      "last_seen": "2026-08-14"
     },
     "finanze/finanze": {
       "appearances": 1,
@@ -9057,12 +9097,12 @@
       "last_seen": "2026-08-12"
     },
     "firstevertech/universal-intel-chipset-updater": {
-      "appearances": 19,
+      "appearances": 20,
       "first_seen": "2026-07-06",
       "full_name": "FirstEverTech/Universal-Intel-Chipset-Updater",
       "last_run_label": "live",
       "last_score": 82.41,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "firstevertech/universal-intel-wifi-bt-updater": {
       "appearances": 6,
@@ -9465,12 +9505,12 @@
       "last_seen": "2026-07-19"
     },
     "frappe/insights": {
-      "appearances": 5,
+      "appearances": 6,
       "first_seen": "2026-07-06",
       "full_name": "frappe/insights",
       "last_run_label": "live",
-      "last_score": 59.28,
-      "last_seen": "2026-08-01"
+      "last_score": 60.75,
+      "last_seen": "2026-08-14"
     },
     "freebsd/kyua": {
       "appearances": 1,
@@ -9761,12 +9801,12 @@
       "last_seen": "2026-08-05"
     },
     "geiserx/cashpilot": {
-      "appearances": 6,
+      "appearances": 7,
       "first_seen": "2026-07-11",
       "full_name": "GeiserX/CashPilot",
       "last_run_label": "live",
-      "last_score": 44.81,
-      "last_seen": "2026-08-06"
+      "last_score": 44.83,
+      "last_seen": "2026-08-14"
     },
     "geiserx/genieacs-container": {
       "appearances": 1,
@@ -10312,6 +10352,14 @@
       "last_score": 81.14,
       "last_seen": "2026-08-06"
     },
+    "goduni/unissh": {
+      "appearances": 1,
+      "first_seen": "2026-08-14",
+      "full_name": "goduni/unissh",
+      "last_run_label": "live",
+      "last_score": 85.61,
+      "last_seen": "2026-08-14"
+    },
     "goinfinite/os": {
       "appearances": 1,
       "first_seen": "2026-07-07",
@@ -10337,12 +10385,12 @@
       "last_seen": "2026-08-08"
     },
     "goodmorningbeautyful-lab/phonepe-pulse-analyzer": {
-      "appearances": 45,
+      "appearances": 46,
       "first_seen": "2026-07-03",
       "full_name": "goodmorningbeautyful-lab/PhonePe-Pulse-Analyzer",
       "last_run_label": "live",
       "last_score": 47.24,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "googlarz/finance-assistant": {
       "appearances": 1,
@@ -10377,12 +10425,12 @@
       "last_seen": "2026-08-13"
     },
     "google/adk-python": {
-      "appearances": 16,
+      "appearances": 17,
       "first_seen": "2026-07-07",
       "full_name": "google/adk-python",
       "last_run_label": "live",
       "last_score": 54.19,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "google/triage-party": {
       "appearances": 1,
@@ -10433,12 +10481,12 @@
       "last_seen": "2026-08-06"
     },
     "govinda25072003-ai/pbi-amazon-sales-dash": {
-      "appearances": 76,
+      "appearances": 77,
       "first_seen": "2026-07-03",
       "full_name": "govinda25072003-ai/pbi-amazon-sales-dash",
       "last_run_label": "live",
       "last_score": 47.25,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "gptme/gptme": {
       "appearances": 12,
@@ -10449,20 +10497,20 @@
       "last_seen": "2026-08-01"
     },
     "gradio-app/gradio": {
-      "appearances": 32,
+      "appearances": 33,
       "first_seen": "2026-07-02",
       "full_name": "gradio-app/gradio",
       "last_run_label": "live",
       "last_score": 54.77,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "grafana/grafana": {
-      "appearances": 62,
+      "appearances": 63,
       "first_seen": "2026-07-02",
       "full_name": "grafana/grafana",
       "last_run_label": "live",
       "last_score": 65.95,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "graphene-data/graphene": {
       "appearances": 16,
@@ -10489,12 +10537,12 @@
       "last_seen": "2026-07-09"
     },
     "grashjs/cmms": {
-      "appearances": 2,
+      "appearances": 3,
       "first_seen": "2026-07-09",
       "full_name": "Grashjs/cmms",
       "last_run_label": "live",
-      "last_score": 75.38,
-      "last_seen": "2026-07-25"
+      "last_score": 75.43,
+      "last_seen": "2026-08-14"
     },
     "graykode/abtop": {
       "appearances": 1,
@@ -10529,12 +10577,12 @@
       "last_seen": "2026-07-26"
     },
     "griffinwork40/agent-afk": {
-      "appearances": 4,
+      "appearances": 5,
       "first_seen": "2026-07-13",
       "full_name": "griffinwork40/agent-afk",
       "last_run_label": "live",
       "last_score": 49.0,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "grimmory-tools/grimmory": {
       "appearances": 6,
@@ -10553,12 +10601,12 @@
       "last_seen": "2026-07-29"
     },
     "growthbook/growthbook": {
-      "appearances": 48,
+      "appearances": 49,
       "first_seen": "2026-07-03",
       "full_name": "growthbook/growthbook",
       "last_run_label": "live",
       "last_score": 50.46,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "grregis/muckscraper": {
       "appearances": 1,
@@ -10641,12 +10689,12 @@
       "last_seen": "2026-07-20"
     },
     "gunawan1996/world-forge-ai": {
-      "appearances": 31,
+      "appearances": 32,
       "first_seen": "2026-07-03",
       "full_name": "gunawan1996/world-forge-ai",
       "last_run_label": "live",
       "last_score": 37.25,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "guoqingbao/xinfer": {
       "appearances": 1,
@@ -10753,12 +10801,12 @@
       "last_seen": "2026-07-29"
     },
     "hack23/cia": {
-      "appearances": 20,
+      "appearances": 21,
       "first_seen": "2026-07-07",
       "full_name": "Hack23/cia",
       "last_run_label": "live",
       "last_score": 50.74,
-      "last_seen": "2026-08-12"
+      "last_seen": "2026-08-14"
     },
     "hadziqmtqn/erd-builder-pro": {
       "appearances": 3,
@@ -11217,12 +11265,12 @@
       "last_seen": "2026-08-03"
     },
     "hertz-ai/hartos": {
-      "appearances": 6,
+      "appearances": 7,
       "first_seen": "2026-07-31",
       "full_name": "hertz-ai/HARTOS",
       "last_run_label": "live",
       "last_score": 76.67,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "hesorchen/muselab": {
       "appearances": 1,
@@ -11753,20 +11801,20 @@
       "last_seen": "2026-07-31"
     },
     "hyperb1iss/sibyl": {
-      "appearances": 4,
+      "appearances": 5,
       "first_seen": "2026-07-09",
       "full_name": "hyperb1iss/sibyl",
       "last_run_label": "live",
-      "last_score": 51.92,
-      "last_seen": "2026-08-04"
+      "last_score": 51.94,
+      "last_seen": "2026-08-14"
     },
     "hyperdxio/hyperdx": {
-      "appearances": 24,
+      "appearances": 25,
       "first_seen": "2026-07-03",
       "full_name": "hyperdxio/hyperdx",
       "last_run_label": "live",
       "last_score": 57.13,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "hyperiux-immersion-labs/hyperiux-components": {
       "appearances": 2,
@@ -12097,12 +12145,12 @@
       "last_seen": "2026-07-20"
     },
     "inbarr/tmax": {
-      "appearances": 34,
+      "appearances": 35,
       "first_seen": "2026-07-05",
       "full_name": "InbarR/tmax",
       "last_run_label": "live",
-      "last_score": 49.08,
-      "last_seen": "2026-08-13"
+      "last_score": 49.1,
+      "last_seen": "2026-08-14"
     },
     "inclusionai/areno": {
       "appearances": 1,
@@ -12361,12 +12409,12 @@
       "last_seen": "2026-07-29"
     },
     "isisneutronmuon/mdanse": {
-      "appearances": 2,
+      "appearances": 3,
       "first_seen": "2026-07-09",
       "full_name": "ISISNeutronMuon/MDANSE",
       "last_run_label": "live",
-      "last_score": 38.49,
-      "last_seen": "2026-07-24"
+      "last_score": 38.55,
+      "last_seen": "2026-08-14"
     },
     "isnow890/naver-search-mcp": {
       "appearances": 1,
@@ -12505,12 +12553,12 @@
       "last_seen": "2026-07-29"
     },
     "ivankuznetsov/hive": {
-      "appearances": 9,
+      "appearances": 10,
       "first_seen": "2026-07-10",
       "full_name": "ivankuznetsov/hive",
       "last_run_label": "live",
       "last_score": 54.45,
-      "last_seen": "2026-08-10"
+      "last_seen": "2026-08-14"
     },
     "ivanmurzak/godot-mcp": {
       "appearances": 1,
@@ -12561,12 +12609,12 @@
       "last_seen": "2026-07-08"
     },
     "j-nowcow/awesome-korean-agent-skills": {
-      "appearances": 35,
+      "appearances": 36,
       "first_seen": "2026-07-03",
       "full_name": "J-nowcow/awesome-korean-agent-skills",
       "last_run_label": "live",
-      "last_score": 65.5,
-      "last_seen": "2026-08-12"
+      "last_score": 65.56,
+      "last_seen": "2026-08-14"
     },
     "j3soon/arxiv-utils": {
       "appearances": 2,
@@ -12737,20 +12785,20 @@
       "last_seen": "2026-07-29"
     },
     "javis603/token-monitor": {
-      "appearances": 8,
+      "appearances": 9,
       "first_seen": "2026-07-05",
       "full_name": "Javis603/token-monitor",
       "last_run_label": "live",
-      "last_score": 88.08,
-      "last_seen": "2026-08-08"
+      "last_score": 88.18,
+      "last_seen": "2026-08-14"
     },
     "jayantdevkar/claude-code-karma": {
-      "appearances": 2,
+      "appearances": 3,
       "first_seen": "2026-07-20",
       "full_name": "JayantDevkar/claude-code-karma",
       "last_run_label": "live",
-      "last_score": 45.62,
-      "last_seen": "2026-07-30"
+      "last_score": 45.63,
+      "last_seen": "2026-08-14"
     },
     "jaychempan/agent-leaderboard": {
       "appearances": 2,
@@ -13017,12 +13065,12 @@
       "last_seen": "2026-07-07"
     },
     "jia-520-only/miya": {
-      "appearances": 1,
+      "appearances": 2,
       "first_seen": "2026-08-13",
       "full_name": "Jia-520-only/Miya",
       "last_run_label": "live",
       "last_score": 39.42,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "jia-ethan/codex-keysmith": {
       "appearances": 1,
@@ -13129,12 +13177,12 @@
       "last_seen": "2026-07-12"
     },
     "jmgirard/circumplex": {
-      "appearances": 22,
+      "appearances": 23,
       "first_seen": "2026-07-04",
       "full_name": "jmgirard/circumplex",
       "last_run_label": "live",
       "last_score": 42.35,
-      "last_seen": "2026-08-10"
+      "last_seen": "2026-08-14"
     },
     "jo-duchan/tapflow": {
       "appearances": 3,
@@ -13393,12 +13441,12 @@
       "last_seen": "2026-07-20"
     },
     "jtalk22/slack-mcp-server": {
-      "appearances": 4,
+      "appearances": 5,
       "first_seen": "2026-07-23",
       "full_name": "jtalk22/slack-mcp-server",
       "last_run_label": "live",
-      "last_score": 89.89,
-      "last_seen": "2026-08-08"
+      "last_score": 91.09,
+      "last_seen": "2026-08-14"
     },
     "juananzzz/resonus": {
       "appearances": 7,
@@ -13425,12 +13473,12 @@
       "last_seen": "2026-07-31"
     },
     "juggler-ai/juggler": {
-      "appearances": 6,
+      "appearances": 7,
       "first_seen": "2026-07-21",
       "full_name": "juggler-ai/juggler",
       "last_run_label": "live",
-      "last_score": 48.02,
-      "last_seen": "2026-08-09"
+      "last_score": 48.04,
+      "last_seen": "2026-08-14"
     },
     "juhlabs/juhradial-mx": {
       "appearances": 1,
@@ -13617,12 +13665,12 @@
       "last_seen": "2026-07-25"
     },
     "kaderkck/hewn-forge": {
-      "appearances": 78,
+      "appearances": 79,
       "first_seen": "2026-07-02",
       "full_name": "kaderkck/hewn-forge",
       "last_run_label": "live",
       "last_score": 75.39,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "kaelio/ktx": {
       "appearances": 3,
@@ -13689,12 +13737,12 @@
       "last_seen": "2026-08-10"
     },
     "kamegoro/tobira.nvim": {
-      "appearances": 11,
+      "appearances": 12,
       "first_seen": "2026-07-02",
       "full_name": "kamegoro/tobira.nvim",
       "last_run_label": "live",
-      "last_score": 74.47,
-      "last_seen": "2026-08-13"
+      "last_score": 72.22,
+      "last_seen": "2026-08-14"
     },
     "kamerrezz/discord-dashboard_basic": {
       "appearances": 1,
@@ -13905,12 +13953,12 @@
       "last_seen": "2026-08-02"
     },
     "kdlbs/kandev": {
-      "appearances": 9,
+      "appearances": 10,
       "first_seen": "2026-07-07",
       "full_name": "kdlbs/kandev",
       "last_run_label": "live",
-      "last_score": 61.76,
-      "last_seen": "2026-08-13"
+      "last_score": 61.78,
+      "last_seen": "2026-08-14"
     },
     "kearril/rimsearcher": {
       "appearances": 4,
@@ -13937,12 +13985,12 @@
       "last_seen": "2026-08-10"
     },
     "kentucky-ai/opentakeoff": {
-      "appearances": 3,
+      "appearances": 4,
       "first_seen": "2026-07-18",
       "full_name": "Kentucky-ai/opentakeoff",
       "last_run_label": "live",
-      "last_score": 54.17,
-      "last_seen": "2026-08-02"
+      "last_score": 89.7,
+      "last_seen": "2026-08-14"
     },
     "kerlenton/mcpsnoop": {
       "appearances": 3,
@@ -14105,20 +14153,20 @@
       "last_seen": "2026-08-12"
     },
     "kirodotdev/kirocrew": {
-      "appearances": 16,
+      "appearances": 17,
       "first_seen": "2026-08-05",
       "full_name": "kirodotdev/KiroCrew",
       "last_run_label": "live",
-      "last_score": 86.77,
-      "last_seen": "2026-08-13"
+      "last_score": 86.78,
+      "last_seen": "2026-08-14"
     },
     "kite-org/kite": {
-      "appearances": 10,
+      "appearances": 11,
       "first_seen": "2026-07-11",
       "full_name": "kite-org/kite",
       "last_run_label": "live",
       "last_score": 48.73,
-      "last_seen": "2026-08-06"
+      "last_seen": "2026-08-14"
     },
     "kitionai/kition": {
       "appearances": 1,
@@ -14129,12 +14177,12 @@
       "last_seen": "2026-08-13"
     },
     "kitsunekode/kunai": {
-      "appearances": 1,
+      "appearances": 2,
       "first_seen": "2026-07-28",
       "full_name": "KitsuneKode/kunai",
       "last_run_label": "live",
-      "last_score": 47.56,
-      "last_seen": "2026-07-28"
+      "last_score": 45.38,
+      "last_seen": "2026-08-14"
     },
     "kitswas/fdroid-metrics-dashboard": {
       "appearances": 1,
@@ -14201,12 +14249,12 @@
       "last_seen": "2026-08-02"
     },
     "koala73/worldmonitor": {
-      "appearances": 64,
+      "appearances": 65,
       "first_seen": "2026-07-02",
       "full_name": "koala73/worldmonitor",
       "last_run_label": "live",
       "last_score": 51.77,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "kobar-project/kobar": {
       "appearances": 1,
@@ -14465,12 +14513,12 @@
       "last_seen": "2026-08-07"
     },
     "kunkka19xx/look": {
-      "appearances": 24,
+      "appearances": 25,
       "first_seen": "2026-07-05",
       "full_name": "kunkka19xx/look",
       "last_run_label": "live",
       "last_score": 75.4,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "kunwarvivek/mcp-github-project-manager": {
       "appearances": 1,
@@ -14649,12 +14697,12 @@
       "last_seen": "2026-07-13"
     },
     "lance-format/lance": {
-      "appearances": 65,
+      "appearances": 66,
       "first_seen": "2026-07-03",
       "full_name": "lance-format/lance",
       "last_run_label": "live",
       "last_score": 58.0,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "lanchuske/local-mcp-releases": {
       "appearances": 11,
@@ -14665,12 +14713,12 @@
       "last_seen": "2026-08-09"
     },
     "langbot-app/langbot": {
-      "appearances": 4,
+      "appearances": 5,
       "first_seen": "2026-07-03",
       "full_name": "langbot-app/LangBot",
       "last_run_label": "live",
-      "last_score": 54.08,
-      "last_seen": "2026-08-02"
+      "last_score": 54.09,
+      "last_seen": "2026-08-14"
     },
     "langchain-ai/agent-chat-ui": {
       "appearances": 1,
@@ -14681,12 +14729,12 @@
       "last_seen": "2026-07-15"
     },
     "langchain-ai/open-swe": {
-      "appearances": 13,
+      "appearances": 14,
       "first_seen": "2026-07-07",
       "full_name": "langchain-ai/open-swe",
       "last_run_label": "live",
       "last_score": 50.7,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "langfuse/langfuse": {
       "appearances": 22,
@@ -14793,12 +14841,12 @@
       "last_seen": "2026-07-13"
     },
     "leandrocp/lumis": {
-      "appearances": 5,
+      "appearances": 6,
       "first_seen": "2026-07-07",
       "full_name": "leandrocp/lumis",
       "last_run_label": "live",
       "last_score": 49.59,
-      "last_seen": "2026-08-10"
+      "last_seen": "2026-08-14"
     },
     "leanercloud/cudly": {
       "appearances": 4,
@@ -14937,12 +14985,12 @@
       "last_seen": "2026-08-04"
     },
     "leopu00/job-hunter-team": {
-      "appearances": 8,
+      "appearances": 9,
       "first_seen": "2026-07-19",
       "full_name": "leopu00/job-hunter-team",
       "last_run_label": "live",
       "last_score": 89.15,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "leorigasaki/anime-dataset": {
       "appearances": 41,
@@ -15025,12 +15073,12 @@
       "last_seen": "2026-07-27"
     },
     "licoy/strokemouse": {
-      "appearances": 7,
+      "appearances": 8,
       "first_seen": "2026-07-19",
       "full_name": "Licoy/StrokeMouse",
       "last_run_label": "live",
-      "last_score": 69.03,
-      "last_seen": "2026-08-08"
+      "last_score": 81.4,
+      "last_seen": "2026-08-14"
     },
     "lifeforge-app/lifeforge": {
       "appearances": 1,
@@ -15041,12 +15089,12 @@
       "last_seen": "2026-08-12"
     },
     "lightdash/lightdash": {
-      "appearances": 20,
+      "appearances": 21,
       "first_seen": "2026-07-03",
       "full_name": "lightdash/lightdash",
       "last_run_label": "live",
       "last_score": 57.44,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "lightpohl/podcast-dl": {
       "appearances": 1,
@@ -15225,12 +15273,12 @@
       "last_seen": "2026-07-31"
     },
     "lithiumgreentek/power-bi-design-vault": {
-      "appearances": 70,
+      "appearances": 71,
       "first_seen": "2026-07-03",
       "full_name": "Lithiumgreentek/power-bi-design-vault",
       "last_run_label": "live",
       "last_score": 47.25,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "littlebearapps/outlook-assistant": {
       "appearances": 1,
@@ -15281,28 +15329,28 @@
       "last_seen": "2026-08-11"
     },
     "lobehub/lobehub": {
-      "appearances": 64,
+      "appearances": 65,
       "first_seen": "2026-07-02",
       "full_name": "lobehub/lobehub",
       "last_run_label": "live",
       "last_score": 51.27,
-      "last_seen": "2026-08-12"
+      "last_seen": "2026-08-14"
     },
     "lobu-ai/lobu": {
-      "appearances": 15,
+      "appearances": 16,
       "first_seen": "2026-07-03",
       "full_name": "lobu-ai/lobu",
       "last_run_label": "live",
-      "last_score": 53.1,
-      "last_seen": "2026-08-12"
+      "last_score": 88.65,
+      "last_seen": "2026-08-14"
     },
     "localstack/lstk": {
-      "appearances": 1,
+      "appearances": 2,
       "first_seen": "2026-07-31",
       "full_name": "localstack/lstk",
       "last_run_label": "live",
-      "last_score": 45.08,
-      "last_seen": "2026-07-31"
+      "last_score": 45.11,
+      "last_seen": "2026-08-14"
     },
     "loki-xer/jarvis": {
       "appearances": 1,
@@ -15352,6 +15400,14 @@
       "last_score": 46.5,
       "last_seen": "2026-07-17"
     },
+    "lostpigeonwrath/roblox-auto-pickaxe": {
+      "appearances": 1,
+      "first_seen": "2026-08-14",
+      "full_name": "LostPigeonWrath/Roblox-Auto-Pickaxe",
+      "last_run_label": "live",
+      "last_score": 61.03,
+      "last_seen": "2026-08-14"
+    },
     "louislam/uptime-kuma": {
       "appearances": 3,
       "first_seen": "2026-07-13",
@@ -15359,6 +15415,14 @@
       "last_run_label": "live",
       "last_score": 78.42,
       "last_seen": "2026-07-14"
+    },
+    "loveisbl1nd/linksift": {
+      "appearances": 1,
+      "first_seen": "2026-08-14",
+      "full_name": "loveisbl1nd/linksift",
+      "last_run_label": "live",
+      "last_score": 68.88,
+      "last_seen": "2026-08-14"
     },
     "lownamlee/cursorpeek": {
       "appearances": 1,
@@ -15408,6 +15472,14 @@
       "last_score": 58.95,
       "last_seen": "2026-08-07"
     },
+    "lukasmasuch/best-of-ml-python": {
+      "appearances": 1,
+      "first_seen": "2026-08-14",
+      "full_name": "lukasmasuch/best-of-ml-python",
+      "last_run_label": "live",
+      "last_score": 62.42,
+      "last_seen": "2026-08-14"
+    },
     "lukaszcz/coqhammer": {
       "appearances": 1,
       "first_seen": "2026-07-07",
@@ -15449,12 +15521,12 @@
       "last_seen": "2026-08-02"
     },
     "lunarwerxs/agenthydra": {
-      "appearances": 4,
+      "appearances": 5,
       "first_seen": "2026-08-04",
       "full_name": "LunarWerxs/AgentHydra",
       "last_run_label": "live",
-      "last_score": 44.08,
-      "last_seen": "2026-08-12"
+      "last_score": 44.26,
+      "last_seen": "2026-08-14"
     },
     "lunarwerxs/ccmanagerui": {
       "appearances": 3,
@@ -15601,12 +15673,12 @@
       "last_seen": "2026-08-04"
     },
     "m96-chan/ai_research_dashboard": {
-      "appearances": 69,
+      "appearances": 70,
       "first_seen": "2026-07-09",
       "full_name": "m96-chan/ai_research_dashboard",
       "last_run_label": "live",
       "last_score": 44.48,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "macalbert/envilder": {
       "appearances": 2,
@@ -15617,12 +15689,12 @@
       "last_seen": "2026-08-13"
     },
     "mach3-software/mach3": {
-      "appearances": 3,
+      "appearances": 4,
       "first_seen": "2026-07-06",
       "full_name": "mach3-software/MaCh3",
       "last_run_label": "live",
       "last_score": 36.42,
-      "last_seen": "2026-08-04"
+      "last_seen": "2026-08-14"
     },
     "machaao/llama-net": {
       "appearances": 1,
@@ -15641,12 +15713,12 @@
       "last_seen": "2026-07-24"
     },
     "macro-inc/macro": {
-      "appearances": 26,
+      "appearances": 27,
       "first_seen": "2026-07-03",
       "full_name": "macro-inc/macro",
       "last_run_label": "live",
-      "last_score": 51.6,
-      "last_seen": "2026-08-12"
+      "last_score": 52.38,
+      "last_seen": "2026-08-14"
     },
     "madarco/agentbox": {
       "appearances": 2,
@@ -15929,12 +16001,12 @@
       "last_seen": "2026-07-14"
     },
     "manyfold3d/manyfold": {
-      "appearances": 1,
+      "appearances": 2,
       "first_seen": "2026-07-10",
       "full_name": "manyfold3d/manyfold",
       "last_run_label": "live",
-      "last_score": 82.02,
-      "last_seen": "2026-07-10"
+      "last_score": 46.99,
+      "last_seen": "2026-08-14"
     },
     "manykarim/rf-mcp": {
       "appearances": 1,
@@ -16201,12 +16273,12 @@
       "last_seen": "2026-07-12"
     },
     "maurodruwel/nimstats": {
-      "appearances": 83,
+      "appearances": 84,
       "first_seen": "2026-07-02",
       "full_name": "MauroDruwel/NIMStats",
       "last_run_label": "live",
       "last_score": 44.71,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "mauvilsa/jsonargparse": {
       "appearances": 1,
@@ -16465,12 +16537,12 @@
       "last_seen": "2026-07-14"
     },
     "metabase/metabase": {
-      "appearances": 80,
+      "appearances": 81,
       "first_seen": "2026-07-02",
       "full_name": "metabase/metabase",
       "last_run_label": "live",
       "last_score": 65.95,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "metabuilder-labs/tokenjam": {
       "appearances": 4,
@@ -16688,6 +16760,14 @@
       "last_score": 85.43,
       "last_seen": "2026-08-03"
     },
+    "microsoft/tui-test": {
+      "appearances": 1,
+      "first_seen": "2026-08-14",
+      "full_name": "microsoft/tui-test",
+      "last_run_label": "live",
+      "last_score": 82.83,
+      "last_seen": "2026-08-14"
+    },
     "microsoft/ufo": {
       "appearances": 1,
       "first_seen": "2026-08-10",
@@ -16881,12 +16961,12 @@
       "last_seen": "2026-07-10"
     },
     "mittalananya2006/obsidian-workflow-atelier": {
-      "appearances": 66,
+      "appearances": 67,
       "first_seen": "2026-07-03",
       "full_name": "mittalananya2006/Obsidian-Workflow-Atelier",
       "last_run_label": "live",
       "last_score": 37.76,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "mixpeek/amux": {
       "appearances": 8,
@@ -16929,12 +17009,12 @@
       "last_seen": "2026-07-12"
     },
     "mnemosyne-systems/orangu": {
-      "appearances": 1,
+      "appearances": 2,
       "first_seen": "2026-07-11",
       "full_name": "mnemosyne-systems/orangu",
       "last_run_label": "live",
-      "last_score": 48.57,
-      "last_seen": "2026-07-11"
+      "last_score": 48.65,
+      "last_seen": "2026-08-14"
     },
     "mng-dev-ai/agentrove": {
       "appearances": 5,
@@ -17009,12 +17089,12 @@
       "last_seen": "2026-08-02"
     },
     "modiqo/skillspec": {
-      "appearances": 61,
+      "appearances": 62,
       "first_seen": "2026-07-02",
       "full_name": "modiqo/skillspec",
       "last_run_label": "live",
       "last_score": 51.37,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "modl-org/modl": {
       "appearances": 1,
@@ -17049,12 +17129,12 @@
       "last_seen": "2026-07-21"
     },
     "mogretici/nestlens": {
-      "appearances": 2,
+      "appearances": 3,
       "first_seen": "2026-08-11",
       "full_name": "mogretici/nestlens",
       "last_run_label": "live",
       "last_score": 43.12,
-      "last_seen": "2026-08-12"
+      "last_seen": "2026-08-14"
     },
     "moh6x/fauna-downloader": {
       "appearances": 7,
@@ -17073,12 +17153,12 @@
       "last_seen": "2026-08-10"
     },
     "mohammadbahemmat/v2ray-collector": {
-      "appearances": 60,
+      "appearances": 61,
       "first_seen": "2026-07-02",
       "full_name": "MohammadBahemmat/V2ray-Collector",
       "last_run_label": "live",
-      "last_score": 70.51,
-      "last_seen": "2026-08-08"
+      "last_score": 70.5,
+      "last_seen": "2026-08-14"
     },
     "mohitagw15856/pm-claude-skills": {
       "appearances": 8,
@@ -17536,6 +17616,14 @@
       "last_score": 53.08,
       "last_seen": "2026-07-26"
     },
+    "multithreadcorner/hydra": {
+      "appearances": 1,
+      "first_seen": "2026-08-14",
+      "full_name": "MultithreadCorner/Hydra",
+      "last_run_label": "live",
+      "last_score": 38.67,
+      "last_seen": "2026-08-14"
+    },
     "murat65536/dcat": {
       "appearances": 1,
       "first_seen": "2026-07-24",
@@ -17649,12 +17737,12 @@
       "last_seen": "2026-07-26"
     },
     "myunwang/llmpet": {
-      "appearances": 7,
+      "appearances": 8,
       "first_seen": "2026-07-26",
       "full_name": "myunwang/LLMPET",
       "last_run_label": "live",
-      "last_score": 75.12,
-      "last_seen": "2026-08-13"
+      "last_score": 75.13,
+      "last_seen": "2026-08-14"
     },
     "n4s4/synology-api": {
       "appearances": 1,
@@ -17665,12 +17753,12 @@
       "last_seen": "2026-07-04"
     },
     "n8n-io/n8n": {
-      "appearances": 56,
+      "appearances": 57,
       "first_seen": "2026-07-02",
       "full_name": "n8n-io/n8n",
       "last_run_label": "live",
       "last_score": 90.3,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "nageoffer/ragent": {
       "appearances": 2,
@@ -17889,12 +17977,12 @@
       "last_seen": "2026-07-16"
     },
     "nesquena/hermes-webui": {
-      "appearances": 13,
+      "appearances": 14,
       "first_seen": "2026-07-03",
       "full_name": "nesquena/hermes-webui",
       "last_run_label": "live",
-      "last_score": 51.07,
-      "last_seen": "2026-07-30"
+      "last_score": 51.09,
+      "last_seen": "2026-08-14"
     },
     "netboxlabs/netbox-proxmox-automation": {
       "appearances": 1,
@@ -17913,12 +18001,12 @@
       "last_seen": "2026-07-02"
     },
     "netease-youdao/lobsterai": {
-      "appearances": 27,
+      "appearances": 28,
       "first_seen": "2026-07-02",
       "full_name": "netease-youdao/LobsterAI",
       "last_run_label": "live",
       "last_score": 91.7,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "netlify/cli": {
       "appearances": 1,
@@ -17937,12 +18025,12 @@
       "last_seen": "2026-07-20"
     },
     "neuhausi/canvasxpress": {
-      "appearances": 1,
+      "appearances": 2,
       "first_seen": "2026-08-07",
       "full_name": "neuhausi/canvasXpress",
       "last_run_label": "live",
       "last_score": 48.5,
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-14"
     },
     "neuralegion/bright-cli": {
       "appearances": 1,
@@ -18001,12 +18089,12 @@
       "last_seen": "2026-08-13"
     },
     "newrelic/newrelic-ruby-agent": {
-      "appearances": 7,
+      "appearances": 8,
       "first_seen": "2026-07-03",
       "full_name": "newrelic/newrelic-ruby-agent",
       "last_run_label": "live",
       "last_score": 48.73,
-      "last_seen": "2026-08-04"
+      "last_seen": "2026-08-14"
     },
     "nexaflowfrance/openfamily": {
       "appearances": 3,
@@ -18073,12 +18161,12 @@
       "last_seen": "2026-08-01"
     },
     "nicholascone/agnes-ai-video-suite": {
-      "appearances": 42,
+      "appearances": 43,
       "first_seen": "2026-07-02",
       "full_name": "NicholasCone/agnes-ai-video-suite",
       "last_run_label": "live",
       "last_score": 68.78,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "nickpoison/astsa": {
       "appearances": 4,
@@ -18145,12 +18233,12 @@
       "last_seen": "2026-07-14"
     },
     "niketkumardheeryan/ml-capsule": {
-      "appearances": 37,
+      "appearances": 38,
       "first_seen": "2026-07-03",
       "full_name": "Niketkumardheeryan/ML-CaPsule",
       "last_run_label": "live",
       "last_score": 49.72,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "niki914/agentic-nexus": {
       "appearances": 6,
@@ -18185,12 +18273,12 @@
       "last_seen": "2026-08-03"
     },
     "ninouanis84-sudo/foxl-orchestrator": {
-      "appearances": 78,
+      "appearances": 79,
       "first_seen": "2026-07-02",
       "full_name": "ninouanis84-sudo/foxl-orchestrator",
       "last_run_label": "live",
       "last_score": 77.68,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "nirholas/xactions": {
       "appearances": 1,
@@ -18409,12 +18497,12 @@
       "last_seen": "2026-07-12"
     },
     "noviaidrl/copilot-tunnel-proxy": {
-      "appearances": 47,
+      "appearances": 48,
       "first_seen": "2026-07-03",
       "full_name": "noviaidrl/copilot-tunnel-proxy",
       "last_run_label": "live",
       "last_score": 45.65,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "nrwl/nx": {
       "appearances": 8,
@@ -18513,12 +18601,12 @@
       "last_seen": "2026-07-07"
     },
     "nvidia/cudf": {
-      "appearances": 3,
+      "appearances": 4,
       "first_seen": "2026-08-12",
       "full_name": "NVIDIA/cudf",
       "last_run_label": "live",
       "last_score": 47.62,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "nwalser/themia-releases": {
       "appearances": 1,
@@ -18615,6 +18703,14 @@
       "last_run_label": "live",
       "last_score": 81.93,
       "last_seen": "2026-07-30"
+    },
+    "obiente/nc-native": {
+      "appearances": 1,
+      "first_seen": "2026-08-14",
+      "full_name": "Obiente/nc-native",
+      "last_run_label": "live",
+      "last_score": 72.66,
+      "last_seen": "2026-08-14"
     },
     "objz/rmcl": {
       "appearances": 1,
@@ -18889,20 +18985,20 @@
       "last_seen": "2026-08-03"
     },
     "onyx-dot-app/onyx": {
-      "appearances": 16,
+      "appearances": 17,
       "first_seen": "2026-07-07",
       "full_name": "onyx-dot-app/onyx",
       "last_run_label": "live",
-      "last_score": 73.77,
-      "last_seen": "2026-08-11"
+      "last_score": 54.27,
+      "last_seen": "2026-08-14"
     },
     "oolab-labs/patchwork-os": {
-      "appearances": 15,
+      "appearances": 16,
       "first_seen": "2026-07-02",
       "full_name": "Oolab-labs/patchwork-os",
       "last_run_label": "live",
-      "last_score": 76.34,
-      "last_seen": "2026-08-12"
+      "last_score": 74.09,
+      "last_seen": "2026-08-14"
     },
     "oomol-lab/open-connector": {
       "appearances": 14,
@@ -19089,12 +19185,12 @@
       "last_seen": "2026-07-27"
     },
     "opendatahub-io/odh-dashboard": {
-      "appearances": 25,
+      "appearances": 26,
       "first_seen": "2026-07-02",
       "full_name": "opendatahub-io/odh-dashboard",
       "last_run_label": "live",
       "last_score": 37.64,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "opendcai/one-eval": {
       "appearances": 1,
@@ -20105,12 +20201,12 @@
       "last_seen": "2026-08-07"
     },
     "pinvou/pinvou-agent": {
-      "appearances": 6,
+      "appearances": 7,
       "first_seen": "2026-07-29",
       "full_name": "Pinvou/pinvou-agent",
       "last_run_label": "live",
-      "last_score": 81.4,
-      "last_seen": "2026-08-13"
+      "last_score": 81.43,
+      "last_seen": "2026-08-14"
     },
     "pip-install-python/dash-documentation-boilerplate": {
       "appearances": 3,
@@ -20121,12 +20217,12 @@
       "last_seen": "2026-08-02"
     },
     "pipedreamhq/pipedream": {
-      "appearances": 8,
+      "appearances": 9,
       "first_seen": "2026-07-03",
       "full_name": "PipedreamHQ/pipedream",
       "last_run_label": "live",
       "last_score": 70.04,
-      "last_seen": "2026-08-08"
+      "last_seen": "2026-08-14"
     },
     "pipeshub-ai/pipeshub-ai": {
       "appearances": 11,
@@ -20177,12 +20273,12 @@
       "last_seen": "2026-08-07"
     },
     "plaintool/trayslate": {
-      "appearances": 11,
+      "appearances": 12,
       "first_seen": "2026-07-03",
       "full_name": "plaintool/trayslate",
       "last_run_label": "live",
-      "last_score": 77.31,
-      "last_seen": "2026-08-09"
+      "last_score": 77.35,
+      "last_seen": "2026-08-14"
     },
     "plait-board/drawnix": {
       "appearances": 1,
@@ -20257,12 +20353,12 @@
       "last_seen": "2026-07-14"
     },
     "pm-shawn/abu-cowork": {
-      "appearances": 19,
+      "appearances": 20,
       "first_seen": "2026-07-05",
       "full_name": "PM-Shawn/Abu-Cowork",
       "last_run_label": "live",
-      "last_score": 84.42,
-      "last_seen": "2026-08-12"
+      "last_score": 84.45,
+      "last_seen": "2026-08-14"
     },
     "pmgraham/datagrunt": {
       "appearances": 4,
@@ -20449,12 +20545,12 @@
       "last_seen": "2026-07-03"
     },
     "prefecthq/prefect": {
-      "appearances": 6,
+      "appearances": 7,
       "first_seen": "2026-07-03",
       "full_name": "PrefectHQ/prefect",
       "last_run_label": "live",
       "last_score": 75.59,
-      "last_seen": "2026-08-06"
+      "last_seen": "2026-08-14"
     },
     "preloop/preloop": {
       "appearances": 1,
@@ -20649,12 +20745,12 @@
       "last_seen": "2026-07-03"
     },
     "psono/psono-server": {
-      "appearances": 2,
+      "appearances": 3,
       "first_seen": "2026-07-13",
       "full_name": "psono/psono-server",
       "last_run_label": "live",
       "last_score": 76.64,
-      "last_seen": "2026-07-31"
+      "last_seen": "2026-08-14"
     },
     "pssah4/vault-operator": {
       "appearances": 3,
@@ -20753,12 +20849,12 @@
       "last_seen": "2026-07-20"
     },
     "putervision/vision-memory-mcp": {
-      "appearances": 15,
+      "appearances": 16,
       "first_seen": "2026-08-06",
       "full_name": "putervision/vision-memory-mcp",
       "last_run_label": "live",
-      "last_score": 47.19,
-      "last_seen": "2026-08-13"
+      "last_score": 47.23,
+      "last_seen": "2026-08-14"
     },
     "pvolok/dekit": {
       "appearances": 1,
@@ -20825,12 +20921,12 @@
       "last_seen": "2026-08-09"
     },
     "q00/ouroboros": {
-      "appearances": 1,
+      "appearances": 2,
       "first_seen": "2026-08-10",
       "full_name": "Q00/ouroboros",
       "last_run_label": "live",
-      "last_score": 58.48,
-      "last_seen": "2026-08-10"
+      "last_score": 58.49,
+      "last_seen": "2026-08-14"
     },
     "qauth-labs/qauth": {
       "appearances": 1,
@@ -21017,12 +21113,12 @@
       "last_seen": "2026-07-10"
     },
     "railwayapp/cli": {
-      "appearances": 1,
+      "appearances": 2,
       "first_seen": "2026-07-14",
       "full_name": "railwayapp/cli",
       "last_run_label": "live",
-      "last_score": 53.45,
-      "last_seen": "2026-07-14"
+      "last_score": 53.47,
+      "last_seen": "2026-08-14"
     },
     "raintree-technology/docpull": {
       "appearances": 1,
@@ -21097,12 +21193,12 @@
       "last_seen": "2026-08-13"
     },
     "randyfajar/inbox-watcher-cli": {
-      "appearances": 49,
+      "appearances": 50,
       "first_seen": "2026-07-02",
       "full_name": "randyfajar/inbox-watcher-cli",
       "last_run_label": "live",
       "last_score": 75.04,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "ranxi2001/zero2agent": {
       "appearances": 2,
@@ -21273,12 +21369,12 @@
       "last_seen": "2026-08-13"
     },
     "react18-tools/turborepo-template": {
-      "appearances": 25,
+      "appearances": 26,
       "first_seen": "2026-07-03",
       "full_name": "react18-tools/turborepo-template",
       "last_run_label": "live",
       "last_score": 81.8,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "reactionmechanismgenerator/arc": {
       "appearances": 2,
@@ -21753,12 +21849,12 @@
       "last_seen": "2026-08-03"
     },
     "robusta-dev/robusta": {
-      "appearances": 1,
+      "appearances": 2,
       "first_seen": "2026-08-11",
       "full_name": "robusta-dev/robusta",
       "last_run_label": "live",
-      "last_score": 77.43,
-      "last_seen": "2026-08-11"
+      "last_score": 51.52,
+      "last_seen": "2026-08-14"
     },
     "rockbenben/chatgpt-shortcut": {
       "appearances": 2,
@@ -21873,12 +21969,12 @@
       "last_seen": "2026-07-11"
     },
     "rorkai/app-store-connect-cli": {
-      "appearances": 9,
+      "appearances": 10,
       "first_seen": "2026-07-16",
       "full_name": "rorkai/App-Store-Connect-CLI",
       "last_run_label": "live",
-      "last_score": 85.77,
-      "last_seen": "2026-08-12"
+      "last_score": 85.79,
+      "last_seen": "2026-08-14"
     },
     "rorkai/app-store-connect-cli-skills": {
       "appearances": 2,
@@ -21913,12 +22009,12 @@
       "last_seen": "2026-07-07"
     },
     "rowboatlabs/rowboat": {
-      "appearances": 35,
+      "appearances": 36,
       "first_seen": "2026-07-02",
       "full_name": "rowboatlabs/rowboat",
       "last_run_label": "live",
-      "last_score": 85.13,
-      "last_seen": "2026-08-13"
+      "last_score": 85.14,
+      "last_seen": "2026-08-14"
     },
     "roxy-wi/incidentrelay": {
       "appearances": 2,
@@ -22049,12 +22145,12 @@
       "last_seen": "2026-07-25"
     },
     "rush86999/atom": {
-      "appearances": 20,
+      "appearances": 21,
       "first_seen": "2026-07-12",
       "full_name": "rush86999/atom",
       "last_run_label": "live",
       "last_score": 94.11,
-      "last_seen": "2026-08-12"
+      "last_seen": "2026-08-14"
     },
     "ruslanmv/bot-mmorpg-ai": {
       "appearances": 1,
@@ -22449,12 +22545,12 @@
       "last_seen": "2026-07-08"
     },
     "sandro2211/powerbi-ml-insight-engine": {
-      "appearances": 82,
+      "appearances": 83,
       "first_seen": "2026-07-02",
       "full_name": "sandro2211/powerbi-ml-insight-engine",
       "last_run_label": "live",
       "last_score": 43.74,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "sane-apps/saneclick": {
       "appearances": 2,
@@ -22489,12 +22585,12 @@
       "last_seen": "2026-08-13"
     },
     "santifer/warpchart": {
-      "appearances": 15,
+      "appearances": 16,
       "first_seen": "2026-08-02",
       "full_name": "santifer/warpchart",
       "last_run_label": "live",
       "last_score": 39.78,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "santofer/remindian": {
       "appearances": 1,
@@ -22529,12 +22625,12 @@
       "last_seen": "2026-07-26"
     },
     "saurabhav88/enviouswispr": {
-      "appearances": 41,
+      "appearances": 42,
       "first_seen": "2026-07-06",
       "full_name": "saurabhav88/EnviousWispr",
       "last_run_label": "live",
       "last_score": 70.97,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "savvyagents/larasend": {
       "appearances": 2,
@@ -22553,12 +22649,12 @@
       "last_seen": "2026-07-13"
     },
     "sazardev/shiki": {
-      "appearances": 7,
+      "appearances": 8,
       "first_seen": "2026-07-28",
       "full_name": "sazardev/shiki",
       "last_run_label": "live",
-      "last_score": 80.81,
-      "last_seen": "2026-08-12"
+      "last_score": 80.86,
+      "last_seen": "2026-08-14"
     },
     "sbondco/watcharr": {
       "appearances": 1,
@@ -22649,12 +22745,12 @@
       "last_seen": "2026-08-12"
     },
     "scikit-hep/awkward": {
-      "appearances": 12,
+      "appearances": 13,
       "first_seen": "2026-07-02",
       "full_name": "scikit-hep/awkward",
       "last_run_label": "live",
       "last_score": 44.72,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "scikit-learn/scikit-learn": {
       "appearances": 26,
@@ -22673,12 +22769,12 @@
       "last_seen": "2026-08-09"
     },
     "scitools/iris": {
-      "appearances": 4,
+      "appearances": 5,
       "first_seen": "2026-07-03",
       "full_name": "SciTools/iris",
       "last_run_label": "live",
       "last_score": 41.69,
-      "last_seen": "2026-07-31"
+      "last_seen": "2026-08-14"
     },
     "scrapfly/scrapfly-scrapers": {
       "appearances": 1,
@@ -22769,12 +22865,12 @@
       "last_seen": "2026-07-23"
     },
     "seeb4coding/svg-ora-studio": {
-      "appearances": 3,
+      "appearances": 4,
       "first_seen": "2026-08-12",
       "full_name": "seeb4coding/SVG-ORA-Studio",
       "last_run_label": "live",
       "last_score": 40.07,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "seemseam/claude_codex_bridge": {
       "appearances": 3,
@@ -23153,12 +23249,12 @@
       "last_seen": "2026-08-12"
     },
     "sigee-min/ashfox": {
-      "appearances": 30,
+      "appearances": 31,
       "first_seen": "2026-07-29",
       "full_name": "sigee-min/ashfox",
       "last_run_label": "live",
       "last_score": 48.23,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "sighupio/gatekeeper-policy-manager": {
       "appearances": 1,
@@ -23265,12 +23361,12 @@
       "last_seen": "2026-08-10"
     },
     "sireeshs14/discord-nitro-sniper-automation-framework": {
-      "appearances": 35,
+      "appearances": 36,
       "first_seen": "2026-07-03",
       "full_name": "sireeshs14/Discord-Nitro-Sniper-Automation-Framework",
       "last_run_label": "live",
       "last_score": 66.54,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "sirmalloc/ccstatusline": {
       "appearances": 1,
@@ -23401,12 +23497,12 @@
       "last_seen": "2026-08-05"
     },
     "sleep2agi/agent-network": {
-      "appearances": 12,
+      "appearances": 13,
       "first_seen": "2026-07-04",
       "full_name": "sleep2agi/agent-network",
       "last_run_label": "live",
-      "last_score": 41.23,
-      "last_seen": "2026-08-13"
+      "last_score": 41.26,
+      "last_seen": "2026-08-14"
     },
     "slothflowlabs/duckle": {
       "appearances": 4,
@@ -23697,12 +23793,12 @@
       "last_seen": "2026-08-02"
     },
     "sonichi/sutando": {
-      "appearances": 21,
+      "appearances": 22,
       "first_seen": "2026-07-04",
       "full_name": "sonichi/sutando",
       "last_run_label": "live",
       "last_score": 82.23,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "sopho-tech/sopho": {
       "appearances": 1,
@@ -23745,12 +23841,12 @@
       "last_seen": "2026-08-12"
     },
     "sorty-organizer/sorty": {
-      "appearances": 27,
+      "appearances": 28,
       "first_seen": "2026-07-07",
       "full_name": "sorty-organizer/Sorty",
       "last_run_label": "live",
       "last_score": 77.24,
-      "last_seen": "2026-08-10"
+      "last_seen": "2026-08-14"
     },
     "soulmelody/libresvip": {
       "appearances": 3,
@@ -23775,6 +23871,14 @@
       "last_run_label": "live",
       "last_score": 48.23,
       "last_seen": "2026-07-16"
+    },
+    "sowarma/wp2shell-poc": {
+      "appearances": 1,
+      "first_seen": "2026-08-14",
+      "full_name": "sowarma/wp2shell-PoC",
+      "last_run_label": "live",
+      "last_score": 33.44,
+      "last_seen": "2026-08-14"
     },
     "soxoj/maigret": {
       "appearances": 5,
@@ -23833,12 +23937,12 @@
       "last_seen": "2026-07-04"
     },
     "spectrochempy/spectrochempy": {
-      "appearances": 28,
+      "appearances": 29,
       "first_seen": "2026-07-03",
       "full_name": "spectrochempy/spectrochempy",
       "last_run_label": "live",
       "last_score": 47.0,
-      "last_seen": "2026-08-10"
+      "last_seen": "2026-08-14"
     },
     "spences10/mcpick": {
       "appearances": 1,
@@ -24017,12 +24121,12 @@
       "last_seen": "2026-08-02"
     },
     "stablyai/orca": {
-      "appearances": 51,
+      "appearances": 52,
       "first_seen": "2026-07-03",
       "full_name": "stablyai/orca",
       "last_run_label": "live",
       "last_score": 62.67,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "stackexchange/survey": {
       "appearances": 2,
@@ -24169,12 +24273,12 @@
       "last_seen": "2026-08-13"
     },
     "stirling-tools/stirling-pdf": {
-      "appearances": 15,
+      "appearances": 16,
       "first_seen": "2026-07-03",
       "full_name": "Stirling-Tools/Stirling-PDF",
       "last_run_label": "live",
       "last_score": 75.57,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "stoe/gh-report": {
       "appearances": 1,
@@ -24241,12 +24345,12 @@
       "last_seen": "2026-08-11"
     },
     "streamlit/streamlit": {
-      "appearances": 68,
+      "appearances": 69,
       "first_seen": "2026-07-02",
       "full_name": "streamlit/streamlit",
       "last_run_label": "live",
       "last_score": 53.95,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "streetwriters/notesnook": {
       "appearances": 15,
@@ -24425,12 +24529,12 @@
       "last_seen": "2026-08-07"
     },
     "superset-sh/superset": {
-      "appearances": 14,
+      "appearances": 15,
       "first_seen": "2026-07-08",
       "full_name": "superset-sh/superset",
       "last_run_label": "live",
       "last_score": 59.28,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "suppierk/ccp": {
       "appearances": 1,
@@ -24529,12 +24633,12 @@
       "last_seen": "2026-08-06"
     },
     "suzuki-shunsuke/tfcmt": {
-      "appearances": 2,
+      "appearances": 3,
       "first_seen": "2026-07-21",
       "full_name": "suzuki-shunsuke/tfcmt",
       "last_run_label": "live",
-      "last_score": 50.39,
-      "last_seen": "2026-08-01"
+      "last_score": 50.4,
+      "last_seen": "2026-08-14"
     },
     "suzuki-shunsuke/tfprovidercheck": {
       "appearances": 3,
@@ -24543,6 +24647,14 @@
       "last_run_label": "live",
       "last_score": 45.15,
       "last_seen": "2026-07-26"
+    },
+    "sveltejs/cli": {
+      "appearances": 1,
+      "first_seen": "2026-08-14",
+      "full_name": "sveltejs/cli",
+      "last_run_label": "live",
+      "last_score": 50.31,
+      "last_seen": "2026-08-14"
     },
     "sweetim/token-lens": {
       "appearances": 1,
@@ -24631,6 +24743,14 @@
       "last_run_label": "live",
       "last_score": 82.91,
       "last_seen": "2026-07-12"
+    },
+    "synth1s/cloak": {
+      "appearances": 1,
+      "first_seen": "2026-08-14",
+      "full_name": "synth1s/cloak",
+      "last_run_label": "live",
+      "last_score": 47.93,
+      "last_seen": "2026-08-14"
     },
     "synthetic-sciences/openscience": {
       "appearances": 5,
@@ -24761,12 +24881,12 @@
       "last_seen": "2026-08-01"
     },
     "tabler/tabler": {
-      "appearances": 7,
+      "appearances": 8,
       "first_seen": "2026-07-18",
       "full_name": "tabler/tabler",
       "last_run_label": "live",
       "last_score": 48.77,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "taekchef/claude-code-zh-cn": {
       "appearances": 1,
@@ -25217,12 +25337,12 @@
       "last_seen": "2026-07-31"
     },
     "the01geek/prflow": {
-      "appearances": 12,
+      "appearances": 13,
       "first_seen": "2026-07-31",
       "full_name": "The01Geek/prflow",
       "last_run_label": "live",
       "last_score": 90.06,
-      "last_seen": "2026-08-11"
+      "last_seen": "2026-08-14"
     },
     "the911fund/skill-of-skills": {
       "appearances": 21,
@@ -25465,12 +25585,12 @@
       "last_seen": "2026-07-13"
     },
     "tianma-if/edgeever": {
-      "appearances": 17,
+      "appearances": 18,
       "first_seen": "2026-07-08",
       "full_name": "tianma-if/edgeever",
       "last_run_label": "live",
-      "last_score": 94.62,
-      "last_seen": "2026-08-13"
+      "last_score": 94.63,
+      "last_seen": "2026-08-14"
     },
     "tianxing-ovo/autoslide": {
       "appearances": 1,
@@ -25689,12 +25809,12 @@
       "last_seen": "2026-08-08"
     },
     "tom-draper/pldashboard": {
-      "appearances": 3,
+      "appearances": 4,
       "first_seen": "2026-07-20",
       "full_name": "tom-draper/pldashboard",
       "last_run_label": "live",
-      "last_score": 45.75,
-      "last_seen": "2026-07-23"
+      "last_score": 51.73,
+      "last_seen": "2026-08-14"
     },
     "tomasz-tomczyk/crit": {
       "appearances": 1,
@@ -25767,6 +25887,14 @@
       "last_run_label": "live",
       "last_score": 47.12,
       "last_seen": "2026-08-10"
+    },
+    "torqvoice/torqvoice": {
+      "appearances": 1,
+      "first_seen": "2026-08-14",
+      "full_name": "Torqvoice/torqvoice",
+      "last_run_label": "live",
+      "last_score": 82.15,
+      "last_seen": "2026-08-14"
     },
     "torrin-app/torrin": {
       "appearances": 3,
@@ -26033,12 +26161,12 @@
       "last_seen": "2026-07-12"
     },
     "tuist/tuist": {
-      "appearances": 45,
+      "appearances": 46,
       "first_seen": "2026-07-02",
       "full_name": "tuist/tuist",
       "last_run_label": "live",
       "last_score": 71.65,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "tuna-f1sh/cyme": {
       "appearances": 1,
@@ -26241,12 +26369,12 @@
       "last_seen": "2026-08-04"
     },
     "unslothai/unsloth": {
-      "appearances": 43,
+      "appearances": 44,
       "first_seen": "2026-07-02",
       "full_name": "unslothai/unsloth",
       "last_run_label": "live",
-      "last_score": 57.27,
-      "last_seen": "2026-08-13"
+      "last_score": 94.82,
+      "last_seen": "2026-08-14"
     },
     "upstash/box": {
       "appearances": 1,
@@ -26273,12 +26401,12 @@
       "last_seen": "2026-08-06"
     },
     "urzeye/ophel": {
-      "appearances": 13,
+      "appearances": 14,
       "first_seen": "2026-07-02",
       "full_name": "urzeye/ophel",
       "last_run_label": "live",
       "last_score": 79.55,
-      "last_seen": "2026-08-10"
+      "last_seen": "2026-08-14"
     },
     "usebruno/bruno": {
       "appearances": 11,
@@ -26425,12 +26553,12 @@
       "last_seen": "2026-07-21"
     },
     "valdeteselimi/dashpro-monitor-industrialbi": {
-      "appearances": 84,
+      "appearances": 85,
       "first_seen": "2026-07-02",
       "full_name": "valdeteselimi/DashPro-Monitor-IndustrialBI",
       "last_run_label": "live",
       "last_score": 51.92,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "valtora/nojoin": {
       "appearances": 15,
@@ -26513,12 +26641,12 @@
       "last_seen": "2026-07-25"
     },
     "vchelaru/flatredball": {
-      "appearances": 13,
+      "appearances": 14,
       "first_seen": "2026-07-19",
       "full_name": "vchelaru/FlatRedBall",
       "last_run_label": "live",
       "last_score": 53.84,
-      "last_seen": "2026-08-12"
+      "last_seen": "2026-08-14"
     },
     "vcmf/dim0": {
       "appearances": 6,
@@ -26657,12 +26785,12 @@
       "last_seen": "2026-08-05"
     },
     "vicinaehq/vicinae": {
-      "appearances": 22,
+      "appearances": 23,
       "first_seen": "2026-07-02",
       "full_name": "vicinaehq/vicinae",
       "last_run_label": "live",
       "last_score": 64.59,
-      "last_seen": "2026-08-12"
+      "last_seen": "2026-08-14"
     },
     "vijaykumarpeta/yt-comments-extractor": {
       "appearances": 1,
@@ -26681,12 +26809,12 @@
       "last_seen": "2026-07-27"
     },
     "vilmire/adhdev": {
-      "appearances": 53,
+      "appearances": 54,
       "first_seen": "2026-07-04",
       "full_name": "vilmire/adhdev",
       "last_run_label": "live",
-      "last_score": 55.12,
-      "last_seen": "2026-08-13"
+      "last_score": 50.8,
+      "last_seen": "2026-08-14"
     },
     "vincentkoc/dotskills": {
       "appearances": 6,
@@ -26729,12 +26857,12 @@
       "last_seen": "2026-08-13"
     },
     "vintabytes/ciencia-de-datos": {
-      "appearances": 14,
+      "appearances": 15,
       "first_seen": "2026-07-06",
       "full_name": "VintaBytes/Ciencia-de-datos",
       "last_run_label": "live",
-      "last_score": 45.27,
-      "last_seen": "2026-08-10"
+      "last_score": 45.52,
+      "last_seen": "2026-08-14"
     },
     "virastack/start": {
       "appearances": 1,
@@ -26793,12 +26921,12 @@
       "last_seen": "2026-07-11"
     },
     "vishalgitthub/cli-llm-mesh": {
-      "appearances": 37,
+      "appearances": 38,
       "first_seen": "2026-07-03",
       "full_name": "vishalGitthub/cli-llm-mesh",
       "last_run_label": "live",
       "last_score": 39.65,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "vishwa-vsr/flow": {
       "appearances": 1,
@@ -26833,12 +26961,12 @@
       "last_seen": "2026-07-19"
     },
     "vivekchand/clawmetry": {
-      "appearances": 45,
+      "appearances": 46,
       "first_seen": "2026-07-02",
       "full_name": "vivekchand/clawmetry",
       "last_run_label": "live",
       "last_score": 47.4,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "vkcom/statshouse": {
       "appearances": 1,
@@ -26897,12 +27025,12 @@
       "last_seen": "2026-08-10"
     },
     "void-anonymity/v.o.i.d-vpn_bypass": {
-      "appearances": 21,
+      "appearances": 22,
       "first_seen": "2026-07-04",
       "full_name": "VOID-Anonymity/V.O.I.D-VPN_Bypass",
       "last_run_label": "live",
-      "last_score": 62.65,
-      "last_seen": "2026-08-11"
+      "last_score": 62.68,
+      "last_seen": "2026-08-14"
     },
     "voidenhq/voiden": {
       "appearances": 3,
@@ -27073,12 +27201,12 @@
       "last_seen": "2026-07-10"
     },
     "walkinglabs/hands-on-modern-rl": {
-      "appearances": 4,
+      "appearances": 5,
       "first_seen": "2026-08-09",
       "full_name": "walkinglabs/hands-on-modern-rl",
       "last_run_label": "live",
       "last_score": 49.8,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "wangxijie001/yoji": {
       "appearances": 3,
@@ -27199,6 +27327,14 @@
       "last_run_label": "live",
       "last_score": 78.2,
       "last_seen": "2026-08-10"
+    },
+    "weby-homelab/antigravity-cli-statusline": {
+      "appearances": 1,
+      "first_seen": "2026-08-14",
+      "full_name": "weby-homelab/antigravity-cli-statusline",
+      "last_run_label": "live",
+      "last_score": 48.15,
+      "last_seen": "2026-08-14"
     },
     "weby-homelab/power-safety-ua": {
       "appearances": 2,
@@ -27456,6 +27592,14 @@
       "last_score": 86.87,
       "last_seen": "2026-08-13"
     },
+    "wolph/python-progressbar": {
+      "appearances": 1,
+      "first_seen": "2026-08-14",
+      "full_name": "wolph/python-progressbar",
+      "last_run_label": "live",
+      "last_score": 50.84,
+      "last_seen": "2026-08-14"
+    },
     "wonderwhy-er/desktopcommandermcp": {
       "appearances": 1,
       "first_seen": "2026-07-29",
@@ -27505,12 +27649,12 @@
       "last_seen": "2026-07-26"
     },
     "wox-launcher/wox": {
-      "appearances": 22,
+      "appearances": 23,
       "first_seen": "2026-07-04",
       "full_name": "Wox-launcher/Wox",
       "last_run_label": "live",
       "last_score": 78.77,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "wp-cli/builds": {
       "appearances": 6,
@@ -27761,12 +27905,12 @@
       "last_seen": "2026-08-13"
     },
     "xiaobaidadada/filecat": {
-      "appearances": 8,
+      "appearances": 9,
       "first_seen": "2026-07-03",
       "full_name": "xiaobaidadada/filecat",
       "last_run_label": "live",
-      "last_score": 77.4,
-      "last_seen": "2026-07-28"
+      "last_score": 77.41,
+      "last_seen": "2026-08-14"
     },
     "xiaoluolyg/god": {
       "appearances": 1,
@@ -27905,12 +28049,12 @@
       "last_seen": "2026-08-13"
     },
     "xorbitsai/xagent": {
-      "appearances": 7,
+      "appearances": 8,
       "first_seen": "2026-07-16",
       "full_name": "xorbitsai/xagent",
       "last_run_label": "live",
-      "last_score": 51.14,
-      "last_seen": "2026-08-10"
+      "last_score": 51.16,
+      "last_seen": "2026-08-14"
     },
     "xpert-ai/xpert": {
       "appearances": 2,
@@ -28449,12 +28593,12 @@
       "last_seen": "2026-07-07"
     },
     "zeroclaw-labs/zeroclaw": {
-      "appearances": 18,
+      "appearances": 19,
       "first_seen": "2026-07-03",
       "full_name": "zeroclaw-labs/zeroclaw",
       "last_run_label": "live",
       "last_score": 51.27,
-      "last_seen": "2026-08-13"
+      "last_seen": "2026-08-14"
     },
     "zerolovesea/brevia": {
       "appearances": 1,
@@ -28713,5 +28857,5 @@
       "last_seen": "2026-08-03"
     }
   },
-  "updated_at": "2026-08-13T05:48:55+00:00"
+  "updated_at": "2026-08-13T17:12:17+00:00"
 }
