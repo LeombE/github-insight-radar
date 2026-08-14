@@ -1,40 +1,40 @@
 # Data Scientist GitHub Insight - 2026-08-14
 
-Generated at: `2026-08-13T17:12:16+00:00`
+Generated at: `2026-08-14T05:46:32+00:00`
 Mode: `live`
 
 | Rank | Repo | Score | Action | Difficulty | Risk flags |
 | --- | --- | ---: | --- | --- | --- |
-| 1 | [lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) | 87.50 | Study for learning | Unknown | no README evidence, installation unclear, usage examples unclear |
-| 2 | [lance-format/lance](https://github.com/lance-format/lance) | 75.00 | Track for research | Advanced | no README evidence, installation unclear, usage examples unclear |
+| 1 | [lance-format/lance](https://github.com/lance-format/lance) | 75.00 | Track for research | Advanced | no README evidence, installation unclear, usage examples unclear |
+| 2 | [flyteorg/flyte](https://github.com/flyteorg/flyte) | 62.00 | Watch this week | Advanced | no README evidence, installation unclear, usage examples unclear |
 | 3 | [MauroDruwel/NIMStats](https://github.com/MauroDruwel/NIMStats) | 62.00 | Skip for now | Research-heavy | no README evidence, installation unclear, usage examples unclear, no license |
-| 4 | [gradio-app/gradio](https://github.com/gradio-app/gradio) | 55.50 | Track for research | Advanced | no README evidence, installation unclear, usage examples unclear |
-| 5 | [jtalk22/slack-mcp-server](https://github.com/jtalk22/slack-mcp-server) | 49.50 | Try today | Intermediate | None |
-| 6 | [Kentucky-ai/opentakeoff](https://github.com/Kentucky-ai/opentakeoff) | 49.50 | Try today | Intermediate | None |
-| 7 | [daniel3303/Equibles](https://github.com/daniel3303/Equibles) | 49.50 | Try today | Intermediate | many open issues relative to stars |
-| 8 | [kaderkck/hewn-forge](https://github.com/kaderkck/hewn-forge) | 49.50 | Use as portfolio reference | Intermediate | no license |
-| 9 | [Niketkumardheeryan/ML-CaPsule](https://github.com/Niketkumardheeryan/ML-CaPsule) | 49.50 | Track for research | Advanced | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
-| 10 | [putervision/vision-memory-mcp](https://github.com/putervision/vision-memory-mcp) | 49.50 | Track for research | Unknown | no README evidence, installation unclear, usage examples unclear |
-| 11 | [Bike4Mind/bike4mind](https://github.com/Bike4Mind/bike4mind) | 49.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
-| 12 | [m96-chan/ai_research_dashboard](https://github.com/m96-chan/ai_research_dashboard) | 49.50 | Skip for now | Research-heavy | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
-| 13 | [vishalGitthub/cli-llm-mesh](https://github.com/vishalGitthub/cli-llm-mesh) | 49.50 | Skip for now | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 14 | [spectrochempy/spectrochempy](https://github.com/spectrochempy/spectrochempy) | 43.00 | Track for research | Advanced | no README evidence, installation unclear, usage examples unclear |
+| 4 | [ibuilder/massing](https://github.com/ibuilder/massing) | 55.50 | Try today | Intermediate | None |
+| 5 | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | 55.50 | Watch this week | Advanced | no README evidence, installation unclear, usage examples unclear |
+| 6 | [mtrnix/metronix-memory](https://github.com/mtrnix/metronix-memory) | 55.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
+| 7 | [faithlumumba/2025-tencent-advertising-algorithm-competition-finalist](https://github.com/faithlumumba/2025-tencent-advertising-algorithm-competition-finalist) | 55.50 | Skip for now | Unknown | no README evidence, installation unclear, usage examples unclear |
+| 8 | [langgenius/dify](https://github.com/langgenius/dify) | 49.50 | Try today | Advanced | None |
+| 9 | [Bike4Mind/bike4mind](https://github.com/Bike4Mind/bike4mind) | 49.50 | Try today | Intermediate | many open issues relative to stars |
+| 10 | [kaderkck/hewn-forge](https://github.com/kaderkck/hewn-forge) | 49.50 | Use as portfolio reference | Intermediate | no license |
+| 11 | [kao8386/komga-sync-lite](https://github.com/kao8386/komga-sync-lite) | 49.50 | Study for learning | Beginner | installation unclear, no license |
+| 12 | [Niketkumardheeryan/ML-CaPsule](https://github.com/Niketkumardheeryan/ML-CaPsule) | 49.50 | Track for research | Advanced | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
+| 13 | [putervision/vision-memory-mcp](https://github.com/putervision/vision-memory-mcp) | 49.50 | Track for research | Unknown | no README evidence, installation unclear, usage examples unclear |
+| 14 | [m96-chan/ai_research_dashboard](https://github.com/m96-chan/ai_research_dashboard) | 49.50 | Skip for now | Research-heavy | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
 
 ## Project Notes
-### lukasmasuch/best-of-ml-python
-- Summary: lukasmasuch/best-of-ml-python is a unavailable project for Data Scientist: 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
-- Why it matters: It maps to Data Scientist needs with an evidence-based score of 62.42.
-- Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
-- Portfolio idea: Turn best-of-ml-python into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 23714; Forks: 3140; Language: unavailable; License: CC-BY-SA-4.0; README length: 0; Topics: automl, chatgpt, data-analysis, data-science, data-visualization, data-visualizations, deep-learning, gpt, gpt-3, jax, keras, machine-learning, ml, nlp, python, pytorch, scikit-learn, tensorflow, transformer
-- Confidence: low
-
 ### lance-format/lance
 - Summary: lance-format/lance is a Rust project for Data Scientist: Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
 - Why it matters: It maps to Data Scientist needs with an evidence-based score of 58.00.
 - Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
 - Portfolio idea: Turn lance into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 6934; Forks: 806; Language: Rust; License: Apache-2.0; README length: 0; Topics: apache-arrow, computer-vision, data-analysis, data-analytics, data-centric, data-format, data-science, dataops, deep-learning, duckdb, embeddings, llms, machine-learning, mlops, python, rust
+- Evidence: Stars: 6936; Forks: 806; Language: Rust; License: Apache-2.0; README length: 0; Topics: apache-arrow, computer-vision, data-analysis, data-analytics, data-centric, data-format, data-science, dataops, deep-learning, duckdb, embeddings, llms, machine-learning, mlops, python, rust
+- Confidence: low
+
+### flyteorg/flyte
+- Summary: flyteorg/flyte is a Go project for General User: Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
+- Why it matters: It maps to General User needs with an evidence-based score of 55.03.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn flyte into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 7201; Forks: 869; Language: Go; License: Apache-2.0; README length: 0; Topics: agentic, ai-agents, ai-development-tools, data-analysis, data-science, declarative, fine-tuning, flyte, golang, grpc, hacktoberfest, kubernetes, llm, machine-learning, mlops, orchestration-engine, production, python, scale, workflow
 - Confidence: low
 
 ### MauroDruwel/NIMStats
@@ -45,36 +45,52 @@ Mode: `live`
 - Evidence: Stars: 40; Forks: 16; Language: JavaScript; License: unavailable; README length: 0; Topics: ai, benchmark, dashboard, github-actions, llm, machine-learning, nim, nvidia, open-source
 - Confidence: low
 
-### gradio-app/gradio
-- Summary: gradio-app/gradio is a Python project for Data Scientist: Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-- Why it matters: It maps to Data Scientist needs with an evidence-based score of 54.77.
-- Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
-- Portfolio idea: Turn gradio into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 43355; Forks: 3574; Language: Python; License: Apache-2.0; README length: 0; Topics: data-analysis, data-science, data-visualization, deep-learning, deploy, gradio, gradio-interface, interface, machine-learning, models, python, python-notebook, ui, ui-components
+### ibuilder/massing
+- Summary: ibuilder/massing is a Python project for General User: Open, self-hosted, IFC-native AEC platform: web BIM viewer + modeling, a ~100-module GC portal (RFIs, pay apps, CPM, construction accounting — double-entry GL/WIP → QuickBooks, e-sign), AI assist, IDS authoring, estimating + embodied carbon, a development proforma, and operate/dispose (CMMS, facility condition, rent roll, waterfall).
+- Why it matters: It maps to General User needs with an evidence-based score of 87.73.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn massing into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 126; Forks: 58; Language: Python; License: MIT; README length: 29531; Topics: aec, appraisal, bcf, bim, bim-viewer, clash-detection, construction, construction-management, disposition, fastapi, ids, ifc, ifc-viewer, ifcopenshell, massing, openbim, proforma, real-estate, self-hosted, tauri
+- Confidence: high
+
+### bojieli/ai-agent-book
+- Summary: bojieli/ai-agent-book is a Python project for General User: 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+- Why it matters: It maps to General User needs with an evidence-based score of 50.67.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn ai-agent-book into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 37113; Forks: 4070; Language: Python; License: Apache-2.0; README length: 0; Topics: agent, agent-memory, ai-agent, book, coding-agent, context-engineering, large-language-models, llm, mcp, multi-agent, multimodal, rag, reinforcement-learning
 - Confidence: low
 
-### jtalk22/slack-mcp-server
-- Summary: jtalk22/slack-mcp-server is a JavaScript project for General User: Catch up on Slack without reading it. Unreads, threads, search. Browser-session or hosted OAuth. 21 tools.
-- Why it matters: It maps to General User needs with an evidence-based score of 91.09.
+### mtrnix/metronix-memory
+- Summary: mtrnix/metronix-memory is a Python project for General User: Metronix Memory is self-hosted memory infrastructure for AI agents: MCP-native, local-model friendly, with hybrid RAG, a temporal knowledge graph and ontology layer, durable memory, freshness checks, and agent-scoped context
+- Why it matters: It maps to General User needs with an evidence-based score of 46.31.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn slack-mcp-server into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 29; Forks: 21; Language: JavaScript; License: MIT; README length: 20519; Topics: agentic-ai, ai-agents, anthropic, claude, claude-code, claude-desktop, codex, copilot, cursor, developer-tools, gemini-cli, llm, local-first, mcp, mcp-server, model-context-protocol, productivity, slack, slack-api, slack-mcp
+- Portfolio idea: Turn metronix-memory into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 36; Forks: 8; Language: Python; License: Apache-2.0; README length: 0; Topics: agent-memory, ai-agents, ai-memory, hybrid-rag, knowledge-graph, llm-memory, mcp, ollama, ontology, open-source-ai, rag, self-hosted, temporal-knowledge-graph
+- Confidence: low
+
+### faithlumumba/2025-tencent-advertising-algorithm-competition-finalist
+- Summary: faithlumumba/2025-tencent-advertising-algorithm-competition-finalist is a Python project for Data Scientist: 🎯 Build a winning recommendation system with this effective generative framework, advancing to the finals of the 2025 Tencent Advertising Algorithm Competition.
+- Why it matters: It maps to Data Scientist needs with an evidence-based score of 44.70.
+- Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
+- Portfolio idea: Turn 2025-tencent-advertising-algorithm-competition-finalist into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 27; Forks: 2; Language: Python; License: Apache-2.0; README length: 0; Topics: advertising, algorithm, analytics, competitions, data-analysis, data-science, deep-learning, feature-engineering, finalist, fintech, machine-learning, online-ads, optimization, predictive-modeling, tencent
+- Confidence: low
+
+### langgenius/dify
+- Summary: langgenius/dify is a TypeScript project for General User: Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
+- Why it matters: It maps to General User needs with an evidence-based score of 97.00.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn dify into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 152403; Forks: 24054; Language: TypeScript; License: NOASSERTION; README length: 14477; Topics: agent, agentic-ai, agentic-framework, agentic-workflow, ai, automation, claude, genai, gpt, llm, low-code, mcp, nextjs, no-code, openai, orchestration, python, rag, skills, workflow
 - Confidence: high
 
-### Kentucky-ai/opentakeoff
-- Summary: Kentucky-ai/opentakeoff is a TypeScript project for General User: Open-source (Apache-2.0) PDF takeoff for construction & flooring — the first engine an AI agent drives natively over MCP, not bolted on. One-click room detection, materials + quantities, built for preconstruction. Runs entirely in your browser.
-- Why it matters: It maps to General User needs with an evidence-based score of 89.70.
+### Bike4Mind/bike4mind
+- Summary: Bike4Mind/bike4mind is a TypeScript project for General User: The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama/vLLM. BSL 1.1,  auto-converting to Apache-2.0 on a two-year clock. Your AI keeps running when theirs doesn't.
+- Why it matters: It maps to General User needs with an evidence-based score of 82.12.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn opentakeoff into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 79; Forks: 24; Language: TypeScript; License: Apache-2.0; README length: 41487; Topics: aec, ai-agent, blueprint, construction, construction-estimating, construction-tech, cost-estimation, estimating, flooring, flooring-takeoff, mcp, measurement, model-context-protocol, pdf, pdfjs, project-management, quantity-surveying, quantity-takeoff, self-hosted, takeoff
-- Confidence: high
-
-### daniel3303/Equibles
-- Summary: daniel3303/Equibles is a C# project for General User: Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trades, short interest, FRED, CFTC/CBOE and daily prices across 64 MCP tools. Equibles Cloud adds earnings call transcripts, live quotes, options chains with Greeks, guidance and a screener.
-- Why it matters: It maps to General User needs with an evidence-based score of 85.88.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn Equibles into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 196; Forks: 22; Language: C#; License: AGPL-3.0; README length: 26432; Topics: ai, ai-agents, artificial-intelligence, claude, earnings-calls, finance, financial-data, fintech, insider-trading, llm, market-data, mcp, mcp-server, model-context-protocol, options-trading, quantitative-finance, sec, sec-filings, self-hosted, stock-market
+- Portfolio idea: Turn bike4mind into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 85; Forks: 16; Language: TypeScript; License: NOASSERTION; README length: 5150; Topics: agents, ai, ai-agents, ai-workbench, anthropic, llm, mcp, mongodb, multi-model, nextjs, ollama, open-core, openai, rag, self-hosted, typescript, vllm
 - Confidence: high
 
 ### kaderkck/hewn-forge
@@ -83,6 +99,14 @@ Mode: `live`
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
 - Portfolio idea: Turn hewn-forge into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
 - Evidence: Stars: 151; Forks: 0; Language: HTML; License: unavailable; README length: 8722; Topics: agents, anthropic, anthropic-claude, benchmarking, claude, claude-code, claude-opus, claude-sonnet, cli, developer-tools, llm, productivity, prompt-compression, prompt-engineering, token-efficiency
+- Confidence: high
+
+### kao8386/komga-sync-lite
+- Summary: kao8386/komga-sync-lite is a HTML project for General User: Komga Enhanced 2026: Manage & Download Manga With One Tool
+- Why it matters: It maps to General User needs with an evidence-based score of 66.04.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn komga-sync-lite into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 151; Forks: 0; Language: HTML; License: unavailable; README length: 9607; Topics: api, automation, bulk-download, comic-reader, docker, downloader, gallery-dl, headless, java, komga, komga-fork, libary-management, manga-downloader, manga-reader, media-server, metadata-extractor, metadata-management
 - Confidence: high
 
 ### Niketkumardheeryan/ML-CaPsule
@@ -95,18 +119,10 @@ Mode: `live`
 
 ### putervision/vision-memory-mcp
 - Summary: putervision/vision-memory-mcp is a TypeScript project for Data Scientist: Persistent visual cache for LLM-driven software development. Caches screenshots using perceptual hashing, vector search, and AX trees to prevent token overhead and visual hallucination loops.
-- Why it matters: It maps to Data Scientist needs with an evidence-based score of 47.23.
+- Why it matters: It maps to Data Scientist needs with an evidence-based score of 47.27.
 - Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
 - Portfolio idea: Turn vision-memory-mcp into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 41; Forks: 0; Language: TypeScript; License: NOASSERTION; README length: 0; Topics: ai-tool, computer-vision, developer-tools, mcp, mcp-server, mcp-tool, mcp-tools, model-context-protocol
-- Confidence: low
-
-### Bike4Mind/bike4mind
-- Summary: Bike4Mind/bike4mind is a TypeScript project for General User: The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama/vLLM. BSL 1.1,  auto-converting to Apache-2.0 on a two-year clock. Your AI keeps running when theirs doesn't.
-- Why it matters: It maps to General User needs with an evidence-based score of 47.07.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn bike4mind into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 85; Forks: 16; Language: TypeScript; License: NOASSERTION; README length: 0; Topics: agents, ai, ai-agents, ai-workbench, anthropic, llm, mcp, mongodb, multi-model, nextjs, ollama, open-core, openai, rag, self-hosted, typescript, vllm
+- Evidence: Stars: 43; Forks: 0; Language: TypeScript; License: NOASSERTION; README length: 0; Topics: ai-tool, computer-vision, developer-tools, mcp, mcp-server, mcp-tool, mcp-tools, model-context-protocol
 - Confidence: low
 
 ### m96-chan/ai_research_dashboard
@@ -115,20 +131,4 @@ Mode: `live`
 - Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
 - Portfolio idea: Turn ai_research_dashboard into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
 - Evidence: Stars: 13; Forks: 1; Language: Astro; License: MIT; README length: 0; Topics: ai, arxiv, astro, dashboard, github-trending, huggingface, machine-learning, rss
-- Confidence: low
-
-### vishalGitthub/cli-llm-mesh
-- Summary: vishalGitthub/cli-llm-mesh is a HTML project for General User: Top 5 AI Models CLI Chat 2026 – Minimal & Fast
-- Why it matters: It maps to General User needs with an evidence-based score of 39.65.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn cli-llm-mesh into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 152; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: ai, ai-chat-free, ai-chatbot, chat, cli, cross-platform, docker, free-ai-api, free-ai-software, go, golang, grok, groq, groq-ai, groq-api, lightweight, openai-api-chatbot, openrouter-api, xai
-- Confidence: low
-
-### spectrochempy/spectrochempy
-- Summary: spectrochempy/spectrochempy is a Python project for Data Scientist: SpectroChemPy is a framework for processing, analyzing and modeling spectroscopic data for chemistry with Python
-- Why it matters: It maps to Data Scientist needs with an evidence-based score of 47.00.
-- Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
-- Portfolio idea: Turn spectrochempy into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 181; Forks: 36; Language: Python; License: NOASSERTION; README length: 0; Topics: chemistry, data-analysis, datasets, ftir, ftir-data-analysis, infrared, nmr, nmr-data, nmr-spectroscopy, processing, python, raman, raman-spectra, raman-spectroscopy, spectroscopy, uv-vis
 - Confidence: low
