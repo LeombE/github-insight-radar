@@ -1,6 +1,6 @@
 # GitHub Insight Daily Brief - 2026-08-15
 
-Generated at: `2026-08-14T17:12:02+00:00`
+Generated at: `2026-08-15T04:46:38+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -8,32 +8,32 @@ Image generation: `disabled`
 LLM summary: `disabled`
 
 ## Executive Summary
-- Top overall opportunity: [apache/airflow](https://github.com/apache/airflow) with score 95.22.
-- General user opportunity: [rush86999/atom](https://github.com/rush86999/atom)
+- Top overall opportunity: [EKKOLearnAI/hermes-studio](https://github.com/EKKOLearnAI/hermes-studio) with score 96.90.
+- General user opportunity: [EKKOLearnAI/hermes-studio](https://github.com/EKKOLearnAI/hermes-studio)
 - Data analyst opportunity: [grafana/grafana](https://github.com/grafana/grafana)
-- Data scientist opportunity: [thomas-villani/all2md](https://github.com/thomas-villani/all2md)
+- Data scientist opportunity: [lance-format/lance](https://github.com/lance-format/lance)
 - Most common risk pattern: usage examples unclear
 
 ## Top Overall Projects
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
-| 1 | [apache/airflow](https://github.com/apache/airflow) | General User | 95.22 | It maps to General User needs with an evidence-based score of 95.22. | Try today |
-| 2 | [tianma-if/edgeever](https://github.com/tianma-if/edgeever) | General User | 94.64 | It maps to General User needs with an evidence-based score of 94.64. | Try today |
-| 3 | [rush86999/atom](https://github.com/rush86999/atom) | General User | 94.11 | It maps to General User needs with an evidence-based score of 94.11. | Try today |
-| 4 | [Peiiii/nextclaw](https://github.com/Peiiii/nextclaw) | General User | 93.53 | It maps to General User needs with an evidence-based score of 93.53. | Try today |
-| 5 | [theexperiencecompany/gaia](https://github.com/theexperiencecompany/gaia) | General User | 93.08 | It maps to General User needs with an evidence-based score of 93.08. | Try today |
-| 6 | [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) | General User | 91.71 | It maps to General User needs with an evidence-based score of 91.71. | Try today |
-| 7 | [superplanehq/superplane](https://github.com/superplanehq/superplane) | General User | 90.39 | It maps to General User needs with an evidence-based score of 90.39. | Try today |
-| 8 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
-| 9 | [leopu00/job-hunter-team](https://github.com/leopu00/job-hunter-team) | General User | 89.15 | It maps to General User needs with an evidence-based score of 89.15. | Try today |
-| 10 | [txemi/immich-autotag](https://github.com/txemi/immich-autotag) | General User | 89.04 | It maps to General User needs with an evidence-based score of 89.04. | Try today |
+| 1 | [EKKOLearnAI/hermes-studio](https://github.com/EKKOLearnAI/hermes-studio) | General User | 96.90 | It maps to General User needs with an evidence-based score of 96.90. | Try today |
+| 2 | [Peiiii/nextclaw](https://github.com/Peiiii/nextclaw) | General User | 93.53 | It maps to General User needs with an evidence-based score of 93.53. | Try today |
+| 3 | [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) | General User | 92.79 | It maps to General User needs with an evidence-based score of 92.79. | Try today |
+| 4 | [iwe-org/iwe](https://github.com/iwe-org/iwe) | General User | 90.12 | It maps to General User needs with an evidence-based score of 90.12. | Try today |
+| 5 | [sandbaseai/sandbase-harness](https://github.com/sandbaseai/sandbase-harness) | General User | 90.09 | It maps to General User needs with an evidence-based score of 90.09. | Try today |
+| 6 | [Team-Commonly/commonly](https://github.com/Team-Commonly/commonly) | General User | 89.84 | It maps to General User needs with an evidence-based score of 89.84. | Try today |
+| 7 | [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) | General User | 89.47 | It maps to General User needs with an evidence-based score of 89.47. | Try today |
+| 8 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | General User | 89.10 | It maps to General User needs with an evidence-based score of 89.10. | Try today |
+| 9 | [xalgorix/xalgorix](https://github.com/xalgorix/xalgorix) | General User | 88.87 | It maps to General User needs with an evidence-based score of 88.87. | Try today |
+| 10 | [atomantic/PortOS](https://github.com/atomantic/PortOS) | General User | 88.28 | It maps to General User needs with an evidence-based score of 88.28. | Try today |
 
 ## General User Finds
-### rush86999/atom
-- What it is: rush86999/atom is a Python project for General User: Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation
+### EKKOLearnAI/hermes-studio
+- What it is: EKKOLearnAI/hermes-studio is a TypeScript project for General User: Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 94.11
-- Difficulty: Advanced
+- Score: 96.90
+- Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
 ### Peiiii/nextclaw
@@ -43,27 +43,27 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### theexperiencecompany/gaia
-- What it is: theexperiencecompany/gaia is a Python project for General User: Your proactive personal AI assistant & companion for daily productivity 🌎
+### sandbaseai/sandbase-harness
+- What it is: sandbaseai/sandbase-harness is a TypeScript project for General User: Open-source CMA-compatible agent runtime for any model, with MCP tools, sandboxed sessions, audit, replay, and a local console. Includes a native DeepSeek Harness bundle over stdio MCP.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 93.08
+- Score: 90.09
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### rtk-ai/rtk
+- What it is: rtk-ai/rtk is a Rust project for General User: CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 89.10
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### superplanehq/superplane
-- What it is: superplanehq/superplane is a Go project for General User: The open source control plane for agentic engineering.
+### ohdearquant/lionagi
+- What it is: ohdearquant/lionagi is a Python project for General User: An intelligence orchestra
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 90.39
-- Difficulty: Advanced
+- Score: 87.01
+- Difficulty: Intermediate
 - Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### n8n-io/n8n
-- What it is: n8n-io/n8n is a TypeScript project for General User: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 90.30
-- Difficulty: Advanced
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
+- Risk: many open issues relative to stars
 
 ## Data Analyst Opportunities
 ### grafana/grafana
@@ -87,12 +87,12 @@ LLM summary: `disabled`
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### OWOX/owox-data-marts
-- What it is: OWOX/owox-data-marts is a TypeScript project for Data Analyst: Open-Source Self-Service Analytics Platform
+### apache/superset
+- What it is: apache/superset is a Python project for Data Analyst: Apache Superset is a Data Visualization and Data Exploration Platform
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 56.71
+- Score: 62.21
 - Difficulty: Advanced
-- Recommended action: Watch this week
+- Recommended action: Study for learning
 - Risk: no README evidence, installation unclear, usage examples unclear
 ### Lithiumgreentek/power-bi-design-vault
 - What it is: Lithiumgreentek/power-bi-design-vault is a HTML project for Data Analyst: Power BI Design Blueprints for 2026: Advanced Dashboards, Datasets & Visual Resources
@@ -103,13 +103,13 @@ LLM summary: `disabled`
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
 
 ## Data Scientist Research Radar
-### thomas-villani/all2md
-- What it is: thomas-villani/all2md is a Python project for Data Scientist: Convert PDF, Word, PowerPoint, HTML, email & 40+ formats to clean Markdown — and back. Built for LLMs, RAG & Python pipelines, with a built-in MCP server.
+### lance-format/lance
+- What it is: lance-format/lance is a Rust project for Data Scientist: Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 49.02
-- Difficulty: Unknown
+- Score: 58.00
+- Difficulty: Advanced
 - Recommended action: Track for research
-- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
+- Risk: no README evidence, installation unclear, usage examples unclear
 ### flyteorg/flyte
 - What it is: flyteorg/flyte is a Go project for General User: Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
@@ -117,33 +117,33 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear
-### VyomKulshrestha/Heliox-OS
-- What it is: VyomKulshrestha/Heliox-OS is a Python project for General User: Open-source, local-first desktop AI agent for voice, gesture, gaze, browser and system automation with permission gates and verification.
+### MauroDruwel/NIMStats
+- What it is: MauroDruwel/NIMStats is a JavaScript project for Data Scientist: 📊 Automated hourly benchmarks for 20+ NVIDIA NIM models — interactive dashboard, zero infra, self-hostable. Open-source & community-driven.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 82.54
+- Score: 44.71
+- Difficulty: Research-heavy
+- Recommended action: Skip for now
+- Risk: no README evidence, installation unclear, usage examples unclear, no license
+### ibuilder/massing
+- What it is: ibuilder/massing is a Python project for General User: Open, self-hosted, IFC-native AEC platform: web BIM viewer + modeling, a ~100-module GC portal (RFIs, pay apps, CPM, construction accounting — double-entry GL/WIP → QuickBooks, e-sign), AI assist, IDS authoring, estimating + embodied carbon, a development proforma, and operate/dispose (CMMS, facility condition, rent roll, waterfall).
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 87.73
 - Difficulty: Intermediate
 - Recommended action: Try today
-- Risk: many open issues relative to stars
-### gradio-app/gradio
-- What it is: gradio-app/gradio is a Python project for Data Scientist: Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
+- Risk: No major risk flag from collected evidence.
+### tobocop2/lilbee
+- What it is: tobocop2/lilbee is a Python project for General User: The whole local AI stack in one executable: it runs and manages local AI models across every GPU, and it's a search engine you can talk to, with cited answers from your files, code, and the web. MCP server for coding agents, web crawler, TUI, CLI, REST API, Python library. No Ollama or LM Studio needed, works with both.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 54.77
+- Score: 86.18
 - Difficulty: Advanced
-- Recommended action: Track for research
-- Risk: no README evidence, installation unclear, usage examples unclear
-### kaderkck/hewn-forge
-- What it is: kaderkck/hewn-forge is a HTML project for General User: HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 75.16
-- Difficulty: Intermediate
-- Recommended action: Use as portfolio reference
-- Risk: no license
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
 
 ## Action List
-- Try today: apache/airflow, tianma-if/edgeever, rush86999/atom
-- Watch this week: esengine/DeepSeek-Reasonix, can1357/oh-my-pi, minorun365/html-share
-- Use as portfolio reference: EdgeTypE/better-deepseek, doudou770/flyreq-image-studio, Wox-launcher/Wox
-- Skip for now: m96-chan/ai_research_dashboard, Wewoc/Garmin_Local_Archive, denesdata/roem
+- Try today: EKKOLearnAI/hermes-studio, Peiiii/nextclaw, spacedriveapp/spacebot
+- Watch this week: KKingZero/Zypheron-CLI, dataease/dataease, koobai/blog
+- Use as portfolio reference: errbotio/errbot, PurpleDoubleD/locally-uncensored, Zettlr/Zettlr
+- Skip for now: MauroDruwel/NIMStats, pacphi/agentic-kit, m96-chan/ai_research_dashboard
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.
