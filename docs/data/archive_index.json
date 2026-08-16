@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-08-17",
+    "generated_at": "2026-08-16T16:42:24+00:00",
+    "mode": "live",
+    "run_id": "live-2026-08-17-2026-08-16T164224-0000",
+    "daily_brief_path": "reports/daily/2026-08-17-daily-brief.md",
+    "json_path": "data/processed/2026-08-17-github-insight-projects.json",
+    "csv_path": "data/processed/2026-08-17-github-insight-projects.csv",
+    "selected_count": 200,
+    "top_project": "rmyndharis/OpenWA"
+  },
+  {
     "date": "2026-08-16",
     "generated_at": "2026-08-16T04:50:17+00:00",
     "mode": "live",
