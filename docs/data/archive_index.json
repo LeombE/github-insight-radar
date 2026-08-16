@@ -1,6 +1,17 @@
 [
   {
     "date": "2026-08-16",
+    "generated_at": "2026-08-16T04:50:17+00:00",
+    "mode": "live",
+    "run_id": "live-2026-08-16-2026-08-16T045017-0000",
+    "daily_brief_path": "reports/daily/2026-08-16-daily-brief.md",
+    "json_path": "data/processed/2026-08-16-github-insight-projects.json",
+    "csv_path": "data/processed/2026-08-16-github-insight-projects.csv",
+    "selected_count": 200,
+    "top_project": "EKKOLearnAI/hermes-studio"
+  },
+  {
+    "date": "2026-08-16",
     "generated_at": "2026-08-15T16:40:44+00:00",
     "mode": "live",
     "run_id": "live-2026-08-16-2026-08-15T164044-0000",
