@@ -1,6 +1,6 @@
 # GitHub Insight Daily Brief - 2026-08-19
 
-Generated at: `2026-08-18T16:48:35+00:00`
+Generated at: `2026-08-19T04:51:26+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -8,8 +8,8 @@ Image generation: `disabled`
 LLM summary: `disabled`
 
 ## Executive Summary
-- Top overall opportunity: [unslothai/unsloth](https://github.com/unslothai/unsloth) with score 94.82.
-- General user opportunity: [coco-research/coco](https://github.com/coco-research/coco)
+- Top overall opportunity: [langgenius/dify](https://github.com/langgenius/dify) with score 97.00.
+- General user opportunity: [langgenius/dify](https://github.com/langgenius/dify)
 - Data analyst opportunity: [grafana/grafana](https://github.com/grafana/grafana)
 - Data scientist opportunity: [lance-format/lance](https://github.com/lance-format/lance)
 - Most common risk pattern: usage examples unclear
@@ -17,53 +17,53 @@ LLM summary: `disabled`
 ## Top Overall Projects
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
-| 1 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | General User | 94.82 | It maps to General User needs with an evidence-based score of 94.82. | Try today |
-| 2 | [tianma-if/edgeever](https://github.com/tianma-if/edgeever) | General User | 94.66 | It maps to General User needs with an evidence-based score of 94.66. | Try today |
-| 3 | [coco-research/coco](https://github.com/coco-research/coco) | General User | 92.99 | It maps to General User needs with an evidence-based score of 92.99. | Try today |
-| 4 | [Squirreljetpack/matchmaker](https://github.com/Squirreljetpack/matchmaker) | General User | 90.70 | It maps to General User needs with an evidence-based score of 90.70. | Try today |
-| 5 | [superplanehq/superplane](https://github.com/superplanehq/superplane) | General User | 90.41 | It maps to General User needs with an evidence-based score of 90.41. | Try today |
-| 6 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
-| 7 | [The01Geek/prflow](https://github.com/The01Geek/prflow) | General User | 90.06 | It maps to General User needs with an evidence-based score of 90.06. | Try today |
-| 8 | [edrewitz/WxData](https://github.com/edrewitz/WxData) | General User | 89.72 | It maps to General User needs with an evidence-based score of 89.72. | Try today |
-| 9 | [Fractera/Agent-Engineering-Infrastructure](https://github.com/Fractera/Agent-Engineering-Infrastructure) | General User | 89.40 | It maps to General User needs with an evidence-based score of 89.40. | Try today |
-| 10 | [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops) | General User | 89.31 | It maps to General User needs with an evidence-based score of 89.31. | Try today |
+| 1 | [langgenius/dify](https://github.com/langgenius/dify) | General User | 97.00 | It maps to General User needs with an evidence-based score of 97.00. | Try today |
+| 2 | [tianma-if/edgeever](https://github.com/tianma-if/edgeever) | General User | 94.67 | It maps to General User needs with an evidence-based score of 94.67. | Try today |
+| 3 | [Taskosaur/Taskosaur](https://github.com/Taskosaur/Taskosaur) | General User | 94.23 | It maps to General User needs with an evidence-based score of 94.23. | Try today |
+| 4 | [Lyellr88/marm-memory](https://github.com/Lyellr88/marm-memory) | General User | 93.51 | It maps to General User needs with an evidence-based score of 93.51. | Try today |
+| 5 | [lidge-jun/cli-jaw](https://github.com/lidge-jun/cli-jaw) | General User | 91.53 | It maps to General User needs with an evidence-based score of 91.53. | Try today |
+| 6 | [Team-Commonly/commonly](https://github.com/Team-Commonly/commonly) | General User | 89.85 | It maps to General User needs with an evidence-based score of 89.85. | Try today |
+| 7 | [openrundev/openrun](https://github.com/openrundev/openrun) | General User | 89.55 | It maps to General User needs with an evidence-based score of 89.55. | Try today |
+| 8 | [supernovae-st/nika](https://github.com/supernovae-st/nika) | General User | 89.39 | It maps to General User needs with an evidence-based score of 89.39. | Try today |
+| 9 | [moltis-org/moltis](https://github.com/moltis-org/moltis) | General User | 89.35 | It maps to General User needs with an evidence-based score of 89.35. | Try today |
+| 10 | [dali-benothmen/woml](https://github.com/dali-benothmen/woml) | General User | 89.00 | It maps to General User needs with an evidence-based score of 89.00. | Try today |
 
 ## General User Finds
-### coco-research/coco
-- What it is: coco-research/coco is a HTML project for General User: Meet Coco. A superintelligent agent framework powered by an advisory board of 389 world-class minds. Scale your AI assistant into a complete engineering department with 142 skills, 277 commands, and persistent state. Universal compatibility. Local privacy. Free and open source.
+### langgenius/dify
+- What it is: langgenius/dify is a TypeScript project for General User: Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 92.99
+- Score: 97.00
+- Difficulty: Advanced
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### Taskosaur/Taskosaur
+- What it is: Taskosaur/Taskosaur is a TypeScript project for General User: Open Source Project Management with Conversational AI Task Execution. Built for teams who want conversational workflow management alongside traditional PM features. Self-hostable with modular architecture.
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 94.23
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### superplanehq/superplane
-- What it is: superplanehq/superplane is a Go project for General User: The open source control plane for agentic engineering.
+### supernovae-st/nika
+- What it is: supernovae-st/nika is a Rust project for General User: Intent as Code | the workflow language for AI. One file, 4 verbs, one Rust binary. Local-first, any model, AGPL-3.0. 🦋
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 90.41
+- Score: 89.39
 - Difficulty: Advanced
 - Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### n8n-io/n8n
-- What it is: n8n-io/n8n is a TypeScript project for General User: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- Risk: many open issues relative to stars
+### dali-benothmen/woml
+- What it is: dali-benothmen/woml is a TypeScript project for General User: High-performance, code-first workflow automation engine. TypeScript-native with Rust core for enterprise-grade speed, efficiency, and developer experience.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 90.30
-- Difficulty: Advanced
+- Score: 89.00
+- Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### The01Geek/prflow
-- What it is: The01Geek/prflow is a Shell project for General User: Turn feature requests into review-ready pull requests: issue, implementation, tests, a review-and-fix loop, and docs. Runs locally or on GitHub Actions, and is built for complex brownfield repos. Each week its retrospective reads what you actually merged and proposes improvements to your skill extensions.
+### ohdearquant/lionagi
+- What it is: ohdearquant/lionagi is a Python project for General User: An intelligence orchestra
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 90.06
+- Score: 87.01
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: many open issues relative to stars
-### DaKheera47/job-ops
-- What it is: DaKheera47/job-ops is a TypeScript project for General User: job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 89.31
-- Difficulty: Intermediate
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
 
 ## Data Analyst Opportunities
 ### grafana/grafana
@@ -117,33 +117,33 @@ LLM summary: `disabled`
 - Difficulty: Research-heavy
 - Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear
-### langfuse/langfuse
-- What it is: langfuse/langfuse is a TypeScript project for Data Scientist: 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+### juspay/neurolink
+- What it is: juspay/neurolink is a TypeScript project for General User: One TypeScript interface for 24+ LLM providers — swap providers without rewriting. MCP-native (connect any MCP server), voice (TTS/STT/realtime), RAG, memory, file processors. Production-origin: powers Tara, Yama, and Clairvoyance at Juspay.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 87.88
+- Score: 87.84
 - Difficulty: Advanced
 - Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### libre-webui/libre-webui
-- What it is: libre-webui/libre-webui is a TypeScript project for General User: A local-first workspace for chat, private knowledge, artifacts, and isolated model-driven work. Self-hosted. Provider-flexible. Apache 2.0.
+- Risk: many open issues relative to stars
+### apache/hamilton
+- What it is: apache/hamilton is a Jupyter Notebook project for Data Scientist: Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 81.27
-- Difficulty: Beginner
-- Recommended action: Try today
-- Risk: usage examples unclear
-### MauroDruwel/NIMStats
-- What it is: MauroDruwel/NIMStats is a JavaScript project for Data Scientist: 📊 Automated hourly benchmarks for 20+ NVIDIA NIM models — interactive dashboard, zero infra, self-hostable. Open-source & community-driven.
+- Score: 58.77
+- Difficulty: Unknown
+- Recommended action: Track for research
+- Risk: no README evidence, installation unclear, usage examples unclear
+### flyteorg/flyte
+- What it is: flyteorg/flyte is a Go project for General User: Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 44.73
-- Difficulty: Research-heavy
-- Recommended action: Skip for now
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
+- Score: 55.03
+- Difficulty: Advanced
+- Recommended action: Watch this week
+- Risk: no README evidence, installation unclear, usage examples unclear
 
 ## Action List
-- Try today: unslothai/unsloth, tianma-if/edgeever, coco-research/coco
-- Watch this week: continuedev/continue, herdrdev/herdr, nrwl/nx
-- Use as portfolio reference: calkit/calkit, immich-app/immich, apify/apify-client-python
-- Skip for now: MauroDruwel/NIMStats, alphanodes/additionals, EndoTheDev/OMeter
+- Try today: langgenius/dify, tianma-if/edgeever, Taskosaur/Taskosaur
+- Watch this week: basilisk-labs/agentplane, QwenLM/qwen-code, Effect-TS/effect
+- Use as portfolio reference: yixian-huang/imgli, YishenTu/claudian, defilantech/LLMKube
+- Skip for now: atomantic/PortOS, jiazhenz026/SciStudio, m96-chan/ai_research_dashboard
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.
