@@ -1,6 +1,6 @@
-# GitHub Insight Daily Brief - 2026-08-22
+# GitHub Insight Daily Brief - 2026-08-23
 
-Generated at: `2026-08-22T04:48:44+00:00`
+Generated at: `2026-08-22T16:40:12+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -8,73 +8,66 @@ Image generation: `disabled`
 LLM summary: `disabled`
 
 ## Executive Summary
-- Top overall opportunity: [rush86999/atom](https://github.com/rush86999/atom) with score 94.11.
-- General user opportunity: [rush86999/atom](https://github.com/rush86999/atom)
+- Top overall opportunity: [langgenius/dify](https://github.com/langgenius/dify) with score 97.00.
+- General user opportunity: [langgenius/dify](https://github.com/langgenius/dify)
 - Data analyst opportunity: [grafana/grafana](https://github.com/grafana/grafana)
-- Data scientist opportunity: [lance-format/lance](https://github.com/lance-format/lance)
+- Data scientist opportunity: [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup)
 - Most common risk pattern: usage examples unclear
 
 ## Top Overall Projects
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
-| 1 | [rush86999/atom](https://github.com/rush86999/atom) | General User | 94.11 | It maps to General User needs with an evidence-based score of 94.11. | Try today |
-| 2 | [Lethe044/hermes-life-os](https://github.com/Lethe044/hermes-life-os) | General User | 93.20 | It maps to General User needs with an evidence-based score of 93.20. | Try today |
-| 3 | [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) | General User | 89.50 | It maps to General User needs with an evidence-based score of 89.50. | Try today |
-| 4 | [atomantic/PortOS](https://github.com/atomantic/PortOS) | General User | 88.28 | It maps to General User needs with an evidence-based score of 88.28. | Try today |
-| 5 | [zeweihan/aiworkdeck](https://github.com/zeweihan/aiworkdeck) | General User | 87.43 | It maps to General User needs with an evidence-based score of 87.43. | Try today |
-| 6 | [krelltunez/dayGLANCE](https://github.com/krelltunez/dayGLANCE) | General User | 87.05 | It maps to General User needs with an evidence-based score of 87.05. | Try today |
-| 7 | [engasnm111/lnwjud](https://github.com/engasnm111/lnwjud) | General User | 86.81 | It maps to General User needs with an evidence-based score of 86.81. | Try today |
-| 8 | [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) | General User | 86.14 | It maps to General User needs with an evidence-based score of 86.14. | Try today |
-| 9 | [Quor-a/ZorvAI](https://github.com/Quor-a/ZorvAI) | General User | 85.72 | It maps to General User needs with an evidence-based score of 85.72. | Try today |
-| 10 | [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | General User | 85.52 | It maps to General User needs with an evidence-based score of 85.52. | Try today |
+| 1 | [langgenius/dify](https://github.com/langgenius/dify) | General User | 97.00 | It maps to General User needs with an evidence-based score of 97.00. | Try today |
+| 2 | [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) | General User | 95.72 | It maps to General User needs with an evidence-based score of 95.72. | Try today |
+| 3 | [eracle/OpenOutreach](https://github.com/eracle/OpenOutreach) | General User | 95.72 | It maps to General User needs with an evidence-based score of 95.72. | Try today |
+| 4 | [darkzOGx/youtube-automation-agent](https://github.com/darkzOGx/youtube-automation-agent) | General User | 95.61 | It maps to General User needs with an evidence-based score of 95.61. | Try today |
+| 5 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | General User | 94.82 | It maps to General User needs with an evidence-based score of 94.82. | Try today |
+| 6 | [Taskosaur/Taskosaur](https://github.com/Taskosaur/Taskosaur) | General User | 94.24 | It maps to General User needs with an evidence-based score of 94.24. | Try today |
+| 7 | [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) | General User | 93.31 | It maps to General User needs with an evidence-based score of 93.31. | Try today |
+| 8 | [figranium/figranium](https://github.com/figranium/figranium) | General User | 92.57 | It maps to General User needs with an evidence-based score of 92.57. | Try today |
+| 9 | [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) | General User | 91.77 | It maps to General User needs with an evidence-based score of 91.77. | Try today |
+| 10 | [atomantic/PortOS](https://github.com/atomantic/PortOS) | General User | 90.53 | It maps to General User needs with an evidence-based score of 90.53. | Try today |
 
 ## General User Finds
-### rush86999/atom
-- What it is: rush86999/atom is a Python project for General User: Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation
+### langgenius/dify
+- What it is: langgenius/dify is a TypeScript project for General User: Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 94.11
+- Score: 97.00
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### Lethe044/hermes-life-os
-- What it is: Lethe044/hermes-life-os is a Python project for General User: Personal OS agent that learns who you are, detects life patterns, and grows smarter about you every day. Memory + Cron + Atropos RL
+### oomol-lab/open-connector
+- What it is: oomol-lab/open-connector is a TypeScript project for General User: Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 93.20
+- Score: 95.72
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### Ericwong5021/better-codex
-- What it is: Ericwong5021/better-codex is a TypeScript project for General User: A task board and Agent system inside Codex Desktop. Local-first, open source, macOS and Windows.
+### eracle/OpenOutreach
+- What it is: eracle/OpenOutreach is a Python project for General User: Open-source AI agent for B2B lead generation — describe your product, it finds the people who fit and explains why each one does, then exports a CSV your cold-email tool can send. Self-hosted CLI.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 85.24
-- Difficulty: Beginner
-- Recommended action: Try today
-- Risk: usage examples unclear
-### 5dive-ai/5dive
-- What it is: 5dive-ai/5dive is a Shell project for General User: Run a company of AI agents on a server you own. Spin up named agents (claude, codex, pi…), put them on an org chart with a shared backlog, let them hand off work and ping your phone only when a human must decide. MIT.
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 85.19
+- Score: 95.72
 - Difficulty: Intermediate
 - Recommended action: Try today
-- Risk: many open issues relative to stars
-### akhayam99/goodboy
-- What it is: akhayam99/goodboy is a TypeScript project for General User: Stop re-explaining yourself
+- Risk: No major risk flag from collected evidence.
+### darkzOGx/youtube-automation-agent
+- What it is: darkzOGx/youtube-automation-agent is a JavaScript project for General User: 🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes & publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding required!
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 83.45
+- Score: 95.61
 - Difficulty: Intermediate
 - Recommended action: Try today
-- Risk: many open issues relative to stars
+- Risk: No major risk flag from collected evidence.
+### Taskosaur/Taskosaur
+- What it is: Taskosaur/Taskosaur is a TypeScript project for General User: Open Source Project Management with Conversational AI Task Execution. Built for teams who want conversational workflow management alongside traditional PM features. Self-hostable with modular architecture.
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 94.24
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
 
 ## Data Analyst Opportunities
 ### grafana/grafana
 - What it is: grafana/grafana is a TypeScript project for Data Analyst: The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 65.95
-- Difficulty: Advanced
-- Recommended action: Study for learning
-- Risk: no README evidence, installation unclear, usage examples unclear
-### metabase/metabase
-- What it is: metabase/metabase is a Clojure project for Data Analyst: The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
 - Score: 65.95
 - Difficulty: Advanced
@@ -101,8 +94,22 @@ LLM summary: `disabled`
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
+### sopho-tech/sopho
+- What it is: sopho-tech/sopho is a TypeScript project for Data Analyst: Open Source Business Intelligence
+- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
+- Score: 54.85
+- Difficulty: Unknown
+- Recommended action: Watch this week
+- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
 
 ## Data Scientist Research Radar
+### MakazhanAlpamys/Soup
+- What it is: MakazhanAlpamys/Soup is a Python project for Data Scientist: Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 58.47
+- Difficulty: Unknown
+- Recommended action: Track for research
+- Risk: no README evidence, installation unclear, usage examples unclear
 ### lance-format/lance
 - What it is: lance-format/lance is a Rust project for Data Scientist: Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
 - Angle: Useful for model, benchmark, notebook, or experiment review.
@@ -117,13 +124,6 @@ LLM summary: `disabled`
 - Difficulty: Research-heavy
 - Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear
-### thomas-villani/all2md
-- What it is: thomas-villani/all2md is a Python project for Data Scientist: Convert PDF, Word, PowerPoint, HTML, email & 40+ formats to clean Markdown — and back. Built for LLMs, RAG & Python pipelines, with a built-in MCP server.
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 49.05
-- Difficulty: Unknown
-- Recommended action: Track for research
-- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
 ### MauroDruwel/NIMStats
 - What it is: MauroDruwel/NIMStats is a JavaScript project for Data Scientist: 📊 Automated hourly benchmarks for 20+ NVIDIA NIM models — interactive dashboard, zero infra, self-hostable. Open-source & community-driven.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
@@ -131,26 +131,26 @@ LLM summary: `disabled`
 - Difficulty: Research-heavy
 - Recommended action: Skip for now
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### open-nvr/open-nvr
-- What it is: open-nvr/open-nvr is a Python project for General User: OpenNVR is a security-first, open-source AI-powered NVR platform. Built for scalability and flexibility, it supports real-time video processing and a plug-and-play AI adapter layer—allowing you to integrate any model and build limitless intelligent video applications. Offline-first, air-gapped capable, AGPLv3. A Frigate and ZoneMinder alternative.
+### winstonkoh87/Athena-Public
+- What it is: winstonkoh87/Athena-Public is a Python project for General User: Athena is a local-first agentic PKM that helps you make better decisions with your own context — persistent memory, structured reasoning, and governed AI agents that work across any LLM. Own the state. Rent the intelligence.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 75.25
+- Score: 88.52
 - Difficulty: Intermediate
-- Recommended action: Use as portfolio reference
-- Risk: many open issues relative to stars
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
 
 ## Action List
-- Try today: rush86999/atom, Lethe044/hermes-life-os, dongdongbh/Mindwtr
-- Watch this week: esengine/DeepSeek-Reasonix, can1357/oh-my-pi, snownico0722/PaperTodo
-- Use as portfolio reference: jackbrumley/voquill, krelltunez/lastGLANCE, krelltunez/lifeGLANCE
-- Skip for now: themartz90/jellydash, jiazhenz026/SciStudio, MauroDruwel/NIMStats
+- Try today: langgenius/dify, oomol-lab/open-connector, eracle/OpenOutreach
+- Watch this week: OpenHands/OpenHands, esengine/DeepSeek-Reasonix, QwenLM/qwen-code
+- Use as portfolio reference: jackbrumley/voquill, Wox-launcher/Wox, cai-layer/cai
+- Skip for now: jiazhenz026/SciStudio, MauroDruwel/NIMStats, faithlumumba/2025-tencent-advertising-algorithm-competition-finalist
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.
 
 ## Data Files
-- Raw API JSON: `data/raw/2026-08-22-github-api-raw.json`
-- Daily projects JSON: `data/processed/2026-08-22-github-insight-projects.json`
-- Daily projects CSV: `data/processed/2026-08-22-github-insight-projects.csv`
+- Raw API JSON: `data/raw/2026-08-23-github-api-raw.json`
+- Daily projects JSON: `data/processed/2026-08-23-github-insight-projects.json`
+- Daily projects CSV: `data/processed/2026-08-23-github-insight-projects.csv`
 - Master CSV: `data/processed/github_repos_master.csv`
 - Dashboard JSON: `docs/data/latest.json`
