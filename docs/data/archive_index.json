@@ -1,6 +1,17 @@
 [
   {
     "date": "2026-08-22",
+    "generated_at": "2026-08-22T04:48:44+00:00",
+    "mode": "live",
+    "run_id": "live-2026-08-22-2026-08-22T044844-0000",
+    "daily_brief_path": "reports/daily/2026-08-22-daily-brief.md",
+    "json_path": "data/processed/2026-08-22-github-insight-projects.json",
+    "csv_path": "data/processed/2026-08-22-github-insight-projects.csv",
+    "selected_count": 200,
+    "top_project": "rush86999/atom"
+  },
+  {
+    "date": "2026-08-22",
     "generated_at": "2026-08-21T16:51:29+00:00",
     "mode": "live",
     "run_id": "live-2026-08-22-2026-08-21T165129-0000",

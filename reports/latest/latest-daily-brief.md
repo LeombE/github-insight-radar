@@ -1,6 +1,6 @@
 # GitHub Insight Daily Brief - 2026-08-22
 
-Generated at: `2026-08-21T16:51:29+00:00`
+Generated at: `2026-08-22T04:48:44+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -8,25 +8,25 @@ Image generation: `disabled`
 LLM summary: `disabled`
 
 ## Executive Summary
-- Top overall opportunity: [oblien/openship](https://github.com/oblien/openship) with score 95.20.
+- Top overall opportunity: [rush86999/atom](https://github.com/rush86999/atom) with score 94.11.
 - General user opportunity: [rush86999/atom](https://github.com/rush86999/atom)
-- Data analyst opportunity: [metabase/metabase](https://github.com/metabase/metabase)
-- Data scientist opportunity: [langfuse/langfuse](https://github.com/langfuse/langfuse)
+- Data analyst opportunity: [grafana/grafana](https://github.com/grafana/grafana)
+- Data scientist opportunity: [lance-format/lance](https://github.com/lance-format/lance)
 - Most common risk pattern: usage examples unclear
 
 ## Top Overall Projects
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
-| 1 | [oblien/openship](https://github.com/oblien/openship) | General User | 95.20 | It maps to General User needs with an evidence-based score of 95.20. | Try today |
-| 2 | [rush86999/atom](https://github.com/rush86999/atom) | General User | 94.11 | It maps to General User needs with an evidence-based score of 94.11. | Try today |
-| 3 | [eracle/OpenOutreach](https://github.com/eracle/OpenOutreach) | General User | 93.44 | It maps to General User needs with an evidence-based score of 93.44. | Try today |
-| 4 | [sangrokjung/claude-forge](https://github.com/sangrokjung/claude-forge) | General User | 91.89 | It maps to General User needs with an evidence-based score of 91.89. | Try today |
-| 5 | [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) | General User | 91.86 | It maps to General User needs with an evidence-based score of 91.86. | Try today |
-| 6 | [drenlia-inc/agila](https://github.com/drenlia-inc/agila) | General User | 91.09 | It maps to General User needs with an evidence-based score of 91.09. | Try today |
-| 7 | [hasanyilmaz/operon](https://github.com/hasanyilmaz/operon) | General User | 90.51 | It maps to General User needs with an evidence-based score of 90.51. | Try today |
-| 8 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
-| 9 | [ustoppble/overclick](https://github.com/ustoppble/overclick) | General User | 89.77 | It maps to General User needs with an evidence-based score of 89.77. | Try today |
-| 10 | [supernovae-st/nika](https://github.com/supernovae-st/nika) | General User | 89.39 | It maps to General User needs with an evidence-based score of 89.39. | Try today |
+| 1 | [rush86999/atom](https://github.com/rush86999/atom) | General User | 94.11 | It maps to General User needs with an evidence-based score of 94.11. | Try today |
+| 2 | [Lethe044/hermes-life-os](https://github.com/Lethe044/hermes-life-os) | General User | 93.20 | It maps to General User needs with an evidence-based score of 93.20. | Try today |
+| 3 | [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) | General User | 89.50 | It maps to General User needs with an evidence-based score of 89.50. | Try today |
+| 4 | [atomantic/PortOS](https://github.com/atomantic/PortOS) | General User | 88.28 | It maps to General User needs with an evidence-based score of 88.28. | Try today |
+| 5 | [zeweihan/aiworkdeck](https://github.com/zeweihan/aiworkdeck) | General User | 87.43 | It maps to General User needs with an evidence-based score of 87.43. | Try today |
+| 6 | [krelltunez/dayGLANCE](https://github.com/krelltunez/dayGLANCE) | General User | 87.05 | It maps to General User needs with an evidence-based score of 87.05. | Try today |
+| 7 | [engasnm111/lnwjud](https://github.com/engasnm111/lnwjud) | General User | 86.81 | It maps to General User needs with an evidence-based score of 86.81. | Try today |
+| 8 | [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) | General User | 86.14 | It maps to General User needs with an evidence-based score of 86.14. | Try today |
+| 9 | [Quor-a/ZorvAI](https://github.com/Quor-a/ZorvAI) | General User | 85.72 | It maps to General User needs with an evidence-based score of 85.72. | Try today |
+| 10 | [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | General User | 85.52 | It maps to General User needs with an evidence-based score of 85.52. | Try today |
 
 ## General User Finds
 ### rush86999/atom
@@ -36,36 +36,43 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### sangrokjung/claude-forge
-- What it is: sangrokjung/claude-forge is a Shell project for General User: oh-my-zsh for Claude Code — 16 agents, 35 commands, 32 skills, 21 safety hooks in one install. v4.0 adds an adversarial review loop: a second agent that never sees the first one's reasoning. MIT.
+### Lethe044/hermes-life-os
+- What it is: Lethe044/hermes-life-os is a Python project for General User: Personal OS agent that learns who you are, detects life patterns, and grows smarter about you every day. Memory + Cron + Atropos RL
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 91.89
+- Score: 93.20
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### drenlia-inc/agila
-- What it is: drenlia-inc/agila is a TypeScript project for General User: Simple and easy Kanban web application built with React TS PostgreSQL
+### Ericwong5021/better-codex
+- What it is: Ericwong5021/better-codex is a TypeScript project for General User: A task board and Agent system inside Codex Desktop. Local-first, open source, macOS and Windows.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 91.09
+- Score: 85.24
+- Difficulty: Beginner
+- Recommended action: Try today
+- Risk: usage examples unclear
+### 5dive-ai/5dive
+- What it is: 5dive-ai/5dive is a Shell project for General User: Run a company of AI agents on a server you own. Spin up named agents (claude, codex, pi…), put them on an org chart with a shared backlog, let them hand off work and ping your phone only when a human must decide. MIT.
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 85.19
 - Difficulty: Intermediate
 - Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### hasanyilmaz/operon
-- What it is: hasanyilmaz/operon is a TypeScript project for General User: Task management system for humans and agents in Obsidian.
+- Risk: many open issues relative to stars
+### akhayam99/goodboy
+- What it is: akhayam99/goodboy is a TypeScript project for General User: Stop re-explaining yourself
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 90.51
+- Score: 83.45
 - Difficulty: Intermediate
 - Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### n8n-io/n8n
-- What it is: n8n-io/n8n is a TypeScript project for General User: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 90.30
-- Difficulty: Advanced
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
+- Risk: many open issues relative to stars
 
 ## Data Analyst Opportunities
+### grafana/grafana
+- What it is: grafana/grafana is a TypeScript project for Data Analyst: The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
+- Score: 65.95
+- Difficulty: Advanced
+- Recommended action: Study for learning
+- Risk: no README evidence, installation unclear, usage examples unclear
 ### metabase/metabase
 - What it is: metabase/metabase is a Clojure project for Data Analyst: The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
@@ -94,29 +101,29 @@ LLM summary: `disabled`
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### evidence-dev/evidence
-- What it is: evidence-dev/evidence is a TypeScript project for Data Analyst: Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
-- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 63.31
-- Difficulty: Advanced
-- Recommended action: Study for learning
-- Risk: no README evidence, installation unclear, usage examples unclear
 
 ## Data Scientist Research Radar
-### langfuse/langfuse
-- What it is: langfuse/langfuse is a TypeScript project for Data Scientist: 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+### lance-format/lance
+- What it is: lance-format/lance is a Rust project for Data Scientist: Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 55.83
+- Score: 55.75
 - Difficulty: Advanced
 - Recommended action: Track for research
-- Risk: no README evidence, installation unclear, usage examples unclear
-### flyteorg/flyte
-- What it is: flyteorg/flyte is a Go project for General User: Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
+- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
+### hyeonsangjeon/gdpval-realworks
+- What it is: hyeonsangjeon/gdpval-realworks is a Python project for Data Scientist: Open-source benchmark for evaluating LLMs on 220 real professional tasks across 9 sectors and 44 occupations. Reproducible experiments, artifact validation, grading, and a live evidence dashboard.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 55.03
-- Difficulty: Advanced
-- Recommended action: Watch this week
+- Score: 51.62
+- Difficulty: Research-heavy
+- Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear
+### thomas-villani/all2md
+- What it is: thomas-villani/all2md is a Python project for Data Scientist: Convert PDF, Word, PowerPoint, HTML, email & 40+ formats to clean Markdown — and back. Built for LLMs, RAG & Python pipelines, with a built-in MCP server.
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 49.05
+- Difficulty: Unknown
+- Recommended action: Track for research
+- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
 ### MauroDruwel/NIMStats
 - What it is: MauroDruwel/NIMStats is a JavaScript project for Data Scientist: 📊 Automated hourly benchmarks for 20+ NVIDIA NIM models — interactive dashboard, zero infra, self-hostable. Open-source & community-driven.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
@@ -124,26 +131,19 @@ LLM summary: `disabled`
 - Difficulty: Research-heavy
 - Recommended action: Skip for now
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### ASCIT31/Dark-Moon
-- What it is: ASCIT31/Dark-Moon is a Python project for General User: Autonomous AI pentesting engine, continuous offensive security across web, cloud, identity, CI/CD, IaC, databases, Active Directory, Kubernetes and IoT firmware. Agentic reasoning plus real exploit execution deliver proof-based vulnerabilities. Privacy gateway: the LLM never sees your real IPs, hosts or creds, nothing leaves your perimeter.
+### open-nvr/open-nvr
+- What it is: open-nvr/open-nvr is a Python project for General User: OpenNVR is a security-first, open-source AI-powered NVR platform. Built for scalability and flexibility, it supports real-time video processing and a plug-and-play AI adapter layer—allowing you to integrate any model and build limitless intelligent video applications. Offline-first, air-gapped capable, AGPLv3. A Frigate and ZoneMinder alternative.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 91.86
+- Score: 75.25
 - Difficulty: Intermediate
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### allcolor/PawFlow-Agents
-- What it is: allcolor/PawFlow-Agents is a Python project for General User: PawFlow (Platform for Agentic Workflows) Self-hosted agent runtime for real infrastructure. Run durable AI agents against your own files, tools, browsers, desktops, services, and workflows with relay-backed execution, shared context, multi-provider agents, and deterministic flows.
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 86.67
-- Difficulty: Intermediate
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
+- Recommended action: Use as portfolio reference
+- Risk: many open issues relative to stars
 
 ## Action List
-- Try today: oblien/openship, rush86999/atom, eracle/OpenOutreach
-- Watch this week: esengine/DeepSeek-Reasonix, QwenLM/qwen-code, sunbigfly/awesome-linuxdo-reader
-- Use as portfolio reference: PGHQdev/OpenScreenShot, OpenC3/cosmos, gethomepage/homepage
-- Skip for now: nicho92/MtgDesktopCompanion, MauroDruwel/NIMStats, scikit-hep/awkward
+- Try today: rush86999/atom, Lethe044/hermes-life-os, dongdongbh/Mindwtr
+- Watch this week: esengine/DeepSeek-Reasonix, can1357/oh-my-pi, snownico0722/PaperTodo
+- Use as portfolio reference: jackbrumley/voquill, krelltunez/lastGLANCE, krelltunez/lifeGLANCE
+- Skip for now: themartz90/jellydash, jiazhenz026/SciStudio, MauroDruwel/NIMStats
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.

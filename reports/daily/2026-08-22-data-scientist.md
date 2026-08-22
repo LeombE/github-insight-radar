@@ -1,40 +1,47 @@
 # Data Scientist GitHub Insight - 2026-08-22
 
-Generated at: `2026-08-21T16:51:29+00:00`
+Generated at: `2026-08-22T04:48:44+00:00`
 Mode: `live`
 
 | Rank | Repo | Score | Action | Difficulty | Risk flags |
 | --- | --- | ---: | --- | --- | --- |
-| 1 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 62.00 | Track for research | Advanced | no README evidence, installation unclear, usage examples unclear |
-| 2 | [flyteorg/flyte](https://github.com/flyteorg/flyte) | 62.00 | Watch this week | Advanced | no README evidence, installation unclear, usage examples unclear |
-| 3 | [MauroDruwel/NIMStats](https://github.com/MauroDruwel/NIMStats) | 62.00 | Skip for now | Research-heavy | no README evidence, installation unclear, usage examples unclear, no license |
-| 4 | [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) | 55.50 | Try today | Intermediate | None |
-| 5 | [allcolor/PawFlow-Agents](https://github.com/allcolor/PawFlow-Agents) | 55.50 | Try today | Intermediate | None |
-| 6 | [Stoupy51/StewBeet](https://github.com/Stoupy51/StewBeet) | 55.50 | Use as portfolio reference | Advanced | no license |
-| 7 | [gradio-app/gradio](https://github.com/gradio-app/gradio) | 55.50 | Track for research | Advanced | no README evidence, installation unclear, usage examples unclear |
-| 8 | [supernovae-st/nika](https://github.com/supernovae-st/nika) | 49.50 | Try today | Advanced | many open issues relative to stars |
-| 9 | [systempromptio/systemprompt-template](https://github.com/systempromptio/systemprompt-template) | 49.50 | Try today | Advanced | None |
-| 10 | [kaderkck/hewn-forge](https://github.com/kaderkck/hewn-forge) | 49.50 | Use as portfolio reference | Intermediate | no license |
-| 11 | [putervision/vision-memory-mcp](https://github.com/putervision/vision-memory-mcp) | 49.50 | Track for research | Unknown | no README evidence, installation unclear, usage examples unclear |
+| 1 | [lance-format/lance](https://github.com/lance-format/lance) | 75.00 | Track for research | Advanced | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
+| 2 | [hyeonsangjeon/gdpval-realworks](https://github.com/hyeonsangjeon/gdpval-realworks) | 68.00 | Track for research | Research-heavy | no README evidence, installation unclear, usage examples unclear |
+| 3 | [thomas-villani/all2md](https://github.com/thomas-villani/all2md) | 68.00 | Track for research | Unknown | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
+| 4 | [MauroDruwel/NIMStats](https://github.com/MauroDruwel/NIMStats) | 62.00 | Skip for now | Research-heavy | no README evidence, installation unclear, usage examples unclear, no license |
+| 5 | [open-nvr/open-nvr](https://github.com/open-nvr/open-nvr) | 55.50 | Use as portfolio reference | Intermediate | many open issues relative to stars |
+| 6 | [gradio-app/gradio](https://github.com/gradio-app/gradio) | 55.50 | Track for research | Advanced | no README evidence, installation unclear, usage examples unclear |
+| 7 | [Hazrat-Ali9/Water_Potability_Check_ML](https://github.com/Hazrat-Ali9/Water_Potability_Check_ML) | 55.50 | Skip for now | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 8 | [sairaman436/vybe-intelligence-vault](https://github.com/sairaman436/vybe-intelligence-vault) | 50.00 | Use as portfolio reference | Advanced | usage examples unclear |
+| 9 | [kaderkck/hewn-forge](https://github.com/kaderkck/hewn-forge) | 49.50 | Use as portfolio reference | Intermediate | no license |
+| 10 | [putervision/vision-memory-mcp](https://github.com/putervision/vision-memory-mcp) | 49.50 | Track for research | Unknown | no README evidence, installation unclear, usage examples unclear |
+| 11 | [the-akira/CC33Z](https://github.com/the-akira/CC33Z) | 49.50 | Track for research | Advanced | no README evidence, installation unclear, usage examples unclear, no license |
 | 12 | [m96-chan/ai_research_dashboard](https://github.com/m96-chan/ai_research_dashboard) | 49.50 | Skip for now | Research-heavy | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
 | 13 | [vishalGitthub/cli-llm-mesh](https://github.com/vishalGitthub/cli-llm-mesh) | 49.50 | Skip for now | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 14 | [spectrochempy/spectrochempy](https://github.com/spectrochempy/spectrochempy) | 43.00 | Track for research | Advanced | no README evidence, installation unclear, usage examples unclear |
 
 ## Project Notes
-### langfuse/langfuse
-- Summary: langfuse/langfuse is a TypeScript project for Data Scientist: 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
-- Why it matters: It maps to Data Scientist needs with an evidence-based score of 55.83.
+### lance-format/lance
+- Summary: lance-format/lance is a Rust project for Data Scientist: Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
+- Why it matters: It maps to Data Scientist needs with an evidence-based score of 55.75.
 - Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
-- Portfolio idea: Turn langfuse into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 33523; Forks: 3614; Language: TypeScript; License: NOASSERTION; README length: 0; Topics: analytics, autogen, evaluation, langchain, large-language-models, llama-index, llm, llm-evaluation, llm-observability, llmops, monitoring, observability, open-source, openai, playground, prompt-engineering, prompt-management, self-hosted, ycombinator
+- Portfolio idea: Turn lance into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 6960; Forks: 811; Language: Rust; License: Apache-2.0; README length: 0; Topics: apache-arrow, computer-vision, data-analysis, data-analytics, data-centric, data-format, data-science, dataops, deep-learning, duckdb, embeddings, llms, machine-learning, mlops, python, rust
 - Confidence: low
 
-### flyteorg/flyte
-- Summary: flyteorg/flyte is a Go project for General User: Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
-- Why it matters: It maps to General User needs with an evidence-based score of 55.03.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn flyte into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 7220; Forks: 876; Language: Go; License: Apache-2.0; README length: 0; Topics: agentic, ai-agents, ai-development-tools, data-analysis, data-science, declarative, fine-tuning, flyte, golang, grpc, hacktoberfest, kubernetes, llm, machine-learning, mlops, orchestration-engine, production, python, scale, workflow
+### hyeonsangjeon/gdpval-realworks
+- Summary: hyeonsangjeon/gdpval-realworks is a Python project for Data Scientist: Open-source benchmark for evaluating LLMs on 220 real professional tasks across 9 sectors and 44 occupations. Reproducible experiments, artifact validation, grading, and a live evidence dashboard.
+- Why it matters: It maps to Data Scientist needs with an evidence-based score of 51.62.
+- Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
+- Portfolio idea: Turn gdpval-realworks into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 22; Forks: 4; Language: Python; License: MIT; README length: 0; Topics: artifact-validation, azure-openai, benchmark-automation, dashboard, gdpval, github-actions, huggingface, llm-benchmark, llm-evaluation, mlops, professional-tasks, real-world-tasks
+- Confidence: low
+
+### thomas-villani/all2md
+- Summary: thomas-villani/all2md is a Python project for Data Scientist: Convert PDF, Word, PowerPoint, HTML, email & 40+ formats to clean Markdown — and back. Built for LLMs, RAG & Python pipelines, with a built-in MCP server.
+- Why it matters: It maps to Data Scientist needs with an evidence-based score of 49.05.
+- Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
+- Portfolio idea: Turn all2md into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 27; Forks: 6; Language: Python; License: MIT; README length: 0; Topics: ai, cli, document-conversion, document-parser, docx, epub, html-to-markdown, llm, markdown, markitdown-alternative, mcp, model-context-protocol, ocr, pandoc-alternative, pdf, pdf-to-markdown, pptx, python, rag, text-extraction
 - Confidence: low
 
 ### MauroDruwel/NIMStats
@@ -45,28 +52,12 @@ Mode: `live`
 - Evidence: Stars: 41; Forks: 16; Language: JavaScript; License: unavailable; README length: 0; Topics: ai, benchmark, dashboard, github-actions, llm, machine-learning, nim, nvidia, open-source
 - Confidence: low
 
-### ASCIT31/Dark-Moon
-- Summary: ASCIT31/Dark-Moon is a Python project for General User: Autonomous AI pentesting engine, continuous offensive security across web, cloud, identity, CI/CD, IaC, databases, Active Directory, Kubernetes and IoT firmware. Agentic reasoning plus real exploit execution deliver proof-based vulnerabilities. Privacy gateway: the LLM never sees your real IPs, hosts or creds, nothing leaves your perimeter.
-- Why it matters: It maps to General User needs with an evidence-based score of 91.86.
+### open-nvr/open-nvr
+- Summary: open-nvr/open-nvr is a Python project for General User: OpenNVR is a security-first, open-source AI-powered NVR platform. Built for scalability and flexibility, it supports real-time video processing and a plug-and-play AI adapter layer—allowing you to integrate any model and build limitless intelligent video applications. Offline-first, air-gapped capable, AGPLv3. A Frigate and ZoneMinder alternative.
+- Why it matters: It maps to General User needs with an evidence-based score of 75.25.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn Dark-Moon into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 856; Forks: 144; Language: Python; License: GPL-3.0; README length: 15022; Topics: active-directory, ai-agents, ai-red-team, ai-security-tool, autonomous-agents, cloud-security, firmware-security, iot-security, kubernetes, llm, local-llm, mcp, multi-agent-systems, offensive-security, penetration-testing, pentesting, red-team, security-automation, security-tools, self-hosted
-- Confidence: high
-
-### allcolor/PawFlow-Agents
-- Summary: allcolor/PawFlow-Agents is a Python project for General User: PawFlow (Platform for Agentic Workflows) Self-hosted agent runtime for real infrastructure. Run durable AI agents against your own files, tools, browsers, desktops, services, and workflows with relay-backed execution, shared context, multi-provider agents, and deterministic flows.
-- Why it matters: It maps to General User needs with an evidence-based score of 86.67.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn PawFlow-Agents into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 22; Forks: 2; Language: Python; License: MIT; README length: 38846; Topics: agentic-ai, agentic-coding, agentic-workflows, ai-agents, ai-tools, developer-tools, llm, mcp, orchestrator, remote-desktop, self-hosted, webchat-server
-- Confidence: high
-
-### Stoupy51/StewBeet
-- Summary: Stoupy51/StewBeet is a Python project for Data Scientist: A Beet framework for Minecraft datapacks. Describe your content once — models, recipes, loot tables, translations and an in‑game manual are built from that description on every compile.
-- Why it matters: It maps to Data Scientist needs with an evidence-based score of 70.62.
-- Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
-- Portfolio idea: Turn StewBeet into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 46; Forks: 2; Language: Python; License: unavailable; README length: 18064; Topics: abstraction, automation, beet, bolt, datapack, datapacks, framework, ingame-manual, mecha, minecraft, precompiler, pyright, python, ruff, stewbeet, uv
+- Portfolio idea: Turn open-nvr into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 70; Forks: 7; Language: Python; License: AGPL-3.0; README length: 25815; Topics: agpl, ai, cctv, computer-vision, docker, homelab, ip-camera, network-video-recorder, nvr, object-detection, offline-first, onvif, privacy, python, rtsp, security-camera, self-hosted, selfhosted, survelliance, video-surveillance
 - Confidence: high
 
 ### gradio-app/gradio
@@ -74,23 +65,23 @@ Mode: `live`
 - Why it matters: It maps to Data Scientist needs with an evidence-based score of 54.77.
 - Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
 - Portfolio idea: Turn gradio into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 43399; Forks: 3578; Language: Python; License: Apache-2.0; README length: 0; Topics: data-analysis, data-science, data-visualization, deep-learning, deploy, gradio, gradio-interface, interface, machine-learning, models, python, python-notebook, ui, ui-components
+- Evidence: Stars: 43401; Forks: 3578; Language: Python; License: Apache-2.0; README length: 0; Topics: data-analysis, data-science, data-visualization, deep-learning, deploy, gradio, gradio-interface, interface, machine-learning, models, python, python-notebook, ui, ui-components
 - Confidence: low
 
-### supernovae-st/nika
-- Summary: supernovae-st/nika is a Rust project for General User: Intent as Code | the workflow language for AI. One file, 4 verbs, one Rust binary. Local-first, any model, AGPL-3.0. 🦋
-- Why it matters: It maps to General User needs with an evidence-based score of 89.39.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn nika into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 54; Forks: 4; Language: Rust; License: AGPL-3.0; README length: 32108; Topics: agents, ai, ai-agents, ai-workflows, automation, cli, dag, developer-tools, devops, llm, local-ai, mcp, ollama, rust, self-hosted, structured-output, workflow, workflow-automation, workflow-engine, yaml
-- Confidence: high
+### Hazrat-Ali9/Water_Potability_Check_ML
+- Summary: Hazrat-Ali9/Water_Potability_Check_ML is a Python project for Data Scientist: 🤖 Water 🤡 Potability ⚽ Check ⚾ ML 🥎 is a 🏀 project 🏐 designed 🏈 to 🏉 predict 🎮 whether 🎳 water 🧶 is safe 🏘 drinking 🕌 using 🚞 key 🚅 physicochemical 🚃 properties 🚋 system 🏭 analyzes 🚒 water 🚁 quality ✈ parameters 🚀 classifies 🛸 water 🚢 potable 🚠 data 🛼 driven 🚝 decision 🪐 making ☂ public health and environmental monitoring
+- Why it matters: It maps to Data Scientist needs with an evidence-based score of 42.12.
+- Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
+- Portfolio idea: Turn Water_Potability_Check_ML into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 22; Forks: 0; Language: Python; License: unavailable; README length: 0; Topics: data-analysis, datset, kaggle, machine-learning, model, python
+- Confidence: low
 
-### systempromptio/systemprompt-template
-- Summary: systempromptio/systemprompt-template is a Rust project for General User: AI Governance Infrastructure — local evaluation. The governance layer for AI agents: a single compiled Rust binary that authenticates, authorises, rate-limits, logs, and costs every AI interaction. Self-hosted, air-gap capable, provider-agnostic.
-- Why it matters: It maps to General User needs with an evidence-based score of 80.82.
+### sairaman436/vybe-intelligence-vault
+- Summary: sairaman436/vybe-intelligence-vault is a JavaScript project for General User: An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generation web development.
+- Why it matters: It maps to General User needs with an evidence-based score of 76.70.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn systemprompt-template into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 26; Forks: 5; Language: Rust; License: NOASSERTION; README length: 29890; Topics: a2a, agent-orchestration, agentic-ai, ai-agents, ai-governance, ai-infrastructure, autonomous-agents, boilerplate, claude, claude-code, llm, mcp, mcp-server, model-context-protocol, oauth2, postgresql, rust, self-hosted, starter, template
+- Portfolio idea: Turn vybe-intelligence-vault into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 22; Forks: 1; Language: JavaScript; License: NOASSERTION; README length: 13262; Topics: ai, ai-agents, ai-engineering, artificial-intelligence, automation, awesome-list, developer-tools, generative-ai, knowledge-base, langchain, langgraph, llm, machine-learning, mcp, open-source, prompt-engineering, rag, threejs, web-development
 - Confidence: high
 
 ### kaderkck/hewn-forge
@@ -103,10 +94,18 @@ Mode: `live`
 
 ### putervision/vision-memory-mcp
 - Summary: putervision/vision-memory-mcp is a TypeScript project for Data Scientist: Persistent visual cache for LLM-driven software development. Caches screenshots using perceptual hashing, vector search, and AX trees to prevent token overhead and visual hallucination loops.
-- Why it matters: It maps to Data Scientist needs with an evidence-based score of 47.37.
+- Why it matters: It maps to Data Scientist needs with an evidence-based score of 47.43.
 - Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
 - Portfolio idea: Turn vision-memory-mcp into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 48; Forks: 0; Language: TypeScript; License: NOASSERTION; README length: 0; Topics: ai-tool, computer-vision, developer-tools, mcp, mcp-server, mcp-tool, mcp-tools, model-context-protocol
+- Evidence: Stars: 51; Forks: 0; Language: TypeScript; License: NOASSERTION; README length: 0; Topics: ai-tool, computer-vision, developer-tools, mcp, mcp-server, mcp-tool, mcp-tools, model-context-protocol
+- Confidence: low
+
+### the-akira/CC33Z
+- Summary: the-akira/CC33Z is a Jupyter Notebook project for Data Scientist: Curso de Ciência da Computação
+- Why it matters: It maps to Data Scientist needs with an evidence-based score of 46.98.
+- Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
+- Portfolio idea: Turn CC33Z into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 68; Forks: 6; Language: Jupyter Notebook; License: unavailable; README length: 0; Topics: algorithms-and-data-structures, computer-networks, computer-science, computer-vision, data-analysis, data-visualization, databases, django, html-css-javascript, information-security, linux, machine-learning, numerical-computation, numpy, philosophy, programming, python, symbolic-computation, sympy, web-development
 - Confidence: low
 
 ### m96-chan/ai_research_dashboard
@@ -123,12 +122,4 @@ Mode: `live`
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
 - Portfolio idea: Turn cli-llm-mesh into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
 - Evidence: Stars: 116; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: ai, ai-chat-free, ai-chatbot, chat, cli, cross-platform, docker, free-ai-api, free-ai-software, go, golang, grok, groq, groq-ai, groq-api, lightweight, openai-api-chatbot, openrouter-api, xai
-- Confidence: low
-
-### spectrochempy/spectrochempy
-- Summary: spectrochempy/spectrochempy is a Python project for Data Scientist: SpectroChemPy is a framework for processing, analyzing and modeling spectroscopic data for chemistry with Python
-- Why it matters: It maps to Data Scientist needs with an evidence-based score of 47.00.
-- Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
-- Portfolio idea: Turn spectrochempy into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 181; Forks: 36; Language: Python; License: NOASSERTION; README length: 0; Topics: chemistry, data-analysis, datasets, ftir, ftir-data-analysis, infrared, nmr, nmr-data, nmr-spectroscopy, processing, python, raman, raman-spectra, raman-spectroscopy, spectroscopy, uv-vis
 - Confidence: low
