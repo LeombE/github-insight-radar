@@ -1,102 +1,102 @@
 # GitHub Insight Action List - 2026-08-24
 
-1. `Try today` [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips)
+1. `Try today` [dagucloud/dagu](https://github.com/dagucloud/dagu)
    - Audience: General User
-   - Score: 98.87
-   - Output: Turn claude-code-tips into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+   - Score: 95.50
+   - Output: Turn dagu into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
    - Risk: No major risk flag.
-2. `Try today` [eracle/OpenOutreach](https://github.com/eracle/OpenOutreach)
+2. `Try today` [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI)
    - Audience: General User
-   - Score: 95.72
-   - Output: Turn OpenOutreach into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+   - Score: 91.70
+   - Output: Turn LobsterAI into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
    - Risk: No major risk flag.
-3. `Try today` [unslothai/unsloth](https://github.com/unslothai/unsloth)
+3. `Try today` [Squirreljetpack/matchmaker](https://github.com/Squirreljetpack/matchmaker)
    - Audience: General User
-   - Score: 94.82
-   - Output: Turn unsloth into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+   - Score: 90.70
+   - Output: Turn matchmaker into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
    - Risk: No major risk flag.
-4. `Try today` [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research)
+4. `Try today` [langgenius/dify](https://github.com/langgenius/dify)
    - Audience: General User
-   - Score: 94.00
-   - Output: Turn local-deep-research into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+   - Score: 90.30
+   - Output: Turn dify into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
    - Risk: No major risk flag.
-5. `Try today` [theexperiencecompany/gaia](https://github.com/theexperiencecompany/gaia)
+5. `Try today` [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr)
    - Audience: General User
-   - Score: 93.11
-   - Output: Turn gaia into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+   - Score: 89.51
+   - Output: Turn Mindwtr into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
    - Risk: No major risk flag.
-6. `Try today` [curie-eng/curie](https://github.com/curie-eng/curie)
+6. `Try today` [chadbyte/clay](https://github.com/chadbyte/clay)
    - Audience: General User
-   - Score: 88.93
-   - Output: Turn curie into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+   - Score: 88.94
+   - Output: Turn clay into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+   - Risk: No major risk flag.
+7. `Try today` [dev-core-busy/jarvis](https://github.com/dev-core-busy/jarvis)
+   - Audience: General User
+   - Score: 88.61
+   - Output: Turn jarvis into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+   - Risk: No major risk flag.
+8. `Try today` [juspay/neurolink](https://github.com/juspay/neurolink)
+   - Audience: General User
+   - Score: 87.86
+   - Output: Turn neurolink into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
    - Risk: many open issues relative to stars
-7. `Try today` [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager)
+9. `Try today` [basefoundry/base](https://github.com/basefoundry/base)
    - Audience: General User
-   - Score: 88.52
-   - Output: Turn GithubStarsManager into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-   - Risk: No major risk flag.
-8. `Try today` [atomantic/PortOS](https://github.com/atomantic/PortOS)
-   - Audience: General User
-   - Score: 88.28
-   - Output: Turn PortOS into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+   - Score: 87.83
+   - Output: Turn base into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
    - Risk: many open issues relative to stars
-9. `Try today` [timothy-agent/timothy](https://github.com/timothy-agent/timothy)
-   - Audience: General User
-   - Score: 87.52
-   - Output: Turn timothy into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-   - Risk: No major risk flag.
-10. `Try today` [mixpeek/amux](https://github.com/mixpeek/amux)
-   - Audience: General User
-   - Score: 87.47
-   - Output: Turn amux into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-   - Risk: No major risk flag.
-11. `Try today` [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory)
+10. `Try today` [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory)
    - Audience: General User
    - Score: 87.20
    - Output: Turn basic-memory into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
    - Risk: No major risk flag.
-12. `Try today` [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy)
+11. `Try today` [krelltunez/dayGLANCE](https://github.com/krelltunez/dayGLANCE)
    - Audience: General User
-   - Score: 86.14
-   - Output: Turn ever-gauzy into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+   - Score: 87.06
+   - Output: Turn dayGLANCE into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
    - Risk: No major risk flag.
-13. `Try today` [robocorp/rpaframework](https://github.com/robocorp/rpaframework)
+12. `Try today` [engasnm111/lnwjud](https://github.com/engasnm111/lnwjud)
    - Audience: General User
-   - Score: 85.20
-   - Output: Turn rpaframework into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+   - Score: 86.94
+   - Output: Turn lnwjud into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
    - Risk: No major risk flag.
-14. `Try today` [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium)
+13. `Try today` [kirodotdev/KiroCrew](https://github.com/kirodotdev/KiroCrew)
+   - Audience: General User
+   - Score: 86.89
+   - Output: Turn KiroCrew into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+   - Risk: many open issues relative to stars
+14. `Try today` [appwrite/appwrite](https://github.com/appwrite/appwrite)
+   - Audience: General User
+   - Score: 86.32
+   - Output: Turn appwrite into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+   - Risk: No major risk flag.
+15. `Try today` [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI)
+   - Audience: General User
+   - Score: 85.83
+   - Output: Turn App-Store-Connect-CLI into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+   - Risk: No major risk flag.
+16. `Try today` [Ericwong5021/better-codex](https://github.com/Ericwong5021/better-codex)
+   - Audience: General User
+   - Score: 85.24
+   - Output: Turn better-codex into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+   - Risk: usage examples unclear
+17. `Try today` [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium)
    - Audience: General User
    - Score: 85.12
    - Output: Turn Trilium into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
    - Risk: No major risk flag.
-15. `Try today` [jordigilh/kubernaut](https://github.com/jordigilh/kubernaut)
+18. `Try today` [bex-co/bex](https://github.com/bex-co/bex)
    - Audience: General User
-   - Score: 84.58
-   - Output: Turn kubernaut into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-   - Risk: many open issues relative to stars
-16. `Try today` [px0-ai/px0](https://github.com/px0-ai/px0)
-   - Audience: General User
-   - Score: 83.99
-   - Output: Turn px0 into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+   - Score: 85.11
+   - Output: Turn bex into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
    - Risk: No major risk flag.
-17. `Try today` [DEEIX-AI/DEEIX-Chat](https://github.com/DEEIX-AI/DEEIX-Chat)
+19. `Try today` [ChronoAIProject/NyxID](https://github.com/ChronoAIProject/NyxID)
    - Audience: General User
-   - Score: 83.86
-   - Output: Turn DEEIX-Chat into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-   - Risk: No major risk flag.
-18. `Try today` [inite-ai/inite-brain-service](https://github.com/inite-ai/inite-brain-service)
-   - Audience: General User
-   - Score: 83.50
-   - Output: Turn inite-brain-service into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-   - Risk: No major risk flag.
-19. `Try today` [neiliro/neiliro](https://github.com/neiliro/neiliro)
-   - Audience: General User
-   - Score: 83.13
-   - Output: Turn neiliro into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+   - Score: 84.36
+   - Output: Turn NyxID into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
    - Risk: many open issues relative to stars
-20. `Try today` [gobifrost/bifrost](https://github.com/gobifrost/bifrost)
+20. `Try today` [umputun/spot](https://github.com/umputun/spot)
    - Audience: General User
-   - Score: 83.00
-   - Output: Turn bifrost into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-   - Risk: many open issues relative to stars
+   - Score: 84.23
+   - Output: Turn spot into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+   - Risk: No major risk flag.
