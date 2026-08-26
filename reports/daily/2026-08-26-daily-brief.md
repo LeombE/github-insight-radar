@@ -1,6 +1,6 @@
 # GitHub Insight Daily Brief - 2026-08-26
 
-Generated at: `2026-08-25T16:55:52+00:00`
+Generated at: `2026-08-26T04:55:30+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -8,8 +8,8 @@ Image generation: `disabled`
 LLM summary: `disabled`
 
 ## Executive Summary
-- Top overall opportunity: [unslothai/unsloth](https://github.com/unslothai/unsloth) with score 94.82.
-- General user opportunity: [rush86999/atom](https://github.com/rush86999/atom)
+- Top overall opportunity: [apache/airflow](https://github.com/apache/airflow) with score 95.22.
+- General user opportunity: [Fast-Editor/Lynkr](https://github.com/Fast-Editor/Lynkr)
 - Data analyst opportunity: [grafana/grafana](https://github.com/grafana/grafana)
 - Data scientist opportunity: [lance-format/lance](https://github.com/lance-format/lance)
 - Most common risk pattern: usage examples unclear
@@ -17,50 +17,50 @@ LLM summary: `disabled`
 ## Top Overall Projects
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
-| 1 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | General User | 94.82 | It maps to General User needs with an evidence-based score of 94.82. | Try today |
-| 2 | [rush86999/atom](https://github.com/rush86999/atom) | General User | 94.16 | It maps to General User needs with an evidence-based score of 94.16. | Try today |
-| 3 | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | General User | 93.85 | It maps to General User needs with an evidence-based score of 93.85. | Try today |
-| 4 | [Peiiii/nextclaw](https://github.com/Peiiii/nextclaw) | General User | 93.53 | It maps to General User needs with an evidence-based score of 93.53. | Try today |
-| 5 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | General User | 93.52 | It maps to General User needs with an evidence-based score of 93.52. | Try today |
-| 6 | [theexperiencecompany/gaia](https://github.com/theexperiencecompany/gaia) | General User | 93.12 | It maps to General User needs with an evidence-based score of 93.12. | Try today |
-| 7 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | General User | 92.22 | It maps to General User needs with an evidence-based score of 92.22. | Try today |
-| 8 | [superplanehq/superplane](https://github.com/superplanehq/superplane) | General User | 90.43 | It maps to General User needs with an evidence-based score of 90.43. | Try today |
-| 9 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
-| 10 | [jchultarsky/mirador](https://github.com/jchultarsky/mirador) | General User | 89.19 | It maps to General User needs with an evidence-based score of 89.19. | Try today |
+| 1 | [apache/airflow](https://github.com/apache/airflow) | General User | 95.22 | It maps to General User needs with an evidence-based score of 95.22. | Try today |
+| 2 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | General User | 94.82 | It maps to General User needs with an evidence-based score of 94.82. | Try today |
+| 3 | [Fast-Editor/Lynkr](https://github.com/Fast-Editor/Lynkr) | General User | 93.73 | It maps to General User needs with an evidence-based score of 93.73. | Try today |
+| 4 | [PerpetualSoftware/pad](https://github.com/PerpetualSoftware/pad) | General User | 92.48 | It maps to General User needs with an evidence-based score of 92.48. | Try today |
+| 5 | [The01Geek/prflow](https://github.com/The01Geek/prflow) | General User | 92.32 | It maps to General User needs with an evidence-based score of 92.32. | Try today |
+| 6 | [artokun/comfyui-mcp](https://github.com/artokun/comfyui-mcp) | General User | 91.73 | It maps to General User needs with an evidence-based score of 91.73. | Try today |
+| 7 | [superplanehq/superplane](https://github.com/superplanehq/superplane) | General User | 90.44 | It maps to General User needs with an evidence-based score of 90.44. | Try today |
+| 8 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
+| 9 | [langgenius/dify](https://github.com/langgenius/dify) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
+| 10 | [openrundev/openrun](https://github.com/openrundev/openrun) | General User | 89.55 | It maps to General User needs with an evidence-based score of 89.55. | Try today |
 
 ## General User Finds
-### rush86999/atom
-- What it is: rush86999/atom is a Python project for General User: Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation
+### Fast-Editor/Lynkr
+- What it is: Fast-Editor/Lynkr is a JavaScript project for General User: Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude Code CLI.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 94.16
-- Difficulty: Advanced
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### melgarafael/DeskcommCRM
-- What it is: melgarafael/DeskcommCRM is a TypeScript project for General User: Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 93.85
+- Score: 93.73
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### Peiiii/nextclaw
-- What it is: Peiiii/nextclaw is a TypeScript project for General User: An open-source, extensible, self-hosted agent workspace with multi-runtime support for Codex, Claude Code, and more, plus reusable local apps for custom interfaces and services.
+### PerpetualSoftware/pad
+- What it is: PerpetualSoftware/pad is a Go project for General User: Project Management for the agent era
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 93.53
-- Difficulty: Advanced
+- Score: 92.48
+- Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### theexperiencecompany/gaia
-- What it is: theexperiencecompany/gaia is a Python project for General User: Your proactive personal AI assistant & companion for daily productivity 🌎
+### The01Geek/prflow
+- What it is: The01Geek/prflow is a Shell project for General User: Turn feature requests into review-ready pull requests: issue, implementation, tests, a review-and-fix loop, and docs. Runs locally or on GitHub Actions, and is built for complex brownfield repos. Each week its retrospective reads what you actually merged and proposes improvements to your skill extensions.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 93.12
-- Difficulty: Advanced
+- Score: 92.32
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### artokun/comfyui-mcp
+- What it is: artokun/comfyui-mcp is a TypeScript project for General User: Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs workflows, and edits your live graph in natural language on ANY LLM (Claude, ChatGPT, Gemini, offline Ollama, or any hosted model). 178 tools, 36 AI skills, 55 installer packs. Local, LAN, VPS, or Comfy Cloud.
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 91.73
+- Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
 ### superplanehq/superplane
 - What it is: superplanehq/superplane is a Go project for General User: The open source control plane for agentic engineering.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 90.43
+- Score: 90.44
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
@@ -80,6 +80,13 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Study for learning
 - Risk: no README evidence, installation unclear, usage examples unclear
+### MahbubNibir/power-bi-retail-analytics-viz
+- What it is: MahbubNibir/power-bi-retail-analytics-viz is a HTML project for Data Analyst: Top Power BI Sales Dashboard 2026 for Profit & Regional Analysis
+- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
+- Score: 51.70
+- Difficulty: Unknown
+- Recommended action: Watch this week
+- Risk: no README evidence, installation unclear, usage examples unclear, no license
 ### valdeteselimi/DashPro-Monitor-IndustrialBI
 - What it is: valdeteselimi/DashPro-Monitor-IndustrialBI is a HTML project for Data Analyst: Power BI 2026: Smart Industrial Production Dashboard with DAX & Data Cleaning
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
@@ -94,13 +101,6 @@ LLM summary: `disabled`
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### evidence-dev/evidence
-- What it is: evidence-dev/evidence is a TypeScript project for Data Analyst: Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
-- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 63.31
-- Difficulty: Advanced
-- Recommended action: Study for learning
-- Risk: no README evidence, installation unclear, usage examples unclear
 
 ## Data Scientist Research Radar
 ### lance-format/lance
@@ -110,13 +110,27 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear
-### NVIDIA-NeMo/Automodel
-- What it is: NVIDIA-NeMo/Automodel is a Python project for Data Scientist: 🚀 Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
+### bybit-exchange/kaas
+- What it is: bybit-exchange/kaas is a Python project for General User: Turn scattered notes, docs and transcripts into a queryable Markdown wiki — an LLM knowledge-base compiler with MCP access, no embeddings, self-hosted.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 52.17
+- Score: 83.39
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### hyeonsangjeon/gdpval-realworks
+- What it is: hyeonsangjeon/gdpval-realworks is a Python project for Data Scientist: Open-source benchmark for evaluating LLMs on 220 real professional tasks across 9 sectors and 44 occupations. Reproducible experiments, artifact validation, grading, and a live evidence dashboard.
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 51.66
 - Difficulty: Research-heavy
 - Recommended action: Track for research
-- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
+- Risk: no README evidence, installation unclear, usage examples unclear
+### juspay/neurolink
+- What it is: juspay/neurolink is a TypeScript project for General User: One TypeScript interface for 24+ LLM providers — swap providers without rewriting. MCP-native (connect any MCP server), voice (TTS/STT/realtime), RAG, memory, file processors. Production-origin: powers Tara, Yama, and Clairvoyance at Juspay.
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 87.86
+- Difficulty: Advanced
+- Recommended action: Try today
+- Risk: many open issues relative to stars
 ### flyteorg/flyte
 - What it is: flyteorg/flyte is a Go project for General User: Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
@@ -124,26 +138,12 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear
-### MauroDruwel/NIMStats
-- What it is: MauroDruwel/NIMStats is a JavaScript project for Data Scientist: 📊 Automated hourly benchmarks for 20+ NVIDIA NIM models — interactive dashboard, zero infra, self-hostable. Open-source & community-driven.
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 44.75
-- Difficulty: Research-heavy
-- Recommended action: Skip for now
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
-### opensquilla/opensquilla
-- What it is: opensquilla/opensquilla is a Python project for General User: OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 53.28
-- Difficulty: Advanced
-- Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear
 
 ## Action List
-- Try today: unslothai/unsloth, rush86999/atom, melgarafael/DeskcommCRM
-- Watch this week: chartbrew/chartbrew, Kilo-Org/kilocode, HBAI-Ltd/Toonflow-app
-- Use as portfolio reference: shizunge/gantry, bivlked/amneziawg-installer, bulwarkmail/webmail
-- Skip for now: atomantic/PortOS, MauroDruwel/NIMStats, m96-chan/ai_research_dashboard
+- Try today: apache/airflow, unslothai/unsloth, Fast-Editor/Lynkr
+- Watch this week: QwenLM/qwen-code, superset-sh/superset, CyrilGuoCODE/Auto366
+- Use as portfolio reference: arukaraz/synthseek, recombyn/zuoge, emmanuelvassquez429-rgb/Shapez-2-Shift-Logic-Expansion
+- Skip for now: jiazhenz026/SciStudio, MauroDruwel/NIMStats, faithlumumba/2025-tencent-advertising-algorithm-competition-finalist
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.
