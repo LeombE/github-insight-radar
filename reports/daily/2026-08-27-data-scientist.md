@@ -1,44 +1,61 @@
 # Data Scientist GitHub Insight - 2026-08-27
 
-Generated at: `2026-08-26T16:59:27+00:00`
+Generated at: `2026-08-27T15:15:28+00:00`
 Mode: `live`
 
 | Rank | Repo | Score | Action | Difficulty | Risk flags |
 | --- | --- | ---: | --- | --- | --- |
-| 1 | [flyteorg/flyte](https://github.com/flyteorg/flyte) | 62.00 | Watch this week | Advanced | no README evidence, installation unclear, usage examples unclear |
-| 2 | [MauroDruwel/NIMStats](https://github.com/MauroDruwel/NIMStats) | 62.00 | Skip for now | Research-heavy | no README evidence, installation unclear, usage examples unclear, no license |
-| 3 | [uxlfoundation/scikit-learn-intelex](https://github.com/uxlfoundation/scikit-learn-intelex) | 56.00 | Track for research | Research-heavy | no README evidence, installation unclear, usage examples unclear |
-| 4 | [gradio-app/gradio](https://github.com/gradio-app/gradio) | 55.50 | Track for research | Advanced | no README evidence, installation unclear, usage examples unclear |
-| 5 | [SAIRAMANALADI/vybe-intelligence-vault](https://github.com/SAIRAMANALADI/vybe-intelligence-vault) | 50.00 | Use as portfolio reference | Advanced | usage examples unclear |
-| 6 | [pitiflautico/neobrowser](https://github.com/pitiflautico/neobrowser) | 49.50 | Try today | Advanced | None |
-| 7 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 49.50 | Use as portfolio reference | Advanced | many open issues relative to stars |
-| 8 | [kaderkck/hewn-forge](https://github.com/kaderkck/hewn-forge) | 49.50 | Use as portfolio reference | Intermediate | no license |
+| 1 | [dataelement/bisheng](https://github.com/dataelement/bisheng) | 80.50 | Track for research | Advanced | no README evidence, installation unclear, usage examples unclear |
+| 2 | [lance-format/lance](https://github.com/lance-format/lance) | 75.00 | Track for research | Advanced | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
+| 3 | [hyeonsangjeon/gdpval-realworks](https://github.com/hyeonsangjeon/gdpval-realworks) | 68.00 | Track for research | Research-heavy | no README evidence, installation unclear, usage examples unclear |
+| 4 | [thomas-villani/all2md](https://github.com/thomas-villani/all2md) | 68.00 | Track for research | Unknown | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
+| 5 | [MauroDruwel/NIMStats](https://github.com/MauroDruwel/NIMStats) | 62.00 | Skip for now | Research-heavy | no README evidence, installation unclear, usage examples unclear, no license |
+| 6 | [gradio-app/gradio](https://github.com/gradio-app/gradio) | 55.50 | Track for research | Advanced | no README evidence, installation unclear, usage examples unclear |
+| 7 | [langgenius/dify](https://github.com/langgenius/dify) | 49.50 | Try today | Advanced | None |
+| 8 | [soapbucket/sbproxy](https://github.com/soapbucket/sbproxy) | 49.50 | Use as portfolio reference | Advanced | None |
 | 9 | [putervision/vision-memory-mcp](https://github.com/putervision/vision-memory-mcp) | 49.50 | Track for research | Unknown | no README evidence, installation unclear, usage examples unclear |
-| 10 | [scikit-learn-contrib/fastcan](https://github.com/scikit-learn-contrib/fastcan) | 43.50 | Skip for now | Unknown | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
+| 10 | [cfgranda/ps4ds](https://github.com/cfgranda/ps4ds) | 37.00 | Track for research | Advanced | no README evidence, installation unclear, usage examples unclear, no license |
+| 11 | [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) | 31.00 | Track for research | Unknown | no README evidence, installation unclear, usage examples unclear |
 
 ## Project Notes
-### flyteorg/flyte
-- Summary: flyteorg/flyte is a Go project for General User: Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
-- Why it matters: It maps to General User needs with an evidence-based score of 55.04.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn flyte into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 7245; Forks: 877; Language: Go; License: Apache-2.0; README length: 0; Topics: agentic, ai-agents, ai-development-tools, data-analysis, data-science, declarative, fine-tuning, flyte, golang, grpc, hacktoberfest, kubernetes, llm, machine-learning, mlops, orchestration-engine, production, python, scale, workflow
+### dataelement/bisheng
+- Summary: dataelement/bisheng is a Python project for Data Scientist: BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more.
+- Why it matters: It maps to Data Scientist needs with an evidence-based score of 59.81.
+- Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
+- Portfolio idea: Turn bisheng into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 11916; Forks: 1953; Language: Python; License: Apache-2.0; README length: 0; Topics: agent, ai, chatbot, enterprise, finetune, genai, gpt, langchian, llama, llm, llmdevops, llmops, ocr, openai, orchestration, python, rag, react, sft, workflow
+- Confidence: low
+
+### lance-format/lance
+- Summary: lance-format/lance is a Rust project for Data Scientist: Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
+- Why it matters: It maps to Data Scientist needs with an evidence-based score of 55.75.
+- Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
+- Portfolio idea: Turn lance into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 6980; Forks: 820; Language: Rust; License: Apache-2.0; README length: 0; Topics: apache-arrow, computer-vision, data-analysis, data-analytics, data-centric, data-format, data-science, dataops, deep-learning, duckdb, embeddings, llms, machine-learning, mlops, python, rust
+- Confidence: low
+
+### hyeonsangjeon/gdpval-realworks
+- Summary: hyeonsangjeon/gdpval-realworks is a Python project for Data Scientist: Open-source benchmark for evaluating LLMs on 220 real professional tasks across 9 sectors and 44 occupations. Reproducible experiments, artifact validation, grading, and a live evidence dashboard.
+- Why it matters: It maps to Data Scientist needs with an evidence-based score of 51.70.
+- Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
+- Portfolio idea: Turn gdpval-realworks into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 24; Forks: 4; Language: Python; License: MIT; README length: 0; Topics: artifact-validation, azure-openai, benchmark-automation, dashboard, gdpval, github-actions, huggingface, llm-benchmark, llm-evaluation, mlops, professional-tasks, real-world-tasks
+- Confidence: low
+
+### thomas-villani/all2md
+- Summary: thomas-villani/all2md is a Python project for Data Scientist: Convert PDF, Word, PowerPoint, HTML, email & 40+ formats to clean Markdown — and back. Built for LLMs, RAG & Python pipelines, with a built-in MCP server.
+- Why it matters: It maps to Data Scientist needs with an evidence-based score of 49.05.
+- Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
+- Portfolio idea: Turn all2md into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 27; Forks: 6; Language: Python; License: MIT; README length: 0; Topics: ai, cli, document-conversion, document-parser, docx, epub, html-to-markdown, llm, markdown, markitdown-alternative, mcp, model-context-protocol, ocr, pandoc-alternative, pdf, pdf-to-markdown, pptx, python, rag, text-extraction
 - Confidence: low
 
 ### MauroDruwel/NIMStats
 - Summary: MauroDruwel/NIMStats is a JavaScript project for Data Scientist: 📊 Automated hourly benchmarks for 20+ NVIDIA NIM models — interactive dashboard, zero infra, self-hostable. Open-source & community-driven.
-- Why it matters: It maps to Data Scientist needs with an evidence-based score of 44.75.
+- Why it matters: It maps to Data Scientist needs with an evidence-based score of 44.77.
 - Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
 - Portfolio idea: Turn NIMStats into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 42; Forks: 16; Language: JavaScript; License: unavailable; README length: 0; Topics: ai, benchmark, dashboard, github-actions, llm, machine-learning, nim, nvidia, open-source
-- Confidence: low
-
-### uxlfoundation/scikit-learn-intelex
-- Summary: uxlfoundation/scikit-learn-intelex is a Python project for Data Scientist: Extension for Scikit-learn is a seamless way to speed up your Scikit-learn application
-- Why it matters: It maps to Data Scientist needs with an evidence-based score of 51.95.
-- Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
-- Portfolio idea: Turn scikit-learn-intelex into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 1356; Forks: 190; Language: Python; License: Apache-2.0; README length: 0; Topics: ai-inference, ai-machine-learning, ai-training, analytics, big-data, data-analysis, gpu, hacktoberfest, machine-learning, machine-learning-algorithms, oneapi, python, scikit-learn, swrepo
+- Evidence: Stars: 43; Forks: 16; Language: JavaScript; License: unavailable; README length: 0; Topics: ai, benchmark, dashboard, github-actions, llm, machine-learning, nim, nvidia, open-source
 - Confidence: low
 
 ### gradio-app/gradio
@@ -46,53 +63,45 @@ Mode: `live`
 - Why it matters: It maps to Data Scientist needs with an evidence-based score of 54.77.
 - Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
 - Portfolio idea: Turn gradio into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 43425; Forks: 3580; Language: Python; License: Apache-2.0; README length: 0; Topics: data-analysis, data-science, data-visualization, deep-learning, deploy, gradio, gradio-interface, interface, machine-learning, models, python, python-notebook, ui, ui-components
+- Evidence: Stars: 43431; Forks: 3581; Language: Python; License: Apache-2.0; README length: 0; Topics: data-analysis, data-science, data-visualization, deep-learning, deploy, gradio, gradio-interface, interface, machine-learning, models, python, python-notebook, ui, ui-components
 - Confidence: low
 
-### SAIRAMANALADI/vybe-intelligence-vault
-- Summary: SAIRAMANALADI/vybe-intelligence-vault is a JavaScript project for General User: An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generation web development.
-- Why it matters: It maps to General User needs with an evidence-based score of 76.70.
+### langgenius/dify
+- Summary: langgenius/dify is a TypeScript project for General User: Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
+- Why it matters: It maps to General User needs with an evidence-based score of 90.30.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn vybe-intelligence-vault into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 22; Forks: 1; Language: JavaScript; License: NOASSERTION; README length: 13262; Topics: ai, ai-agents, ai-engineering, artificial-intelligence, automation, awesome-list, developer-tools, generative-ai, knowledge-base, langchain, langgraph, llm, machine-learning, mcp, open-source, prompt-engineering, rag, threejs, web-development
+- Portfolio idea: Turn dify into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 153671; Forks: 24289; Language: TypeScript; License: NOASSERTION; README length: 11824; Topics: agent, agentic-ai, agentic-framework, agentic-workflow, ai, automation, claude, deepseek, genai, gpt, llm, low-code, mcp, nextjs, no-code, openai, python, skills, workflow
 - Confidence: high
 
-### pitiflautico/neobrowser
-- Summary: pitiflautico/neobrowser is a Rust project for General User: MCP server that drives real Chrome with your real logged-in sessions — genuine fingerprint (passes bot.sannysoft), human-like input, bot-wall aware. 43 tools, single static Rust binary.
-- Why it matters: It maps to General User needs with an evidence-based score of 83.17.
+### soapbucket/sbproxy
+- Summary: soapbucket/sbproxy is a Rust project for General User: Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native providers behind an OpenAI-compatible API, or serve vLLM and llama.cpp on your own GPUs. Keys, budgets, guardrails, semantic cache, WAF.
+- Why it matters: It maps to General User needs with an evidence-based score of 77.22.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn neobrowser into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 95; Forks: 4; Language: Rust; License: MIT; README length: 28660; Topics: ai, ai-agents, ai-tools, automation, browser-automation, cdp, chrome, chrome-devtools-protocol, claude, developer-tools, llm, mcp, mcp-server, mcp-servers, model-context-protocol, open-source, real-browser, rust, stealth, web-scraping
-- Confidence: high
-
-### anthony-chaudhary/fak
-- Summary: anthony-chaudhary/fak is a Go project for General User: Create your Agentic AIs.
-- Why it matters: It maps to General User needs with an evidence-based score of 75.35.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn fak into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 32; Forks: 13; Language: Go; License: Apache-2.0; README length: 8597; Topics: agent-kernel, agentic-ai, ai-agents, ai-gateway, claude-code, context-compression, gguf, golang, guardrails, kv-cache, llm-agents, llm-inference, llm-serving, llmops, local-llm, mcp, prompt-cache, self-hosted, token-optimization, yagni
-- Confidence: high
-
-### kaderkck/hewn-forge
-- Summary: kaderkck/hewn-forge is a HTML project for General User: HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code
-- Why it matters: It maps to General User needs with an evidence-based score of 75.16.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn hewn-forge into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 117; Forks: 0; Language: HTML; License: unavailable; README length: 8722; Topics: agents, anthropic, anthropic-claude, benchmarking, claude, claude-code, claude-opus, claude-sonnet, cli, developer-tools, llm, productivity, prompt-compression, prompt-engineering, token-efficiency
+- Portfolio idea: Turn sbproxy into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 51; Forks: 1; Language: Rust; License: Apache-2.0; README length: 7381; Topics: ai-gateway, ai-governance, anthropic, api-gateway, llm, llm-gateway, llm-proxy, llm-routing, llmops, load-balancer, mcp, openai, openai-proxy, pingora, rate-limiting, reverse-proxy, rust, self-hosted, vllm, waf
 - Confidence: high
 
 ### putervision/vision-memory-mcp
 - Summary: putervision/vision-memory-mcp is a TypeScript project for Data Scientist: Persistent visual cache for LLM-driven software development. Caches screenshots using perceptual hashing, vector search, and AX trees to prevent token overhead and visual hallucination loops.
-- Why it matters: It maps to Data Scientist needs with an evidence-based score of 47.64.
+- Why it matters: It maps to Data Scientist needs with an evidence-based score of 47.66.
 - Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
 - Portfolio idea: Turn vision-memory-mcp into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 65; Forks: 0; Language: TypeScript; License: NOASSERTION; README length: 0; Topics: ai-tool, computer-vision, developer-tools, mcp, mcp-server, mcp-tool, mcp-tools, model-context-protocol
+- Evidence: Stars: 66; Forks: 0; Language: TypeScript; License: NOASSERTION; README length: 0; Topics: ai-tool, computer-vision, developer-tools, mcp, mcp-server, mcp-tool, mcp-tools, model-context-protocol
 - Confidence: low
 
-### scikit-learn-contrib/fastcan
-- Summary: scikit-learn-contrib/fastcan is a Python project for Data Scientist: A fast canonical-correlation-based search algorithm for feature selection, system identification, data pruning, etc.
-- Why it matters: It maps to Data Scientist needs with an evidence-based score of 43.29.
+### cfgranda/ps4ds
+- Summary: cfgranda/ps4ds is a Jupyter Notebook project for Data Scientist: Probability and Statistics for Data Science: A self-contained introduction to probability and statistics for data science, including a free pdf, 103 Python notebooks using 23 real-world datasets, 118 videos with slides, and solutions to 200 exercises
+- Why it matters: It maps to Data Scientist needs with an evidence-based score of 45.47.
 - Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
-- Portfolio idea: Turn fastcan into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 31; Forks: 5; Language: Python; License: MIT; README length: 0; Topics: data-analysis, data-science, dynamical-systems, feature-engineering, feature-selection, machine-learning, narx, scikit-learn, system-identification, time-series, time-series-regression
+- Portfolio idea: Turn ps4ds into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 615; Forks: 79; Language: Jupyter Notebook; License: unavailable; README length: 0; Topics: course-materials, data-analysis, data-science, datascience, education, jupyter-notebook, machine-learning, open-source, probability, probability-statistics, python, statistics, statistics-course, statistics-learning, teaching, teaching-materials, textbook
+- Confidence: low
+
+### scikit-learn/scikit-learn
+- Summary: scikit-learn/scikit-learn is a Python project for Data Scientist: scikit-learn: machine learning in Python
+- Why it matters: It maps to Data Scientist needs with an evidence-based score of 48.39.
+- Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
+- Portfolio idea: Turn scikit-learn into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 67076; Forks: 27325; Language: Python; License: BSD-3-Clause; README length: 0; Topics: data-analysis, data-science, machine-learning, python, statistics
 - Confidence: low

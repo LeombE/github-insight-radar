@@ -1,25 +1,25 @@
 # Data Analyst GitHub Insight - 2026-08-27
 
-Generated at: `2026-08-26T16:59:27+00:00`
+Generated at: `2026-08-27T15:15:28+00:00`
 Mode: `live`
 
 | Rank | Repo | Score | Action | Difficulty | Risk flags |
 | --- | --- | ---: | --- | --- | --- |
 | 1 | [grafana/grafana](https://github.com/grafana/grafana) | 100.00 | Study for learning | Advanced | no README evidence, installation unclear, usage examples unclear |
 | 2 | [metabase/metabase](https://github.com/metabase/metabase) | 100.00 | Study for learning | Advanced | no README evidence, installation unclear, usage examples unclear |
-| 3 | [MahbubNibir/power-bi-retail-analytics-viz](https://github.com/MahbubNibir/power-bi-retail-analytics-viz) | 100.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 4 | [valdeteselimi/DashPro-Monitor-IndustrialBI](https://github.com/valdeteselimi/DashPro-Monitor-IndustrialBI) | 100.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 5 | [Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse](https://github.com/Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse) | 100.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 6 | [MUDAS100/Swiggy-Instamart-Metrics-Dashboard-Power-BI](https://github.com/MUDAS100/Swiggy-Instamart-Metrics-Dashboard-Power-BI) | 93.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 7 | [apache/superset](https://github.com/apache/superset) | 86.50 | Study for learning | Advanced | no README evidence, installation unclear, usage examples unclear |
+| 3 | [valdeteselimi/DashPro-Monitor-IndustrialBI](https://github.com/valdeteselimi/DashPro-Monitor-IndustrialBI) | 100.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 4 | [Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse](https://github.com/Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse) | 100.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 5 | [MUDAS100/Swiggy-Instamart-Metrics-Dashboard-Power-BI](https://github.com/MUDAS100/Swiggy-Instamart-Metrics-Dashboard-Power-BI) | 93.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 6 | [apache/superset](https://github.com/apache/superset) | 86.50 | Study for learning | Advanced | no README evidence, installation unclear, usage examples unclear |
+| 7 | [rilldata/rill](https://github.com/rilldata/rill) | 80.50 | Watch this week | Advanced | no README evidence, installation unclear, usage examples unclear |
 | 8 | [lightdash/lightdash](https://github.com/lightdash/lightdash) | 80.50 | Watch this week | Advanced | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
-| 9 | [OWOX/owox-data-marts](https://github.com/OWOX/owox-data-marts) | 80.50 | Watch this week | Advanced | no README evidence, installation unclear, usage examples unclear |
-| 10 | [eXpandFramework/eXpand](https://github.com/eXpandFramework/eXpand) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear |
-| 11 | [microsoft/AI-in-One-Dashboard](https://github.com/microsoft/AI-in-One-Dashboard) | 80.50 | Watch this week | Advanced | no README evidence, installation unclear, usage examples unclear |
-| 12 | [Lithiumgreentek/power-bi-design-vault](https://github.com/Lithiumgreentek/power-bi-design-vault) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 13 | [govinda25072003-ai/pbi-amazon-sales-dash](https://github.com/govinda25072003-ai/pbi-amazon-sales-dash) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 14 | [goodmorningbeautyful-lab/PhonePe-Pulse-Analyzer](https://github.com/goodmorningbeautyful-lab/PhonePe-Pulse-Analyzer) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 15 | [nehamarora5635-glitch/gadget-market-intelligence-dashboard](https://github.com/nehamarora5635-glitch/gadget-market-intelligence-dashboard) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 9 | [Diyorbek01660/aemr-energy-market-outage-analysis](https://github.com/Diyorbek01660/aemr-energy-market-outage-analysis) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 10 | [Lithiumgreentek/power-bi-design-vault](https://github.com/Lithiumgreentek/power-bi-design-vault) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 11 | [getnao/nao](https://github.com/getnao/nao) | 80.00 | Try today | Intermediate | None |
+| 12 | [cube-js/cube](https://github.com/cube-js/cube) | 68.00 | Watch this week | Advanced | no README evidence, installation unclear, usage examples unclear |
+| 13 | [slothflowlabs/duckle](https://github.com/slothflowlabs/duckle) | 62.00 | Try today | Advanced | None |
+| 14 | [airbytehq/airbyte](https://github.com/airbytehq/airbyte) | 61.50 | Watch this week | Advanced | no README evidence, installation unclear, usage examples unclear |
+| 15 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) | 55.50 | Watch this week | Advanced | no README evidence, installation unclear, usage examples unclear |
 
 ## Project Notes
 ### grafana/grafana
@@ -27,7 +27,7 @@ Mode: `live`
 - Why it matters: It maps to Data Analyst needs with an evidence-based score of 65.95.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
 - Portfolio idea: Turn grafana into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 76430; Forks: 14638; Language: TypeScript; License: AGPL-3.0; README length: 0; Topics: alerting, analytics, business-intelligence, dashboard, data-visualization, elasticsearch, go, grafana, hacktoberfest, influxdb, metrics, monitoring, mysql, postgres, prometheus
+- Evidence: Stars: 76450; Forks: 14643; Language: TypeScript; License: AGPL-3.0; README length: 0; Topics: alerting, analytics, business-intelligence, dashboard, data-visualization, elasticsearch, go, grafana, hacktoberfest, influxdb, metrics, monitoring, mysql, postgres, prometheus
 - Confidence: low
 
 ### metabase/metabase
@@ -35,15 +35,7 @@ Mode: `live`
 - Why it matters: It maps to Data Analyst needs with an evidence-based score of 65.95.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
 - Portfolio idea: Turn metabase into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 48943; Forks: 6774; Language: Clojure; License: NOASSERTION; README length: 0; Topics: analytics, bi, business-intelligence, businessintelligence, clojure, dashboard, data, data-analysis, data-visualization, database, metabase, mysql, postgres, postgresql, reporting, slack, sql-editor, visualization
-- Confidence: low
-
-### MahbubNibir/power-bi-retail-analytics-viz
-- Summary: MahbubNibir/power-bi-retail-analytics-viz is a HTML project for Data Analyst: Top Power BI Sales Dashboard 2026 for Profit & Regional Analysis
-- Why it matters: It maps to Data Analyst needs with an evidence-based score of 51.70.
-- Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
-- Portfolio idea: Turn power-bi-retail-analytics-viz into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 118; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: blinkitdashboard, business-analytics, business-intelligence, css, data-cleaning, data-visualization, excel, interactivedashboard, javascript, parameshmandapaka, pivot-tables, powerbi-dashboards, powerquery, sales-analysis, sales-dashboard
+- Evidence: Stars: 48963; Forks: 6777; Language: Clojure; License: NOASSERTION; README length: 0; Topics: analytics, bi, business-intelligence, businessintelligence, clojure, dashboard, data, data-analysis, data-visualization, database, metabase, mysql, postgres, postgresql, reporting, slack, sql-editor, visualization
 - Confidence: low
 
 ### valdeteselimi/DashPro-Monitor-IndustrialBI
@@ -75,7 +67,15 @@ Mode: `live`
 - Why it matters: It maps to Data Analyst needs with an evidence-based score of 62.21.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
 - Portfolio idea: Turn superset into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 74468; Forks: 18177; Language: Python; License: Apache-2.0; README length: 0; Topics: analytics, apache, apache-superset, asf, bi, business-analytics, business-intelligence, data-analysis, data-analytics, data-engineering, data-science, data-visualization, data-viz, flask, python, react, sql-editor, superset
+- Evidence: Stars: 74483; Forks: 18183; Language: Python; License: Apache-2.0; README length: 0; Topics: analytics, apache, apache-superset, asf, bi, business-analytics, business-intelligence, data-analysis, data-analytics, data-engineering, data-science, data-visualization, data-viz, flask, python, react, sql-editor, superset
+- Confidence: low
+
+### rilldata/rill
+- Summary: rilldata/rill is a Go project for Data Analyst: The fastest business intelligence tool for humans and agents.
+- Why it matters: It maps to Data Analyst needs with an evidence-based score of 59.00.
+- Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
+- Portfolio idea: Turn rill into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 2846; Forks: 196; Language: Go; License: Apache-2.0; README length: 0; Topics: ai, ai-chatbot, bi, business-analytics, csv, data, data-analysis, data-visualization, dataviz, duckdb, gen-ai, golang, parquet, parquet-tools, parquet-viewer, s3, sql, sql-editor, sveltekit
 - Confidence: low
 
 ### lightdash/lightdash
@@ -83,31 +83,15 @@ Mode: `live`
 - Why it matters: It maps to Data Analyst needs with an evidence-based score of 57.45.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
 - Portfolio idea: Turn lightdash into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 6084; Forks: 770; Language: TypeScript; License: NOASSERTION; README length: 0; Topics: business-intelligence, data-analytics, data-visualization, dbt
+- Evidence: Stars: 6094; Forks: 769; Language: TypeScript; License: NOASSERTION; README length: 0; Topics: business-intelligence, data-analytics, data-visualization, dbt
 - Confidence: low
 
-### OWOX/owox-data-marts
-- Summary: OWOX/owox-data-marts is a TypeScript project for Data Analyst: Open-Source Self-Service Analytics Platform
-- Why it matters: It maps to Data Analyst needs with an evidence-based score of 56.72.
+### Diyorbek01660/aemr-energy-market-outage-analysis
+- Summary: Diyorbek01660/aemr-energy-market-outage-analysis is a unavailable project for Data Analyst: ⚡ Analyze AEMR outage data to identify high-risk energy generators and improve reliability monitoring across the U.S. energy market.
+- Why it matters: It maps to Data Analyst needs with an evidence-based score of 48.10.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
-- Portfolio idea: Turn owox-data-marts into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 229; Forks: 36; Language: TypeScript; License: NOASSERTION; README length: 0; Topics: analytics, athena, bigquery, dashboard, data, data-analysis, data-marts, databricks, facebook, linkedin, looker-studio, reddit, redshift, reporting, self-service, sheets, snowflake, sql, sql-editor, tiktok
-- Confidence: low
-
-### eXpandFramework/eXpand
-- Summary: eXpandFramework/eXpand is a C# project for Data Analyst: DevExpress XAF (eXpressApp) extension framework. 𝗹𝗶𝗻𝗸𝗲𝗱𝗶𝗻.𝗲𝘅𝗽𝗮𝗻𝗱𝗳𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸.𝗰𝗼𝗺, 𝘆𝗼𝘂𝘁𝘂𝗯𝗲.𝗲𝘅𝗽𝗮𝗻𝗱𝗳𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸.𝗰𝗼𝗺 and 𝘁𝘄𝗶𝘁𝘁𝗲𝗿 @𝗲𝘅𝗽𝗮𝗻𝗱𝗳𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 and  or simply 𝗦𝘁𝗮𝗿/𝘄𝗮𝘁𝗰𝗵 this repository and get notified from 𝗚𝗶𝘁𝗛𝘂𝗯
-- Why it matters: It maps to Data Analyst needs with an evidence-based score of 56.70.
-- Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
-- Portfolio idea: Turn eXpand into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 223; Forks: 112; Language: C#; License: MS-PL; README length: 0; Topics: business-intelligence, business-solutions, c-sharp, charting, dashboard, devexpress, dotnet, excel-import, import-export, kpi, mobile, orm, reporting, validation, web, windows, workflow, xaf
-- Confidence: low
-
-### microsoft/AI-in-One-Dashboard
-- Summary: microsoft/AI-in-One-Dashboard is a PowerShell project for Data Analyst: AI-in-One Dashboard Power BI template for comprehensive AI usage analytics
-- Why it matters: It maps to Data Analyst needs with an evidence-based score of 52.10.
-- Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
-- Portfolio idea: Turn AI-in-One-Dashboard into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 74; Forks: 19; Language: PowerShell; License: MIT; README length: 0; Topics: agents, analytics, business-intelligence, copilot, microsoft, powerbi-report
+- Portfolio idea: Turn aemr-energy-market-outage-analysis into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 12; Forks: 0; Language: unavailable; License: unavailable; README length: 0; Topics: analytics, cte, data-analysis, data-visualization, energy, kpi, power-outages, python, regulatory, risk-analysis, sql, tableau
 - Confidence: low
 
 ### Lithiumgreentek/power-bi-design-vault
@@ -118,26 +102,42 @@ Mode: `live`
 - Evidence: Stars: 118; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: business-inteligence, business-intelligence, dashboard, data-analyst, data-science, data-visualization, dax, power-bi, power-bi-dashboard, powerbi, powerbi-dashboards, powerbi-projects, powerbi-report, svg
 - Confidence: low
 
-### govinda25072003-ai/pbi-amazon-sales-dash
-- Summary: govinda25072003-ai/pbi-amazon-sales-dash is a HTML project for Data Analyst: Top 5 Amazon Sales Dashboard Trends & Insights for 2026
-- Why it matters: It maps to Data Analyst needs with an evidence-based score of 47.00.
+### getnao/nao
+- Summary: getnao/nao is a TypeScript project for Data Analyst: 👾 nao is an open source analytics agent. (1) Create context with nao-core cli, (2) deploy nao chat interface for everyone
+- Why it matters: It maps to Data Analyst needs with an evidence-based score of 89.90.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
-- Portfolio idea: Turn pbi-amazon-sales-dash into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 115; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: amazon, amazon-dashboard, amazon-dataset, amazonsales, data-analysis, data-science, data-visualization, dataanalyst, dataanalytics, power-bi, powerbi-dashboards, powerbi-projects, powerbi-visuals, powerbidashboard, visualization
+- Portfolio idea: Turn nao into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 1587; Forks: 242; Language: TypeScript; License: NOASSERTION; README length: 6547; Topics: agentic-analytics, analytics, analytics-engineering, bigquery, business-intelligence, chat-with-your-data, context-engineering, data, data-analysis, data-analyst, data-engineering, databricks, postgresql, self-hosted, slack-bot, slackbot, snowflake, sql, text-to-sql
+- Confidence: high
+
+### cube-js/cube
+- Summary: cube-js/cube is a Rust project for Data Analyst: 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
+- Why it matters: It maps to Data Analyst needs with an evidence-based score of 57.18.
+- Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
+- Portfolio idea: Turn cube into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 20720; Forks: 2125; Language: Rust; License: NOASSERTION; README length: 0; Topics: agentic-analytics, agents, ai, analytics, bi, bigquery, business-intelligence, businessintelligence, conversational-analytics, cube, databricks, embedded-analytics, headless-bi, mysql, postgresql, rust, semantic-layer, snowflake, sql
 - Confidence: low
 
-### goodmorningbeautyful-lab/PhonePe-Pulse-Analyzer
-- Summary: goodmorningbeautyful-lab/PhonePe-Pulse-Analyzer is a HTML project for Data Analyst: PhonePe Transaction Trends & User Analytics Dashboard 2026 – Power BI Guide
-- Why it matters: It maps to Data Analyst needs with an evidence-based score of 47.00.
+### slothflowlabs/duckle
+- Summary: slothflowlabs/duckle is a Rust project for General User: Open-source ETL/ELT you deploy on your own servers or cloud. Built on DuckDB: no-code/low-code visual pipelines or SQL, 385 components, dbt, CDC, data quality, reverse ETL, lineage, MCP for AI agents. No vendor cloud, no per-row billing.
+- Why it matters: It maps to General User needs with an evidence-based score of 86.80.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn duckle into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 1241; Forks: 94; Language: Rust; License: Apache-2.0; README length: 168095; Topics: cdc, connectors, data-engineering, data-integration, data-orchestration, data-pipeline, data-quality, data-transformation, dbt, duckdb, elt, etl, kubernetes, lakehouse, low-code, mcp, no-code, open-source, reverse-etl, self-hosted
+- Confidence: high
+
+### airbytehq/airbyte
+- Summary: airbytehq/airbyte is a Python project for Data Analyst: Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
+- Why it matters: It maps to Data Analyst needs with an evidence-based score of 55.65.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
-- Portfolio idea: Turn PhonePe-Pulse-Analyzer into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 115; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: busniess-intelligence, dashboard, data-visualization, dax, phonepe, power-bi, power-query, powerbi-dashboards
+- Portfolio idea: Turn airbyte into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 21963; Forks: 5319; Language: Python; License: NOASSERTION; README length: 0; Topics: bigquery, change-data-capture, data, data-analysis, data-collection, data-engineering, data-integration, data-pipeline, elt, etl, java, mssql, mysql, pipeline, postgresql, python, redshift, s3, self-hosted, snowflake
 - Confidence: low
 
-### nehamarora5635-glitch/gadget-market-intelligence-dashboard
-- Summary: nehamarora5635-glitch/gadget-market-intelligence-dashboard is a HTML project for Data Analyst: 2026 Gadget Sales Analytics: Brand Profitability & Consumer Demographics Optimization
-- Why it matters: It maps to Data Analyst needs with an evidence-based score of 46.50.
+### dbt-labs/dbt-core
+- Summary: dbt-labs/dbt-core is a Rust project for Data Analyst: dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
+- Why it matters: It maps to Data Analyst needs with an evidence-based score of 53.94.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
-- Portfolio idea: Turn gadget-market-intelligence-dashboard into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 115; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: business-intelligence, powerbi-dashboards, retail-analytics, sales-analysis
+- Portfolio idea: Turn dbt-core into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 13701; Forks: 2529; Language: Rust; License: Apache-2.0; README length: 0; Topics: analytics, business-intelligence, data-modeling, dbt-viewpoint, elt, pypa, slack
 - Confidence: low
