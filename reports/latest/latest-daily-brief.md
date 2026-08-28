@@ -1,6 +1,6 @@
-# GitHub Insight Daily Brief - 2026-08-27
+# GitHub Insight Daily Brief - 2026-08-28
 
-Generated at: `2026-08-27T15:15:28+00:00`
+Generated at: `2026-08-28T00:56:49+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -8,34 +8,27 @@ Image generation: `disabled`
 LLM summary: `disabled`
 
 ## Executive Summary
-- Top overall opportunity: [coleam00/Archon](https://github.com/coleam00/Archon) with score 96.97.
-- General user opportunity: [coleam00/Archon](https://github.com/coleam00/Archon)
+- Top overall opportunity: [eracle/OpenOutreach](https://github.com/eracle/OpenOutreach) with score 95.73.
+- General user opportunity: [eracle/OpenOutreach](https://github.com/eracle/OpenOutreach)
 - Data analyst opportunity: [grafana/grafana](https://github.com/grafana/grafana)
-- Data scientist opportunity: [dataelement/bisheng](https://github.com/dataelement/bisheng)
+- Data scientist opportunity: [lance-format/lance](https://github.com/lance-format/lance)
 - Most common risk pattern: usage examples unclear
 
 ## Top Overall Projects
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
-| 1 | [coleam00/Archon](https://github.com/coleam00/Archon) | General User | 96.97 | It maps to General User needs with an evidence-based score of 96.97. | Try today |
-| 2 | [eracle/OpenOutreach](https://github.com/eracle/OpenOutreach) | General User | 95.73 | It maps to General User needs with an evidence-based score of 95.73. | Try today |
-| 3 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | General User | 94.82 | It maps to General User needs with an evidence-based score of 94.82. | Try today |
-| 4 | [tianma-if/edgeever](https://github.com/tianma-if/edgeever) | General User | 94.72 | It maps to General User needs with an evidence-based score of 94.72. | Try today |
-| 5 | [rush86999/atom](https://github.com/rush86999/atom) | General User | 94.17 | It maps to General User needs with an evidence-based score of 94.17. | Try today |
-| 6 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | General User | 93.52 | It maps to General User needs with an evidence-based score of 93.52. | Try today |
-| 7 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | General User | 91.82 | It maps to General User needs with an evidence-based score of 91.82. | Try today |
-| 8 | [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) | General User | 91.72 | It maps to General User needs with an evidence-based score of 91.72. | Try today |
-| 9 | [Squirreljetpack/matchmaker](https://github.com/Squirreljetpack/matchmaker) | General User | 90.70 | It maps to General User needs with an evidence-based score of 90.70. | Try today |
-| 10 | [superplanehq/superplane](https://github.com/superplanehq/superplane) | General User | 90.44 | It maps to General User needs with an evidence-based score of 90.44. | Try today |
+| 1 | [eracle/OpenOutreach](https://github.com/eracle/OpenOutreach) | General User | 95.73 | It maps to General User needs with an evidence-based score of 95.73. | Try today |
+| 2 | [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) | General User | 93.31 | It maps to General User needs with an evidence-based score of 93.31. | Try today |
+| 3 | [The01Geek/prflow](https://github.com/The01Geek/prflow) | General User | 92.32 | It maps to General User needs with an evidence-based score of 92.32. | Try today |
+| 4 | [the911fund/skill-of-skills](https://github.com/the911fund/skill-of-skills) | General User | 91.48 | It maps to General User needs with an evidence-based score of 91.48. | Try today |
+| 5 | [simstudioai/sim](https://github.com/simstudioai/sim) | General User | 90.52 | It maps to General User needs with an evidence-based score of 90.52. | Try today |
+| 6 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
+| 7 | [nirholas/XActions](https://github.com/nirholas/XActions) | General User | 90.14 | It maps to General User needs with an evidence-based score of 90.14. | Try today |
+| 8 | [Team-Commonly/commonly](https://github.com/Team-Commonly/commonly) | General User | 89.86 | It maps to General User needs with an evidence-based score of 89.86. | Try today |
+| 9 | [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) | General User | 89.52 | It maps to General User needs with an evidence-based score of 89.52. | Try today |
+| 10 | [angelnicolasc/graymatter](https://github.com/angelnicolasc/graymatter) | General User | 89.38 | It maps to General User needs with an evidence-based score of 89.38. | Try today |
 
 ## General User Finds
-### coleam00/Archon
-- What it is: coleam00/Archon is a TypeScript project for General User: The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 96.97
-- Difficulty: Intermediate
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
 ### eracle/OpenOutreach
 - What it is: eracle/OpenOutreach is a Python project for General User: Open-source AI agent for B2B lead generation — describe your product, it finds the people who fit and explains why each one does, then exports a CSV your cold-email tool can send. Self-hosted CLI.
 - Angle: Potential practical tool or workflow improvement for general users.
@@ -43,18 +36,11 @@ LLM summary: `disabled`
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### rush86999/atom
-- What it is: rush86999/atom is a Python project for General User: Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation
+### The01Geek/prflow
+- What it is: The01Geek/prflow is a Python project for General User: Turn feature requests into review-ready pull requests: issue, implementation, tests, a review-and-fix loop, and docs. Runs locally or on GitHub Actions, and is built for complex brownfield repos. Each week its retrospective reads what you actually merged and proposes improvements to your skill extensions.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 94.17
-- Difficulty: Advanced
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### superplanehq/superplane
-- What it is: superplanehq/superplane is a Go project for General User: The open source control plane for agentic engineering.
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 90.44
-- Difficulty: Advanced
+- Score: 92.32
+- Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
 ### n8n-io/n8n
@@ -64,6 +50,20 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
+### angelnicolasc/graymatter
+- What it is: angelnicolasc/graymatter is a Go project for General User: 30 sec to give your AI agents persistent memory. Reduce 90% token consumption while also maintaining quality.
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 89.38
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### ldbumble/taskuary
+- What it is: ldbumble/taskuary is a Python project for General User: Automate your job: local-first AI task hub. Email, Teams, Slack & reports -> one timeline -> AI triage -> your coding agents (Claude Code, Codex, Gemini) do the work, you approve.
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 89.01
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: many open issues relative to stars
 
 ## Data Analyst Opportunities
 ### grafana/grafana
@@ -94,22 +94,15 @@ LLM summary: `disabled`
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### MUDAS100/Swiggy-Instamart-Metrics-Dashboard-Power-BI
-- What it is: MUDAS100/Swiggy-Instamart-Metrics-Dashboard-Power-BI is a HTML project for Data Analyst: Interactive Logistics & Delivery Analytics Dashboard for Quick Commerce 2026
+### visivo-io/visivo
+- What it is: visivo-io/visivo is a JavaScript project for Data Analyst: ✨ Build dashboards with end-to-end version control. 🔋 CLI w/ batteries included, no infra required. Develop on your laptop for instant results, deploy changes safely (with automated checks), and keep every report trustworthy for stakeholders, analysts and agents 🤖
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 49.52
+- Score: 59.99
 - Difficulty: Unknown
 - Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
+- Risk: no README evidence, installation unclear, usage examples unclear
 
 ## Data Scientist Research Radar
-### dataelement/bisheng
-- What it is: dataelement/bisheng is a Python project for Data Scientist: BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more.
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 59.81
-- Difficulty: Advanced
-- Recommended action: Track for research
-- Risk: no README evidence, installation unclear, usage examples unclear
 ### lance-format/lance
 - What it is: lance-format/lance is a Rust project for Data Scientist: Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
 - Angle: Useful for model, benchmark, notebook, or experiment review.
@@ -117,20 +110,20 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
-### hyeonsangjeon/gdpval-realworks
-- What it is: hyeonsangjeon/gdpval-realworks is a Python project for Data Scientist: Open-source benchmark for evaluating LLMs on 220 real professional tasks across 9 sectors and 44 occupations. Reproducible experiments, artifact validation, grading, and a live evidence dashboard.
+### trycua/cua
+- What it is: trycua/cua is a HTML project for General User: Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 51.70
-- Difficulty: Research-heavy
-- Recommended action: Track for research
+- Score: 59.61
+- Difficulty: Advanced
+- Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear
-### thomas-villani/all2md
-- What it is: thomas-villani/all2md is a Python project for Data Scientist: Convert PDF, Word, PowerPoint, HTML, email & 40+ formats to clean Markdown — and back. Built for LLMs, RAG & Python pipelines, with a built-in MCP server.
+### flyteorg/flyte
+- What it is: flyteorg/flyte is a Go project for General User: Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 49.05
-- Difficulty: Unknown
-- Recommended action: Track for research
-- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
+- Score: 55.04
+- Difficulty: Advanced
+- Recommended action: Watch this week
+- Risk: no README evidence, installation unclear, usage examples unclear
 ### MauroDruwel/NIMStats
 - What it is: MauroDruwel/NIMStats is a JavaScript project for Data Scientist: 📊 Automated hourly benchmarks for 20+ NVIDIA NIM models — interactive dashboard, zero infra, self-hostable. Open-source & community-driven.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
@@ -138,19 +131,26 @@ LLM summary: `disabled`
 - Difficulty: Research-heavy
 - Recommended action: Skip for now
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
+### gradio-app/gradio
+- What it is: gradio-app/gradio is a Python project for Data Scientist: Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 54.77
+- Difficulty: Advanced
+- Recommended action: Track for research
+- Risk: no README evidence, installation unclear, usage examples unclear
 
 ## Action List
-- Try today: coleam00/Archon, eracle/OpenOutreach, unslothai/unsloth
-- Watch this week: OpenHands/OpenHands, esengine/DeepSeek-Reasonix, HBAI-Ltd/Toonflow-app
-- Use as portfolio reference: Puteitous/HippoBuddy, gutomec/nirvana-os-engine, jolars/tomat
-- Skip for now: MauroDruwel/NIMStats, affromero/gitpane, LunarWerxs/AgentHydra
+- Try today: eracle/OpenOutreach, omnivore-app/omnivore, The01Geek/prflow
+- Watch this week: visivo-io/visivo, QwenLM/qwen-code, trycua/cua
+- Use as portfolio reference: redstone-md/g3, gutomec/nirvana-os-engine, theblazehen/P4OC
+- Skip for now: valkey-io/valkey-admin, Ali-Marandi/ClimateDataAnalyzer, atomantic/PortOS
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.
 
 ## Data Files
-- Raw API JSON: `data/raw/2026-08-27-github-api-raw.json`
-- Daily projects JSON: `data/processed/2026-08-27-github-insight-projects.json`
-- Daily projects CSV: `data/processed/2026-08-27-github-insight-projects.csv`
+- Raw API JSON: `data/raw/2026-08-28-github-api-raw.json`
+- Daily projects JSON: `data/processed/2026-08-28-github-insight-projects.json`
+- Daily projects CSV: `data/processed/2026-08-28-github-insight-projects.csv`
 - Master CSV: `data/processed/github_repos_master.csv`
 - Dashboard JSON: `docs/data/latest.json`
