@@ -1,6 +1,6 @@
 # GitHub Insight Daily Brief - 2026-08-31
 
-Generated at: `2026-08-30T19:20:01+00:00`
+Generated at: `2026-08-31T10:51:17+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -8,60 +8,60 @@ Image generation: `disabled`
 LLM summary: `disabled`
 
 ## Executive Summary
-- Top overall opportunity: [Peiiii/nextclaw](https://github.com/Peiiii/nextclaw) with score 93.54.
-- General user opportunity: [Peiiii/nextclaw](https://github.com/Peiiii/nextclaw)
+- Top overall opportunity: [coleam00/Archon](https://github.com/coleam00/Archon) with score 96.97.
+- General user opportunity: [coleam00/Archon](https://github.com/coleam00/Archon)
 - Data analyst opportunity: [metabase/metabase](https://github.com/metabase/metabase)
-- Data scientist opportunity: [eldoary/Visionary-Training-Studio](https://github.com/eldoary/Visionary-Training-Studio)
+- Data scientist opportunity: [lance-format/lance](https://github.com/lance-format/lance)
 - Most common risk pattern: usage examples unclear
 
 ## Top Overall Projects
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
-| 1 | [Peiiii/nextclaw](https://github.com/Peiiii/nextclaw) | General User | 93.54 | It maps to General User needs with an evidence-based score of 93.54. | Try today |
-| 2 | [theexperiencecompany/gaia](https://github.com/theexperiencecompany/gaia) | General User | 93.14 | It maps to General User needs with an evidence-based score of 93.14. | Try today |
-| 3 | [majiayu000/spellbook](https://github.com/majiayu000/spellbook) | General User | 93.07 | It maps to General User needs with an evidence-based score of 93.07. | Try today |
-| 4 | [customermates/customermates](https://github.com/customermates/customermates) | General User | 92.92 | It maps to General User needs with an evidence-based score of 92.92. | Try today |
-| 5 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | General User | 92.22 | It maps to General User needs with an evidence-based score of 92.22. | Try today |
-| 6 | [artokun/comfyui-mcp](https://github.com/artokun/comfyui-mcp) | General User | 91.76 | It maps to General User needs with an evidence-based score of 91.76. | Try today |
-| 7 | [talayash/agentrium](https://github.com/talayash/agentrium) | General User | 91.36 | It maps to General User needs with an evidence-based score of 91.36. | Try today |
-| 8 | [Team-Commonly/commonly](https://github.com/Team-Commonly/commonly) | General User | 89.86 | It maps to General User needs with an evidence-based score of 89.86. | Try today |
-| 9 | [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) | General User | 89.55 | It maps to General User needs with an evidence-based score of 89.55. | Try today |
-| 10 | [sixb-ai/sixb](https://github.com/sixb-ai/sixb) | General User | 89.38 | It maps to General User needs with an evidence-based score of 89.38. | Try today |
+| 1 | [coleam00/Archon](https://github.com/coleam00/Archon) | General User | 96.97 | It maps to General User needs with an evidence-based score of 96.97. | Try today |
+| 2 | [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) | General User | 95.83 | It maps to General User needs with an evidence-based score of 95.83. | Try today |
+| 3 | [Osmantic/ODS](https://github.com/Osmantic/ODS) | General User | 94.03 | It maps to General User needs with an evidence-based score of 94.03. | Try today |
+| 4 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | General User | 93.52 | It maps to General User needs with an evidence-based score of 93.52. | Try today |
+| 5 | [SigNoz/signoz](https://github.com/SigNoz/signoz) | General User | 92.32 | It maps to General User needs with an evidence-based score of 92.32. | Try today |
+| 6 | [zhikunqingtao/zhikuncode](https://github.com/zhikunqingtao/zhikuncode) | General User | 90.83 | It maps to General User needs with an evidence-based score of 90.83. | Try today |
+| 7 | [superplanehq/superplane](https://github.com/superplanehq/superplane) | General User | 90.46 | It maps to General User needs with an evidence-based score of 90.46. | Try today |
+| 8 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
+| 9 | [langgenius/dify](https://github.com/langgenius/dify) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
+| 10 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | General User | 89.10 | It maps to General User needs with an evidence-based score of 89.10. | Try today |
 
 ## General User Finds
-### Peiiii/nextclaw
-- What it is: Peiiii/nextclaw is a TypeScript project for General User: An open-source, extensible, self-hosted agent workspace with multi-runtime support for Codex, Claude Code, and more, plus reusable local apps for custom interfaces and services.
+### coleam00/Archon
+- What it is: coleam00/Archon is a TypeScript project for General User: The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 93.54
-- Difficulty: Advanced
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### theexperiencecompany/gaia
-- What it is: theexperiencecompany/gaia is a Python project for General User: Your proactive personal AI assistant & companion for daily productivity 🌎
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 93.14
-- Difficulty: Advanced
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### majiayu000/spellbook
-- What it is: majiayu000/spellbook is a Python project for General User: Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 93.07
+- Score: 96.97
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### customermates/customermates
-- What it is: customermates/customermates is a TypeScript project for General User: Building a modern alternative to Pipedrive that is 10x more intuitive.
+### oomol-lab/open-connector
+- What it is: oomol-lab/open-connector is a TypeScript project for General User: Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 92.92
+- Score: 95.83
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### Osmantic/ODS
+- What it is: Osmantic/ODS is a Python project for General User: Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 94.03
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: many open issues relative to stars
+### superplanehq/superplane
+- What it is: superplanehq/superplane is a Go project for General User: The open source control plane for agentic engineering.
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 90.46
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### artokun/comfyui-mcp
-- What it is: artokun/comfyui-mcp is a TypeScript project for General User: Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs workflows, and edits your live graph in natural language on ANY LLM (Claude, ChatGPT, Gemini, offline Ollama, or any hosted model). 178 tools, 36 AI skills, 55 installer packs. Local, LAN, VPS, or Comfy Cloud.
+### n8n-io/n8n
+- What it is: n8n-io/n8n is a TypeScript project for General User: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 91.76
-- Difficulty: Intermediate
+- Score: 90.30
+- Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
 
@@ -73,13 +73,6 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Study for learning
 - Risk: no README evidence, installation unclear, usage examples unclear
-### MahbubNibir/power-bi-retail-analytics-viz
-- What it is: MahbubNibir/power-bi-retail-analytics-viz is a HTML project for Data Analyst: Top Power BI Sales Dashboard 2026 for Profit & Regional Analysis
-- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 51.70
-- Difficulty: Unknown
-- Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
 ### valdeteselimi/DashPro-Monitor-IndustrialBI
 - What it is: valdeteselimi/DashPro-Monitor-IndustrialBI is a HTML project for Data Analyst: Power BI 2026: Smart Industrial Production Dashboard with DAX & Data Cleaning
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
@@ -94,29 +87,50 @@ LLM summary: `disabled`
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### MUDAS100/Swiggy-Instamart-Metrics-Dashboard-Power-BI
-- What it is: MUDAS100/Swiggy-Instamart-Metrics-Dashboard-Power-BI is a HTML project for Data Analyst: Interactive Logistics & Delivery Analytics Dashboard for Quick Commerce 2026
+### frappe/insights
+- What it is: frappe/insights is a Python project for Data Analyst: Open Source Business Intelligence Tool
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 49.52
+- Score: 60.75
 - Difficulty: Unknown
-- Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
+- Recommended action: Study for learning
+- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
+### apache/superset
+- What it is: apache/superset is a Python project for Data Analyst: Apache Superset is a Data Visualization and Data Exploration Platform
+- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
+- Score: 62.21
+- Difficulty: Advanced
+- Recommended action: Study for learning
+- Risk: no README evidence, installation unclear, usage examples unclear
 
 ## Data Scientist Research Radar
-### eldoary/Visionary-Training-Studio
-- What it is: eldoary/Visionary-Training-Studio is a HTML project for Data Scientist: Fast Track AI Model Training with Streamlit Vision to Production in 2026
+### lance-format/lance
+- What it is: lance-format/lance is a Rust project for Data Scientist: Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 44.89
-- Difficulty: Research-heavy
-- Recommended action: Skip for now
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
-### deeplethe/utopia
-- What it is: deeplethe/utopia is a Rust project for Data Scientist: World's first open-source enterprise world model.
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 77.41
+- Score: 55.76
 - Difficulty: Advanced
-- Recommended action: Use as portfolio reference
-- Risk: usage examples unclear
+- Recommended action: Track for research
+- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
+### hyeonsangjeon/gdpval-realworks
+- What it is: hyeonsangjeon/gdpval-realworks is a Python project for Data Scientist: Open-source benchmark for evaluating LLMs on 220 real professional tasks across 9 sectors and 44 occupations. Reproducible experiments, artifact validation, grading, and a live evidence dashboard.
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 49.45
+- Difficulty: Research-heavy
+- Recommended action: Track for research
+- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
+### langfuse/langfuse
+- What it is: langfuse/langfuse is a TypeScript project for Data Scientist: 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 87.88
+- Difficulty: Advanced
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### flyteorg/flyte
+- What it is: flyteorg/flyte is a Go project for General User: Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 55.05
+- Difficulty: Advanced
+- Recommended action: Watch this week
+- Risk: no README evidence, installation unclear, usage examples unclear
 ### MauroDruwel/NIMStats
 - What it is: MauroDruwel/NIMStats is a JavaScript project for Data Scientist: 📊 Automated hourly benchmarks for 20+ NVIDIA NIM models — interactive dashboard, zero infra, self-hostable. Open-source & community-driven.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
@@ -124,26 +138,12 @@ LLM summary: `disabled`
 - Difficulty: Research-heavy
 - Recommended action: Skip for now
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### open-nvr/open-nvr
-- What it is: open-nvr/open-nvr is a Python project for General User: OpenNVR is a security-first, open-source AI-powered NVR platform. Built for scalability and flexibility, it supports real-time video processing and a plug-and-play AI adapter layer—allowing you to integrate any model and build limitless intelligent video applications. Offline-first, air-gapped capable, AGPLv3. A Frigate and ZoneMinder alternative.
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 75.31
-- Difficulty: Intermediate
-- Recommended action: Use as portfolio reference
-- Risk: many open issues relative to stars
-### WenyuChiou/awesome-agentic-ai-zh
-- What it is: WenyuChiou/awesome-agentic-ai-zh is a Python project for General User: A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 61.66
-- Difficulty: Advanced
-- Recommended action: Study for learning
-- Risk: no README evidence, installation unclear, usage examples unclear
 
 ## Action List
-- Try today: Peiiii/nextclaw, theexperiencecompany/gaia, majiayu000/spellbook
-- Watch this week: esengine/DeepSeek-Reasonix, QwenLM/qwen-code, Kilo-Org/kilocode
-- Use as portfolio reference: Joyboy3d2y/Blaze-Signal-Forge, EdgeTypE/better-deepseek, lenaxia/k8s-mechanic
-- Skip for now: eldoary/Visionary-Training-Studio, MauroDruwel/NIMStats, LunarWerxs/AgentHydra
+- Try today: coleam00/Archon, oomol-lab/open-connector, Osmantic/ODS
+- Watch this week: AltimateAI/altimate-code, esengine/DeepSeek-Reasonix, herdrdev/herdr
+- Use as portfolio reference: lissy93/dashy, immich-app/immich, solidtime-io/solidtime
+- Skip for now: MauroDruwel/NIMStats, atomantic/PortOS, faithlumumba/2025-tencent-advertising-algorithm-competition-finalist
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.
