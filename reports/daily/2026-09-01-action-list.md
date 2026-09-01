@@ -1,102 +1,102 @@
 # GitHub Insight Action List - 2026-09-01
 
-1. `Try today` [coleam00/Archon](https://github.com/coleam00/Archon)
+1. `Try today` [tianma-if/edgeever](https://github.com/tianma-if/edgeever)
    - Audience: General User
-   - Score: 96.97
-   - Output: Turn Archon into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+   - Score: 97.04
+   - Output: Turn edgeever into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
    - Risk: No major risk flag.
-2. `Try today` [apache/airflow](https://github.com/apache/airflow)
+2. `Try today` [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector)
    - Audience: General User
-   - Score: 95.22
-   - Output: Turn airflow into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+   - Score: 95.83
+   - Output: Turn open-connector into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
    - Risk: No major risk flag.
 3. `Try today` [unslothai/unsloth](https://github.com/unslothai/unsloth)
    - Audience: General User
    - Score: 94.82
    - Output: Turn unsloth into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
    - Risk: No major risk flag.
-4. `Try today` [dali-benothmen/woml](https://github.com/dali-benothmen/woml)
+4. `Try today` [theexperiencecompany/gaia](https://github.com/theexperiencecompany/gaia)
    - Audience: General User
-   - Score: 92.41
-   - Output: Turn woml into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+   - Score: 93.15
+   - Output: Turn gaia into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
    - Risk: No major risk flag.
-5. `Try today` [the911fund/skill-of-skills](https://github.com/the911fund/skill-of-skills)
+5. `Try today` [jupyter-naas/abi](https://github.com/jupyter-naas/abi)
    - Audience: General User
-   - Score: 91.48
-   - Output: Turn skill-of-skills into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-   - Risk: No major risk flag.
-6. `Try today` [talayash/agentrium](https://github.com/talayash/agentrium)
+   - Score: 92.83
+   - Output: Turn abi into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+   - Risk: many open issues relative to stars
+6. `Try today` [SigNoz/signoz](https://github.com/SigNoz/signoz)
    - Audience: General User
-   - Score: 91.36
-   - Output: Turn agentrium into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+   - Score: 92.32
+   - Output: Turn signoz into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
    - Risk: No major risk flag.
-7. `Try today` [drenlia-inc/agila](https://github.com/drenlia-inc/agila)
+7. `Try today` [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI)
    - Audience: General User
-   - Score: 91.15
-   - Output: Turn agila into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+   - Score: 91.71
+   - Output: Turn LobsterAI into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
    - Risk: No major risk flag.
-8. `Try today` [simstudioai/sim](https://github.com/simstudioai/sim)
+8. `Try today` [nocobase/nocobase](https://github.com/nocobase/nocobase)
    - Audience: General User
-   - Score: 90.52
-   - Output: Turn sim into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+   - Score: 90.60
+   - Output: Turn nocobase into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
    - Risk: No major risk flag.
-9. `Try today` [superplanehq/superplane](https://github.com/superplanehq/superplane)
-   - Audience: General User
-   - Score: 90.46
-   - Output: Turn superplane into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-   - Risk: No major risk flag.
-10. `Try today` [n8n-io/n8n](https://github.com/n8n-io/n8n)
+9. `Try today` [n8n-io/n8n](https://github.com/n8n-io/n8n)
    - Audience: General User
    - Score: 90.30
    - Output: Turn n8n into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
    - Risk: No major risk flag.
-11. `Try today` [automagik-dev/genie](https://github.com/automagik-dev/genie)
+10. `Try today` [langgenius/dify](https://github.com/langgenius/dify)
    - Audience: General User
-   - Score: 89.89
-   - Output: Turn genie into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+   - Score: 90.30
+   - Output: Turn dify into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
    - Risk: No major risk flag.
-12. `Try today` [bytechefhq/bytechef](https://github.com/bytechefhq/bytechef)
+11. `Try today` [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr)
    - Audience: General User
-   - Score: 89.75
-   - Output: Turn bytechef into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-   - Risk: many open issues relative to stars
-13. `Try today` [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr)
-   - Audience: General User
-   - Score: 89.57
+   - Score: 89.58
    - Output: Turn Mindwtr into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
    - Risk: No major risk flag.
-14. `Try today` [Makson179/Bello](https://github.com/Makson179/Bello)
+12. `Try today` [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
    - Audience: General User
-   - Score: 89.24
-   - Output: Turn Bello into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+   - Score: 89.10
+   - Output: Turn rtk into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
    - Risk: No major risk flag.
-15. `Try today` [ldbumble/taskuary](https://github.com/ldbumble/taskuary)
+13. `Try today` [aenix-io/aeman](https://github.com/aenix-io/aeman)
    - Audience: General User
-   - Score: 89.19
-   - Output: Turn taskuary into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+   - Score: 88.78
+   - Output: Turn aeman into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+   - Risk: No major risk flag.
+14. `Try today` [the-momentum/open-wearables](https://github.com/the-momentum/open-wearables)
+   - Audience: General User
+   - Score: 88.61
+   - Output: Turn open-wearables into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+   - Risk: No major risk flag.
+15. `Try today` [Correia-jpv/fucking-awesome-actions](https://github.com/Correia-jpv/fucking-awesome-actions)
+   - Audience: General User
+   - Score: 88.31
+   - Output: Turn fucking-awesome-actions into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+   - Risk: No major risk flag.
+16. `Try today` [langfuse/langfuse](https://github.com/langfuse/langfuse)
+   - Audience: Data Scientist
+   - Score: 87.88
+   - Output: Turn langfuse into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+   - Risk: No major risk flag.
+17. `Try today` [open-ace/open-ace](https://github.com/open-ace/open-ace)
+   - Audience: General User
+   - Score: 87.47
+   - Output: Turn open-ace into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
    - Risk: many open issues relative to stars
-16. `Try today` [NexaFlowFrance/OpenFamily](https://github.com/NexaFlowFrance/OpenFamily)
+18. `Try today` [zeweihan/aiworkdeck](https://github.com/zeweihan/aiworkdeck)
    - Audience: General User
-   - Score: 89.08
-   - Output: Turn OpenFamily into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-   - Risk: No major risk flag.
-17. `Try today` [trefeon/freebuff-proxy](https://github.com/trefeon/freebuff-proxy)
-   - Audience: General User
-   - Score: 88.88
-   - Output: Turn freebuff-proxy into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-   - Risk: No major risk flag.
-18. `Try today` [omarshahine/findmy-cli](https://github.com/omarshahine/findmy-cli)
-   - Audience: General User
-   - Score: 88.83
-   - Output: Turn findmy-cli into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-   - Risk: No major risk flag.
-19. `Try today` [Cloudgeni-ai/opengeni](https://github.com/Cloudgeni-ai/opengeni)
-   - Audience: General User
-   - Score: 87.81
-   - Output: Turn opengeni into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+   - Score: 87.45
+   - Output: Turn aiworkdeck into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
    - Risk: many open issues relative to stars
-20. `Try today` [kirodotdev/KiroCrew](https://github.com/kirodotdev/KiroCrew)
+19. `Try today` [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope)
    - Audience: General User
-   - Score: 86.97
-   - Output: Turn KiroCrew into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-   - Risk: many open issues relative to stars
+   - Score: 87.08
+   - Output: Turn monoscope into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+   - Risk: No major risk flag.
+20. `Try today` [callstack/agent-device](https://github.com/callstack/agent-device)
+   - Audience: General User
+   - Score: 86.71
+   - Output: Turn agent-device into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+   - Risk: No major risk flag.
