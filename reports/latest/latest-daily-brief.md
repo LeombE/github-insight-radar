@@ -1,6 +1,6 @@
 # GitHub Insight Daily Brief - 2026-09-02
 
-Generated at: `2026-09-01T19:24:39+00:00`
+Generated at: `2026-09-02T08:47:28+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -8,39 +8,32 @@ Image generation: `disabled`
 LLM summary: `disabled`
 
 ## Executive Summary
-- Top overall opportunity: [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) with score 94.88.
-- General user opportunity: [rcarmo/piclaw](https://github.com/rcarmo/piclaw)
-- Data analyst opportunity: [metabase/metabase](https://github.com/metabase/metabase)
-- Data scientist opportunity: [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup)
+- Top overall opportunity: [kestra-io/kestra](https://github.com/kestra-io/kestra) with score 93.52.
+- General user opportunity: [artokun/comfyui-mcp](https://github.com/artokun/comfyui-mcp)
+- Data analyst opportunity: [grafana/grafana](https://github.com/grafana/grafana)
+- Data scientist opportunity: [lance-format/lance](https://github.com/lance-format/lance)
 - Most common risk pattern: usage examples unclear
 
 ## Top Overall Projects
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
-| 1 | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | General User | 94.88 | It maps to General User needs with an evidence-based score of 94.88. | Try today |
-| 2 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | General User | 94.82 | It maps to General User needs with an evidence-based score of 94.82. | Try today |
-| 3 | [rcarmo/piclaw](https://github.com/rcarmo/piclaw) | General User | 94.13 | It maps to General User needs with an evidence-based score of 94.13. | Try today |
-| 4 | [Peiiii/nextclaw](https://github.com/Peiiii/nextclaw) | General User | 93.54 | It maps to General User needs with an evidence-based score of 93.54. | Try today |
-| 5 | [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) | General User | 93.39 | It maps to General User needs with an evidence-based score of 93.39. | Try today |
-| 6 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
-| 7 | [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) | General User | 89.58 | It maps to General User needs with an evidence-based score of 89.58. | Try today |
-| 8 | [ldbumble/taskuary](https://github.com/ldbumble/taskuary) | General User | 89.19 | It maps to General User needs with an evidence-based score of 89.19. | Try today |
-| 9 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | General User | 89.10 | It maps to General User needs with an evidence-based score of 89.10. | Try today |
-| 10 | [xalgorix/xalgorix](https://github.com/xalgorix/xalgorix) | General User | 88.96 | It maps to General User needs with an evidence-based score of 88.96. | Try today |
+| 1 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | General User | 93.52 | It maps to General User needs with an evidence-based score of 93.52. | Try today |
+| 2 | [artokun/comfyui-mcp](https://github.com/artokun/comfyui-mcp) | General User | 91.78 | It maps to General User needs with an evidence-based score of 91.78. | Try today |
+| 3 | [StuMason/coolify-mcp](https://github.com/StuMason/coolify-mcp) | General User | 91.50 | It maps to General User needs with an evidence-based score of 91.50. | Try today |
+| 4 | [jupyter-naas/abi](https://github.com/jupyter-naas/abi) | General User | 90.55 | It maps to General User needs with an evidence-based score of 90.55. | Try today |
+| 5 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
+| 6 | [langgenius/dify](https://github.com/langgenius/dify) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
+| 7 | [Team-Commonly/commonly](https://github.com/Team-Commonly/commonly) | General User | 89.86 | It maps to General User needs with an evidence-based score of 89.86. | Try today |
+| 8 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | General User | 89.10 | It maps to General User needs with an evidence-based score of 89.10. | Try today |
+| 9 | [arturict/tagvico-ai](https://github.com/arturict/tagvico-ai) | General User | 88.95 | It maps to General User needs with an evidence-based score of 88.95. | Try today |
+| 10 | [bretzel-app/crumbs](https://github.com/bretzel-app/crumbs) | General User | 88.87 | It maps to General User needs with an evidence-based score of 88.87. | Try today |
 
 ## General User Finds
-### rcarmo/piclaw
-- What it is: rcarmo/piclaw is a TypeScript project for General User: pi coding agent in a technicolor web trenchcoat
+### artokun/comfyui-mcp
+- What it is: artokun/comfyui-mcp is a TypeScript project for General User: Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs workflows, and edits your live graph in natural language on ANY LLM (Claude, ChatGPT, Gemini, offline Ollama, or any hosted model). 178 tools, 36 AI skills, 55 installer packs. Local, LAN, VPS, or Comfy Cloud.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 94.13
-- Difficulty: Advanced
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### Peiiii/nextclaw
-- What it is: Peiiii/nextclaw is a TypeScript project for General User: An open-source, extensible, self-hosted agent workspace with multi-runtime support for Codex, Claude Code, and more, plus reusable local apps for custom interfaces and services.
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 93.54
-- Difficulty: Advanced
+- Score: 91.78
+- Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
 ### n8n-io/n8n
@@ -50,13 +43,13 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### ldbumble/taskuary
-- What it is: ldbumble/taskuary is a Python project for General User: Automate your job: local-first AI task hub. Email, Teams, Slack & reports -> one timeline -> AI triage -> your coding agents (Claude Code, Codex, Gemini) do the work, you approve.
+### langgenius/dify
+- What it is: langgenius/dify is a TypeScript project for General User: Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 89.19
-- Difficulty: Intermediate
+- Score: 90.30
+- Difficulty: Advanced
 - Recommended action: Try today
-- Risk: many open issues relative to stars
+- Risk: No major risk flag from collected evidence.
 ### rtk-ai/rtk
 - What it is: rtk-ai/rtk is a Rust project for General User: CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - Angle: Potential practical tool or workflow improvement for general users.
@@ -64,8 +57,22 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
+### kdlbs/kandev
+- What it is: kdlbs/kandev is a Go project for General User: AI Kanban & Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry.
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 88.59
+- Difficulty: Advanced
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
 
 ## Data Analyst Opportunities
+### grafana/grafana
+- What it is: grafana/grafana is a TypeScript project for Data Analyst: The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
+- Score: 65.95
+- Difficulty: Advanced
+- Recommended action: Study for learning
+- Risk: no README evidence, installation unclear, usage examples unclear
 ### metabase/metabase
 - What it is: metabase/metabase is a Clojure project for Data Analyst: The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
@@ -73,20 +80,20 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Study for learning
 - Risk: no README evidence, installation unclear, usage examples unclear
-### valdeteselimi/DashPro-Monitor-IndustrialBI
-- What it is: valdeteselimi/DashPro-Monitor-IndustrialBI is a HTML project for Data Analyst: Power BI 2026: Smart Industrial Production Dashboard with DAX & Data Cleaning
+### MahbubNibir/power-bi-retail-analytics-viz
+- What it is: MahbubNibir/power-bi-retail-analytics-viz is a HTML project for Data Analyst: Top Power BI Sales Dashboard 2026 for Profit & Regional Analysis
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 51.67
+- Score: 51.70
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### visivo-io/visivo
-- What it is: visivo-io/visivo is a JavaScript project for Data Analyst: ✨ Build dashboards with end-to-end version control. 🔋 CLI w/ batteries included, no infra required. Develop on your laptop for instant results, deploy changes safely (with automated checks), and keep every report trustworthy for stakeholders, analysts and agents 🤖
+### mprove-io/mprove
+- What it is: mprove-io/mprove is a TypeScript project for Data Analyst: Open Source Agentic Business Intelligence with Malloy Semantic Layer :tada:
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 57.74
+- Score: 60.07
 - Difficulty: Unknown
-- Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
+- Recommended action: Study for learning
+- Risk: no README evidence, installation unclear, usage examples unclear
 ### apache/superset
 - What it is: apache/superset is a Python project for Data Analyst: Apache Superset is a Data Visualization and Data Exploration Platform
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
@@ -94,22 +101,8 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Study for learning
 - Risk: no README evidence, installation unclear, usage examples unclear
-### govinda25072003-ai/pbi-amazon-sales-dash
-- What it is: govinda25072003-ai/pbi-amazon-sales-dash is a HTML project for Data Analyst: Top 5 Amazon Sales Dashboard Trends & Insights for 2026
-- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 47.00
-- Difficulty: Unknown
-- Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
 
 ## Data Scientist Research Radar
-### MakazhanAlpamys/Soup
-- What it is: MakazhanAlpamys/Soup is a Python project for Data Scientist: Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 58.92
-- Difficulty: Unknown
-- Recommended action: Track for research
-- Risk: no README evidence, installation unclear, usage examples unclear
 ### lance-format/lance
 - What it is: lance-format/lance is a Rust project for Data Scientist: Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
 - Angle: Useful for model, benchmark, notebook, or experiment review.
@@ -124,26 +117,33 @@ LLM summary: `disabled`
 - Difficulty: Research-heavy
 - Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear
-### juspay/neurolink
-- What it is: juspay/neurolink is a TypeScript project for General User: One TypeScript interface for 24+ LLM providers — swap providers without rewriting. MCP-native (connect any MCP server), voice (TTS/STT/realtime), RAG, memory, file processors. Production-origin: powers Tara, Yama, and Clairvoyance at Juspay.
+### langfuse/langfuse
+- What it is: langfuse/langfuse is a TypeScript project for Data Scientist: 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 87.90
+- Score: 87.88
 - Difficulty: Advanced
 - Recommended action: Try today
-- Risk: many open issues relative to stars
-### flyteorg/flyte
-- What it is: flyteorg/flyte is a Go project for General User: Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
+- Risk: No major risk flag from collected evidence.
+### deeplethe/utopia
+- What it is: deeplethe/utopia is a Rust project for Data Scientist: World's first open-source enterprise world model.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 55.05
+- Score: 78.27
+- Difficulty: Advanced
+- Recommended action: Use as portfolio reference
+- Risk: usage examples unclear
+### trpc-group/trpc-agent-go
+- What it is: trpc-group/trpc-agent-go is a Go project for General User: A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, and observability.
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 55.07
 - Difficulty: Advanced
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear
 
 ## Action List
-- Try today: rmyndharis/OpenWA, unslothai/unsloth, rcarmo/piclaw
-- Watch this week: christopherkarani/Wax, herdrdev/herdr, nrwl/nx
-- Use as portfolio reference: YishenTu/claudian, ArchiveBox/ArchiveBox, OpenC3/cosmos
-- Skip for now: MauroDruwel/NIMStats, atomantic/PortOS, aniketpotabatti/Data-Science-EBooks
+- Try today: kestra-io/kestra, artokun/comfyui-mcp, StuMason/coolify-mcp
+- Watch this week: QwenLM/qwen-code, Effect-TS/effect, HBAI-Ltd/Toonflow-app
+- Use as portfolio reference: matthiasstraka/php-invest, frain-dev/convoy, mikopbx/Core
+- Skip for now: MauroDruwel/NIMStats, atomantic/PortOS, netobserv/netobserv-cli
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.
