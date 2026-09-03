@@ -1,6 +1,6 @@
-# GitHub Insight Daily Brief - 2026-09-03
+# GitHub Insight Daily Brief - 2026-09-04
 
-Generated at: `2026-09-03T08:56:27+00:00`
+Generated at: `2026-09-03T19:18:35+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -8,52 +8,45 @@ Image generation: `disabled`
 LLM summary: `disabled`
 
 ## Executive Summary
-- Top overall opportunity: [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) with score 95.84.
-- General user opportunity: [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector)
+- Top overall opportunity: [rush86999/atom](https://github.com/rush86999/atom) with score 94.17.
+- General user opportunity: [rush86999/atom](https://github.com/rush86999/atom)
 - Data analyst opportunity: [grafana/grafana](https://github.com/grafana/grafana)
-- Data scientist opportunity: [probabl-ai/skore](https://github.com/probabl-ai/skore)
+- Data scientist opportunity: [Curated-Awesome-Lists/GPT-Awesome-List-Generator](https://github.com/Curated-Awesome-Lists/GPT-Awesome-List-Generator)
 - Most common risk pattern: usage examples unclear
 
 ## Top Overall Projects
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
-| 1 | [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) | General User | 95.84 | It maps to General User needs with an evidence-based score of 95.84. | Try today |
-| 2 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | General User | 94.82 | It maps to General User needs with an evidence-based score of 94.82. | Try today |
-| 3 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | General User | 93.52 | It maps to General User needs with an evidence-based score of 93.52. | Try today |
-| 4 | [theexperiencecompany/gaia](https://github.com/theexperiencecompany/gaia) | General User | 93.15 | It maps to General User needs with an evidence-based score of 93.15. | Try today |
-| 5 | [sangrokjung/claude-forge](https://github.com/sangrokjung/claude-forge) | General User | 91.91 | It maps to General User needs with an evidence-based score of 91.91. | Try today |
-| 6 | [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) | General User | 91.71 | It maps to General User needs with an evidence-based score of 91.71. | Try today |
-| 7 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
-| 8 | [langgenius/dify](https://github.com/langgenius/dify) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
-| 9 | [mohitagw15856/pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) | General User | 89.77 | It maps to General User needs with an evidence-based score of 89.77. | Try today |
-| 10 | [xalgorix/xalgorix](https://github.com/xalgorix/xalgorix) | General User | 88.96 | It maps to General User needs with an evidence-based score of 88.96. | Try today |
+| 1 | [rush86999/atom](https://github.com/rush86999/atom) | General User | 94.17 | It maps to General User needs with an evidence-based score of 94.17. | Try today |
+| 2 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | General User | 93.52 | It maps to General User needs with an evidence-based score of 93.52. | Try today |
+| 3 | [drenlia-inc/agila](https://github.com/drenlia-inc/agila) | General User | 91.18 | It maps to General User needs with an evidence-based score of 91.18. | Try today |
+| 4 | [ljtn/epiq](https://github.com/ljtn/epiq) | General User | 91.12 | It maps to General User needs with an evidence-based score of 91.12. | Try today |
+| 5 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
+| 6 | [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) | General User | 89.60 | It maps to General User needs with an evidence-based score of 89.60. | Try today |
+| 7 | [xalgorix/xalgorix](https://github.com/xalgorix/xalgorix) | General User | 88.96 | It maps to General User needs with an evidence-based score of 88.96. | Try today |
+| 8 | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | General User | 88.68 | It maps to General User needs with an evidence-based score of 88.68. | Try today |
+| 9 | [atomantic/PortOS](https://github.com/atomantic/PortOS) | General User | 88.33 | It maps to General User needs with an evidence-based score of 88.33. | Try today |
+| 10 | [juspay/neurolink](https://github.com/juspay/neurolink) | General User | 87.89 | It maps to General User needs with an evidence-based score of 87.89. | Try today |
 
 ## General User Finds
-### oomol-lab/open-connector
-- What it is: oomol-lab/open-connector is a TypeScript project for General User: Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
+### rush86999/atom
+- What it is: rush86999/atom is a Python project for General User: Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 95.84
-- Difficulty: Intermediate
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### theexperiencecompany/gaia
-- What it is: theexperiencecompany/gaia is a Python project for General User: Your proactive personal AI assistant & companion for daily productivity 🌎
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 93.15
+- Score: 94.17
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### sangrokjung/claude-forge
-- What it is: sangrokjung/claude-forge is a Shell project for General User: oh-my-zsh for Claude Code — 16 agents, 35 commands, 32 skills, 21 safety hooks in one install. v4.0 adds an adversarial review loop: a second agent that never sees the first one's reasoning. MIT.
+### drenlia-inc/agila
+- What it is: drenlia-inc/agila is a TypeScript project for General User: Simple and easy Kanban web application built with React TS PostgreSQL
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 91.91
+- Score: 91.18
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### netease-youdao/LobsterAI
-- What it is: netease-youdao/LobsterAI is a TypeScript project for General User: Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.
+### ljtn/epiq
+- What it is: ljtn/epiq is a TypeScript project for General User: Distributed, code-native issue tracker - audit workflows via time-travel
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 91.71
+- Score: 91.12
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
@@ -64,6 +57,13 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
+### kirodotdev/KiroCrew
+- What it is: kirodotdev/KiroCrew is a Python project for General User: A persistent workspace for development work that self-improves and continues beyond one session.
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 87.00
+- Difficulty: Advanced
+- Recommended action: Try today
+- Risk: many open issues relative to stars
 
 ## Data Analyst Opportunities
 ### grafana/grafana
@@ -80,36 +80,36 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Study for learning
 - Risk: no README evidence, installation unclear, usage examples unclear
-### MahbubNibir/power-bi-retail-analytics-viz
-- What it is: MahbubNibir/power-bi-retail-analytics-viz is a HTML project for Data Analyst: Top Power BI Sales Dashboard 2026 for Profit & Regional Analysis
+### valdeteselimi/DashPro-Monitor-IndustrialBI
+- What it is: valdeteselimi/DashPro-Monitor-IndustrialBI is a HTML project for Data Analyst: Power BI 2026: Smart Industrial Production Dashboard with DAX & Data Cleaning
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 51.70
+- Score: 51.67
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### frappe/insights
-- What it is: frappe/insights is a Python project for Data Analyst: Open Source Business Intelligence Tool
+### visivo-io/visivo
+- What it is: visivo-io/visivo is a JavaScript project for Data Analyst: ✨ Build dashboards with end-to-end version control. 🔋 CLI w/ batteries included, no infra required. Develop on your laptop for instant results, deploy changes safely (with automated checks), and keep every report trustworthy for stakeholders, analysts and agents 🤖
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 60.75
+- Score: 57.74
 - Difficulty: Unknown
-- Recommended action: Study for learning
+- Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
-### ariacom/Seal-Report
-- What it is: ariacom/Seal-Report is a C# project for Data Analyst: Database Reporting Tool and Tasks (.Net)
+### MUDAS100/Swiggy-Instamart-Metrics-Dashboard-Power-BI
+- What it is: MUDAS100/Swiggy-Instamart-Metrics-Dashboard-Power-BI is a HTML project for Data Analyst: Interactive Logistics & Delivery Analytics Dashboard for Quick Commerce 2026
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 61.50
+- Score: 49.52
 - Difficulty: Unknown
-- Recommended action: Study for learning
-- Risk: no README evidence, installation unclear, usage examples unclear
+- Recommended action: Watch this week
+- Risk: no README evidence, installation unclear, usage examples unclear, no license
 
 ## Data Scientist Research Radar
-### probabl-ai/skore
-- What it is: probabl-ai/skore is a Python project for Data Scientist: Track your Data Science. Skore's open-source Python library accelerates ML model development with automated evaluation reports, smart methodological guidance, and comprehensive cross-validation analysis.
+### Curated-Awesome-Lists/GPT-Awesome-List-Generator
+- What it is: Curated-Awesome-Lists/GPT-Awesome-List-Generator is a Python project for Data Scientist: A powerful and automatic awesome list generator leveraging GPT models. Enter your keyword and its description to get a comprehensive list of resources in Markdown format
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 55.43
-- Difficulty: Unknown
-- Recommended action: Track for research
-- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
+- Score: 77.86
+- Difficulty: Intermediate
+- Recommended action: Use as portfolio reference
+- Risk: No major risk flag from collected evidence.
 ### lance-format/lance
 - What it is: lance-format/lance is a Rust project for Data Scientist: Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
 - Angle: Useful for model, benchmark, notebook, or experiment review.
@@ -117,13 +117,20 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear
-### dmirain/OctoForge
-- What it is: dmirain/OctoForge is a Python project for General User: Self-hosted multi-tenant agent platform for teams: skills, knowledge, API contracts and MCP servers live in the database and grow at runtime; big API responses are queried with SQL, not stuffed into context. Typed Python core (Protocol ports) you can embed in your own stack.
+### MasihMoafi/Elpis
+- What it is: MasihMoafi/Elpis is a Rust project for General User: You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 86.17
-- Difficulty: Intermediate
+- Score: 80.47
+- Difficulty: Advanced
 - Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
+- Risk: many open issues relative to stars
+### NVIDIA-NeMo/Automodel
+- What it is: NVIDIA-NeMo/Automodel is a Python project for Data Scientist: 🚀 Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 52.21
+- Difficulty: Research-heavy
+- Recommended action: Track for research
+- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
 ### hyeonsangjeon/gdpval-realworks
 - What it is: hyeonsangjeon/gdpval-realworks is a Python project for Data Scientist: Open-source benchmark for evaluating LLMs on 220 real professional tasks across 9 sectors and 44 occupations. Reproducible experiments, artifact validation, grading, and a live evidence dashboard.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
@@ -131,26 +138,19 @@ LLM summary: `disabled`
 - Difficulty: Research-heavy
 - Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear
-### MauroDruwel/NIMStats
-- What it is: MauroDruwel/NIMStats is a JavaScript project for Data Scientist: 📊 Automated hourly benchmarks for 20+ NVIDIA NIM models — interactive dashboard, zero infra, self-hostable. Open-source & community-driven.
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 44.83
-- Difficulty: Research-heavy
-- Recommended action: Skip for now
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
 
 ## Action List
-- Try today: oomol-lab/open-connector, unslothai/unsloth, kestra-io/kestra
-- Watch this week: esengine/DeepSeek-Reasonix, QwenLM/qwen-code, Canner/WrenAI
-- Use as portfolio reference: Zettlr/Zettlr, lissy93/dashy, LanternOps/breeze
-- Skip for now: MauroDruwel/NIMStats, msavox/cleecode, m96-chan/ai_research_dashboard
+- Try today: rush86999/atom, kestra-io/kestra, drenlia-inc/agila
+- Watch this week: QwenLM/qwen-code, trycua/cua, googleapis/mcp-toolbox
+- Use as portfolio reference: gutomec/nirvana-os-engine, supreme-gg-gg/instagram-cli, lissy93/dashy
+- Skip for now: MauroDruwel/NIMStats, Matysh/houseplan-card, LunarWerxs/AgentHydra
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.
 
 ## Data Files
-- Raw API JSON: `data/raw/2026-09-03-github-api-raw.json`
-- Daily projects JSON: `data/processed/2026-09-03-github-insight-projects.json`
-- Daily projects CSV: `data/processed/2026-09-03-github-insight-projects.csv`
+- Raw API JSON: `data/raw/2026-09-04-github-api-raw.json`
+- Daily projects JSON: `data/processed/2026-09-04-github-insight-projects.json`
+- Daily projects CSV: `data/processed/2026-09-04-github-insight-projects.csv`
 - Master CSV: `data/processed/github_repos_master.csv`
 - Dashboard JSON: `docs/data/latest.json`
