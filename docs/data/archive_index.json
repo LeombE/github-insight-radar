@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-09-05",
+    "generated_at": "2026-09-04T19:00:16+00:00",
+    "mode": "live",
+    "run_id": "live-2026-09-05-2026-09-04T190016-0000",
+    "daily_brief_path": "reports/daily/2026-09-05-daily-brief.md",
+    "json_path": "data/processed/2026-09-05-github-insight-projects.json",
+    "csv_path": "data/processed/2026-09-05-github-insight-projects.csv",
+    "selected_count": 200,
+    "top_project": "unslothai/unsloth"
+  },
+  {
     "date": "2026-09-04",
     "generated_at": "2026-09-04T08:51:17+00:00",
     "mode": "live",
