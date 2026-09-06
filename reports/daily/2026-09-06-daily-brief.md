@@ -1,6 +1,6 @@
 # GitHub Insight Daily Brief - 2026-09-06
 
-Generated at: `2026-09-05T18:17:58+00:00`
+Generated at: `2026-09-06T08:40:39+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -8,48 +8,48 @@ Image generation: `disabled`
 LLM summary: `disabled`
 
 ## Executive Summary
-- Top overall opportunity: [apache/airflow](https://github.com/apache/airflow) with score 95.22.
-- General user opportunity: [kingbee-helix/helix-agent](https://github.com/kingbee-helix/helix-agent)
-- Data analyst opportunity: [valdeteselimi/DashPro-Monitor-IndustrialBI](https://github.com/valdeteselimi/DashPro-Monitor-IndustrialBI)
-- Data scientist opportunity: [eldoary/Visionary-Training-Studio](https://github.com/eldoary/Visionary-Training-Studio)
+- Top overall opportunity: [allgpt-co/QuickVoice](https://github.com/allgpt-co/QuickVoice) with score 91.89.
+- General user opportunity: [allgpt-co/QuickVoice](https://github.com/allgpt-co/QuickVoice)
+- Data analyst opportunity: [grafana/grafana](https://github.com/grafana/grafana)
+- Data scientist opportunity: [kokikwbt/predictive-maintenance](https://github.com/kokikwbt/predictive-maintenance)
 - Most common risk pattern: usage examples unclear
 
 ## Top Overall Projects
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
-| 1 | [apache/airflow](https://github.com/apache/airflow) | General User | 95.22 | It maps to General User needs with an evidence-based score of 95.22. | Try today |
-| 2 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | General User | 94.82 | It maps to General User needs with an evidence-based score of 94.82. | Try today |
-| 3 | [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) | General User | 91.85 | It maps to General User needs with an evidence-based score of 91.85. | Try today |
-| 4 | [kingbee-helix/helix-agent](https://github.com/kingbee-helix/helix-agent) | General User | 91.50 | It maps to General User needs with an evidence-based score of 91.50. | Try today |
-| 5 | [atomantic/PortOS](https://github.com/atomantic/PortOS) | General User | 90.58 | It maps to General User needs with an evidence-based score of 90.58. | Try today |
-| 6 | [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) | General User | 89.61 | It maps to General User needs with an evidence-based score of 89.61. | Try today |
-| 7 | [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) | General User | 89.03 | It maps to General User needs with an evidence-based score of 89.03. | Try today |
-| 8 | [trefeon/freebuff-proxy](https://github.com/trefeon/freebuff-proxy) | General User | 88.93 | It maps to General User needs with an evidence-based score of 88.93. | Try today |
-| 9 | [libredb/libredb-studio](https://github.com/libredb/libredb-studio) | General User | 88.19 | It maps to General User needs with an evidence-based score of 88.19. | Try today |
-| 10 | [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) | General User | 88.10 | It maps to General User needs with an evidence-based score of 88.10. | Try today |
+| 1 | [allgpt-co/QuickVoice](https://github.com/allgpt-co/QuickVoice) | General User | 91.89 | It maps to General User needs with an evidence-based score of 91.89. | Try today |
+| 2 | [zhikunqingtao/zhikuncode](https://github.com/zhikunqingtao/zhikuncode) | General User | 90.84 | It maps to General User needs with an evidence-based score of 90.84. | Try today |
+| 3 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
+| 4 | [coaxk/subarr](https://github.com/coaxk/subarr) | General User | 90.25 | It maps to General User needs with an evidence-based score of 90.25. | Try today |
+| 5 | [ldbumble/taskuary](https://github.com/ldbumble/taskuary) | General User | 89.25 | It maps to General User needs with an evidence-based score of 89.25. | Try today |
+| 6 | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | General User | 88.68 | It maps to General User needs with an evidence-based score of 88.68. | Try today |
+| 7 | [ganeshmshetty/openclip](https://github.com/ganeshmshetty/openclip) | General User | 88.39 | It maps to General User needs with an evidence-based score of 88.39. | Try today |
+| 8 | [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) | General User | 87.81 | It maps to General User needs with an evidence-based score of 87.81. | Try today |
+| 9 | [ros-claw/rosclaw](https://github.com/ros-claw/rosclaw) | General User | 87.52 | It maps to General User needs with an evidence-based score of 87.52. | Try today |
+| 10 | [krelltunez/dayGLANCE](https://github.com/krelltunez/dayGLANCE) | General User | 87.13 | It maps to General User needs with an evidence-based score of 87.13. | Try today |
 
 ## General User Finds
-### kingbee-helix/helix-agent
-- What it is: kingbee-helix/helix-agent is a Python project for General User: Personal AI agent harness powered by Claude Code. Always-on access through Discord, Telegram, or a built-in web UI.
+### allgpt-co/QuickVoice
+- What it is: allgpt-co/QuickVoice is a TypeScript project for General User: Open-source, self-hostable platform for building and operating AI phone agents.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 91.50
+- Score: 91.89
 - Difficulty: Intermediate
 - Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### trefeon/freebuff-proxy
-- What it is: trefeon/freebuff-proxy is a Go project for General User: OpenAI-compatible gateway for FreeBuff coding models. Token pool, session lifecycle, TLS stealth, embedded admin dashboard. No ads, no CLI, just /v1/chat/completions.
+- Risk: many open issues relative to stars
+### n8n-io/n8n
+- What it is: n8n-io/n8n is a TypeScript project for General User: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 88.93
-- Difficulty: Intermediate
+- Score: 90.30
+- Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### feder-cr/AIHawk
-- What it is: feder-cr/AIHawk is a Python project for General User: Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser MCP for Claude Code and Gemini CLI.
+### ldbumble/taskuary
+- What it is: ldbumble/taskuary is a Python project for General User: Automate your job: local-first AI task hub. Email, Teams, Slack & reports -> one timeline -> AI triage -> your coding agents (Claude Code, Codex, Gemini) do the work, you approve.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 88.10
+- Score: 89.25
 - Difficulty: Intermediate
 - Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
+- Risk: many open issues relative to stars
 ### kirodotdev/KiroCrew
 - What it is: kirodotdev/KiroCrew is a Python project for General User: A persistent workspace for development work that self-improves and continues beyond one session.
 - Angle: Potential practical tool or workflow improvement for general users.
@@ -57,15 +57,29 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: many open issues relative to stars
-### callstack/agent-device
-- What it is: callstack/agent-device is a TypeScript project for General User: Mobile app automation and verification for AI coding agents. CLI, MCP server, and typed Node.js API for iOS, Android, HarmonyOS, TV, web, macOS, and Linux.
+### karanb192/claude-code-hooks
+- What it is: karanb192/claude-code-hooks is a JavaScript project for General User: 🪝 Claude Code hooks + an installable plugin marketplace: safety, cost, observability, productivity.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 86.73
+- Score: 86.95
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
 
 ## Data Analyst Opportunities
+### grafana/grafana
+- What it is: grafana/grafana is a TypeScript project for Data Analyst: The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
+- Score: 65.95
+- Difficulty: Advanced
+- Recommended action: Study for learning
+- Risk: no README evidence, installation unclear, usage examples unclear
+### metabase/metabase
+- What it is: metabase/metabase is a Clojure project for Data Analyst: The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
+- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
+- Score: 65.95
+- Difficulty: Advanced
+- Recommended action: Study for learning
+- Risk: no README evidence, installation unclear, usage examples unclear
 ### valdeteselimi/DashPro-Monitor-IndustrialBI
 - What it is: valdeteselimi/DashPro-Monitor-IndustrialBI is a HTML project for Data Analyst: Power BI 2026: Smart Industrial Production Dashboard with DAX & Data Cleaning
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
@@ -80,43 +94,22 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Study for learning
 - Risk: no README evidence, installation unclear, usage examples unclear
-### Diyorbek01660/aemr-energy-market-outage-analysis
-- What it is: Diyorbek01660/aemr-energy-market-outage-analysis is a unavailable project for Data Analyst: ⚡ Analyze AEMR outage data to identify high-risk energy generators and improve reliability monitoring across the U.S. energy market.
+### saineshnakra/automated-data-analyst
+- What it is: saineshnakra/automated-data-analyst is a Python project for Data Analyst: AI data analyst: chat with your data, generate dashboards, detect anomalies, forecast trends with verified calculations using pandas..
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 48.10
+- Score: 54.89
 - Difficulty: Unknown
 - Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
-### Lithiumgreentek/power-bi-design-vault
-- What it is: Lithiumgreentek/power-bi-design-vault is a HTML project for Data Analyst: Power BI Design Blueprints for 2026: Advanced Dashboards, Datasets & Visual Resources
-- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 47.02
-- Difficulty: Unknown
-- Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
-### govinda25072003-ai/pbi-amazon-sales-dash
-- What it is: govinda25072003-ai/pbi-amazon-sales-dash is a HTML project for Data Analyst: Top 5 Amazon Sales Dashboard Trends & Insights for 2026
-- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 47.00
-- Difficulty: Unknown
-- Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
+- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
 
 ## Data Scientist Research Radar
-### eldoary/Visionary-Training-Studio
-- What it is: eldoary/Visionary-Training-Studio is a HTML project for Data Scientist: Fast Track AI Model Training with Streamlit Vision to Production in 2026
+### kokikwbt/predictive-maintenance
+- What it is: kokikwbt/predictive-maintenance is a Jupyter Notebook project for General User: Datasets for Predictive Maintenance
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 44.89
-- Difficulty: Research-heavy
-- Recommended action: Skip for now
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
-### hyeonsangjeon/gdpval-realworks
-- What it is: hyeonsangjeon/gdpval-realworks is a Python project for Data Scientist: Open-source benchmark for evaluating LLMs on 220 real professional tasks across 9 sectors and 44 occupations. Reproducible experiments, artifact validation, grading, and a live evidence dashboard.
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 51.73
-- Difficulty: Research-heavy
-- Recommended action: Track for research
-- Risk: no README evidence, installation unclear, usage examples unclear
+- Score: 85.89
+- Difficulty: Advanced
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
 ### MauroDruwel/NIMStats
 - What it is: MauroDruwel/NIMStats is a JavaScript project for Data Scientist: 📊 Automated hourly benchmarks for 20+ NVIDIA NIM models — interactive dashboard, zero infra, self-hostable. Open-source & community-driven.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
@@ -127,23 +120,30 @@ LLM summary: `disabled`
 ### unslothai/unsloth
 - What it is: unslothai/unsloth is a Python project for General User: Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 94.82
+- Score: 57.27
 - Difficulty: Advanced
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### ibuilder/massing
-- What it is: ibuilder/massing is a Python project for General User: Open, self-hosted, IFC-native AEC platform: web BIM viewer + modeling, a ~100-module GC portal (RFIs, pay apps, CPM, construction accounting — double-entry GL/WIP → QuickBooks, e-sign), AI assist, IDS authoring, estimating + embodied carbon, a development proforma, and operate/dispose (CMMS, facility condition, rent roll, waterfall).
+- Recommended action: Watch this week
+- Risk: no README evidence, installation unclear, usage examples unclear
+### Hazrat-Ali9/Water_Potability_Check_ML
+- What it is: Hazrat-Ali9/Water_Potability_Check_ML is a Python project for Data Scientist: 🤖 Water 🤡 Potability ⚽ Check ⚾ ML 🥎 is a 🏀 project 🏐 designed 🏈 to 🏉 predict 🎮 whether 🎳 water 🧶 is safe 🏘 drinking 🕌 using 🚞 key 🚅 physicochemical 🚃 properties 🚋 system 🏭 analyzes 🚒 water 🚁 quality ✈ parameters 🚀 classifies 🛸 water 🚢 potable 🚠 data 🛼 driven 🚝 decision 🪐 making ☂ public health and environmental monitoring
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 87.78
-- Difficulty: Intermediate
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
+- Score: 42.12
+- Difficulty: Unknown
+- Recommended action: Skip for now
+- Risk: no README evidence, installation unclear, usage examples unclear, no license
+### anthony-chaudhary/fak
+- What it is: anthony-chaudhary/fak is a Go project for General User: Agentic Runtime
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 75.48
+- Difficulty: Advanced
+- Recommended action: Use as portfolio reference
+- Risk: many open issues relative to stars
 
 ## Action List
-- Try today: apache/airflow, unslothai/unsloth, asheshgoplani/agent-deck
-- Watch this week: herdrdev/herdr, esengine/DeepSeek-Reasonix, QwenLM/qwen-code
-- Use as portfolio reference: gutomec/nirvana-os-engine, marceld23/BlocksBeyondTheStars, BeyteFlow/ReadmeGenAI
-- Skip for now: eldoary/Visionary-Training-Studio, MauroDruwel/NIMStats, OneCuriousLearner/anyplane
+- Try today: allgpt-co/QuickVoice, zhikunqingtao/zhikuncode, n8n-io/n8n
+- Watch this week: esengine/DeepSeek-Reasonix, QwenLM/qwen-code, vilmire/adhdev
+- Use as portfolio reference: YishenTu/claudian, LanternOps/breeze, ipitio/backage
+- Skip for now: atomantic/PortOS, MauroDruwel/NIMStats, jiazhenz026/SciStudio
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.

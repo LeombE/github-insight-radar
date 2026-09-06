@@ -1,27 +1,43 @@
 # Data Analyst GitHub Insight - 2026-09-06
 
-Generated at: `2026-09-05T18:17:58+00:00`
+Generated at: `2026-09-06T08:40:39+00:00`
 Mode: `live`
 
 | Rank | Repo | Score | Action | Difficulty | Risk flags |
 | --- | --- | ---: | --- | --- | --- |
-| 1 | [valdeteselimi/DashPro-Monitor-IndustrialBI](https://github.com/valdeteselimi/DashPro-Monitor-IndustrialBI) | 100.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 2 | [apache/superset](https://github.com/apache/superset) | 86.50 | Study for learning | Advanced | no README evidence, installation unclear, usage examples unclear |
-| 3 | [Diyorbek01660/aemr-energy-market-outage-analysis](https://github.com/Diyorbek01660/aemr-energy-market-outage-analysis) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 4 | [Lithiumgreentek/power-bi-design-vault](https://github.com/Lithiumgreentek/power-bi-design-vault) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 5 | [govinda25072003-ai/pbi-amazon-sales-dash](https://github.com/govinda25072003-ai/pbi-amazon-sales-dash) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 6 | [goodmorningbeautyful-lab/PhonePe-Pulse-Analyzer](https://github.com/goodmorningbeautyful-lab/PhonePe-Pulse-Analyzer) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 7 | [flidai/leapview](https://github.com/flidai/leapview) | 68.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
-| 8 | [sandro2211/powerbi-ml-insight-engine](https://github.com/sandro2211/powerbi-ml-insight-engine) | 68.00 | Skip for now | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
-| 9 | [ArturSepp/QuantInvestStrats](https://github.com/ArturSepp/QuantInvestStrats) | 61.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear |
-| 10 | [trilogy-data/pytrilogy](https://github.com/trilogy-data/pytrilogy) | 61.50 | Watch this week | Advanced | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
-| 11 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) | 55.50 | Watch this week | Advanced | no README evidence, installation unclear, usage examples unclear |
-| 12 | [fenjo26/OpenGSC](https://github.com/fenjo26/OpenGSC) | 55.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear |
-| 13 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | 49.50 | Try today | Advanced | None |
-| 14 | [hamidi-dev/opentab](https://github.com/hamidi-dev/opentab) | 49.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear |
-| 15 | [jddrtn/smart-house-research-toolkit](https://github.com/jddrtn/smart-house-research-toolkit) | 49.00 | Skip for now | Unknown | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
+| 1 | [grafana/grafana](https://github.com/grafana/grafana) | 100.00 | Study for learning | Advanced | no README evidence, installation unclear, usage examples unclear |
+| 2 | [metabase/metabase](https://github.com/metabase/metabase) | 100.00 | Study for learning | Advanced | no README evidence, installation unclear, usage examples unclear |
+| 3 | [valdeteselimi/DashPro-Monitor-IndustrialBI](https://github.com/valdeteselimi/DashPro-Monitor-IndustrialBI) | 100.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 4 | [apache/superset](https://github.com/apache/superset) | 86.50 | Study for learning | Advanced | no README evidence, installation unclear, usage examples unclear |
+| 5 | [saineshnakra/automated-data-analyst](https://github.com/saineshnakra/automated-data-analyst) | 86.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
+| 6 | [Diyorbek01660/aemr-energy-market-outage-analysis](https://github.com/Diyorbek01660/aemr-energy-market-outage-analysis) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 7 | [Lithiumgreentek/power-bi-design-vault](https://github.com/Lithiumgreentek/power-bi-design-vault) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 8 | [govinda25072003-ai/pbi-amazon-sales-dash](https://github.com/govinda25072003-ai/pbi-amazon-sales-dash) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 9 | [goodmorningbeautyful-lab/PhonePe-Pulse-Analyzer](https://github.com/goodmorningbeautyful-lab/PhonePe-Pulse-Analyzer) | 80.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 10 | [flidai/leapview](https://github.com/flidai/leapview) | 68.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
+| 11 | [sandro2211/powerbi-ml-insight-engine](https://github.com/sandro2211/powerbi-ml-insight-engine) | 68.00 | Skip for now | Unknown | no README evidence, installation unclear, usage examples unclear, no license |
+| 12 | [ArturSepp/QuantInvestStrats](https://github.com/ArturSepp/QuantInvestStrats) | 61.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear |
+| 13 | [mzafram2001/f1-fantasy](https://github.com/mzafram2001/f1-fantasy) | 61.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear |
+| 14 | [EKKOLearnAI/hermes-studio](https://github.com/EKKOLearnAI/hermes-studio) | 43.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear |
+| 15 | [graphieros/vue-data-ui](https://github.com/graphieros/vue-data-ui) | 43.00 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear |
 
 ## Project Notes
+### grafana/grafana
+- Summary: grafana/grafana is a TypeScript project for Data Analyst: The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+- Why it matters: It maps to Data Analyst needs with an evidence-based score of 65.95.
+- Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
+- Portfolio idea: Turn grafana into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 76617; Forks: 14713; Language: TypeScript; License: AGPL-3.0; README length: 0; Topics: alerting, analytics, business-intelligence, dashboard, data-visualization, elasticsearch, go, grafana, hacktoberfest, influxdb, metrics, monitoring, mysql, postgres, prometheus
+- Confidence: low
+
+### metabase/metabase
+- Summary: metabase/metabase is a Clojure project for Data Analyst: The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
+- Why it matters: It maps to Data Analyst needs with an evidence-based score of 65.95.
+- Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
+- Portfolio idea: Turn metabase into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 49102; Forks: 6794; Language: Clojure; License: NOASSERTION; README length: 0; Topics: analytics, bi, business-intelligence, businessintelligence, clojure, dashboard, data, data-analysis, data-visualization, database, metabase, mysql, postgres, postgresql, reporting, slack, sql-editor, visualization
+- Confidence: low
+
 ### valdeteselimi/DashPro-Monitor-IndustrialBI
 - Summary: valdeteselimi/DashPro-Monitor-IndustrialBI is a HTML project for Data Analyst: Power BI 2026: Smart Industrial Production Dashboard with DAX & Data Cleaning
 - Why it matters: It maps to Data Analyst needs with an evidence-based score of 51.67.
@@ -35,7 +51,15 @@ Mode: `live`
 - Why it matters: It maps to Data Analyst needs with an evidence-based score of 62.21.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
 - Portfolio idea: Turn superset into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 74655; Forks: 18234; Language: Python; License: Apache-2.0; README length: 0; Topics: analytics, apache, apache-superset, asf, bi, business-analytics, business-intelligence, data-analysis, data-analytics, data-engineering, data-science, data-visualization, data-viz, flask, python, react, sql-editor, superset
+- Evidence: Stars: 74662; Forks: 18235; Language: Python; License: Apache-2.0; README length: 0; Topics: analytics, apache, apache-superset, asf, bi, business-analytics, business-intelligence, data-analysis, data-analytics, data-engineering, data-science, data-visualization, data-viz, flask, python, react, sql-editor, superset
+- Confidence: low
+
+### saineshnakra/automated-data-analyst
+- Summary: saineshnakra/automated-data-analyst is a Python project for Data Analyst: AI data analyst: chat with your data, generate dashboards, detect anomalies, forecast trends with verified calculations using pandas..
+- Why it matters: It maps to Data Analyst needs with an evidence-based score of 54.89.
+- Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
+- Portfolio idea: Turn automated-data-analyst into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 24; Forks: 6; Language: Python; License: MIT; README length: 0; Topics: ai, ai-data-analysis, automated-data-analysis, business-intelligence, business-intelligence-analytics, data-analysis, data-visualization, llm, pandas, python, streamlit, streamlit-dashboard, streamlit-webapp
 - Confidence: low
 
 ### Diyorbek01660/aemr-energy-market-outage-analysis
@@ -94,50 +118,26 @@ Mode: `live`
 - Evidence: Stars: 628; Forks: 71; Language: Python; License: MIT; README length: 0; Topics: asset-management, data-analysis, data-visualization, investment-analysis, performance-attribution, portfolio-optimization, portfolio-risk-management, python, quantitative-finance
 - Confidence: low
 
-### trilogy-data/pytrilogy
-- Summary: trilogy-data/pytrilogy is a Python project for Data Analyst: Can we improve the best language for data analytics? Strongly typed, composable, cross-engine SQL. More declarative and expressive, safer, and simpler for humans and agents.
-- Why it matters: It maps to Data Analyst needs with an evidence-based score of 48.72.
+### mzafram2001/f1-fantasy
+- Summary: mzafram2001/f1-fantasy is a Python project for Data Analyst: An open-source, automated historical dataset of F1 Fantasy statistics.
+- Why it matters: It maps to Data Analyst needs with an evidence-based score of 45.87.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
-- Portfolio idea: Turn pytrilogy into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 61; Forks: 3; Language: Python; License: MIT; README length: 0; Topics: data, data-analysis, data-visualization, sql
+- Portfolio idea: Turn f1-fantasy into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 11; Forks: 0; Language: Python; License: MIT; README length: 0; Topics: analytics, data, data-analysis, data-visualization, dataset, f1, fantasy-f1, formula1, github-actions, json, machine-learning, open-data, pandas, python, sports
 - Confidence: low
 
-### dbt-labs/dbt-core
-- Summary: dbt-labs/dbt-core is a Rust project for Data Analyst: dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
-- Why it matters: It maps to Data Analyst needs with an evidence-based score of 53.94.
+### EKKOLearnAI/hermes-studio
+- Summary: EKKOLearnAI/hermes-studio is a TypeScript project for Data Analyst: Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics
+- Why it matters: It maps to Data Analyst needs with an evidence-based score of 51.23.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
-- Portfolio idea: Turn dbt-core into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 13784; Forks: 2548; Language: Rust; License: Apache-2.0; README length: 0; Topics: analytics, business-intelligence, data-modeling, dbt-viewpoint, elt, pypa, slack
+- Portfolio idea: Turn hermes-studio into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 10876; Forks: 1315; Language: TypeScript; License: NOASSERTION; README length: 0; Topics: agent, ai-agent, chat-ui, dashboard, hermes, hermes-agent, hermes-web-ui, llm, multi-model, multi-platform, self-hosted, typescript, vue3, web-ui
 - Confidence: low
 
-### fenjo26/OpenGSC
-- Summary: fenjo26/OpenGSC is a TypeScript project for Data Analyst: Self-hosted Google Search Console dashboard — rank tracking, keyword research, AI-visibility audits and an AI SEO content suite. Includes a 46-tool MCP server, so Claude Code or Cursor works with your SEO data directly. No subscription: your VPS, your API keys.
-- Why it matters: It maps to Data Analyst needs with an evidence-based score of 48.50.
+### graphieros/vue-data-ui
+- Summary: graphieros/vue-data-ui is a Vue project for Data Analyst: An open source user-empowering data visualization Vue 3 components library for eloquent data storytelling
+- Why it matters: It maps to Data Analyst needs with an evidence-based score of 50.37.
 - Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
-- Portfolio idea: Turn OpenGSC into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 19; Forks: 12; Language: TypeScript; License: MIT; README length: 0; Topics: analytics, dashboard, google-search-console, gsc, nextjs, open-source, prisma, rank-tracking, self-hosted, seo, seo-tools
-- Confidence: low
-
-### ClickHouse/ClickHouse
-- Summary: ClickHouse/ClickHouse is a C++ project for General User: ClickHouse® is a real-time analytics database management system
-- Why it matters: It maps to General User needs with an evidence-based score of 85.32.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn ClickHouse into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 49657; Forks: 8911; Language: C++; License: Apache-2.0; README length: 5191; Topics: ai, analytics, big-data, clickhouse, cloud-native, cpp, database, dbms, distributed, embedded, hacktoberfest, lakehouse, mpp, olap, rust, self-hosted, sql
-- Confidence: high
-
-### hamidi-dev/opentab
-- Summary: hamidi-dev/opentab is a Python project for General User: 📊 Browse your AI coding spend in the terminal — OpenCode, Claude Code, Codex & friends
-- Why it matters: It maps to General User needs with an evidence-based score of 48.61.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn opentab into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 84; Forks: 5; Language: Python; License: MIT; README length: 0; Topics: anthropic, claude, claude-code, cli, codex, curses, dashboard, finops, openai, opencode, pi, pi-agent, python, sqlite, terminal, tokens, tui
-- Confidence: low
-
-### jddrtn/smart-house-research-toolkit
-- Summary: jddrtn/smart-house-research-toolkit is a Python project for Data Analyst: Open-source Python toolkit for analysing environmental and IoT data from the DigiTech Smart House.
-- Why it matters: It maps to Data Analyst needs with an evidence-based score of 40.75.
-- Practical use cases: Build a metrics or dashboard case study, Practice data cleaning and reporting, Extract a portfolio workflow
-- Portfolio idea: Turn smart-house-research-toolkit into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 23; Forks: 7; Language: Python; License: MIT; README length: 0; Topics: data-analysis, environmental-data, iot, open-source, pandas, python, research, smart-home, sustainability
+- Portfolio idea: Turn vue-data-ui into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 2445; Forks: 129; Language: Vue; License: MIT; README length: 0; Topics: charts, components-library, dashboard, data-storytelling, data-visualization, donut, gauge, heatmap, quadrant, radar, rating-stars, scatter, screenshot, skeleton-loader, sparkline, table, vue-data-ui, vue3, vuejs, vuejs3
 - Confidence: low
