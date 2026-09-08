@@ -1,6 +1,17 @@
 [
   {
     "date": "2026-09-08",
+    "generated_at": "2026-09-08T08:52:34+00:00",
+    "mode": "live",
+    "run_id": "live-2026-09-08-2026-09-08T085234-0000",
+    "daily_brief_path": "reports/daily/2026-09-08-daily-brief.md",
+    "json_path": "data/processed/2026-09-08-github-insight-projects.json",
+    "csv_path": "data/processed/2026-09-08-github-insight-projects.csv",
+    "selected_count": 200,
+    "top_project": "coleam00/Archon"
+  },
+  {
+    "date": "2026-09-08",
     "generated_at": "2026-09-07T19:58:29+00:00",
     "mode": "live",
     "run_id": "live-2026-09-08-2026-09-07T195829-0000",
