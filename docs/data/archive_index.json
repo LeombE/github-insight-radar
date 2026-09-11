@@ -1,6 +1,17 @@
 [
   {
     "date": "2026-09-11",
+    "generated_at": "2026-09-11T08:55:32+00:00",
+    "mode": "live",
+    "run_id": "live-2026-09-11-2026-09-11T085532-0000",
+    "daily_brief_path": "reports/daily/2026-09-11-daily-brief.md",
+    "json_path": "data/processed/2026-09-11-github-insight-projects.json",
+    "csv_path": "data/processed/2026-09-11-github-insight-projects.csv",
+    "selected_count": 200,
+    "top_project": "rtk-ai/rtk"
+  },
+  {
+    "date": "2026-09-11",
     "generated_at": "2026-09-10T19:08:11+00:00",
     "mode": "live",
     "run_id": "live-2026-09-11-2026-09-10T190811-0000",
