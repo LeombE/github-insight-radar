@@ -1,65 +1,73 @@
 # General User GitHub Insight - 2026-09-12
 
-Generated at: `2026-09-11T19:10:27+00:00`
+Generated at: `2026-09-12T08:38:47+00:00`
 Mode: `live`
 
 | Rank | Repo | Score | Action | Difficulty | Risk flags |
 | --- | --- | ---: | --- | --- | --- |
-| 1 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 100.00 | Try today | Advanced | None |
-| 2 | [dcellison/kai](https://github.com/dcellison/kai) | 100.00 | Try today | Intermediate | None |
-| 3 | [drenlia-inc/agila](https://github.com/drenlia-inc/agila) | 100.00 | Try today | Intermediate | None |
-| 4 | [YV17labs/GhostDesk](https://github.com/YV17labs/GhostDesk) | 100.00 | Try today | Advanced | None |
-| 5 | [rahmanef63/mso](https://github.com/rahmanef63/mso) | 100.00 | Try today | Intermediate | None |
-| 6 | [brcampidelli/chimera-agent](https://github.com/brcampidelli/chimera-agent) | 100.00 | Try today | Intermediate | many open issues relative to stars |
-| 7 | [Pinvou/pinvou-agent](https://github.com/Pinvou/pinvou-agent) | 100.00 | Try today | Advanced | None |
-| 8 | [mixpeek/amux](https://github.com/mixpeek/amux) | 100.00 | Try today | Advanced | None |
-| 9 | [KeeperHub/keeperhub](https://github.com/KeeperHub/keeperhub) | 100.00 | Try today | Intermediate | many open issues relative to stars |
-| 10 | [hcipengm/cogneva](https://github.com/hcipengm/cogneva) | 100.00 | Try today | Advanced | many open issues relative to stars |
-| 11 | [Ducksss/codex-profiles](https://github.com/Ducksss/codex-profiles) | 100.00 | Try today | Intermediate | None |
-| 12 | [derive-to/derive](https://github.com/derive-to/derive) | 100.00 | Try today | Intermediate | many open issues relative to stars |
-| 13 | [Danielopol/Claude-Code-Playbooks](https://github.com/Danielopol/Claude-Code-Playbooks) | 100.00 | Try today | Intermediate | None |
-| 14 | [ninouanis84-sudo/foxl-orchestrator](https://github.com/ninouanis84-sudo/foxl-orchestrator) | 100.00 | Use as portfolio reference | Intermediate | no license |
-| 15 | [The-AIOS/aios](https://github.com/The-AIOS/aios) | 100.00 | Use as portfolio reference | Beginner | usage examples unclear |
+| 1 | [heymrun/heym](https://github.com/heymrun/heym) | 100.00 | Try today | Intermediate | None |
+| 2 | [aliammari1/awesome-ai-tools](https://github.com/aliammari1/awesome-ai-tools) | 100.00 | Try today | Intermediate | many open issues relative to stars |
+| 3 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 100.00 | Try today | Advanced | None |
+| 4 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 100.00 | Try today | Intermediate | None |
+| 5 | [moonlight-lupin/agent-skills](https://github.com/moonlight-lupin/agent-skills) | 100.00 | Try today | Intermediate | None |
+| 6 | [clawdotnet/openclaw.net](https://github.com/clawdotnet/openclaw.net) | 100.00 | Try today | Intermediate | None |
+| 7 | [brcampidelli/chimera-agent](https://github.com/brcampidelli/chimera-agent) | 100.00 | Try today | Intermediate | many open issues relative to stars |
+| 8 | [Pinvou/pinvou-agent](https://github.com/Pinvou/pinvou-agent) | 100.00 | Try today | Advanced | None |
+| 9 | [karanhudia/borg-ui](https://github.com/karanhudia/borg-ui) | 100.00 | Try today | Intermediate | None |
+| 10 | [supernovae-st/nika](https://github.com/supernovae-st/nika) | 100.00 | Try today | Advanced | many open issues relative to stars |
+| 11 | [sortie-ai/sortie](https://github.com/sortie-ai/sortie) | 100.00 | Try today | Intermediate | many open issues relative to stars |
+| 12 | [kirodotdev/KiroCrew](https://github.com/kirodotdev/KiroCrew) | 100.00 | Try today | Advanced | many open issues relative to stars |
+| 13 | [hcipengm/cogneva](https://github.com/hcipengm/cogneva) | 100.00 | Try today | Advanced | many open issues relative to stars |
+| 14 | [shinpr/claude-code-workflows](https://github.com/shinpr/claude-code-workflows) | 100.00 | Try today | Intermediate | None |
+| 15 | [dcc-mcp/dcc-mcp-core](https://github.com/dcc-mcp/dcc-mcp-core) | 100.00 | Try today | Advanced | many open issues relative to stars |
 
 ## Project Notes
-### rtk-ai/rtk
-- Summary: rtk-ai/rtk is a Rust project for General User: CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- Why it matters: It maps to General User needs with an evidence-based score of 95.80.
+### heymrun/heym
+- Summary: heymrun/heym is a Python project for General User: Build agentic systems. Run them with confidence. Orchestrate agents, automate business processes, inspect every execution, and keep humans in control. Deploy Heym on your own infrastructure.
+- Why it matters: It maps to General User needs with an evidence-based score of 94.42.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn rtk into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 79972; Forks: 5062; Language: Rust; License: Apache-2.0; README length: 26384; Topics: agentic-coding, ai-coding, anthropic, claude-code, cli, command-line-tool, cost-reduction, developer-tools, llm, open-source, productivity, rust, token-optimization
+- Portfolio idea: Turn heym into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 1165; Forks: 90; Language: Python; License: NOASSERTION; README length: 47695; Topics: ai-agents, ai-agents-framework, ai-assistant, automation, automation-tool, autonomous-agents, coding-agent, evals, human-in-the-loop, mcp, mcp-server, mcp-servers, mcp-tool, n8n-alternative, no-code, no-code-automation, rag, self-hosted, workflow-automation, workflows
 - Confidence: high
 
-### dcellison/kai
-- Summary: dcellison/kai is a Python project for General User: A workshop on your own hardware where people and AI agents work together. Persistent coding agents with real access to your machine, durable memory, scheduled jobs, GitHub automation, and five interchangeable backends, in the browser or on Telegram. Your machine, your data, your rules.
-- Why it matters: It maps to General User needs with an evidence-based score of 91.26.
+### aliammari1/awesome-ai-tools
+- Summary: aliammari1/awesome-ai-tools is a unavailable project for General User: Curated collection of 100+ AI tools designed to enhance productivity and creativity, featuring live demos and APIs for developers
+- Why it matters: It maps to General User needs with an evidence-based score of 90.92.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn kai into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 35; Forks: 19; Language: Python; License: Apache-2.0; README length: 16841; Topics: ai-agent, automation, developer-tools, local-first, multi-backend, persistent-memory, personal-engineering-system, python, self-hosted, telegram-bot
+- Portfolio idea: Turn awesome-ai-tools into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 97; Forks: 102; Language: unavailable; License: CC0-1.0; README length: 44397; Topics: ai-tools, artificial-intelligence, awesome, awesome-list, curated-list, productivity, tool, tools, utility, web-services
 - Confidence: high
 
-### drenlia-inc/agila
-- Summary: drenlia-inc/agila is a TypeScript project for General User: Simple and easy Kanban web application built with React TS PostgreSQL
-- Why it matters: It maps to General User needs with an evidence-based score of 91.21.
+### n8n-io/n8n
+- Summary: n8n-io/n8n is a TypeScript project for General User: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- Why it matters: It maps to General User needs with an evidence-based score of 90.30.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn agila into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 33; Forks: 11; Language: TypeScript; License: MIT; README length: 15758; Topics: agile, agile-development, agile-management, agile-methodology, javascript, kanban, open-source, productivity, project, project-management, react, reactjs, self-hosted, sprint, sprint-planning, task-board, task-management, typescript
+- Portfolio idea: Turn n8n into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 204060; Forks: 60642; Language: TypeScript; License: NOASSERTION; README length: 3998; Topics: ai, apis, automation, cli, data-flow, development, integration-framework, integrations, ipaas, low-code, low-code-platform, mcp, mcp-client, mcp-server, n8n, no-code, self-hosted, typescript, workflow, workflow-automation
 - Confidence: high
 
-### YV17labs/GhostDesk
-- Summary: YV17labs/GhostDesk is a Rust project for General User: Give any AI agent a full desktop — it sees the screen, clicks, types, and runs apps like a human. Automate anything with a UI: browsers, legacy software, internal tools. No API needed. One Docker command.
-- Why it matters: It maps to General User needs with an evidence-based score of 90.97.
+### HKUDS/nanobot
+- Summary: HKUDS/nanobot is a Python project for General User: Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
+- Why it matters: It maps to General User needs with an evidence-based score of 90.30.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn GhostDesk into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 150; Forks: 15; Language: Rust; License: NOASSERTION; README length: 52804; Topics: agentic, ai-agent, automation, browser-automation, computer-use, docker, ghostdesk, linux, macos, mcp, mcp-server, nestrs, qa, qa-automation, qwen, rust-lang, virtual-desktop, windows
+- Portfolio idea: Turn nanobot into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 48044; Forks: 8495; Language: Python; License: MIT; README length: 78975; Topics: agent-framework, ai-agent, ai-agents, chatbot, chatops, discord-bot, llm-agents, llms, local-llm, mcp, model-context-protocol, multi-agent, openai-compatible, openclaw, personal-ai-assistant, python, self-hosted, telegram-bot-ai-assistant, webui, workflow-automation
 - Confidence: high
 
-### rahmanef63/mso
-- Summary: rahmanef63/mso is a TypeScript project for General User: Browser-based graphical shell and control plane for a Linux server you own — real terminal, file manager, live metrics and BYOK AI in one mobile-first workspace. Next.js 16 · React 19 · node-pty · Tailwind v4 · shadcn/ui. Public alpha, self-hosted.
-- Why it matters: It maps to General User needs with an evidence-based score of 89.74.
+### moonlight-lupin/agent-skills
+- Summary: moonlight-lupin/agent-skills is a Python project for General User: A collection of AI agent skills for Hermes Agent — research, creative, productivity, devops, and more. Each skill is self-contained and tested.
+- Why it matters: It maps to General User needs with an evidence-based score of 89.60.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn mso into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 75; Forks: 11; Language: TypeScript; License: MIT; README length: 4716; Topics: browser-shell, control-plane, file-manager, homelab, mobile-first, nextjs, pty, react, self-hosted, server-management, shadcn-ui, sysadmin, tailwindcss, terminal, typescript, vps, web-desktop, web-terminal
+- Portfolio idea: Turn agent-skills into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 64; Forks: 10; Language: Python; License: MIT; README length: 15960; Topics: agent-ops, agent-skills, ai-agent, ai-agent-skills, automation, claude-code, hermes, llm, research
+- Confidence: high
+
+### clawdotnet/openclaw.net
+- Summary: clawdotnet/openclaw.net is a C# project for General User: Self-hosted Personal AI + agent runtime in .NET (NativeAOT-friendly)
+- Why it matters: It maps to General User needs with an evidence-based score of 89.45.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn openclaw.net into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 498; Forks: 100; Language: C#; License: MIT; README length: 11603; Topics: agent-harness, agent-runtime, agentqi, ai-agent, automation, csharp, llm, loop-engineering, memory, microsoft-agent-framework, multimodal, nativeaot, openai-compatible-api, personal-ai, self-evolving, self-evolving-agents, self-hosted, tool-calling, tool-execution
 - Confidence: high
 
 ### brcampidelli/chimera-agent
@@ -75,23 +83,39 @@ Mode: `live`
 - Why it matters: It maps to General User needs with an evidence-based score of 88.16.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
 - Portfolio idea: Turn pinvou-agent into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 1878; Forks: 264; Language: Rust; License: MIT; README length: 13293; Topics: ai-agent, automation, desktop-app, llm, local-first, mcp, open-source, react, rust, tauri
+- Evidence: Stars: 1886; Forks: 265; Language: Rust; License: MIT; README length: 13293; Topics: ai-agent, automation, desktop-app, llm, local-first, mcp, open-source, react, rust, tauri
 - Confidence: high
 
-### mixpeek/amux
-- Summary: mixpeek/amux is a Rust project for General User: Open-source control plane for AI coding agents. Run an AI engineering team: parallel Claude Code, Codex, and Gemini workers with a shared board, atomic tasks, schedules, loops, origin-stamped messaging, model switching, and self-healing recovery. One dashboard, or your phone. MIT, single Rust binary.
-- Why it matters: It maps to General User needs with an evidence-based score of 87.64.
+### karanhudia/borg-ui
+- Summary: karanhudia/borg-ui is a Python project for General User: Replace complex Borg Backup terminal commands with a beautiful web UI. Create, schedule, and   restore backups with just a few clicks.
+- Why it matters: It maps to General User needs with an evidence-based score of 88.02.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn amux into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 441; Forks: 50; Language: Rust; License: NOASSERTION; README length: 24064; Topics: agent-orchestration, agentic-ai, ai-agents, ai-coding-assistant, anthropic, claude, claude-code, codex, coding-agent, control-plane, developer-tools, gemini, llm, mcp, multi-agent, orchestration, rust, self-healing, self-hosted, tmux
+- Portfolio idea: Turn borg-ui into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 1612; Forks: 55; Language: Python; License: AGPL-3.0; README length: 8549; Topics: automation, back, borg, borg-backup, borgbackup, borgbase, deduplication, docker, raspber, sbc, self-hosted, webapp
 - Confidence: high
 
-### KeeperHub/keeperhub
-- Summary: KeeperHub/keeperhub is a TypeScript project for General User: Automate on-chain events and actions reliably and securely. Build Workflows in minutes without the need for infrastructure, code or wallet management. Get instant alerts and never miss what matters.
-- Why it matters: It maps to General User needs with an evidence-based score of 87.36.
+### supernovae-st/nika
+- Summary: supernovae-st/nika is a Rust project for General User: Intent as Code | the workflow language for AI. One file, 4 verbs, one Rust binary. Local-first, any model, AGPL-3.0. 🦋
+- Why it matters: It maps to General User needs with an evidence-based score of 87.50.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn keeperhub into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 21; Forks: 73; Language: TypeScript; License: NOASSERTION; README length: 10962; Topics: agent-infrastructure, ai-agents, automation, blockchain, defi, defi-automation, ethereum, keeper, mcp, monitoring, web3, workflow, x402
+- Portfolio idea: Turn nika into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 76; Forks: 4; Language: Rust; License: AGPL-3.0; README length: 11600; Topics: agents, ai, ai-agents, ai-workflows, automation, cli, dag, developer-tools, devops, llm, local-ai, mcp, ollama, rust, self-hosted, structured-output, workflow, workflow-automation, workflow-engine, yaml
+- Confidence: high
+
+### sortie-ai/sortie
+- Summary: sortie-ai/sortie is a Go project for General User: Turn tracker tickets into autonomous agent sessions
+- Why it matters: It maps to General User needs with an evidence-based score of 87.09.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn sortie into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 182; Forks: 16; Language: Go; License: Apache-2.0; README length: 2874; Topics: agent, agent-fleet, agent-swarm, agentic-ai, ai-agents, ai-orchestration, automation, claude-code, coding-agent, copilot-cli, devops, gitea, github-project, jira, jira-automation, kiro, linear, opencode, orchestration, orchestrator
+- Confidence: high
+
+### kirodotdev/KiroCrew
+- Summary: kirodotdev/KiroCrew is a Python project for General User: A persistent workspace for development work that self-improves and continues beyond one session.
+- Why it matters: It maps to General User needs with an evidence-based score of 87.06.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn KiroCrew into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 3866; Forks: 566; Language: Python; License: Apache-2.0; README length: 140944; Topics: agent, agentic-ai, agents, ai-agent, ai-agents, automation, devtools, kiro, llm
 - Confidence: high
 
 ### hcipengm/cogneva
@@ -102,42 +126,18 @@ Mode: `live`
 - Evidence: Stars: 21; Forks: 24; Language: Rust; License: NOASSERTION; README length: 40503; Topics: a2a, ai, application, automation, autonomous, bootstrapping, cloud-native, cognitive-flow, collaboration, devops, event-streaming, evolution, framework, gitops, multi-agent, nested-quality-loops, orchestration, runtime, rust, scaffolding
 - Confidence: high
 
-### Ducksss/codex-profiles
-- Summary: Ducksss/codex-profiles is a Shell project for General User: Named CODEX_HOME profiles and ChatGPT Desktop windows with separate local state, without copying tokens
-- Why it matters: It maps to General User needs with an evidence-based score of 86.12.
+### shinpr/claude-code-workflows
+- Summary: shinpr/claude-code-workflows is a JavaScript project for General User: Development workflows for Claude Code that keep broad exploration focused on the outcome you approved.
+- Why it matters: It maps to General User needs with an evidence-based score of 85.04.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn codex-profiles into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 143; Forks: 10; Language: Shell; License: MIT; README length: 34107; Topics: account-switcher, ai-tools, automation, bash, chatgpt, chatgpt-desktop, cli, codex, codex-cli, codex-desktop, codex-home, codex-profiles, developer-tools, linux, macos, openai, openai-codex, productivity, shell-script, vibe-coding
+- Portfolio idea: Turn claude-code-workflows into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 680; Forks: 102; Language: JavaScript; License: MIT; README length: 25536; Topics: agent-skills, agentic-ai, agentic-coding, ai-agents, anthropic, claude-code, claude-code-plugin, claude-code-skill, code-quality, code-review, developer-tools, development-workflow, llm-orchestration, productivity, subagents
 - Confidence: high
 
-### derive-to/derive
-- Summary: derive-to/derive is a TypeScript project for General User: Review and approval for work made by AI agents. Fair Source, self-hostable, and MCP-native.
-- Why it matters: It maps to General User needs with an evidence-based score of 83.41.
+### dcc-mcp/dcc-mcp-core
+- Summary: dcc-mcp/dcc-mcp-core is a Rust project for General User: Skill-first control plane for creative tools: shared MCP/REST runtime, gateway, CLI, marketplace, safety, and observability across studio pipelines.
+- Why it matters: It maps to General User needs with an evidence-based score of 80.31.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn derive into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 28; Forks: 3; Language: TypeScript; License: NOASSERTION; README length: 9452; Topics: ai-agents, approval-workflow, artifact-management, collaboration, document-review, fair-source, mcp-server, model-context-protocol, self-hosted, static-site, version-control
-- Confidence: high
-
-### Danielopol/Claude-Code-Playbooks
-- Summary: Danielopol/Claude-Code-Playbooks is a MDX project for General User: Free, open-source library of 1,179+ copy-paste CLAUDE.md playbooks for Claude Code — covering finance, marketing, dev tools, legal, HR, and more.
-- Why it matters: It maps to General User needs with an evidence-based score of 80.07.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn Claude-Code-Playbooks into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 62; Forks: 6; Language: MDX; License: NOASSERTION; README length: 3537; Topics: ai, anthropic, automation, claude, claude-code, developer-tools, open-source, playbooks, productivity, templates
-- Confidence: high
-
-### ninouanis84-sudo/foxl-orchestrator
-- Summary: ninouanis84-sudo/foxl-orchestrator is a HTML project for General User: Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant
-- Why it matters: It maps to General User needs with an evidence-based score of 77.45.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn foxl-orchestrator into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 118; Forks: 1; Language: HTML; License: unavailable; README length: 7609; Topics: ai, ai-agent, anthropic, automation, browser-automation, chrome-extension, claude, claude-opus, claude-sonnet, desktop-app, electron, foxl, foxl-ai, macos, personal-agent, productivity, releases, scheduling, skills, windows
-- Confidence: high
-
-### The-AIOS/aios
-- Summary: The-AIOS/aios is a Shell project for General User: Amplify yourself and your team – with AI co-workers.
-- Why it matters: It maps to General User needs with an evidence-based score of 76.67.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn aios into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 42; Forks: 17; Language: Shell; License: GPL-2.0; README length: 21534; Topics: agentic-workflow, ai-agents, ai-operating-system, anthropic, claude-ai, claude-code, claude-plugin, mcp, obsidian, personal-knowledge-management, productivity, second-brain
+- Portfolio idea: Turn dcc-mcp-core into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 44; Forks: 4; Language: Rust; License: MIT; README length: 25041; Topics: ai-agents, automation, blender, dcc, dcc-mcp, houdini, maya, mcp, model-context-protocol, photoshop, pyo3, python, rust
 - Confidence: high

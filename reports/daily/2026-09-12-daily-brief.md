@@ -1,6 +1,6 @@
 # GitHub Insight Daily Brief - 2026-09-12
 
-Generated at: `2026-09-11T19:10:27+00:00`
+Generated at: `2026-09-12T08:38:47+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -8,59 +8,59 @@ Image generation: `disabled`
 LLM summary: `disabled`
 
 ## Executive Summary
-- Top overall opportunity: [rtk-ai/rtk](https://github.com/rtk-ai/rtk) with score 95.80.
-- General user opportunity: [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
+- Top overall opportunity: [apache/airflow](https://github.com/apache/airflow) with score 95.22.
+- General user opportunity: [heymrun/heym](https://github.com/heymrun/heym)
 - Data analyst opportunity: [grafana/grafana](https://github.com/grafana/grafana)
-- Data scientist opportunity: [lance-format/lance](https://github.com/lance-format/lance)
+- Data scientist opportunity: [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup)
 - Most common risk pattern: usage examples unclear
 
 ## Top Overall Projects
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
-| 1 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | General User | 95.80 | It maps to General User needs with an evidence-based score of 95.80. | Try today |
-| 2 | [apache/airflow](https://github.com/apache/airflow) | General User | 95.22 | It maps to General User needs with an evidence-based score of 95.22. | Try today |
-| 3 | [getmaxun/maxun](https://github.com/getmaxun/maxun) | General User | 94.54 | It maps to General User needs with an evidence-based score of 94.54. | Try today |
-| 4 | [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) | General User | 93.31 | It maps to General User needs with an evidence-based score of 93.31. | Try today |
-| 5 | [dcellison/kai](https://github.com/dcellison/kai) | General User | 91.26 | It maps to General User needs with an evidence-based score of 91.26. | Try today |
-| 6 | [drenlia-inc/agila](https://github.com/drenlia-inc/agila) | General User | 91.21 | It maps to General User needs with an evidence-based score of 91.21. | Try today |
-| 7 | [YV17labs/GhostDesk](https://github.com/YV17labs/GhostDesk) | General User | 90.97 | It maps to General User needs with an evidence-based score of 90.97. | Try today |
-| 8 | [jupyter-naas/abi](https://github.com/jupyter-naas/abi) | General User | 90.56 | It maps to General User needs with an evidence-based score of 90.56. | Try today |
-| 9 | [Cloudgeni-ai/opengeni](https://github.com/Cloudgeni-ai/opengeni) | General User | 90.14 | It maps to General User needs with an evidence-based score of 90.14. | Try today |
-| 10 | [rahmanef63/mso](https://github.com/rahmanef63/mso) | General User | 89.74 | It maps to General User needs with an evidence-based score of 89.74. | Try today |
+| 1 | [apache/airflow](https://github.com/apache/airflow) | General User | 95.22 | It maps to General User needs with an evidence-based score of 95.22. | Try today |
+| 2 | [heymrun/heym](https://github.com/heymrun/heym) | General User | 94.42 | It maps to General User needs with an evidence-based score of 94.42. | Try today |
+| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | General User | 92.22 | It maps to General User needs with an evidence-based score of 92.22. | Try today |
+| 4 | [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) | General User | 91.88 | It maps to General User needs with an evidence-based score of 91.88. | Try today |
+| 5 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | General User | 91.82 | It maps to General User needs with an evidence-based score of 91.82. | Try today |
+| 6 | [aliammari1/awesome-ai-tools](https://github.com/aliammari1/awesome-ai-tools) | General User | 90.92 | It maps to General User needs with an evidence-based score of 90.92. | Try today |
+| 7 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
+| 8 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
+| 9 | [moonlight-lupin/agent-skills](https://github.com/moonlight-lupin/agent-skills) | General User | 89.60 | It maps to General User needs with an evidence-based score of 89.60. | Try today |
+| 10 | [clawdotnet/openclaw.net](https://github.com/clawdotnet/openclaw.net) | General User | 89.45 | It maps to General User needs with an evidence-based score of 89.45. | Try today |
 
 ## General User Finds
-### rtk-ai/rtk
-- What it is: rtk-ai/rtk is a Rust project for General User: CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+### heymrun/heym
+- What it is: heymrun/heym is a Python project for General User: Build agentic systems. Run them with confidence. Orchestrate agents, automate business processes, inspect every execution, and keep humans in control. Deploy Heym on your own infrastructure.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 95.80
-- Difficulty: Advanced
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### dcellison/kai
-- What it is: dcellison/kai is a Python project for General User: A workshop on your own hardware where people and AI agents work together. Persistent coding agents with real access to your machine, durable memory, scheduled jobs, GitHub automation, and five interchangeable backends, in the browser or on Telegram. Your machine, your data, your rules.
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 91.26
+- Score: 94.42
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### drenlia-inc/agila
-- What it is: drenlia-inc/agila is a TypeScript project for General User: Simple and easy Kanban web application built with React TS PostgreSQL
+### aliammari1/awesome-ai-tools
+- What it is: aliammari1/awesome-ai-tools is a unavailable project for General User: Curated collection of 100+ AI tools designed to enhance productivity and creativity, featuring live demos and APIs for developers
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 91.21
+- Score: 90.92
 - Difficulty: Intermediate
 - Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### YV17labs/GhostDesk
-- What it is: YV17labs/GhostDesk is a Rust project for General User: Give any AI agent a full desktop — it sees the screen, clicks, types, and runs apps like a human. Automate anything with a UI: browsers, legacy software, internal tools. No API needed. One Docker command.
+- Risk: many open issues relative to stars
+### n8n-io/n8n
+- What it is: n8n-io/n8n is a TypeScript project for General User: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 90.97
+- Score: 90.30
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### rahmanef63/mso
-- What it is: rahmanef63/mso is a TypeScript project for General User: Browser-based graphical shell and control plane for a Linux server you own — real terminal, file manager, live metrics and BYOK AI in one mobile-first workspace. Next.js 16 · React 19 · node-pty · Tailwind v4 · shadcn/ui. Public alpha, self-hosted.
+### HKUDS/nanobot
+- What it is: HKUDS/nanobot is a Python project for General User: Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 89.74
+- Score: 90.30
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### moonlight-lupin/agent-skills
+- What it is: moonlight-lupin/agent-skills is a Python project for General User: A collection of AI agent skills for Hermes Agent — research, creative, productivity, devops, and more. Each skill is self-contained and tested.
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 89.60
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
@@ -80,13 +80,6 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Study for learning
 - Risk: no README evidence, installation unclear, usage examples unclear
-### MahbubNibir/power-bi-retail-analytics-viz
-- What it is: MahbubNibir/power-bi-retail-analytics-viz is a HTML project for Data Analyst: Top Power BI Sales Dashboard 2026 for Profit & Regional Analysis
-- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 51.70
-- Difficulty: Unknown
-- Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
 ### valdeteselimi/DashPro-Monitor-IndustrialBI
 - What it is: valdeteselimi/DashPro-Monitor-IndustrialBI is a HTML project for Data Analyst: Power BI 2026: Smart Industrial Production Dashboard with DAX & Data Cleaning
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
@@ -101,15 +94,22 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Study for learning
 - Risk: no README evidence, installation unclear, usage examples unclear
+### Diyorbek01660/aemr-energy-market-outage-analysis
+- What it is: Diyorbek01660/aemr-energy-market-outage-analysis is a unavailable project for Data Analyst: ⚡ Analyze AEMR outage data to identify high-risk energy generators and improve reliability monitoring across the U.S. energy market.
+- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
+- Score: 48.10
+- Difficulty: Unknown
+- Recommended action: Watch this week
+- Risk: no README evidence, installation unclear, usage examples unclear, no license
 
 ## Data Scientist Research Radar
-### lance-format/lance
-- What it is: lance-format/lance is a Rust project for Data Scientist: Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
+### MakazhanAlpamys/Soup
+- What it is: MakazhanAlpamys/Soup is a Python project for Data Scientist: Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 55.76
-- Difficulty: Advanced
+- Score: 59.21
+- Difficulty: Unknown
 - Recommended action: Track for research
-- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
+- Risk: no README evidence, installation unclear, usage examples unclear
 ### eldoary/Visionary-Training-Studio
 - What it is: eldoary/Visionary-Training-Studio is a HTML project for Data Scientist: Fast Track AI Model Training with Streamlit Vision to Production in 2026
 - Angle: Useful for model, benchmark, notebook, or experiment review.
@@ -120,30 +120,30 @@ LLM summary: `disabled`
 ### hyeonsangjeon/gdpval-realworks
 - What it is: hyeonsangjeon/gdpval-realworks is a Python project for Data Scientist: Open-source benchmark for evaluating LLMs on 220 real professional tasks across 9 sectors and 44 occupations. Reproducible experiments, artifact validation, grading, and a live evidence dashboard.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 51.77
+- Score: 51.80
 - Difficulty: Research-heavy
 - Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear
-### flyteorg/flyte
-- What it is: flyteorg/flyte is a Go project for General User: Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
+### deeplethe/utopia
+- What it is: deeplethe/utopia is a Rust project for Data Scientist: World's first open-source enterprise world model.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 55.06
+- Score: 79.49
+- Difficulty: Advanced
+- Recommended action: Use as portfolio reference
+- Risk: usage examples unclear
+### trycua/cua
+- What it is: trycua/cua is a HTML project for General User: Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 59.62
 - Difficulty: Advanced
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear
-### MauroDruwel/NIMStats
-- What it is: MauroDruwel/NIMStats is a JavaScript project for Data Scientist: 📊 Automated hourly benchmarks for 20+ NVIDIA NIM models — interactive dashboard, zero infra, self-hostable. Open-source & community-driven.
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 44.87
-- Difficulty: Research-heavy
-- Recommended action: Skip for now
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
 
 ## Action List
-- Try today: rtk-ai/rtk, apache/airflow, getmaxun/maxun
-- Watch this week: herdrdev/herdr, superset-sh/superset, ifixai-ai/iFixAi
-- Use as portfolio reference: lstpsche/obsidian-mcp, opsknight-labs/OpsKnight, Nebulock-Inc/agentic-threat-hunting-framework
-- Skip for now: atomantic/PortOS, eldoary/Visionary-Training-Studio, MauroDruwel/NIMStats
+- Try today: apache/airflow, heymrun/heym, affaan-m/ECC
+- Watch this week: esengine/DeepSeek-Reasonix, alfredxw/denova, trycua/cua
+- Use as portfolio reference: smixs/iva-agent, leon-ai/leon, deeplethe/utopia
+- Skip for now: TailAdmin/vue-tailwind-admin-dashboard, eldoary/Visionary-Training-Studio, LunarWerxs/AgentHydra
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.
