@@ -1,6 +1,6 @@
-# GitHub Insight Daily Brief - 2026-09-13
+# GitHub Insight Daily Brief - 2026-09-14
 
-Generated at: `2026-09-13T09:35:57+00:00`
+Generated at: `2026-09-13T18:47:31+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -8,60 +8,60 @@ Image generation: `disabled`
 LLM summary: `disabled`
 
 ## Executive Summary
-- Top overall opportunity: [apache/airflow](https://github.com/apache/airflow) with score 95.22.
-- General user opportunity: [figranium/figranium](https://github.com/figranium/figranium)
+- Top overall opportunity: [rtk-ai/rtk](https://github.com/rtk-ai/rtk) with score 95.80.
+- General user opportunity: [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
 - Data analyst opportunity: [metabase/metabase](https://github.com/metabase/metabase)
-- Data scientist opportunity: [trycua/cua](https://github.com/trycua/cua)
+- Data scientist opportunity: [eldoary/Visionary-Training-Studio](https://github.com/eldoary/Visionary-Training-Studio)
 - Most common risk pattern: usage examples unclear
 
 ## Top Overall Projects
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
-| 1 | [apache/airflow](https://github.com/apache/airflow) | General User | 95.22 | It maps to General User needs with an evidence-based score of 95.22. | Try today |
-| 2 | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | General User | 94.91 | It maps to General User needs with an evidence-based score of 94.91. | Try today |
-| 3 | [figranium/figranium](https://github.com/figranium/figranium) | General User | 93.98 | It maps to General User needs with an evidence-based score of 93.98. | Try today |
-| 4 | [Peiiii/nextclaw](https://github.com/Peiiii/nextclaw) | General User | 93.56 | It maps to General User needs with an evidence-based score of 93.56. | Try today |
-| 5 | [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) | General User | 93.20 | It maps to General User needs with an evidence-based score of 93.20. | Try today |
-| 6 | [theexperiencecompany/gaia](https://github.com/theexperiencecompany/gaia) | General User | 93.17 | It maps to General User needs with an evidence-based score of 93.17. | Try today |
-| 7 | [vicoa-ai/vicoa](https://github.com/vicoa-ai/vicoa) | General User | 93.00 | It maps to General User needs with an evidence-based score of 93.00. | Try today |
-| 8 | [the911fund/skill-of-skills](https://github.com/the911fund/skill-of-skills) | General User | 91.55 | It maps to General User needs with an evidence-based score of 91.55. | Try today |
-| 9 | [maccydee/job-radar](https://github.com/maccydee/job-radar) | General User | 89.18 | It maps to General User needs with an evidence-based score of 89.18. | Try today |
-| 10 | [xopcai/xopc](https://github.com/xopcai/xopc) | General User | 89.11 | It maps to General User needs with an evidence-based score of 89.11. | Try today |
+| 1 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | General User | 95.80 | It maps to General User needs with an evidence-based score of 95.80. | Try today |
+| 2 | [apache/airflow](https://github.com/apache/airflow) | General User | 95.22 | It maps to General User needs with an evidence-based score of 95.22. | Try today |
+| 3 | [Peiiii/nextclaw](https://github.com/Peiiii/nextclaw) | General User | 93.56 | It maps to General User needs with an evidence-based score of 93.56. | Try today |
+| 4 | [markrai/scrumboy](https://github.com/markrai/scrumboy) | General User | 93.53 | It maps to General User needs with an evidence-based score of 93.53. | Try today |
+| 5 | [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) | General User | 91.89 | It maps to General User needs with an evidence-based score of 91.89. | Try today |
+| 6 | [the911fund/skill-of-skills](https://github.com/the911fund/skill-of-skills) | General User | 91.55 | It maps to General User needs with an evidence-based score of 91.55. | Try today |
+| 7 | [projectsend/projectsend](https://github.com/projectsend/projectsend) | General User | 91.44 | It maps to General User needs with an evidence-based score of 91.44. | Try today |
+| 8 | [AndrewDryga/emisar](https://github.com/AndrewDryga/emisar) | General User | 91.06 | It maps to General User needs with an evidence-based score of 91.06. | Try today |
+| 9 | [emoss08/Trenova](https://github.com/emoss08/Trenova) | General User | 90.94 | It maps to General User needs with an evidence-based score of 90.94. | Try today |
+| 10 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
 
 ## General User Finds
-### figranium/figranium
-- What it is: figranium/figranium is a TypeScript project for General User: Stack blocks visually to build complex browser workflows and execute them via API
+### rtk-ai/rtk
+- What it is: rtk-ai/rtk is a Rust project for General User: CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 93.98
-- Difficulty: Intermediate
+- Score: 95.80
+- Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
 ### Peiiii/nextclaw
-- What it is: Peiiii/nextclaw is a TypeScript project for General User: An open-source, extensible, self-hosted agent workspace with multi-runtime support for Codex, Claude Code, and more, plus reusable local apps for custom interfaces and services.
+- What it is: Peiiii/nextclaw is a TypeScript project for General User: A human-centered long-term AI partner—not a task-centered assistant.
 - Angle: Potential practical tool or workflow improvement for general users.
 - Score: 93.56
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### feder-cr/AIHawk
-- What it is: feder-cr/AIHawk is a Python project for General User: Open-source AI browser agent for web automation, undetected by anti-bot systems: a web browsing agent on a stealth Firefox that is not flagged as a bot, not blocked, and does not trigger captchas. Plain-English tasks, computer-use agent, browser MCP for Claude Code and Gemini CLI.
+### markrai/scrumboy
+- What it is: markrai/scrumboy is a Go project for General User: Self-hosted project management, featuring customizable project boards, cross-project workload and flow analytics, calendar-aware planning, a sticky-note wall, portable imports/backups, realtime email notifications, and a MCP/Agent automation layer.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 93.20
+- Score: 93.53
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### theexperiencecompany/gaia
-- What it is: theexperiencecompany/gaia is a Python project for General User: Your proactive personal AI assistant & companion for daily productivity 🌎
+### emoss08/Trenova
+- What it is: emoss08/Trenova is a Go project for General User: An AI-driven asset based Transportation Management System
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 93.17
+- Score: 90.94
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### vicoa-ai/vicoa
-- What it is: vicoa-ai/vicoa is a Python project for General User: Vicoa is the agentic IDE for running a team of coding agents from any device. Desktop, mobile, VPS, open-source, self-hostable.
+### n8n-io/n8n
+- What it is: n8n-io/n8n is a TypeScript project for General User: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 93.00
-- Difficulty: Intermediate
+- Score: 90.30
+- Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
 
@@ -73,24 +73,17 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Study for learning
 - Risk: no README evidence, installation unclear, usage examples unclear
+### MahbubNibir/power-bi-retail-analytics-viz
+- What it is: MahbubNibir/power-bi-retail-analytics-viz is a HTML project for Data Analyst: Top Power BI Sales Dashboard 2026 for Profit & Regional Analysis
+- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
+- Score: 51.70
+- Difficulty: Unknown
+- Recommended action: Watch this week
+- Risk: no README evidence, installation unclear, usage examples unclear, no license
 ### valdeteselimi/DashPro-Monitor-IndustrialBI
 - What it is: valdeteselimi/DashPro-Monitor-IndustrialBI is a HTML project for Data Analyst: Power BI 2026: Smart Industrial Production Dashboard with DAX & Data Cleaning
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
 - Score: 51.67
-- Difficulty: Unknown
-- Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
-### apache/superset
-- What it is: apache/superset is a Python project for Data Analyst: Apache Superset is a Data Visualization and Data Exploration Platform
-- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 62.21
-- Difficulty: Advanced
-- Recommended action: Study for learning
-- Risk: no README evidence, installation unclear, usage examples unclear
-### Lithiumgreentek/power-bi-design-vault
-- What it is: Lithiumgreentek/power-bi-design-vault is a HTML project for Data Analyst: Power BI Design Blueprints for 2026: Advanced Dashboards, Datasets & Visual Resources
-- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 47.02
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
@@ -101,15 +94,29 @@ LLM summary: `disabled`
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
+### nehamarora5635-glitch/gadget-market-intelligence-dashboard
+- What it is: nehamarora5635-glitch/gadget-market-intelligence-dashboard is a HTML project for Data Analyst: 2026 Gadget Sales Analytics: Brand Profitability & Consumer Demographics Optimization
+- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
+- Score: 46.50
+- Difficulty: Unknown
+- Recommended action: Watch this week
+- Risk: no README evidence, installation unclear, usage examples unclear, no license
 
 ## Data Scientist Research Radar
-### trycua/cua
-- What it is: trycua/cua is a HTML project for General User: Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+### eldoary/Visionary-Training-Studio
+- What it is: eldoary/Visionary-Training-Studio is a HTML project for Data Scientist: Fast Track AI Model Training with Streamlit Vision to Production in 2026
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 59.62
+- Score: 44.89
+- Difficulty: Research-heavy
+- Recommended action: Skip for now
+- Risk: no README evidence, installation unclear, usage examples unclear, no license
+### tale-project/tale
+- What it is: tale-project/tale is a TypeScript project for General User: The Orchestrator for AI Agents — Connect OpenClaw, Hermes Agent, Claude Code, Codex, Cursor, Gemini CLI, OpenCode, Pi, and Qwen Code. Pool their knowledge, delegate tasks, and build your swarm of agents.
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 82.14
 - Difficulty: Advanced
-- Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear
+- Recommended action: Try today
+- Risk: many open issues relative to stars
 ### MauroDruwel/NIMStats
 - What it is: MauroDruwel/NIMStats is a JavaScript project for Data Scientist: 📊 Automated hourly benchmarks for 20+ NVIDIA NIM models — interactive dashboard, zero infra, self-hostable. Open-source & community-driven.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
@@ -117,13 +124,6 @@ LLM summary: `disabled`
 - Difficulty: Research-heavy
 - Recommended action: Skip for now
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### gabrielekarra/mcp-anything
-- What it is: gabrielekarra/mcp-anything is a Python project for General User: One command to turn any codebase into an MCP server
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 84.16
-- Difficulty: Intermediate
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
 ### unslothai/unsloth
 - What it is: unslothai/unsloth is a Python project for General User: Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
@@ -131,26 +131,26 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear
-### faithlumumba/2025-tencent-advertising-algorithm-competition-finalist
-- What it is: faithlumumba/2025-tencent-advertising-algorithm-competition-finalist is a Python project for Data Scientist: 🎯 Build a winning recommendation system with this effective generative framework, advancing to the finals of the 2025 Tencent Advertising Algorithm Competition.
+### AlphaAvatar/AlphaAvatar
+- What it is: AlphaAvatar/AlphaAvatar is a Python project for Data Scientist: A real-time interactive Omni Avatar built on LiveKit, which allows you to seamlessly integrate with any open source Avatar components (real-time model, visual, voice, memory, search, etc.).
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 44.70
+- Score: 51.37
 - Difficulty: Unknown
-- Recommended action: Skip for now
+- Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear
 
 ## Action List
-- Try today: apache/airflow, rmyndharis/OpenWA, figranium/figranium
-- Watch this week: QwenLM/qwen-code, trycua/cua, vilmire/adhdev
-- Use as portfolio reference: romanj-io99y5/marvel-performance-kit-2026, YishenTu/claudian, zendegani/XClipper
-- Skip for now: MauroDruwel/NIMStats, scikit-hep/awkward, ralleur/hauser
+- Try today: rtk-ai/rtk, apache/airflow, Peiiii/nextclaw
+- Watch this week: herdrdev/herdr, Kilo-Org/kilocode, Osmantic/ODS
+- Use as portfolio reference: handarbeit/fabrik, YishenTu/claudian, ipitio/backage
+- Skip for now: eldoary/Visionary-Training-Studio, LunarWerxs/AgentHydra, MauroDruwel/NIMStats
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.
 
 ## Data Files
-- Raw API JSON: `data/raw/2026-09-13-github-api-raw.json`
-- Daily projects JSON: `data/processed/2026-09-13-github-insight-projects.json`
-- Daily projects CSV: `data/processed/2026-09-13-github-insight-projects.csv`
+- Raw API JSON: `data/raw/2026-09-14-github-api-raw.json`
+- Daily projects JSON: `data/processed/2026-09-14-github-insight-projects.json`
+- Daily projects CSV: `data/processed/2026-09-14-github-insight-projects.csv`
 - Master CSV: `data/processed/github_repos_master.csv`
 - Dashboard JSON: `docs/data/latest.json`
