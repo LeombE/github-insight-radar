@@ -1,65 +1,41 @@
 # General User GitHub Insight - 2026-09-16
 
-Generated at: `2026-09-15T19:42:48+00:00`
+Generated at: `2026-09-16T09:18:31+00:00`
 Mode: `live`
 
 | Rank | Repo | Score | Action | Difficulty | Risk flags |
 | --- | --- | ---: | --- | --- | --- |
-| 1 | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | 100.00 | Try today | Intermediate | None |
-| 2 | [Gimanh/taskview-community](https://github.com/Gimanh/taskview-community) | 100.00 | Try today | Intermediate | None |
-| 3 | [Osmantic/ODS](https://github.com/Osmantic/ODS) | 100.00 | Try today | Intermediate | many open issues relative to stars |
-| 4 | [PerpetualSoftware/pad](https://github.com/PerpetualSoftware/pad) | 100.00 | Try today | Intermediate | None |
-| 5 | [ldbumble/taskuary](https://github.com/ldbumble/taskuary) | 100.00 | Try today | Intermediate | None |
-| 6 | [talayash/agentrium](https://github.com/talayash/agentrium) | 100.00 | Try today | Intermediate | None |
-| 7 | [ljtn/epiq](https://github.com/ljtn/epiq) | 100.00 | Try today | Intermediate | None |
-| 8 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 100.00 | Try today | Advanced | None |
-| 9 | [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) | 100.00 | Try today | Advanced | None |
-| 10 | [KeeperHub/keeperhub](https://github.com/KeeperHub/keeperhub) | 100.00 | Try today | Intermediate | many open issues relative to stars |
-| 11 | [sortie-ai/sortie](https://github.com/sortie-ai/sortie) | 100.00 | Try today | Intermediate | many open issues relative to stars |
-| 12 | [kirodotdev/KiroCrew](https://github.com/kirodotdev/KiroCrew) | 100.00 | Try today | Advanced | many open issues relative to stars |
-| 13 | [callstack/agent-device](https://github.com/callstack/agent-device) | 100.00 | Try today | Intermediate | None |
-| 14 | [engasnm111/lnwjud](https://github.com/engasnm111/lnwjud) | 100.00 | Try today | Intermediate | None |
-| 15 | [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) | 100.00 | Try today | Intermediate | None |
+| 1 | [vicoa-ai/vicoa](https://github.com/vicoa-ai/vicoa) | 100.00 | Try today | Intermediate | None |
+| 2 | [oomol-lab/open-flow](https://github.com/oomol-lab/open-flow) | 100.00 | Try today | Intermediate | None |
+| 3 | [talayash/agentrium](https://github.com/talayash/agentrium) | 100.00 | Try today | Intermediate | None |
+| 4 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 100.00 | Try today | Advanced | None |
+| 5 | [xopcai/xopc](https://github.com/xopcai/xopc) | 100.00 | Try today | Intermediate | None |
+| 6 | [kirodotdev/KiroCrew](https://github.com/kirodotdev/KiroCrew) | 100.00 | Try today | Advanced | many open issues relative to stars |
+| 7 | [juspay/xyne-spaces](https://github.com/juspay/xyne-spaces) | 100.00 | Try today | Intermediate | many open issues relative to stars |
+| 8 | [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 100.00 | Try today | Intermediate | None |
+| 9 | [umeranjum17/muxr](https://github.com/umeranjum17/muxr) | 100.00 | Try today | Intermediate | None |
+| 10 | [Mann1988/awesome-claude-skills](https://github.com/Mann1988/awesome-claude-skills) | 100.00 | Try today | Intermediate | None |
+| 11 | [ScriptedAlchemy/grok-bot-cli](https://github.com/ScriptedAlchemy/grok-bot-cli) | 100.00 | Try today | Intermediate | None |
+| 12 | [khaled4123e/AIOS](https://github.com/khaled4123e/AIOS) | 100.00 | Try today | Intermediate | None |
+| 13 | [AIPMAndy/awesome-openclaw-use-cases-cn](https://github.com/AIPMAndy/awesome-openclaw-use-cases-cn) | 100.00 | Use as portfolio reference | Beginner | installation unclear |
+| 14 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 90.50 | Try today | Intermediate | None |
+| 15 | [EpicStaff/EpicStaff](https://github.com/EpicStaff/EpicStaff) | 90.50 | Try today | Advanced | None |
 
 ## Project Notes
-### melgarafael/DeskcommCRM
-- Summary: melgarafael/DeskcommCRM is a TypeScript project for General User: Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
-- Why it matters: It maps to General User needs with an evidence-based score of 95.20.
+### vicoa-ai/vicoa
+- Summary: vicoa-ai/vicoa is a Python project for General User: Vicoa is the agentic IDE for running a team of coding agents from any device. Desktop, mobile, VPS, open-source, self-hostable.
+- Why it matters: It maps to General User needs with an evidence-based score of 93.05.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn DeskcommCRM into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 2737; Forks: 675; Language: TypeScript; License: MIT; README length: 31402; Topics: ai, ai-agents, chatbot, crm, customer-support, ecommerce, lgpd, mcp, multi-tenant, nextjs, nuvemshop, open-source, rag, sales-automation, self-hosted, supabase, typescript, waha, whatsapp, whatsapp-api
+- Portfolio idea: Turn vicoa into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 256; Forks: 24; Language: Python; License: AGPL-3.0; README length: 11159; Topics: ade, ai-agents, ai-orchestrator, android, claude-code, codex, coding-agent, developer-tools, flutter, ios, linux, mobile, nextjs, opencode, python, self-hosted, typescript, vibe-coding, vicoa, windows
 - Confidence: high
 
-### Gimanh/taskview-community
-- Summary: Gimanh/taskview-community is a TypeScript project for General User: TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task managers.
-- Why it matters: It maps to General User needs with an evidence-based score of 94.90.
+### oomol-lab/open-flow
+- Summary: oomol-lab/open-flow is a TypeScript project for General User: Build workflows you can see, code, run, and own. Open-source visual workflow automation with real TypeScript, isolated execution, and a self-hosted Control API.
+- Why it matters: It maps to General User needs with an evidence-based score of 92.40.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn taskview-community into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 656; Forks: 41; Language: TypeScript; License: NOASSERTION; README length: 14836; Topics: graphview, kanban-board, nodejs, productivity, project-management, self-hosted, task, task-management, task-manager, todoapp
-- Confidence: high
-
-### Osmantic/ODS
-- Summary: Osmantic/ODS is a Python project for General User: Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.
-- Why it matters: It maps to General User needs with an evidence-based score of 94.24.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn ODS into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 6531; Forks: 935; Language: Python; License: Apache-2.0; README length: 26346; Topics: ai-agents, amd, comfyui, docker, llama-cpp, llm, local-ai, n8n, nvidia, open-webui, rag, self-hosted, speech-to-text, strix-halo, text-to-speech, workflow-automation
-- Confidence: high
-
-### PerpetualSoftware/pad
-- Summary: PerpetualSoftware/pad is a Go project for General User: Project Management for the agent era
-- Why it matters: It maps to General User needs with an evidence-based score of 92.70.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn pad into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 175; Forks: 22; Language: Go; License: Apache-2.0; README length: 55854; Topics: agent-era, agent-tools, ai-agents, claude-code, cli, codex, cursor, developer-tools, golang, issue-tracker, local-first, markdown, mcp-server, open-source, project-management, self-hosted, sqlite, sveltekit, task-management, windsurf
-- Confidence: high
-
-### ldbumble/taskuary
-- Summary: ldbumble/taskuary is a Python project for General User: Automate your job: local-first AI task hub. Email, Teams, Slack & reports -> one timeline -> AI triage -> your coding agents (Claude Code, Codex, Gemini) do the work, you approve.
-- Why it matters: It maps to General User needs with an evidence-based score of 91.94.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn taskuary into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 75; Forks: 13; Language: Python; License: MIT; README length: 7812; Topics: agentic-workflow, ai, ai-agents, automation, claude, claude-code, codex, email-triage, fastapi, kanban, llm, local-first, mcp, microsoft-teams, outlook, productivity, python, react, slack, task-management
+- Portfolio idea: Turn open-flow into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 125; Forks: 17; Language: TypeScript; License: Apache-2.0; README length: 16065; Topics: automation, cron, docker, integrations, javascript, nodejs, oomol, orchestration, react, self-hosted, typescript, visual-programming, webhook, workflow, workflow-automation, workflow-engine, workflows
 - Confidence: high
 
 ### talayash/agentrium
@@ -67,15 +43,7 @@ Mode: `live`
 - Why it matters: It maps to General User needs with an evidence-based score of 91.40.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
 - Portfolio idea: Turn agentrium into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 41; Forks: 9; Language: TypeScript; License: MIT; README length: 18150; Topics: ai-agents, builders, calude-code, claude, claude-cli, claude-code, codex, codex-cli, cursor, cursor-cli, developer-tools, gemini, gemini-cli, grid-view, productivity, profiles, vibe-coding
-- Confidence: high
-
-### ljtn/epiq
-- Summary: ljtn/epiq is a TypeScript project for General User: Distributed, code-native issue tracker - audit workflows via time-travel
-- Why it matters: It maps to General User needs with an evidence-based score of 91.21.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn epiq into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 381; Forks: 14; Language: TypeScript; License: MIT; README length: 16742; Topics: cli, command-line, git-based, issue-tracker, kanban, offline-first, productivity, task-manager, tui
+- Evidence: Stars: 41; Forks: 10; Language: TypeScript; License: MIT; README length: 18150; Topics: ai-agents, builders, calude-code, claude, claude-cli, claude-code, codex, codex-cli, cursor, cursor-cli, developer-tools, gemini, gemini-cli, grid-view, productivity, profiles, vibe-coding
 - Confidence: high
 
 ### n8n-io/n8n
@@ -83,31 +51,15 @@ Mode: `live`
 - Why it matters: It maps to General User needs with an evidence-based score of 90.30.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
 - Portfolio idea: Turn n8n into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 204404; Forks: 60691; Language: TypeScript; License: NOASSERTION; README length: 3998; Topics: ai, apis, automation, cli, data-flow, development, integration-framework, integrations, ipaas, low-code, low-code-platform, mcp, mcp-client, mcp-server, n8n, no-code, self-hosted, typescript, workflow, workflow-automation
+- Evidence: Stars: 204503; Forks: 60699; Language: TypeScript; License: NOASSERTION; README length: 3998; Topics: ai, apis, automation, cli, data-flow, development, integration-framework, integrations, ipaas, low-code, low-code-platform, mcp, mcp-client, mcp-server, n8n, no-code, self-hosted, typescript, workflow, workflow-automation
 - Confidence: high
 
-### Agenta-AI/agenta
-- Summary: Agenta-AI/agenta is a TypeScript project for General User: Agenta is a workspace where you and your team build agents and automations.
-- Why it matters: It maps to General User needs with an evidence-based score of 89.00.
+### xopcai/xopc
+- Summary: xopcai/xopc is a TypeScript project for General User: Open-source, local-first personal AI assistant that lives on your computer, gets to know you over time, and keeps what matters moving.
+- Why it matters: It maps to General User needs with an evidence-based score of 89.11.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn agenta into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 4756; Forks: 670; Language: TypeScript; License: NOASSERTION; README length: 44325; Topics: agent-builder, agent-observability, agent-orchestration, agent-workspace, agentic-ai, ai-agent, ai-agents, ai-automation, ai-coworker, ai-skills-manager, ai-workflow-builder, harness, mcp, open-source, self-hosted, workflow-automation
-- Confidence: high
-
-### KeeperHub/keeperhub
-- Summary: KeeperHub/keeperhub is a TypeScript project for General User: Automate on-chain events and actions reliably and securely. Build Workflows in minutes without the need for infrastructure, code or wallet management. Get instant alerts and never miss what matters.
-- Why it matters: It maps to General User needs with an evidence-based score of 87.48.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn keeperhub into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 24; Forks: 93; Language: TypeScript; License: NOASSERTION; README length: 10898; Topics: agent-infrastructure, ai-agents, automation, blockchain, defi, defi-automation, ethereum, keeper, mcp, monitoring, web3, workflow, x402
-- Confidence: high
-
-### sortie-ai/sortie
-- Summary: sortie-ai/sortie is a Go project for General User: Turn tracker tickets into autonomous agent sessions
-- Why it matters: It maps to General User needs with an evidence-based score of 87.10.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn sortie into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 185; Forks: 18; Language: Go; License: Apache-2.0; README length: 2874; Topics: agent, agent-fleet, agent-swarm, agentic-ai, ai-agents, ai-orchestration, automation, claude-code, coding-agent, copilot-cli, devops, gitea, github-project, jira, jira-automation, kiro, linear, opencode, orchestration, orchestrator
+- Portfolio idea: Turn xopc into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 37; Forks: 7; Language: TypeScript; License: MIT; README length: 13914; Topics: agentic-ai, ai-agents, ai-assistant, ai-memory, automation, byok, cli, desktop-app, electron, knowledge-management, local-ai, local-first, mcp, ollama, open-source, personal-ai, self-hosted, task-management, typescript, workflow-automation
 - Confidence: high
 
 ### kirodotdev/KiroCrew
@@ -115,29 +67,77 @@ Mode: `live`
 - Why it matters: It maps to General User needs with an evidence-based score of 87.08.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
 - Portfolio idea: Turn KiroCrew into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 3924; Forks: 591; Language: Python; License: Apache-2.0; README length: 143337; Topics: agent, agentic-ai, agents, ai-agent, ai-agents, automation, devtools, kiro, llm
+- Evidence: Stars: 3939; Forks: 595; Language: Python; License: Apache-2.0; README length: 143337; Topics: agent, agentic-ai, agents, ai-agent, ai-agents, automation, devtools, kiro, llm
 - Confidence: high
 
-### callstack/agent-device
-- Summary: callstack/agent-device is a TypeScript project for General User: Mobile app automation and verification for AI coding agents. CLI, MCP server, and typed Node.js API for iOS, Android, HarmonyOS, TV, web, macOS, and Linux.
-- Why it matters: It maps to General User needs with an evidence-based score of 86.77.
+### juspay/xyne-spaces
+- Summary: juspay/xyne-spaces is a TypeScript project for General User: The AI Org-OS — a collaborative platform for humans and agents. Explore: https://spaces.xyne.ai
+- Why it matters: It maps to General User needs with an evidence-based score of 86.12.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn agent-device into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 4594; Forks: 299; Language: TypeScript; License: MIT; README length: 13548; Topics: adb, agentic-ai, agents, ai-agents, android-emulator, automation, e2e-testing, expo, flutter, ios-simulator, mcp, mobile, mobile-testing, performance-optimization, react-native, testing, xcuitest
+- Portfolio idea: Turn xyne-spaces into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 150; Forks: 19; Language: TypeScript; License: Apache-2.0; README length: 16578; Topics: ai, ai-agents, ai-tools, automation, collaboration
 - Confidence: high
 
-### engasnm111/lnwjud
-- Summary: engasnm111/lnwjud is a TypeScript project for General User: lnwjud — local AI-agent runtime & MCP gateway
-- Why it matters: It maps to General User needs with an evidence-based score of 86.25.
+### ohmyzsh/ohmyzsh
+- Summary: ohmyzsh/ohmyzsh is a Shell project for General User: 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
+- Why it matters: It maps to General User needs with an evidence-based score of 85.30.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn lnwjud into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 164; Forks: 76; Language: TypeScript; License: MIT; README length: 33654; Topics: ai-agents, ai-tools, automation, chatgpt, claude, codex, desktop-automation, developer-tools, electron, local-first, lsp, mcp, mcp-server, model-context-protocol, ocr, tunnel-client, typescript, windows, windows-sandbox, wsl
+- Portfolio idea: Turn ohmyzsh into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 189747; Forks: 26740; Language: Shell; License: MIT; README length: 22047; Topics: cli, cli-app, oh-my-zsh, oh-my-zsh-plugin, oh-my-zsh-theme, ohmyzsh, plugin-framework, plugins, productivity, shell, terminal, theme, themes, zsh, zsh-configuration
 - Confidence: high
 
-### rorkai/App-Store-Connect-CLI
-- Summary: rorkai/App-Store-Connect-CLI is a Go project for General User: Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more
-- Why it matters: It maps to General User needs with an evidence-based score of 85.99.
+### umeranjum17/muxr
+- Summary: umeranjum17/muxr is a TypeScript project for General User: Control coding agents from your phone — open-source, encrypted, and self-hosted.
+- Why it matters: It maps to General User needs with an evidence-based score of 82.75.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn App-Store-Connect-CLI into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 7254; Forks: 611; Language: Go; License: MIT; README length: 21766; Topics: app-store-connect, apple, automation, cicd, cli, command-line-tool, developer-tools, devops, go, golang, ios, macos, swift, testflight, xcode
+- Portfolio idea: Turn muxr into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 31; Forks: 1; Language: TypeScript; License: Apache-2.0; README length: 10058; Topics: android, coding-agents, developer-tools, self-hosted, terminal
+- Confidence: high
+
+### Mann1988/awesome-claude-skills
+- Summary: Mann1988/awesome-claude-skills is a Python project for General User: 📊 Explore high-quality Claude skills focused on business analysis and content creation, enhancing your AI capabilities for practical applications.
+- Why it matters: It maps to General User needs with an evidence-based score of 81.71.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn awesome-claude-skills into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 65; Forks: 17; Language: Python; License: MIT; README length: 3584; Topics: anthropic, anthropic-claude, anthropic-skills, awesome-claude-code, claude-ai, claude-api, claude-code, claude-code-skills, claude-desktop, claude-skills, claude-skills-hub, codex-cli, gemini-cli, llama, openai, productivity, skills, tdd
+- Confidence: high
+
+### ScriptedAlchemy/grok-bot-cli
+- Summary: ScriptedAlchemy/grok-bot-cli is a JavaScript project for General User: CLI for Grok Bot agents and groups: create, update, message, inspect threads, and automate cleanup
+- Why it matters: It maps to General User needs with an evidence-based score of 81.67.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn grok-bot-cli into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 62; Forks: 11; Language: JavaScript; License: MIT; README length: 20651; Topics: ai-agents, automation, cli, grok, grok-bot, grokbot, terminal
+- Confidence: high
+
+### khaled4123e/AIOS
+- Summary: khaled4123e/AIOS is a Kotlin project for General User: Enable system-level AI agents on Android devices with on-device LLMs, secure tool control, and a conversational shell replacing the launcher
+- Why it matters: It maps to General User needs with an evidence-based score of 80.31.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn AIOS into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 21; Forks: 2; Language: Kotlin; License: Apache-2.0; README length: 5229; Topics: aio, asyncio, automation, chatgpt, development, devops, framework, hacking, java, shadowsocks, smtp-server, smtpd, smtplib, sqlite3, stremio-addons
+- Confidence: high
+
+### AIPMAndy/awesome-openclaw-use-cases-cn
+- Summary: AIPMAndy/awesome-openclaw-use-cases-cn is a Shell project for General User: Chinese OpenClaw use cases: real-world workflows, prompts, configs, automation examples, and a structured Markdown + JSON dataset.
+- Why it matters: It maps to General User needs with an evidence-based score of 74.86.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn awesome-openclaw-use-cases-cn into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 21; Forks: 2; Language: Shell; License: Apache-2.0; README length: 4862; Topics: agent-workflow, ai-agent, ai-agents, automation, awesome-list, chinese, discord, feishu, knowledge-base, multi-agent, openclaw, productivity, telegram, use-cases, whatsapp
+- Confidence: high
+
+### kestra-io/kestra
+- Summary: kestra-io/kestra is a Java project for General User: Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+- Why it matters: It maps to General User needs with an evidence-based score of 94.72.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn kestra into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 28135; Forks: 2994; Language: Java; License: Apache-2.0; README length: 22107; Topics: ai-agents, automation, control-plane, data-engineering, data-orchestration, data-orchestrator, devops, etl, hacktoberfest, high-availability, infra-automation, infra-ops, infrastructure-as-code, java, low-code, orchestration, pipeline, pipeline-as-code, scheduler, workflow
+- Confidence: high
+
+### EpicStaff/EpicStaff
+- Summary: EpicStaff/EpicStaff is a Python project for General User: Source-available, self-hosted platform for building AI agent flows - visual editor over a Django backend.
+- Why it matters: It maps to General User needs with an evidence-based score of 91.06.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn EpicStaff into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 355; Forks: 51; Language: Python; License: NOASSERTION; README length: 15098; Topics: ade, ai, ai-agents, aiagents, automation, gui, llm-agents, low-code, multi-agent-systems, no-code, nodebasedprogramming, orchestration, python, self-hosted, source-available, workflow-automation
 - Confidence: high

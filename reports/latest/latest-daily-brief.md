@@ -1,6 +1,6 @@
 # GitHub Insight Daily Brief - 2026-09-16
 
-Generated at: `2026-09-15T19:42:48+00:00`
+Generated at: `2026-09-16T09:18:31+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -8,8 +8,8 @@ Image generation: `disabled`
 LLM summary: `disabled`
 
 ## Executive Summary
-- Top overall opportunity: [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) with score 95.20.
-- General user opportunity: [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)
+- Top overall opportunity: [unslothai/unsloth](https://github.com/unslothai/unsloth) with score 94.82.
+- General user opportunity: [vicoa-ai/vicoa](https://github.com/vicoa-ai/vicoa)
 - Data analyst opportunity: [grafana/grafana](https://github.com/grafana/grafana)
 - Data scientist opportunity: [lance-format/lance](https://github.com/lance-format/lance)
 - Most common risk pattern: usage examples unclear
@@ -17,50 +17,50 @@ LLM summary: `disabled`
 ## Top Overall Projects
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
-| 1 | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | General User | 95.20 | It maps to General User needs with an evidence-based score of 95.20. | Try today |
-| 2 | [Gimanh/taskview-community](https://github.com/Gimanh/taskview-community) | General User | 94.90 | It maps to General User needs with an evidence-based score of 94.90. | Try today |
-| 3 | [Osmantic/ODS](https://github.com/Osmantic/ODS) | General User | 94.24 | It maps to General User needs with an evidence-based score of 94.24. | Try today |
-| 4 | [PerpetualSoftware/pad](https://github.com/PerpetualSoftware/pad) | General User | 92.70 | It maps to General User needs with an evidence-based score of 92.70. | Try today |
-| 5 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | General User | 92.22 | It maps to General User needs with an evidence-based score of 92.22. | Try today |
-| 6 | [ldbumble/taskuary](https://github.com/ldbumble/taskuary) | General User | 91.94 | It maps to General User needs with an evidence-based score of 91.94. | Try today |
-| 7 | [talayash/agentrium](https://github.com/talayash/agentrium) | General User | 91.40 | It maps to General User needs with an evidence-based score of 91.40. | Try today |
-| 8 | [ljtn/epiq](https://github.com/ljtn/epiq) | General User | 91.21 | It maps to General User needs with an evidence-based score of 91.21. | Try today |
-| 9 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
-| 10 | [the-momentum/open-wearables](https://github.com/the-momentum/open-wearables) | General User | 89.84 | It maps to General User needs with an evidence-based score of 89.84. | Try today |
+| 1 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | General User | 94.82 | It maps to General User needs with an evidence-based score of 94.82. | Try today |
+| 2 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | General User | 94.72 | It maps to General User needs with an evidence-based score of 94.72. | Try today |
+| 3 | [vicoa-ai/vicoa](https://github.com/vicoa-ai/vicoa) | General User | 93.05 | It maps to General User needs with an evidence-based score of 93.05. | Try today |
+| 4 | [oomol-lab/open-flow](https://github.com/oomol-lab/open-flow) | General User | 92.40 | It maps to General User needs with an evidence-based score of 92.40. | Try today |
+| 5 | [talayash/agentrium](https://github.com/talayash/agentrium) | General User | 91.40 | It maps to General User needs with an evidence-based score of 91.40. | Try today |
+| 6 | [EpicStaff/EpicStaff](https://github.com/EpicStaff/EpicStaff) | General User | 91.06 | It maps to General User needs with an evidence-based score of 91.06. | Try today |
+| 7 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
+| 8 | [xopcai/xopc](https://github.com/xopcai/xopc) | General User | 89.11 | It maps to General User needs with an evidence-based score of 89.11. | Try today |
+| 9 | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | General User | 88.68 | It maps to General User needs with an evidence-based score of 88.68. | Try today |
+| 10 | [ros-claw/rosclaw](https://github.com/ros-claw/rosclaw) | General User | 87.54 | It maps to General User needs with an evidence-based score of 87.54. | Try today |
 
 ## General User Finds
-### melgarafael/DeskcommCRM
-- What it is: melgarafael/DeskcommCRM is a TypeScript project for General User: Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
+### vicoa-ai/vicoa
+- What it is: vicoa-ai/vicoa is a Python project for General User: Vicoa is the agentic IDE for running a team of coding agents from any device. Desktop, mobile, VPS, open-source, self-hostable.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 95.20
+- Score: 93.05
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### Gimanh/taskview-community
-- What it is: Gimanh/taskview-community is a TypeScript project for General User: TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task managers.
+### oomol-lab/open-flow
+- What it is: oomol-lab/open-flow is a TypeScript project for General User: Build workflows you can see, code, run, and own. Open-source visual workflow automation with real TypeScript, isolated execution, and a self-hosted Control API.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 94.90
+- Score: 92.40
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### Osmantic/ODS
-- What it is: Osmantic/ODS is a Python project for General User: Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.
+### talayash/agentrium
+- What it is: talayash/agentrium is a TypeScript project for General User: A Modern Multi-Instance Terminal Manager for Claude Code
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 94.24
-- Difficulty: Intermediate
-- Recommended action: Try today
-- Risk: many open issues relative to stars
-### PerpetualSoftware/pad
-- What it is: PerpetualSoftware/pad is a Go project for General User: Project Management for the agent era
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 92.70
+- Score: 91.40
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### ldbumble/taskuary
-- What it is: ldbumble/taskuary is a Python project for General User: Automate your job: local-first AI task hub. Email, Teams, Slack & reports -> one timeline -> AI triage -> your coding agents (Claude Code, Codex, Gemini) do the work, you approve.
+### n8n-io/n8n
+- What it is: n8n-io/n8n is a TypeScript project for General User: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 91.94
+- Score: 90.30
+- Difficulty: Advanced
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### xopcai/xopc
+- What it is: xopcai/xopc is a TypeScript project for General User: Open-source, local-first personal AI assistant that lives on your computer, gets to know you over time, and keeps what matters moving.
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 89.11
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
@@ -117,6 +117,13 @@ LLM summary: `disabled`
 - Difficulty: Research-heavy
 - Recommended action: Skip for now
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
+### tale-project/tale
+- What it is: tale-project/tale is a TypeScript project for General User: The Orchestrator for AI Agents — Connect OpenClaw, Hermes Agent, Claude Code, Codex, Cursor, Gemini CLI, OpenCode, Pi, and Qwen Code. Pool their knowledge, delegate tasks, and build your swarm of agents.
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 87.06
+- Difficulty: Advanced
+- Recommended action: Try today
+- Risk: many open issues relative to stars
 ### flyteorg/flyte
 - What it is: flyteorg/flyte is a Go project for General User: Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
@@ -131,19 +138,12 @@ LLM summary: `disabled`
 - Difficulty: Research-heavy
 - Recommended action: Skip for now
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### Osmantic/ODS
-- What it is: Osmantic/ODS is a Python project for General User: Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 94.24
-- Difficulty: Intermediate
-- Recommended action: Try today
-- Risk: many open issues relative to stars
 
 ## Action List
-- Try today: melgarafael/DeskcommCRM, Gimanh/taskview-community, Osmantic/ODS
-- Watch this week: nrwl/nx, getagentseal/codeburn, rilldata/rill
-- Use as portfolio reference: opsknight-labs/OpsKnight, autobrr/qui, ipitio/backage
-- Skip for now: atomantic/PortOS, eldoary/Visionary-Training-Studio, MauroDruwel/NIMStats
+- Try today: unslothai/unsloth, kestra-io/kestra, vicoa-ai/vicoa
+- Watch this week: superset-sh/superset, rilldata/rill, EKKOLearnAI/hermes-studio
+- Use as portfolio reference: AndyShaman/BYDMate, jolars/tomat, yyjeqhc/webcodex
+- Skip for now: eldoary/Visionary-Training-Studio, MauroDruwel/NIMStats, jiazhenz026/SciStudio
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.
