@@ -1,6 +1,6 @@
-# GitHub Insight Daily Brief - 2026-09-17
+# GitHub Insight Daily Brief - 2026-09-18
 
-Generated at: `2026-09-17T09:27:09+00:00`
+Generated at: `2026-09-17T19:44:17+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -8,60 +8,60 @@ Image generation: `disabled`
 LLM summary: `disabled`
 
 ## Executive Summary
-- Top overall opportunity: [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) with score 97.50.
-- General user opportunity: [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+- Top overall opportunity: [apache/airflow](https://github.com/apache/airflow) with score 95.22.
+- General user opportunity: [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk)
 - Data analyst opportunity: [grafana/grafana](https://github.com/grafana/grafana)
-- Data scientist opportunity: [MasihMoafi/Elpis](https://github.com/MasihMoafi/Elpis)
+- Data scientist opportunity: [lance-format/lance](https://github.com/lance-format/lance)
 - Most common risk pattern: usage examples unclear
 
 ## Top Overall Projects
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
-| 1 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | General User | 97.50 | It maps to General User needs with an evidence-based score of 97.50. | Try today |
-| 2 | [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) | General User | 95.88 | It maps to General User needs with an evidence-based score of 95.88. | Try today |
-| 3 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | General User | 94.82 | It maps to General User needs with an evidence-based score of 94.82. | Try today |
-| 4 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | General User | 94.72 | It maps to General User needs with an evidence-based score of 94.72. | Try today |
-| 5 | [rome-os/rome](https://github.com/rome-os/rome) | General User | 93.66 | It maps to General User needs with an evidence-based score of 93.66. | Try today |
-| 6 | [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) | General User | 93.31 | It maps to General User needs with an evidence-based score of 93.31. | Try today |
-| 7 | [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) | General User | 91.72 | It maps to General User needs with an evidence-based score of 91.72. | Try today |
-| 8 | [the911fund/skill-of-skills](https://github.com/the911fund/skill-of-skills) | General User | 91.55 | It maps to General User needs with an evidence-based score of 91.55. | Try today |
-| 9 | [talayash/agentrium](https://github.com/talayash/agentrium) | General User | 91.40 | It maps to General User needs with an evidence-based score of 91.40. | Try today |
-| 10 | [receptron/mulmoterminal](https://github.com/receptron/mulmoterminal) | General User | 91.15 | It maps to General User needs with an evidence-based score of 91.15. | Try today |
+| 1 | [apache/airflow](https://github.com/apache/airflow) | General User | 95.22 | It maps to General User needs with an evidence-based score of 95.22. | Try today |
+| 2 | [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) | General User | 93.20 | It maps to General User needs with an evidence-based score of 93.20. | Try today |
+| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | General User | 92.22 | It maps to General User needs with an evidence-based score of 92.22. | Try today |
+| 4 | [ldbumble/taskuary](https://github.com/ldbumble/taskuary) | General User | 92.09 | It maps to General User needs with an evidence-based score of 92.09. | Try today |
+| 5 | [ljtn/epiq](https://github.com/ljtn/epiq) | General User | 91.21 | It maps to General User needs with an evidence-based score of 91.21. | Try today |
+| 6 | [drenlia-inc/agila](https://github.com/drenlia-inc/agila) | General User | 91.21 | It maps to General User needs with an evidence-based score of 91.21. | Try today |
+| 7 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
+| 8 | [Changan-Su/Forsion](https://github.com/Changan-Su/Forsion) | General User | 90.20 | It maps to General User needs with an evidence-based score of 90.20. | Try today |
+| 9 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | General User | 89.35 | It maps to General User needs with an evidence-based score of 89.35. | Try today |
+| 10 | [curie-eng/curie](https://github.com/curie-eng/curie) | General User | 89.01 | It maps to General User needs with an evidence-based score of 89.01. | Try today |
 
 ## General User Finds
-### ToolJet/ToolJet
-- What it is: ToolJet/ToolJet is a JavaScript project for General User: Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Claude Code, Codex and Cursor over MCP 🚀
+### feder-cr/AIHawk
+- What it is: feder-cr/AIHawk is a Python project for General User: Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and computer use agents. No captchas.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 97.50
+- Score: 93.20
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### ldbumble/taskuary
+- What it is: ldbumble/taskuary is a Python project for General User: Automate your job: local-first AI task hub. Email, Teams, Slack & reports -> one timeline -> AI triage -> your coding agents (Claude Code, Codex, Gemini) do the work, you approve.
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 92.09
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### ljtn/epiq
+- What it is: ljtn/epiq is a TypeScript project for General User: Distributed, code-native issue tracker - audit workflows via time-travel
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 91.21
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### drenlia-inc/agila
+- What it is: drenlia-inc/agila is a TypeScript project for General User: Simple and easy Kanban web application built with React TS PostgreSQL
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 91.21
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### n8n-io/n8n
+- What it is: n8n-io/n8n is a TypeScript project for General User: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 90.30
 - Difficulty: Advanced
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### oomol-lab/open-connector
-- What it is: oomol-lab/open-connector is a TypeScript project for General User: Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 95.88
-- Difficulty: Intermediate
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### rome-os/rome
-- What it is: rome-os/rome is a TypeScript project for General User: A compounding agent OS for recursive agents. Also an open source alternative to Grok Bot and Meta's Muse.
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 93.66
-- Difficulty: Intermediate
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### netease-youdao/LobsterAI
-- What it is: netease-youdao/LobsterAI is a TypeScript project for General User: Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 91.72
-- Difficulty: Intermediate
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### talayash/agentrium
-- What it is: talayash/agentrium is a TypeScript project for General User: A Modern Multi-Instance Terminal Manager for Claude Code
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 91.40
-- Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
 
@@ -87,13 +87,6 @@ LLM summary: `disabled`
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### frappe/insights
-- What it is: frappe/insights is a Python project for Data Analyst: Open Source Business Intelligence Tool
-- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 60.76
-- Difficulty: Unknown
-- Recommended action: Study for learning
-- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
 ### apache/superset
 - What it is: apache/superset is a Python project for Data Analyst: Apache Superset is a Data Visualization and Data Exploration Platform
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
@@ -101,29 +94,36 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Study for learning
 - Risk: no README evidence, installation unclear, usage examples unclear
+### OWOX/owox-data-marts
+- What it is: OWOX/owox-data-marts is a TypeScript project for Data Analyst: Open-Source Self-Service Analytics Platform
+- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
+- Score: 56.73
+- Difficulty: Advanced
+- Recommended action: Watch this week
+- Risk: no README evidence, installation unclear, usage examples unclear
 
 ## Data Scientist Research Radar
-### MasihMoafi/Elpis
-- What it is: MasihMoafi/Elpis is a Rust project for General User: A Codex-based coding-agent TUI with explicit context control, auditable Smart Prune, and local session continuity.
+### lance-format/lance
+- What it is: lance-format/lance is a Rust project for Data Scientist: Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 82.78
+- Score: 55.77
 - Difficulty: Advanced
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### eldoary/Visionary-Training-Studio
-- What it is: eldoary/Visionary-Training-Studio is a HTML project for Data Scientist: Fast Track AI Model Training with Streamlit Vision to Production in 2026
+- Recommended action: Track for research
+- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
+### trycua/cua
+- What it is: trycua/cua is a HTML project for General User: Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 44.89
-- Difficulty: Research-heavy
-- Recommended action: Skip for now
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
-### deeplethe/utopia
-- What it is: deeplethe/utopia is a Rust project for Data Scientist: World's first open-source enterprise world model.
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 79.60
+- Score: 59.62
 - Difficulty: Advanced
-- Recommended action: Use as portfolio reference
-- Risk: usage examples unclear
+- Recommended action: Watch this week
+- Risk: no README evidence, installation unclear, usage examples unclear
+### flyteorg/flyte
+- What it is: flyteorg/flyte is a Go project for General User: Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 55.07
+- Difficulty: Advanced
+- Recommended action: Watch this week
+- Risk: no README evidence, installation unclear, usage examples unclear
 ### MauroDruwel/NIMStats
 - What it is: MauroDruwel/NIMStats is a JavaScript project for Data Scientist: 📊 Automated hourly benchmarks for 20+ NVIDIA NIM models — interactive dashboard, zero infra, self-hostable. Open-source & community-driven.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
@@ -131,26 +131,26 @@ LLM summary: `disabled`
 - Difficulty: Research-heavy
 - Recommended action: Skip for now
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### unslothai/unsloth
-- What it is: unslothai/unsloth is a Python project for General User: Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
+### curie-eng/curie
+- What it is: curie-eng/curie is a Python project for General User: Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next. Run the same bundle locally and on Kubernetes, and ship it with git push.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 94.82
-- Difficulty: Advanced
+- Score: 89.01
+- Difficulty: Intermediate
 - Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
+- Risk: many open issues relative to stars
 
 ## Action List
-- Try today: ToolJet/ToolJet, oomol-lab/open-connector, unslothai/unsloth
-- Watch this week: esengine/DeepSeek-Reasonix, QwenLM/qwen-code, Kilo-Org/kilocode
-- Use as portfolio reference: djvirus9/awesome-devsecops-mastery-2026, leon-ai/leon, deeplethe/utopia
-- Skip for now: atomantic/PortOS, MauroDruwel/NIMStats, eldoary/Visionary-Training-Studio
+- Try today: apache/airflow, feder-cr/AIHawk, affaan-m/ECC
+- Watch this week: alfredxw/denova, trycua/cua, Effect-TS/effect
+- Use as portfolio reference: materialsproject/atomate2, ArchiveBox/ArchiveBox, h4vzz/awesome-ai-agent-skills
+- Skip for now: LunarWerxs/AgentHydra, MauroDruwel/NIMStats, m96-chan/ai_research_dashboard
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.
 
 ## Data Files
-- Raw API JSON: `data/raw/2026-09-17-github-api-raw.json`
-- Daily projects JSON: `data/processed/2026-09-17-github-insight-projects.json`
-- Daily projects CSV: `data/processed/2026-09-17-github-insight-projects.csv`
+- Raw API JSON: `data/raw/2026-09-18-github-api-raw.json`
+- Daily projects JSON: `data/processed/2026-09-18-github-insight-projects.json`
+- Daily projects CSV: `data/processed/2026-09-18-github-insight-projects.csv`
 - Master CSV: `data/processed/github_repos_master.csv`
 - Dashboard JSON: `docs/data/latest.json`
