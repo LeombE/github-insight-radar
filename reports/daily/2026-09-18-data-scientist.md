@@ -1,45 +1,46 @@
 # Data Scientist GitHub Insight - 2026-09-18
 
-Generated at: `2026-09-17T19:44:17+00:00`
+Generated at: `2026-09-18T09:00:52+00:00`
 Mode: `live`
 
 | Rank | Repo | Score | Action | Difficulty | Risk flags |
 | --- | --- | ---: | --- | --- | --- |
-| 1 | [lance-format/lance](https://github.com/lance-format/lance) | 75.00 | Track for research | Advanced | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
-| 2 | [trycua/cua](https://github.com/trycua/cua) | 62.00 | Watch this week | Advanced | no README evidence, installation unclear, usage examples unclear |
+| 1 | [eldoary/Visionary-Training-Studio](https://github.com/eldoary/Visionary-Training-Studio) | 74.50 | Skip for now | Research-heavy | no README evidence, installation unclear, usage examples unclear, no license |
+| 2 | [CallSohail/openwebu-work](https://github.com/CallSohail/openwebu-work) | 68.00 | Try today | Beginner | usage examples unclear |
 | 3 | [flyteorg/flyte](https://github.com/flyteorg/flyte) | 62.00 | Watch this week | Advanced | no README evidence, installation unclear, usage examples unclear |
 | 4 | [MauroDruwel/NIMStats](https://github.com/MauroDruwel/NIMStats) | 62.00 | Skip for now | Research-heavy | no README evidence, installation unclear, usage examples unclear, no license |
-| 5 | [curie-eng/curie](https://github.com/curie-eng/curie) | 55.50 | Try today | Intermediate | many open issues relative to stars |
-| 6 | [brcampidelli/chimera-agent](https://github.com/brcampidelli/chimera-agent) | 55.50 | Try today | Intermediate | many open issues relative to stars |
-| 7 | [gradio-app/gradio](https://github.com/gradio-app/gradio) | 55.50 | Track for research | Advanced | no README evidence, installation unclear, usage examples unclear |
-| 8 | [kaderkck/hewn-forge](https://github.com/kaderkck/hewn-forge) | 49.50 | Use as portfolio reference | Intermediate | no license |
-| 9 | [putervision/vision-memory-mcp](https://github.com/putervision/vision-memory-mcp) | 49.50 | Track for research | Unknown | no README evidence, installation unclear, usage examples unclear |
-| 10 | [m96-chan/ai_research_dashboard](https://github.com/m96-chan/ai_research_dashboard) | 49.50 | Skip for now | Research-heavy | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
-| 11 | [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) | 31.00 | Track for research | Unknown | no README evidence, installation unclear, usage examples unclear |
+| 5 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 55.50 | Try today | Advanced | None |
+| 6 | [gradio-app/gradio](https://github.com/gradio-app/gradio) | 55.50 | Track for research | Advanced | no README evidence, installation unclear, usage examples unclear |
+| 7 | [InternLM/xtuner](https://github.com/InternLM/xtuner) | 55.50 | Watch this week | Unknown | no README evidence, installation unclear, usage examples unclear |
+| 8 | [faithlumumba/2025-tencent-advertising-algorithm-competition-finalist](https://github.com/faithlumumba/2025-tencent-advertising-algorithm-competition-finalist) | 55.50 | Skip for now | Unknown | no README evidence, installation unclear, usage examples unclear |
+| 9 | [langgenius/dify](https://github.com/langgenius/dify) | 49.50 | Try today | Advanced | None |
+| 10 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 49.50 | Try today | Advanced | None |
+| 11 | [putervision/vision-memory-mcp](https://github.com/putervision/vision-memory-mcp) | 49.50 | Track for research | Unknown | no README evidence, installation unclear, usage examples unclear |
+| 12 | [m96-chan/ai_research_dashboard](https://github.com/m96-chan/ai_research_dashboard) | 49.50 | Skip for now | Research-heavy | no README evidence, installation unclear, usage examples unclear, many open issues relative to stars |
 
 ## Project Notes
-### lance-format/lance
-- Summary: lance-format/lance is a Rust project for Data Scientist: Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
-- Why it matters: It maps to Data Scientist needs with an evidence-based score of 55.77.
+### eldoary/Visionary-Training-Studio
+- Summary: eldoary/Visionary-Training-Studio is a HTML project for Data Scientist: Fast Track AI Model Training with Streamlit Vision to Production in 2026
+- Why it matters: It maps to Data Scientist needs with an evidence-based score of 44.89.
 - Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
-- Portfolio idea: Turn lance into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 7088; Forks: 850; Language: Rust; License: Apache-2.0; README length: 0; Topics: apache-arrow, computer-vision, data-analysis, data-analytics, data-centric, data-format, data-science, dataops, deep-learning, duckdb, embeddings, llms, machine-learning, mlops, python, rust
+- Portfolio idea: Turn Visionary-Training-Studio into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 55; Forks: 0; Language: HTML; License: unavailable; README length: 0; Topics: classification, classsifier, cnn, cnn-classification, convolutional-neural-networks, dashboard, deep-learning, image, image-classification, keras, model-training, no-code, nocode, streamlit-application, streamlit-dashboard, tensorflow, trainer, zero-code
 - Confidence: low
 
-### trycua/cua
-- Summary: trycua/cua is a HTML project for General User: Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
-- Why it matters: It maps to General User needs with an evidence-based score of 59.62.
+### CallSohail/openwebu-work
+- Summary: CallSohail/openwebu-work is a Python project for General User: Production-ready Open WebUI extensions, including Tools, Filters, Pipes, Actions, and Events for agent workflows, RAG, learning, automation, and model enhancement.
+- Why it matters: It maps to General User needs with an evidence-based score of 80.54.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn cua into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 22788; Forks: 1585; Language: HTML; License: MIT; README length: 0; Topics: agent, ai-agent, apple, computer-use, computer-use-agent, containerization, cua, desktop-automation, hacktoberfest, lume, macos, manus, operator, swift, virtualization, virtualization-framework, windows, windows-sandbox
-- Confidence: low
+- Portfolio idea: Turn openwebu-work into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 29; Forks: 3; Language: Python; License: MIT; README length: 6132; Topics: ai-agents, automation, function-calling, llm, open-webui, open-webui-functions, open-webui-tools, openwebui, rich-ui, tool-calling
+- Confidence: high
 
 ### flyteorg/flyte
 - Summary: flyteorg/flyte is a Go project for General User: Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 - Why it matters: It maps to General User needs with an evidence-based score of 55.07.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
 - Portfolio idea: Turn flyte into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 7525; Forks: 887; Language: Go; License: Apache-2.0; README length: 0; Topics: agentic, ai-agents, ai-development-tools, data-analysis, data-science, declarative, fine-tuning, flyte, golang, grpc, hacktoberfest, kubernetes, llm, machine-learning, mlops, orchestration-engine, production, python, scale, workflow
+- Evidence: Stars: 7527; Forks: 887; Language: Go; License: Apache-2.0; README length: 0; Topics: agentic, ai-agents, ai-development-tools, data-analysis, data-science, declarative, fine-tuning, flyte, golang, grpc, hacktoberfest, kubernetes, llm, machine-learning, mlops, orchestration-engine, production, python, scale, workflow
 - Confidence: low
 
 ### MauroDruwel/NIMStats
@@ -50,20 +51,12 @@ Mode: `live`
 - Evidence: Stars: 50; Forks: 19; Language: JavaScript; License: unavailable; README length: 0; Topics: ai, benchmark, dashboard, github-actions, llm, machine-learning, nim, nvidia, open-source
 - Confidence: low
 
-### curie-eng/curie
-- Summary: curie-eng/curie is a Python project for General User: Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next. Run the same bundle locally and on Kubernetes, and ship it with git push.
-- Why it matters: It maps to General User needs with an evidence-based score of 89.01.
+### unslothai/unsloth
+- Summary: unslothai/unsloth is a Python project for General User: Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
+- Why it matters: It maps to General User needs with an evidence-based score of 94.82.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn curie into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 35; Forks: 3; Language: Python; License: Apache-2.0; README length: 16799; Topics: ai-agents, anthropic, claude-code, claude-code-plugin, claude-skills, devops, docker, kubernetes, llm-agents, mcp, open-source, self-hosted
-- Confidence: high
-
-### brcampidelli/chimera-agent
-- Summary: brcampidelli/chimera-agent is a Python project for General User: Open-source AI agent that reasons by blending many AI models, does real work on its own, and keeps learning — safe, self-hostable, and fully yours.
-- Why it matters: It maps to General User needs with an evidence-based score of 88.75.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn chimera-agent into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 26; Forks: 0; Language: Python; License: Apache-2.0; README length: 45218; Topics: agentic, agentic-ai, ai, ai-agent, ai-agents, automation, autonomous-agent, chatbot, litellm, llm, llm-fusion, llm-orchestration, mcp, multi-agent, open-source, openrouter, python, self-evolving, self-hosted, self-improving
+- Portfolio idea: Turn unsloth into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 76348; Forks: 6963; Language: Python; License: Apache-2.0; README length: 25610; Topics: agent, ai, chatgpt, deepseek, fine-tuning, gemma, image-generation, llama, llm, llms, openai, python, qwen, reinforcement-learning, self-hosted, stable-diffusion, text-to-speech, tts, ui, unsloth
 - Confidence: high
 
 ### gradio-app/gradio
@@ -71,15 +64,39 @@ Mode: `live`
 - Why it matters: It maps to Data Scientist needs with an evidence-based score of 54.77.
 - Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
 - Portfolio idea: Turn gradio into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 43562; Forks: 3600; Language: Python; License: Apache-2.0; README length: 0; Topics: data-analysis, data-science, data-visualization, deep-learning, deploy, gradio, gradio-interface, interface, machine-learning, models, python, python-notebook, ui, ui-components
+- Evidence: Stars: 43567; Forks: 3607; Language: Python; License: Apache-2.0; README length: 0; Topics: data-analysis, data-science, data-visualization, deep-learning, deploy, gradio, gradio-interface, interface, machine-learning, models, python, python-notebook, ui, ui-components
 - Confidence: low
 
-### kaderkck/hewn-forge
-- Summary: kaderkck/hewn-forge is a HTML project for General User: HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code
-- Why it matters: It maps to General User needs with an evidence-based score of 75.17.
+### InternLM/xtuner
+- Summary: InternLM/xtuner is a Python project for General User: A Next-Generation Training Engine Built for Ultra-Large MoE Models
+- Why it matters: It maps to General User needs with an evidence-based score of 53.06.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn hewn-forge into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 118; Forks: 0; Language: HTML; License: unavailable; README length: 8722; Topics: agents, anthropic, anthropic-claude, benchmarking, claude, claude-code, claude-opus, claude-sonnet, cli, developer-tools, llm, productivity, prompt-compression, prompt-engineering, token-efficiency
+- Portfolio idea: Turn xtuner into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 5201; Forks: 448; Language: Python; License: Apache-2.0; README length: 0; Topics: agent, deepseek-v3, gpt-oss, intern-s1, internvl, kimi-k2, llm, multimodal, qwen3-moe, qwen3-vl, reinforcement-learning
+- Confidence: low
+
+### faithlumumba/2025-tencent-advertising-algorithm-competition-finalist
+- Summary: faithlumumba/2025-tencent-advertising-algorithm-competition-finalist is a Python project for Data Scientist: 🎯 Build a winning recommendation system with this effective generative framework, advancing to the finals of the 2025 Tencent Advertising Algorithm Competition.
+- Why it matters: It maps to Data Scientist needs with an evidence-based score of 44.70.
+- Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
+- Portfolio idea: Turn 2025-tencent-advertising-algorithm-competition-finalist into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 27; Forks: 2; Language: Python; License: Apache-2.0; README length: 0; Topics: advertising, algorithm, analytics, competitions, data-analysis, data-science, deep-learning, feature-engineering, finalist, fintech, machine-learning, online-ads, optimization, predictive-modeling, tencent
+- Confidence: low
+
+### langgenius/dify
+- Summary: langgenius/dify is a TypeScript project for General User: Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
+- Why it matters: It maps to General User needs with an evidence-based score of 90.30.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn dify into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 156245; Forks: 24676; Language: TypeScript; License: NOASSERTION; README length: 12008; Topics: agent, agentic-ai, agentic-framework, agentic-workflow, ai, automation, claude, deepseek, genai, gpt, llm, low-code, mcp, nextjs, no-code, openai, python, skills, workflow
+- Confidence: high
+
+### langfuse/langfuse
+- Summary: langfuse/langfuse is a TypeScript project for General User: 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
+- Why it matters: It maps to General User needs with an evidence-based score of 89.32.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn langfuse into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 34765; Forks: 3795; Language: TypeScript; License: NOASSERTION; README length: 52528; Topics: analytics, autogen, evaluation, langchain, large-language-models, llama-index, llm, llm-evaluation, llm-observability, llmops, monitoring, observability, open-source, openai, playground, prompt-engineering, prompt-management, self-hosted, ycombinator
 - Confidence: high
 
 ### putervision/vision-memory-mcp
@@ -96,12 +113,4 @@ Mode: `live`
 - Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
 - Portfolio idea: Turn ai_research_dashboard into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
 - Evidence: Stars: 13; Forks: 1; Language: Astro; License: MIT; README length: 0; Topics: ai, arxiv, astro, dashboard, github-trending, huggingface, machine-learning, rss
-- Confidence: low
-
-### scikit-learn/scikit-learn
-- Summary: scikit-learn/scikit-learn is a Python project for Data Scientist: scikit-learn: machine learning in Python
-- Why it matters: It maps to Data Scientist needs with an evidence-based score of 48.39.
-- Practical use cases: Review reproducibility signals, Design a baseline experiment, Track model, dataset, or benchmark ideas
-- Portfolio idea: Turn scikit-learn into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 67283; Forks: 27419; Language: Python; License: BSD-3-Clause; README length: 0; Topics: data-analysis, data-science, machine-learning, python, statistics
 - Confidence: low
