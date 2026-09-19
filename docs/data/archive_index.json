@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-09-20",
+    "generated_at": "2026-09-19T18:37:11+00:00",
+    "mode": "live",
+    "run_id": "live-2026-09-20-2026-09-19T183711-0000",
+    "daily_brief_path": "reports/daily/2026-09-20-daily-brief.md",
+    "json_path": "data/processed/2026-09-20-github-insight-projects.json",
+    "csv_path": "data/processed/2026-09-20-github-insight-projects.csv",
+    "selected_count": 200,
+    "top_project": "melgarafael/DeskcommCRM"
+  },
+  {
     "date": "2026-09-19",
     "generated_at": "2026-09-19T08:48:28+00:00",
     "mode": "live",
