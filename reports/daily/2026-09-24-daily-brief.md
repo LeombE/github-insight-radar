@@ -1,6 +1,6 @@
 # GitHub Insight Daily Brief - 2026-09-24
 
-Generated at: `2026-09-23T19:41:24+00:00`
+Generated at: `2026-09-24T09:18:42+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -8,8 +8,8 @@ Image generation: `disabled`
 LLM summary: `disabled`
 
 ## Executive Summary
-- Top overall opportunity: [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) with score 95.45.
-- General user opportunity: [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)
+- Top overall opportunity: [rtk-ai/rtk](https://github.com/rtk-ai/rtk) with score 95.80.
+- General user opportunity: [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
 - Data analyst opportunity: [grafana/grafana](https://github.com/grafana/grafana)
 - Data scientist opportunity: [lance-format/lance](https://github.com/lance-format/lance)
 - Most common risk pattern: usage examples unclear
@@ -17,50 +17,50 @@ LLM summary: `disabled`
 ## Top Overall Projects
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
-| 1 | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | General User | 95.45 | It maps to General User needs with an evidence-based score of 95.45. | Try today |
-| 2 | [apache/airflow](https://github.com/apache/airflow) | General User | 95.22 | It maps to General User needs with an evidence-based score of 95.22. | Try today |
-| 3 | [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | General User | 95.07 | It maps to General User needs with an evidence-based score of 95.07. | Try today |
-| 4 | [ldbumble/taskuary](https://github.com/ldbumble/taskuary) | General User | 92.35 | It maps to General User needs with an evidence-based score of 92.35. | Try today |
-| 5 | [theguysudo/ENZO](https://github.com/theguysudo/ENZO) | General User | 92.34 | It maps to General User needs with an evidence-based score of 92.34. | Try today |
-| 6 | [appwrite/appwrite](https://github.com/appwrite/appwrite) | General User | 92.32 | It maps to General User needs with an evidence-based score of 92.32. | Try today |
-| 7 | [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) | General User | 90.92 | It maps to General User needs with an evidence-based score of 90.92. | Try today |
-| 8 | [shep-ai/shep](https://github.com/shep-ai/shep) | General User | 90.85 | It maps to General User needs with an evidence-based score of 90.85. | Try today |
-| 9 | [kajeesan/Open-Health-Atlas](https://github.com/kajeesan/Open-Health-Atlas) | General User | 90.57 | It maps to General User needs with an evidence-based score of 90.57. | Try today |
-| 10 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
+| 1 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | General User | 95.80 | It maps to General User needs with an evidence-based score of 95.80. | Try today |
+| 2 | [PerpetualSoftware/pad](https://github.com/PerpetualSoftware/pad) | General User | 92.74 | It maps to General User needs with an evidence-based score of 92.74. | Try today |
+| 3 | [jupyter-naas/abi](https://github.com/jupyter-naas/abi) | General User | 90.60 | It maps to General User needs with an evidence-based score of 90.60. | Try today |
+| 4 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
+| 5 | [langgenius/dify](https://github.com/langgenius/dify) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
+| 6 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
+| 7 | [zeweihan/aiworkdeck](https://github.com/zeweihan/aiworkdeck) | General User | 90.27 | It maps to General User needs with an evidence-based score of 90.27. | Try today |
+| 8 | [Peuqui/AIfred-Intelligence](https://github.com/Peuqui/AIfred-Intelligence) | General User | 90.13 | It maps to General User needs with an evidence-based score of 90.13. | Try today |
+| 9 | [vcmf/dim0](https://github.com/vcmf/dim0) | General User | 90.08 | It maps to General User needs with an evidence-based score of 90.08. | Try today |
+| 10 | [BrianArfi/ai-second-brain](https://github.com/BrianArfi/ai-second-brain) | General User | 89.42 | It maps to General User needs with an evidence-based score of 89.42. | Try today |
 
 ## General User Finds
-### melgarafael/DeskcommCRM
-- What it is: melgarafael/DeskcommCRM is a TypeScript project for General User: Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
+### rtk-ai/rtk
+- What it is: rtk-ai/rtk is a Rust project for General User: CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 95.45
+- Score: 95.80
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### beenuar/AiSOC
-- What it is: beenuar/AiSOC is a Python project for General User: Open-source AI-powered Security Operations Center — alert fusion, purple-team drills, agent-assisted triage, MITRE ATT&CK investigation. MIT-licensed, self-hostable.
+### PerpetualSoftware/pad
+- What it is: PerpetualSoftware/pad is a Go project for General User: Project Management for the agent era
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 95.07
+- Score: 92.74
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### ldbumble/taskuary
-- What it is: ldbumble/taskuary is a Python project for General User: Automate your job: local-first AI task hub. Email, Teams, Slack & reports -> one timeline -> AI triage -> your coding agents (Claude Code, Codex, Gemini) do the work, you approve.
+### n8n-io/n8n
+- What it is: n8n-io/n8n is a TypeScript project for General User: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 92.35
+- Score: 90.30
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### shep-ai/shep
-- What it is: shep-ai/shep is a TypeScript project for General User: Ship features 10x faster. Built In Auto: Memory, K8S Agent & Security (SDD+SDLC) . 😇
+### langgenius/dify
+- What it is: langgenius/dify is a TypeScript project for General User: Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 90.85
-- Difficulty: Intermediate
+- Score: 90.30
+- Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### kajeesan/Open-Health-Atlas
-- What it is: kajeesan/Open-Health-Atlas is a Python project for General User: Explore sleep, training, mood and nutrition together using local records, traceable calculations and optional MCP tools for your preferred AI client.
+### HKUDS/nanobot
+- What it is: HKUDS/nanobot is a Python project for General User: Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 90.57
+- Score: 90.30
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
@@ -87,19 +87,19 @@ LLM summary: `disabled`
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### evidence-dev/evidence
-- What it is: evidence-dev/evidence is a TypeScript project for Data Analyst: Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
-- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 63.32
-- Difficulty: Advanced
-- Recommended action: Study for learning
-- Risk: no README evidence, installation unclear, usage examples unclear
 ### apache/superset
 - What it is: apache/superset is a Python project for Data Analyst: Apache Superset is a Data Visualization and Data Exploration Platform
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
 - Score: 62.21
 - Difficulty: Advanced
 - Recommended action: Study for learning
+- Risk: no README evidence, installation unclear, usage examples unclear
+### rilldata/rill
+- What it is: rilldata/rill is a Go project for Data Analyst: The fastest business intelligence tool for humans and agents.
+- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
+- Score: 59.03
+- Difficulty: Advanced
+- Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear
 
 ## Data Scientist Research Radar
@@ -110,17 +110,17 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
-### juspay/neurolink
-- What it is: juspay/neurolink is a TypeScript project for General User: The pipe layer of an AI nervous system — one interface connecting provider neurons to your application, across three inference types: generate, stream, and a calibrated decide (via TypeSafe Jev). MCP-native, voice (TTS/STT/realtime), RAG, memory, file processors. Powers Tara, Yama and Clairvoyance at Juspay.
+### apache/hamilton
+- What it is: apache/hamilton is a Jupyter Notebook project for Data Scientist: Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 90.24
-- Difficulty: Advanced
-- Recommended action: Try today
-- Risk: many open issues relative to stars
-### trycua/cua
-- What it is: trycua/cua is a HTML project for General User: Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+- Score: 58.78
+- Difficulty: Unknown
+- Recommended action: Track for research
+- Risk: no README evidence, installation unclear, usage examples unclear
+### flyteorg/flyte
+- What it is: flyteorg/flyte is a Go project for General User: Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 59.67
+- Score: 55.07
 - Difficulty: Advanced
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear
@@ -131,19 +131,19 @@ LLM summary: `disabled`
 - Difficulty: Research-heavy
 - Recommended action: Skip for now
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### kajeesan/Open-Health-Atlas
-- What it is: kajeesan/Open-Health-Atlas is a Python project for General User: Explore sleep, training, mood and nutrition together using local records, traceable calculations and optional MCP tools for your preferred AI client.
+### ncoevoet/facet
+- What it is: ncoevoet/facet is a Python project for General User: Local AI photo scoring, culling, and gallery — score, organise, and explore your library with face recognition and semantic search. No cloud, no subscriptions.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 90.57
+- Score: 87.70
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
 
 ## Action List
-- Try today: melgarafael/DeskcommCRM, apache/airflow, beenuar/AiSOC
-- Watch this week: esengine/DeepSeek-Reasonix, nrwl/nx, trycua/cua
-- Use as portfolio reference: YishenTu/claudian, theolundqvist/pr-cockpit, dongdongbh/Mindwtr
-- Skip for now: atomantic/PortOS, MauroDruwel/NIMStats, keurcien/auxilia
+- Try today: rtk-ai/rtk, PerpetualSoftware/pad, jupyter-naas/abi
+- Watch this week: QwenLM/qwen-code, rilldata/rill, dannytsang/homeassistant-config
+- Use as portfolio reference: Nerdy-Technician/JellyGlance, theolundqvist/pr-cockpit, oborchers/proqi
+- Skip for now: MauroDruwel/NIMStats, faithlumumba/2025-tencent-advertising-algorithm-competition-finalist, Dominic789654/awesome-deepseek-harness
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.
