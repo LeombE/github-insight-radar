@@ -1,6 +1,6 @@
 # GitHub Insight Daily Brief - 2026-09-25
 
-Generated at: `2026-09-24T20:00:11+00:00`
+Generated at: `2026-09-25T09:36:55+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -8,8 +8,8 @@ Image generation: `disabled`
 LLM summary: `disabled`
 
 ## Executive Summary
-- Top overall opportunity: [TechNomadCode/AI-Product-Development-Toolkit](https://github.com/TechNomadCode/AI-Product-Development-Toolkit) with score 94.27.
-- General user opportunity: [TechNomadCode/AI-Product-Development-Toolkit](https://github.com/TechNomadCode/AI-Product-Development-Toolkit)
+- Top overall opportunity: [kestra-io/kestra](https://github.com/kestra-io/kestra) with score 94.72.
+- General user opportunity: [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp)
 - Data analyst opportunity: [grafana/grafana](https://github.com/grafana/grafana)
 - Data scientist opportunity: [lance-format/lance](https://github.com/lance-format/lance)
 - Most common risk pattern: usage examples unclear
@@ -17,44 +17,37 @@ LLM summary: `disabled`
 ## Top Overall Projects
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
-| 1 | [TechNomadCode/AI-Product-Development-Toolkit](https://github.com/TechNomadCode/AI-Product-Development-Toolkit) | General User | 94.27 | It maps to General User needs with an evidence-based score of 94.27. | Try today |
-| 2 | [coco-research/coco](https://github.com/coco-research/coco) | General User | 93.61 | It maps to General User needs with an evidence-based score of 93.61. | Try today |
-| 3 | [PerpetualSoftware/pad](https://github.com/PerpetualSoftware/pad) | General User | 92.74 | It maps to General User needs with an evidence-based score of 92.74. | Try today |
-| 4 | [theguysudo/ENZO](https://github.com/theguysudo/ENZO) | General User | 92.41 | It maps to General User needs with an evidence-based score of 92.41. | Try today |
-| 5 | [ldbumble/taskuary](https://github.com/ldbumble/taskuary) | General User | 92.39 | It maps to General User needs with an evidence-based score of 92.39. | Try today |
-| 6 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
-| 7 | [leopu00/job-hunter-team](https://github.com/leopu00/job-hunter-team) | General User | 89.31 | It maps to General User needs with an evidence-based score of 89.31. | Try today |
-| 8 | [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) | General User | 89.07 | It maps to General User needs with an evidence-based score of 89.07. | Try today |
-| 9 | [Astro-Han/pawwork](https://github.com/Astro-Han/pawwork) | General User | 89.02 | It maps to General User needs with an evidence-based score of 89.02. | Try today |
-| 10 | [Dicklesworthstone/storage_ballast_helper](https://github.com/Dicklesworthstone/storage_ballast_helper) | General User | 88.78 | It maps to General User needs with an evidence-based score of 88.78. | Try today |
+| 1 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | General User | 94.72 | It maps to General User needs with an evidence-based score of 94.72. | Try today |
+| 2 | [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) | General User | 93.20 | It maps to General User needs with an evidence-based score of 93.20. | Try today |
+| 3 | [aayushch/laya](https://github.com/aayushch/laya) | General User | 93.18 | It maps to General User needs with an evidence-based score of 93.18. | Try today |
+| 4 | [the911fund/skill-of-skills](https://github.com/the911fund/skill-of-skills) | General User | 91.99 | It maps to General User needs with an evidence-based score of 91.99. | Try today |
+| 5 | [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | General User | 91.82 | It maps to General User needs with an evidence-based score of 91.82. | Try today |
+| 6 | [Osmantic/ODS](https://github.com/Osmantic/ODS) | General User | 91.50 | It maps to General User needs with an evidence-based score of 91.50. | Try today |
+| 7 | [shep-ai/shep](https://github.com/shep-ai/shep) | General User | 90.85 | It maps to General User needs with an evidence-based score of 90.85. | Try today |
+| 8 | [atomantic/PortOS](https://github.com/atomantic/PortOS) | General User | 90.70 | It maps to General User needs with an evidence-based score of 90.70. | Try today |
+| 9 | [simstudioai/sim](https://github.com/simstudioai/sim) | General User | 90.52 | It maps to General User needs with an evidence-based score of 90.52. | Try today |
+| 10 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
 
 ## General User Finds
-### TechNomadCode/AI-Product-Development-Toolkit
-- What it is: TechNomadCode/AI-Product-Development-Toolkit is a unavailable project for General User: Plan, build and launch products with AI: guided planning prompts, an AI App Starter for Next.js, Supabase and Vercel, and agent configurations.
+### feder-cr/invisible_playwright_mcp
+- What it is: feder-cr/invisible_playwright_mcp is a Python project for General User: Playwright MCP server undetected by anti-bots, no captchas: AI agent browses the web on anti-detect stealth Firefox, self-hosted Python, undetected browser automation, scraping, computer use.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 94.27
+- Score: 93.20
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### coco-research/coco
-- What it is: coco-research/coco is a HTML project for General User: CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering department: a routed advisory board, 226 skills, 386 commands, persistent state. Local. Open-core — MIT core; Super Intelligence is proprietary, own-use.
+### aayushch/laya
+- What it is: aayushch/laya is a Python project for General User: Laya is an open-source, local-first AI notification command center that aggregates Slack, Gmail, GitHub, Jira, Notion, Outlook,  Calendar (and more) notifications using local LLMs via Ollama and LM Studio. Supports cloud models via BYOK.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 93.61
+- Score: 93.18
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### PerpetualSoftware/pad
-- What it is: PerpetualSoftware/pad is a Go project for General User: Project Management for the agent era
+### shep-ai/shep
+- What it is: shep-ai/shep is a TypeScript project for General User: Ship features 10x faster. Built In Auto: Memory, K8S Agent & Security (SDD+SDLC) . 😇
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 92.74
+- Score: 90.85
 - Difficulty: Intermediate
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### ldbumble/taskuary
-- What it is: ldbumble/taskuary is a Python project for General User: Automate your job: local-first AI task hub. Email, Teams, Slack & reports -> one timeline -> AI triage -> your coding agents (Claude Code, Codex, Gemini) do the work, you approve.
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 92.39
-- Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
 ### n8n-io/n8n
@@ -64,6 +57,13 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
+### stoopid-computers/funchole
+- What it is: stoopid-computers/funchole is a Java project for General User: Open-source platform for deploying and running functions behind your own Infra.
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 89.29
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: many open issues relative to stars
 
 ## Data Analyst Opportunities
 ### grafana/grafana
@@ -80,13 +80,6 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Study for learning
 - Risk: no README evidence, installation unclear, usage examples unclear
-### MahbubNibir/power-bi-retail-analytics-viz
-- What it is: MahbubNibir/power-bi-retail-analytics-viz is a HTML project for Data Analyst: Top Power BI Sales Dashboard 2026 for Profit & Regional Analysis
-- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 51.71
-- Difficulty: Unknown
-- Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
 ### valdeteselimi/DashPro-Monitor-IndustrialBI
 - What it is: valdeteselimi/DashPro-Monitor-IndustrialBI is a HTML project for Data Analyst: Power BI 2026: Smart Industrial Production Dashboard with DAX & Data Cleaning
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
@@ -101,6 +94,13 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Study for learning
 - Risk: no README evidence, installation unclear, usage examples unclear
+### rilldata/rill
+- What it is: rilldata/rill is a Go project for Data Analyst: The fastest business intelligence tool for humans and agents.
+- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
+- Score: 59.03
+- Difficulty: Advanced
+- Recommended action: Watch this week
+- Risk: no README evidence, installation unclear, usage examples unclear
 
 ## Data Scientist Research Radar
 ### lance-format/lance
@@ -110,40 +110,40 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
-### eldoary/Visionary-Training-Studio
-- What it is: eldoary/Visionary-Training-Studio is a HTML project for Data Scientist: Fast Track AI Model Training with Streamlit Vision to Production in 2026
+### petmal/MindTrial
+- What it is: petmal/MindTrial is a Go project for Data Scientist: MindTrial: Evaluate and compare AI language models (LLMs) on text-based tasks with optional file/image attachments and tool use. Supports multiple providers (OpenAI, Google, Anthropic, DeepSeek, Mistral AI, xAI, Alibaba, Moonshot AI, OpenRouter), custom tasks in YAML, and HTML/CSV/JSON reports.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 44.89
+- Score: 49.04
 - Difficulty: Research-heavy
-- Recommended action: Skip for now
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
-### trycua/cua
-- What it is: trycua/cua is a HTML project for General User: Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+- Recommended action: Track for research
+- Risk: no README evidence, installation unclear, usage examples unclear
+### eullm/eullm
+- What it is: eullm/eullm is a Rust project for Data Scientist: Open-source platform for creating, distributing and running sovereign EU-compliant LLMs. Verticalize any model for your domain, language and brand. AI Act ready.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 59.67
+- Score: 82.56
+- Difficulty: Research-heavy
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### apache/hamilton
+- What it is: apache/hamilton is a Jupyter Notebook project for Data Scientist: Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 58.78
+- Difficulty: Unknown
+- Recommended action: Track for research
+- Risk: no README evidence, installation unclear, usage examples unclear
+### SylphxAI/anymd
+- What it is: SylphxAI/anymd is a Rust project for General User: Any file → clean Markdown for AI agents: PDF, Word, PowerPoint, Excel, EPUB, HTML, images. Fast Rust MCP server + CLI. Local, no API key.
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 53.89
 - Difficulty: Advanced
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear
-### flyteorg/flyte
-- What it is: flyteorg/flyte is a Go project for General User: Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 55.07
-- Difficulty: Advanced
-- Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear
-### MauroDruwel/NIMStats
-- What it is: MauroDruwel/NIMStats is a JavaScript project for Data Scientist: 📊 Automated hourly benchmarks for 20+ NVIDIA NIM models — interactive dashboard, zero infra, self-hostable. Open-source & community-driven.
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 44.96
-- Difficulty: Research-heavy
-- Recommended action: Skip for now
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
 
 ## Action List
-- Try today: TechNomadCode/AI-Product-Development-Toolkit, coco-research/coco, PerpetualSoftware/pad
-- Watch this week: OpenHands/OpenHands, herdrdev/herdr, trycua/cua
-- Use as portfolio reference: lenaxia/k8s-mechanic, kodelyx/flow-agent, ovidiuvio/relic
-- Skip for now: LunarWerxs/AgentHydra, MauroDruwel/NIMStats, eldoary/Visionary-Training-Studio
+- Try today: kestra-io/kestra, feder-cr/invisible_playwright_mcp, aayushch/laya
+- Watch this week: christopherkarani/Wax, OpenHands/OpenHands, esengine/DeepSeek-Reasonix
+- Use as portfolio reference: Radiokot/photoprism-android-client, theolundqvist/pr-cockpit, ipitio/backage
+- Skip for now: MauroDruwel/NIMStats, socai-io/socai, adobe/aio-cli-plugin-app
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.
