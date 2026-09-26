@@ -1,6 +1,6 @@
 # GitHub Insight Daily Brief - 2026-09-26
 
-Generated at: `2026-09-25T20:01:59+00:00`
+Generated at: `2026-09-26T09:21:13+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -8,8 +8,8 @@ Image generation: `disabled`
 LLM summary: `disabled`
 
 ## Executive Summary
-- Top overall opportunity: [unslothai/unsloth](https://github.com/unslothai/unsloth) with score 94.82.
-- General user opportunity: [HelpCode-ai/anythingmcp](https://github.com/HelpCode-ai/anythingmcp)
+- Top overall opportunity: [oblien/openship](https://github.com/oblien/openship) with score 95.30.
+- General user opportunity: [Peiiii/nextclaw](https://github.com/Peiiii/nextclaw)
 - Data analyst opportunity: [grafana/grafana](https://github.com/grafana/grafana)
 - Data scientist opportunity: [lance-format/lance](https://github.com/lance-format/lance)
 - Most common risk pattern: usage examples unclear
@@ -17,51 +17,51 @@ LLM summary: `disabled`
 ## Top Overall Projects
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
-| 1 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | General User | 94.82 | It maps to General User needs with an evidence-based score of 94.82. | Try today |
-| 2 | [HelpCode-ai/anythingmcp](https://github.com/HelpCode-ai/anythingmcp) | General User | 93.39 | It maps to General User needs with an evidence-based score of 93.39. | Try today |
-| 3 | [theexperiencecompany/gaia](https://github.com/theexperiencecompany/gaia) | General User | 93.20 | It maps to General User needs with an evidence-based score of 93.20. | Try today |
-| 4 | [ldbumble/taskuary](https://github.com/ldbumble/taskuary) | General User | 92.39 | It maps to General User needs with an evidence-based score of 92.39. | Try today |
-| 5 | [Squirreljetpack/matchmaker](https://github.com/Squirreljetpack/matchmaker) | General User | 90.69 | It maps to General User needs with an evidence-based score of 90.69. | Try today |
-| 6 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
-| 7 | [automagik-dev/genie](https://github.com/automagik-dev/genie) | General User | 89.91 | It maps to General User needs with an evidence-based score of 89.91. | Try today |
-| 8 | [Team-Commonly/commonly](https://github.com/Team-Commonly/commonly) | General User | 89.88 | It maps to General User needs with an evidence-based score of 89.88. | Try today |
-| 9 | [ShadowWalker2014/open-sunsama](https://github.com/ShadowWalker2014/open-sunsama) | General User | 89.58 | It maps to General User needs with an evidence-based score of 89.58. | Try today |
-| 10 | [windoze95/cantinarr](https://github.com/windoze95/cantinarr) | General User | 88.84 | It maps to General User needs with an evidence-based score of 88.84. | Try today |
+| 1 | [oblien/openship](https://github.com/oblien/openship) | General User | 95.30 | It maps to General User needs with an evidence-based score of 95.30. | Try today |
+| 2 | [Peiiii/nextclaw](https://github.com/Peiiii/nextclaw) | General User | 93.56 | It maps to General User needs with an evidence-based score of 93.56. | Try today |
+| 3 | [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) | General User | 92.60 | It maps to General User needs with an evidence-based score of 92.60. | Try today |
+| 4 | [theguysudo/ENZO](https://github.com/theguysudo/ENZO) | General User | 92.44 | It maps to General User needs with an evidence-based score of 92.44. | Try today |
+| 5 | [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) | General User | 91.96 | It maps to General User needs with an evidence-based score of 91.96. | Try today |
+| 6 | [talayash/agentrium](https://github.com/talayash/agentrium) | General User | 91.40 | It maps to General User needs with an evidence-based score of 91.40. | Try today |
+| 7 | [therealarthur/myrlin-workbook](https://github.com/therealarthur/myrlin-workbook) | General User | 91.22 | It maps to General User needs with an evidence-based score of 91.22. | Try today |
+| 8 | [shep-ai/shep](https://github.com/shep-ai/shep) | General User | 90.86 | It maps to General User needs with an evidence-based score of 90.86. | Try today |
+| 9 | [langgenius/dify](https://github.com/langgenius/dify) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
+| 10 | [juspay/neurolink](https://github.com/juspay/neurolink) | General User | 90.25 | It maps to General User needs with an evidence-based score of 90.25. | Try today |
 
 ## General User Finds
-### HelpCode-ai/anythingmcp
-- What it is: HelpCode-ai/anythingmcp is a TypeScript project for General User: 🔌 #1 MCP Gateway on GitHub — Connect Claude, ChatGPT, Copilot and any AI client to 200+ ready-to-use connectors, existing MCP servers, and any REST, SOAP, GraphQL or SQL system. Self-hosted, no-code and open source. Automatically builds Knowledge Graphs and AI Skills from how your systems connect, with SSO, governance and enterprise access control
+### Peiiii/nextclaw
+- What it is: Peiiii/nextclaw is a TypeScript project for General User: A human-centered long-term AI partner—not a task-centered assistant.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 93.39
+- Score: 93.56
+- Difficulty: Advanced
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### talayash/agentrium
+- What it is: talayash/agentrium is a TypeScript project for General User: A Modern Multi-Instance Terminal Manager for Claude Code
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 91.40
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### theexperiencecompany/gaia
-- What it is: theexperiencecompany/gaia is a Python project for General User: Your proactive personal AI assistant & companion for daily productivity 🌎
+### therealarthur/myrlin-workbook
+- What it is: therealarthur/myrlin-workbook is a JavaScript project for General User: Open-source workspace manager for AI coding CLIs: Claude Code and ChatGPT Codex in one browser app. Discovers every session on disk, embedded terminals, phone-ready, cost tracking, kanban, docs. Windows, macOS, Linux.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 93.20
-- Difficulty: Advanced
+- Score: 91.22
+- Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### ldbumble/taskuary
-- What it is: ldbumble/taskuary is a Python project for General User: Automate your job: local-first AI task hub. Email, Teams, Slack & reports -> one timeline -> AI triage -> your coding agents (Claude Code, Codex, Gemini) do the work, you approve.
+### shep-ai/shep
+- What it is: shep-ai/shep is a TypeScript project for General User: Ship features 10x faster. Built In Auto: Memory, K8S Agent & Security (SDD+SDLC) . 😇
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 92.39
-- Difficulty: Advanced
+- Score: 90.86
+- Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### n8n-io/n8n
-- What it is: n8n-io/n8n is a TypeScript project for General User: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+### langgenius/dify
+- What it is: langgenius/dify is a TypeScript project for General User: Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
 - Angle: Potential practical tool or workflow improvement for general users.
 - Score: 90.30
 - Difficulty: Advanced
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### automagik-dev/genie
-- What it is: automagik-dev/genie is a TypeScript project for General User: Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 89.91
-- Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
 
@@ -87,20 +87,20 @@ LLM summary: `disabled`
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### visivo-io/visivo
-- What it is: visivo-io/visivo is a JavaScript project for Data Analyst: ✨ Build dashboards with end-to-end version control. 🔋 CLI w/ batteries included, no infra required. Develop on your laptop for instant results, deploy changes safely (with automated checks), and keep every report trustworthy for stakeholders, analysts and agents 🤖
+### Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse
+- What it is: Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse is a HTML project for Data Analyst: Advanced MS SQL Server & Power BI Data Warehousing & Fleet Logistics Engine 2026
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 57.74
+- Score: 51.17
 - Difficulty: Unknown
 - Recommended action: Watch this week
-- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
-### apache/superset
-- What it is: apache/superset is a Python project for Data Analyst: Apache Superset is a Data Visualization and Data Exploration Platform
+- Risk: no README evidence, installation unclear, usage examples unclear, no license
+### MUDAS100/Swiggy-Instamart-Metrics-Dashboard-Power-BI
+- What it is: MUDAS100/Swiggy-Instamart-Metrics-Dashboard-Power-BI is a HTML project for Data Analyst: Interactive Logistics & Delivery Analytics Dashboard for Quick Commerce 2026
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 62.21
-- Difficulty: Advanced
-- Recommended action: Study for learning
-- Risk: no README evidence, installation unclear, usage examples unclear
+- Score: 49.52
+- Difficulty: Unknown
+- Recommended action: Watch this week
+- Risk: no README evidence, installation unclear, usage examples unclear, no license
 
 ## Data Scientist Research Radar
 ### lance-format/lance
@@ -117,33 +117,33 @@ LLM summary: `disabled`
 - Difficulty: Research-heavy
 - Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear
-### apache/hamilton
-- What it is: apache/hamilton is a Jupyter Notebook project for Data Scientist: Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.
+### eldoary/Visionary-Training-Studio
+- What it is: eldoary/Visionary-Training-Studio is a HTML project for Data Scientist: Fast Track AI Model Training with Streamlit Vision to Production in 2026
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 58.78
-- Difficulty: Unknown
-- Recommended action: Track for research
-- Risk: no README evidence, installation unclear, usage examples unclear
-### MauroDruwel/NIMStats
-- What it is: MauroDruwel/NIMStats is a JavaScript project for Data Scientist: 📊 Automated hourly benchmarks for 20+ NVIDIA NIM models — interactive dashboard, zero infra, self-hostable. Open-source & community-driven.
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 44.96
+- Score: 44.89
 - Difficulty: Research-heavy
 - Recommended action: Skip for now
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
-### unslothai/unsloth
-- What it is: unslothai/unsloth is a Python project for General User: Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
+### juspay/neurolink
+- What it is: juspay/neurolink is a TypeScript project for General User: The pipe layer of an AI nervous system — one interface connecting provider neurons to your application, across three inference types: generate, stream, and a calibrated decide (via TypeSafe Jev). MCP-native, voice (TTS/STT/realtime), RAG, memory, file processors. Powers Tara, Yama and Clairvoyance at Juspay.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 94.82
+- Score: 90.25
 - Difficulty: Advanced
+- Recommended action: Try today
+- Risk: many open issues relative to stars
+### eullm/eullm
+- What it is: eullm/eullm is a Rust project for Data Scientist: Open-source platform for creating, distributing and running sovereign EU-compliant LLMs. Verticalize any model for your domain, language and brand. AI Act ready.
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 82.58
+- Difficulty: Research-heavy
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
 
 ## Action List
-- Try today: unslothai/unsloth, HelpCode-ai/anythingmcp, theexperiencecompany/gaia
-- Watch this week: OpenHands/OpenHands, JSSatchell/HyperSearch, superset-sh/superset
-- Use as portfolio reference: mmlong818/nemos, YishenTu/claudian, marceld23/BlocksBeyondTheStars
-- Skip for now: MauroDruwel/NIMStats, tamanitomo/tamanitomo, Dicklesworthstone/process_triage
+- Try today: oblien/openship, Peiiii/nextclaw, Volmarg/personal-management-system
+- Watch this week: trycua/cua, xiaohei-info/oh-my-multica, Q00/ouroboros
+- Use as portfolio reference: mmlong818/nemos, YishenTu/claudian, h4vzz/awesome-ai-agent-skills
+- Skip for now: MauroDruwel/NIMStats, Clawdi-AI/clawdi, eldoary/Visionary-Training-Studio
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.
