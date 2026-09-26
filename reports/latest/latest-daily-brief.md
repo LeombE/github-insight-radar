@@ -1,6 +1,6 @@
-# GitHub Insight Daily Brief - 2026-09-26
+# GitHub Insight Daily Brief - 2026-09-27
 
-Generated at: `2026-09-26T09:21:13+00:00`
+Generated at: `2026-09-26T19:14:15+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -8,45 +8,52 @@ Image generation: `disabled`
 LLM summary: `disabled`
 
 ## Executive Summary
-- Top overall opportunity: [oblien/openship](https://github.com/oblien/openship) with score 95.30.
-- General user opportunity: [Peiiii/nextclaw](https://github.com/Peiiii/nextclaw)
-- Data analyst opportunity: [grafana/grafana](https://github.com/grafana/grafana)
+- Top overall opportunity: [rtk-ai/rtk](https://github.com/rtk-ai/rtk) with score 95.80.
+- General user opportunity: [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
+- Data analyst opportunity: [metabase/metabase](https://github.com/metabase/metabase)
 - Data scientist opportunity: [lance-format/lance](https://github.com/lance-format/lance)
 - Most common risk pattern: usage examples unclear
 
 ## Top Overall Projects
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
-| 1 | [oblien/openship](https://github.com/oblien/openship) | General User | 95.30 | It maps to General User needs with an evidence-based score of 95.30. | Try today |
-| 2 | [Peiiii/nextclaw](https://github.com/Peiiii/nextclaw) | General User | 93.56 | It maps to General User needs with an evidence-based score of 93.56. | Try today |
-| 3 | [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) | General User | 92.60 | It maps to General User needs with an evidence-based score of 92.60. | Try today |
-| 4 | [theguysudo/ENZO](https://github.com/theguysudo/ENZO) | General User | 92.44 | It maps to General User needs with an evidence-based score of 92.44. | Try today |
-| 5 | [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) | General User | 91.96 | It maps to General User needs with an evidence-based score of 91.96. | Try today |
-| 6 | [talayash/agentrium](https://github.com/talayash/agentrium) | General User | 91.40 | It maps to General User needs with an evidence-based score of 91.40. | Try today |
-| 7 | [therealarthur/myrlin-workbook](https://github.com/therealarthur/myrlin-workbook) | General User | 91.22 | It maps to General User needs with an evidence-based score of 91.22. | Try today |
-| 8 | [shep-ai/shep](https://github.com/shep-ai/shep) | General User | 90.86 | It maps to General User needs with an evidence-based score of 90.86. | Try today |
-| 9 | [langgenius/dify](https://github.com/langgenius/dify) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
+| 1 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | General User | 95.80 | It maps to General User needs with an evidence-based score of 95.80. | Try today |
+| 2 | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | General User | 95.54 | It maps to General User needs with an evidence-based score of 95.54. | Try today |
+| 3 | [heymrun/heym](https://github.com/heymrun/heym) | General User | 94.51 | It maps to General User needs with an evidence-based score of 94.51. | Try today |
+| 4 | [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) | General User | 91.97 | It maps to General User needs with an evidence-based score of 91.97. | Try today |
+| 5 | [ljtn/epiq](https://github.com/ljtn/epiq) | General User | 91.37 | It maps to General User needs with an evidence-based score of 91.37. | Try today |
+| 6 | [shep-ai/shep](https://github.com/shep-ai/shep) | General User | 90.86 | It maps to General User needs with an evidence-based score of 90.86. | Try today |
+| 7 | [emoss08/Trenova](https://github.com/emoss08/Trenova) | General User | 90.85 | It maps to General User needs with an evidence-based score of 90.85. | Try today |
+| 8 | [simstudioai/sim](https://github.com/simstudioai/sim) | General User | 90.52 | It maps to General User needs with an evidence-based score of 90.52. | Try today |
+| 9 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
 | 10 | [juspay/neurolink](https://github.com/juspay/neurolink) | General User | 90.25 | It maps to General User needs with an evidence-based score of 90.25. | Try today |
 
 ## General User Finds
-### Peiiii/nextclaw
-- What it is: Peiiii/nextclaw is a TypeScript project for General User: A human-centered long-term AI partner—not a task-centered assistant.
+### rtk-ai/rtk
+- What it is: rtk-ai/rtk is a Rust project for General User: CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 93.56
+- Score: 95.80
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### talayash/agentrium
-- What it is: talayash/agentrium is a TypeScript project for General User: A Modern Multi-Instance Terminal Manager for Claude Code
+### melgarafael/DeskcommCRM
+- What it is: melgarafael/DeskcommCRM is a TypeScript project for General User: Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 91.40
+- Score: 95.54
+- Difficulty: Advanced
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### heymrun/heym
+- What it is: heymrun/heym is a Python project for General User: Build agentic systems. Run them with confidence. Orchestrate agents, automate business processes, inspect every execution, and keep humans in control. Deploy Heym on your own infrastructure.
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 94.51
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### therealarthur/myrlin-workbook
-- What it is: therealarthur/myrlin-workbook is a JavaScript project for General User: Open-source workspace manager for AI coding CLIs: Claude Code and ChatGPT Codex in one browser app. Discovers every session on disk, embedded terminals, phone-ready, cost tracking, kanban, docs. Windows, macOS, Linux.
+### ljtn/epiq
+- What it is: ljtn/epiq is a TypeScript project for General User: Distributed, code-native issue tracker - audit workflows via time-travel
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 91.22
+- Score: 91.37
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
@@ -57,22 +64,8 @@ LLM summary: `disabled`
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### langgenius/dify
-- What it is: langgenius/dify is a TypeScript project for General User: Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 90.30
-- Difficulty: Advanced
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
 
 ## Data Analyst Opportunities
-### grafana/grafana
-- What it is: grafana/grafana is a TypeScript project for Data Analyst: The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 65.95
-- Difficulty: Advanced
-- Recommended action: Study for learning
-- Risk: no README evidence, installation unclear, usage examples unclear
 ### metabase/metabase
 - What it is: metabase/metabase is a Clojure project for Data Analyst: The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
@@ -101,6 +94,13 @@ LLM summary: `disabled`
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
+### apache/superset
+- What it is: apache/superset is a Python project for Data Analyst: Apache Superset is a Data Visualization and Data Exploration Platform
+- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
+- Score: 62.21
+- Difficulty: Advanced
+- Recommended action: Study for learning
+- Risk: no README evidence, installation unclear, usage examples unclear
 
 ## Data Scientist Research Radar
 ### lance-format/lance
@@ -117,13 +117,13 @@ LLM summary: `disabled`
 - Difficulty: Research-heavy
 - Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear
-### eldoary/Visionary-Training-Studio
-- What it is: eldoary/Visionary-Training-Studio is a HTML project for Data Scientist: Fast Track AI Model Training with Streamlit Vision to Production in 2026
+### NVIDIA-NeMo/Automodel
+- What it is: NVIDIA-NeMo/Automodel is a Python project for Data Scientist: 🚀 Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 44.89
+- Score: 52.29
 - Difficulty: Research-heavy
-- Recommended action: Skip for now
-- Risk: no README evidence, installation unclear, usage examples unclear, no license
+- Recommended action: Track for research
+- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
 ### juspay/neurolink
 - What it is: juspay/neurolink is a TypeScript project for General User: The pipe layer of an AI nervous system — one interface connecting provider neurons to your application, across three inference types: generate, stream, and a calibrated decide (via TypeSafe Jev). MCP-native, voice (TTS/STT/realtime), RAG, memory, file processors. Powers Tara, Yama and Clairvoyance at Juspay.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
@@ -131,26 +131,26 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: many open issues relative to stars
-### eullm/eullm
-- What it is: eullm/eullm is a Rust project for Data Scientist: Open-source platform for creating, distributing and running sovereign EU-compliant LLMs. Verticalize any model for your domain, language and brand. AI Act ready.
+### trycua/cua
+- What it is: trycua/cua is a HTML project for General User: Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 82.58
-- Difficulty: Research-heavy
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
+- Score: 59.67
+- Difficulty: Advanced
+- Recommended action: Watch this week
+- Risk: no README evidence, installation unclear, usage examples unclear
 
 ## Action List
-- Try today: oblien/openship, Peiiii/nextclaw, Volmarg/personal-management-system
-- Watch this week: trycua/cua, xiaohei-info/oh-my-multica, Q00/ouroboros
-- Use as portfolio reference: mmlong818/nemos, YishenTu/claudian, h4vzz/awesome-ai-agent-skills
-- Skip for now: MauroDruwel/NIMStats, Clawdi-AI/clawdi, eldoary/Visionary-Training-Studio
+- Try today: rtk-ai/rtk, melgarafael/DeskcommCRM, heymrun/heym
+- Watch this week: herdrdev/herdr, esengine/DeepSeek-Reasonix, QwenLM/qwen-code
+- Use as portfolio reference: mmlong818/nemos, zendegani/XClipper, alphastorm/omp-ninfer
+- Skip for now: MauroDruwel/NIMStats, m96-chan/ai_research_dashboard, denesdata/roem
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.
 
 ## Data Files
-- Raw API JSON: `data/raw/2026-09-26-github-api-raw.json`
-- Daily projects JSON: `data/processed/2026-09-26-github-insight-projects.json`
-- Daily projects CSV: `data/processed/2026-09-26-github-insight-projects.csv`
+- Raw API JSON: `data/raw/2026-09-27-github-api-raw.json`
+- Daily projects JSON: `data/processed/2026-09-27-github-insight-projects.json`
+- Daily projects CSV: `data/processed/2026-09-27-github-insight-projects.csv`
 - Master CSV: `data/processed/github_repos_master.csv`
 - Dashboard JSON: `docs/data/latest.json`
