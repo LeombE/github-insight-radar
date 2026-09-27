@@ -1,6 +1,17 @@
 [
   {
     "date": "2026-09-27",
+    "generated_at": "2026-09-27T10:01:18+00:00",
+    "mode": "live",
+    "run_id": "live-2026-09-27-2026-09-27T100118-0000",
+    "daily_brief_path": "reports/daily/2026-09-27-daily-brief.md",
+    "json_path": "data/processed/2026-09-27-github-insight-projects.json",
+    "csv_path": "data/processed/2026-09-27-github-insight-projects.csv",
+    "selected_count": 200,
+    "top_project": "oomol-lab/open-connector"
+  },
+  {
+    "date": "2026-09-27",
     "generated_at": "2026-09-26T19:14:15+00:00",
     "mode": "live",
     "run_id": "live-2026-09-27-2026-09-26T191415-0000",
