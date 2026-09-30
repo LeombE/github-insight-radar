@@ -1,73 +1,81 @@
 # General User GitHub Insight - 2026-09-30
 
-Generated at: `2026-09-29T20:46:45+00:00`
+Generated at: `2026-09-30T10:30:02+00:00`
 Mode: `live`
 
 | Rank | Repo | Score | Action | Difficulty | Risk flags |
 | --- | --- | ---: | --- | --- | --- |
-| 1 | [PerpetualSoftware/pad](https://github.com/PerpetualSoftware/pad) | 100.00 | Try today | Intermediate | None |
-| 2 | [juspay/neurolink](https://github.com/juspay/neurolink) | 100.00 | Try today | Advanced | None |
-| 3 | [travisjneuman/.claude](https://github.com/travisjneuman/.claude) | 100.00 | Try today | Intermediate | None |
-| 4 | [basnijholt/compose-farm](https://github.com/basnijholt/compose-farm) | 100.00 | Try today | Intermediate | None |
-| 5 | [hcipengm/cogneva](https://github.com/hcipengm/cogneva) | 100.00 | Try today | Advanced | many open issues relative to stars |
-| 6 | [mixpeek/amux](https://github.com/mixpeek/amux) | 100.00 | Try today | Advanced | None |
-| 7 | [kirodotdev/KiroCrew](https://github.com/kirodotdev/KiroCrew) | 100.00 | Try today | Advanced | many open issues relative to stars |
-| 8 | [lvndry/jazz](https://github.com/lvndry/jazz) | 100.00 | Try today | Intermediate | None |
-| 9 | [akhayam99/goodboy](https://github.com/akhayam99/goodboy) | 100.00 | Try today | Intermediate | many open issues relative to stars |
-| 10 | [lanchuske/local-mcp-releases](https://github.com/lanchuske/local-mcp-releases) | 100.00 | Try today | Intermediate | None |
-| 11 | [hamr0/agentic-toolkit](https://github.com/hamr0/agentic-toolkit) | 100.00 | Try today | Beginner | usage examples unclear |
-| 12 | [umeranjum17/muxr](https://github.com/umeranjum17/muxr) | 100.00 | Try today | Intermediate | many open issues relative to stars |
-| 13 | [Oolab-labs/patchwork-os](https://github.com/Oolab-labs/patchwork-os) | 100.00 | Use as portfolio reference | Beginner | usage examples unclear, many open issues relative to stars |
-| 14 | [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) | 100.00 | Use as portfolio reference | Beginner | usage examples unclear, hype language without enough evidence, many open issues relative to stars |
-| 15 | [RopemakerEnd/ds4windows-lab-2026](https://github.com/RopemakerEnd/ds4windows-lab-2026) | 100.00 | Use as portfolio reference | Beginner | usage examples unclear, no license |
+| 1 | [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) | 100.00 | Try today | Intermediate | None |
+| 2 | [kriuchkov/tock](https://github.com/kriuchkov/tock) | 100.00 | Try today | Intermediate | None |
+| 3 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 100.00 | Try today | Advanced | None |
+| 4 | [xopcai/xopc](https://github.com/xopcai/xopc) | 100.00 | Try today | Intermediate | None |
+| 5 | [andreapollastri/larapilot](https://github.com/andreapollastri/larapilot) | 100.00 | Try today | Intermediate | None |
+| 6 | [00200200/usagetrim](https://github.com/00200200/usagetrim) | 100.00 | Try today | Intermediate | many open issues relative to stars |
+| 7 | [karanhudia/borg-ui](https://github.com/karanhudia/borg-ui) | 100.00 | Try today | Advanced | None |
+| 8 | [kirodotdev/KiroCrew](https://github.com/kirodotdev/KiroCrew) | 100.00 | Try today | Advanced | many open issues relative to stars |
+| 9 | [ntd4996/agentpet](https://github.com/ntd4996/agentpet) | 100.00 | Try today | Intermediate | None |
+| 10 | [lucaGazzola/forgeo](https://github.com/lucaGazzola/forgeo) | 100.00 | Try today | Intermediate | None |
+| 11 | [dotcomjack/grux](https://github.com/dotcomjack/grux) | 100.00 | Try today | Intermediate | None |
+| 12 | [ParthJadhav/SpaceO](https://github.com/ParthJadhav/SpaceO) | 100.00 | Try today | Intermediate | None |
+| 13 | [PersonalJarvis/PersonalJarvis](https://github.com/PersonalJarvis/PersonalJarvis) | 100.00 | Try today | Advanced | many open issues relative to stars |
+| 14 | [blueberrycongee/wuu](https://github.com/blueberrycongee/wuu) | 100.00 | Try today | Intermediate | many open issues relative to stars |
+| 15 | [kolega-ai/kolega-code](https://github.com/kolega-ai/kolega-code) | 100.00 | Use as portfolio reference | Intermediate | many open issues relative to stars |
 
 ## Project Notes
-### PerpetualSoftware/pad
-- Summary: PerpetualSoftware/pad is a Go project for General User: Project Management for the agent era
-- Why it matters: It maps to General User needs with an evidence-based score of 92.75.
+### oomol-lab/open-connector
+- Summary: oomol-lab/open-connector is a TypeScript project for General User: Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
+- Why it matters: It maps to General User needs with an evidence-based score of 95.90.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn pad into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 183; Forks: 24; Language: Go; License: Apache-2.0; README length: 65203; Topics: agent-era, agent-tools, ai-agents, claude-code, cli, codex, cursor, developer-tools, golang, issue-tracker, local-first, markdown, mcp-server, open-source, project-management, self-hosted, sqlite, sveltekit, task-management, windsurf
+- Portfolio idea: Turn open-connector into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 5929; Forks: 528; Language: TypeScript; License: Apache-2.0; README length: 16630; Topics: agent-tools, ai-agents, api-gateway, automation, cli, cloudflare-workers, connectors, integration-platform, mcp, model-context-protocol, oauth, oomol, openapi, openconnector, saas-integrations, sdk, self-hosted, typescript
 - Confidence: high
 
-### juspay/neurolink
-- Summary: juspay/neurolink is a TypeScript project for General User: The pipe layer of an AI nervous system — one interface connecting provider neurons to your application, across three inference types: generate, stream, and a calibrated decide (via TypeSafe Jev). MCP-native, voice (TTS/STT/realtime), RAG, memory, file processors. Powers Tara, Yama and Clairvoyance at Juspay.
-- Why it matters: It maps to General User needs with an evidence-based score of 92.53.
+### kriuchkov/tock
+- Summary: kriuchkov/tock is a Go project for General User: Tock is a powerful time tracking tool for the command line. It saves activity logs as plaintext files and provides an interactive terminal UI for viewing your time.
+- Why it matters: It maps to General User needs with an evidence-based score of 91.43.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn neurolink into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 144; Forks: 127; Language: TypeScript; License: MIT; README length: 117485; Topics: agents, ai, ai-sdk, anthropic, automation, decision-model, developer-tools, jev, llm, local-first, mcp, model-context-protocol, neurolink, openai, rag, stt, tts, typesafe-ai, typescript, voice-ai
+- Portfolio idea: Turn tock into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 488; Forks: 22; Language: Go; License: GPL-3.0; README length: 29341; Topics: cli, command-line, openclaw, openclaw-skill, productivity, time-tracking, time-tracking-app, timewarrior, todotxt
 - Confidence: high
 
-### travisjneuman/.claude
-- Summary: travisjneuman/.claude is a TypeScript project for General User: The Ultimate Claude Code Toolkit — 127 skills, 86 agents, 109 marketplace repos (11,700+ community skills), 30 commands, 8 hooks, GSD framework. Drop-in ~/.claude config that auto-activates the right resources from your prompt. Zero config required.
-- Why it matters: It maps to General User needs with an evidence-based score of 92.20.
+### n8n-io/n8n
+- Summary: n8n-io/n8n is a TypeScript project for General User: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- Why it matters: It maps to General User needs with an evidence-based score of 90.30.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn .claude into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 100; Forks: 23; Language: TypeScript; License: MIT; README length: 24847; Topics: agents, ai-coding, ai-tools, anthropic, automation, claude, claude-ai, claude-code, cli, configuration, developer-tools, devtools, dotfiles, llm, open-source, plugins, productivity, prompt-engineering, skills
+- Portfolio idea: Turn n8n into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 206333; Forks: 60945; Language: TypeScript; License: NOASSERTION; README length: 3998; Topics: ai, apis, automation, cli, data-flow, development, integration-framework, integrations, ipaas, low-code, low-code-platform, mcp, mcp-client, mcp-server, n8n, no-code, self-hosted, typescript, workflow, workflow-automation
 - Confidence: high
 
-### basnijholt/compose-farm
-- Summary: basnijholt/compose-farm is a Python project for General User: Compose Farm - run docker compose commands across multiple hosts
-- Why it matters: It maps to General User needs with an evidence-based score of 92.03.
+### xopcai/xopc
+- Summary: xopcai/xopc is a TypeScript project for General User: Keep what matters moving. Open-source, local-first personal AI for the one-person company.
+- Why it matters: It maps to General User needs with an evidence-based score of 89.11.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn compose-farm into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 313; Forks: 3; Language: Python; License: MIT; README length: 60976; Topics: cli, compose, deployment, docker, homelab, multi-host, nas, orchestration, python, self-hosted, ssh, traefik
+- Portfolio idea: Turn xopc into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 37; Forks: 7; Language: TypeScript; License: MIT; README length: 15156; Topics: ai-agents, ai-assistant, ai-memory, artificial-intelligence, automation, cli, context-aware-ai, desktop-app, knowledge-management, local-ai, local-first, mcp, one-person-company, open-source, personal-ai, productivity, self-hosted, task-management, typescript, workflow-automation
 - Confidence: high
 
-### hcipengm/cogneva
-- Summary: hcipengm/cogneva is a Rust project for General User: Distributed AI multi-agent autonomous system — digital employees for long-horizon tasks, running 24×7 — Meta-bootstrapping · Real-autonomous · Omni-evolution
-- Why it matters: It maps to General User needs with an evidence-based score of 88.87.
+### andreapollastri/larapilot
+- Summary: andreapollastri/larapilot is a PHP project for General User: Laravel spec-driven workflow
+- Why it matters: It maps to General User needs with an evidence-based score of 89.11.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn cogneva into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 30; Forks: 32; Language: Rust; License: NOASSERTION; README length: 42859; Topics: a2a, ai, application, automation, autonomous, bootstrapping, cloud-native, cognitive-flow, collaboration, devops, event-streaming, evolution, framework, gitops, multi-agent, nested-quality-loops, orchestration, runtime, rust, scaffolding
+- Portfolio idea: Turn larapilot into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 21; Forks: 1; Language: PHP; License: MIT; README length: 60056; Topics: ai, automation, boost, laravel, mcp, mockup, product-development, productivity, spec-driven-development, specifications
 - Confidence: high
 
-### mixpeek/amux
-- Summary: mixpeek/amux is a Rust project for General User: Open-source control plane for AI coding agents. Run an AI engineering team: parallel Claude Code, Codex, and Gemini workers with a shared board, atomic tasks, schedules, loops, origin-stamped messaging, model switching, and self-healing recovery. One dashboard, or your phone. MIT, single Rust binary.
-- Why it matters: It maps to General User needs with an evidence-based score of 87.77.
+### 00200200/usagetrim
+- Summary: 00200200/usagetrim is a Python project for General User: Keep the signal. Cut the noise. Local CLI + MCP — fold verbose tool output for Claude Code, Codex, Cursor & Desktop.
+- Why it matters: It maps to General User needs with an evidence-based score of 89.03.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn amux into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 507; Forks: 62; Language: Rust; License: NOASSERTION; README length: 24064; Topics: agent-orchestration, agentic-ai, ai-agents, ai-coding-assistant, anthropic, claude, claude-code, codex, coding-agent, control-plane, developer-tools, gemini, llm, mcp, multi-agent, orchestration, rust, self-healing, self-hosted, tmux
+- Portfolio idea: Turn usagetrim into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 36; Forks: 3; Language: Python; License: MIT; README length: 13220; Topics: ai-agents, anthropic, claude, claude-code, claude-desktop, cli, codex, context-engineering, context-window, cursor, developer-tools, llm, mcp, mcp-server, model-context-protocol, productivity, python, token-optimization, token-saver, usagetrim
+- Confidence: high
+
+### karanhudia/borg-ui
+- Summary: karanhudia/borg-ui is a Python project for General User: Replace complex Borg Backup terminal commands with a beautiful web UI. Create, schedule, and   restore backups with just a few clicks.
+- Why it matters: It maps to General User needs with an evidence-based score of 88.03.
+- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
+- Portfolio idea: Turn borg-ui into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 1638; Forks: 57; Language: Python; License: AGPL-3.0; README length: 8549; Topics: automation, back, borg, borg-backup, borgbackup, borgbase, deduplication, docker, raspber, sbc, self-hosted, webapp
 - Confidence: high
 
 ### kirodotdev/KiroCrew
@@ -75,69 +83,61 @@ Mode: `live`
 - Why it matters: It maps to General User needs with an evidence-based score of 87.14.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
 - Portfolio idea: Turn KiroCrew into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 4205; Forks: 709; Language: Python; License: Apache-2.0; README length: 133206; Topics: agent, agentic-ai, agents, ai-agent, ai-agents, automation, devtools, kiro, llm
+- Evidence: Stars: 4213; Forks: 713; Language: Python; License: Apache-2.0; README length: 133206; Topics: agent, agentic-ai, agents, ai-agent, ai-agents, automation, devtools, kiro, llm
 - Confidence: high
 
-### lvndry/jazz
-- Summary: lvndry/jazz is a TypeScript project for General User: One agent. Every surface. Your rules.
-- Why it matters: It maps to General User needs with an evidence-based score of 84.94.
+### ntd4996/agentpet
+- Summary: ntd4996/agentpet is a Swift project for General User: A desktop pet for macOS & Windows that monitors your AI coding agents (Claude Code, Codex, Cursor, Gemini...) in real time, and grows as you code, feed it tokens, level it up, climb the leaderboard.
+- Why it matters: It maps to General User needs with an evidence-based score of 84.48.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn jazz into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 54; Forks: 11; Language: TypeScript; License: MIT; README length: 6128; Topics: agent, agent-harness, ai, ai-agents, ai-workflow, automation, autonomous-agents, cli, effect-ts, llm, tui
+- Portfolio idea: Turn agentpet into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 370; Forks: 63; Language: Swift; License: MIT; README length: 16448; Topics: ai-agents, claude-code, codex, desktop-pet, developer-tools, macos, menubar, productivity, swift, swiftui
 - Confidence: high
 
-### akhayam99/goodboy
-- Summary: akhayam99/goodboy is a TypeScript project for General User: Stop re-explaining yourself
-- Why it matters: It maps to General User needs with an evidence-based score of 83.62.
+### lucaGazzola/forgeo
+- Summary: lucaGazzola/forgeo is a Python project for General User: A scheduled, agent-driven software factory. Keep a plain JSON backlog; Forgeo runs your coding agent (Claude Code, Codex, opencode) on each task and commits to main. Refactors when idle. No branches, no PRs.
+- Why it matters: It maps to General User needs with an evidence-based score of 83.81.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn goodboy into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 108; Forks: 7; Language: TypeScript; License: NOASSERTION; README length: 6127; Topics: agentic-ai, ai-agents, automation, claude, claude-code, codex, cursor, developer-productivity, developer-tools, gemini, github, linear, llm, workflow, workflow-automation, workflows
+- Portfolio idea: Turn forgeo into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 33; Forks: 1; Language: Python; License: MIT; README length: 5468; Topics: agentic-workflow, ai, ai-agents, ai-coding, ai-tools, automation, autonomous-coding, cli, coding-agent, developer-tools, llm, software-factory
 - Confidence: high
 
-### lanchuske/local-mcp-releases
-- Summary: lanchuske/local-mcp-releases is a JavaScript project for General User: 192+ local tools for Claude, ChatGPT, Cursor & Grok — Mail, iMessage, Teams, Slack, WhatsApp, OneDrive, Google Drive, Zoom, Outlook, Office. Native macOS and Windows, runs on your computer, no API keys.
-- Why it matters: It maps to General User needs with an evidence-based score of 82.87.
+### dotcomjack/grux
+- Summary: dotcomjack/grux is a Swift project for General User: npx @dotcomjack/grux | Grux 3.0: one agent for everything you run on your Mac, behind one Command Panel. Mail, calendar, meetings and a shell it can undo. Tell it what to change and it writes a work order your coding agent builds. 37 features, 116 tools, MIT, your key or a local model.
+- Why it matters: It maps to General User needs with an evidence-based score of 82.19.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn local-mcp-releases into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 62; Forks: 10; Language: JavaScript; License: NOASSERTION; README length: 9173; Topics: ai-tools, automation, calendar, chatgpt, claude, codex, cursor, email, imessage, local-first, macos, mcp, mcp-server, onedrive, privacy, productivity, slack, teams, whatsapp, windows
+- Portfolio idea: Turn grux into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 29; Forks: 0; Language: Swift; License: MIT; README length: 27502; Topics: agent, ai-agent, ai-assistant, founder-tools, indie-hacker, llm, local-first, local-llm, macos, macos-app, menubar, offline, ollama, privacy, productivity, solopreneur, swift, swiftui, voice-assistant, whisperkit
 - Confidence: high
 
-### hamr0/agentic-toolkit
-- Summary: hamr0/agentic-toolkit is a JavaScript project for General User: A ready-to-use suite of tools for AI-driven development, featuring agent workflows, automation scripts, and easy environment setup to boost productivity and streamline project management.
-- Why it matters: It maps to General User needs with an evidence-based score of 82.80.
+### ParthJadhav/SpaceO
+- Summary: ParthJadhav/SpaceO is a Swift project for General User: Give AI agents their own macOS displays. Keep your screen, cursor, and focus.
+- Why it matters: It maps to General User needs with an evidence-based score of 81.48.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn agentic-toolkit into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 22; Forks: 2; Language: JavaScript; License: Apache-2.0; README length: 10530; Topics: agent, ai, automation, developer-tools, workflow
+- Portfolio idea: Turn SpaceO into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 50; Forks: 2; Language: Swift; License: MIT; README length: 13263; Topics: ai-agents, automation, computer-use, developer-tools, macos, mcp, model-context-protocol, swift, virtual-display
 - Confidence: high
 
-### umeranjum17/muxr
-- Summary: umeranjum17/muxr is a TypeScript project for General User: Control coding agents from your phone — open-source, encrypted, and self-hosted.
-- Why it matters: It maps to General User needs with an evidence-based score of 80.61.
+### PersonalJarvis/PersonalJarvis
+- Summary: PersonalJarvis/PersonalJarvis is a Python project for General User: Your AI assistant, built for the agentic era. Open source and local: talk to it, and it runs your agents, your coding CLIs, your browser and your apps. Windows, macOS, Linux.
+- Why it matters: It maps to General User needs with an evidence-based score of 80.80.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn muxr into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 35; Forks: 1; Language: TypeScript; License: Apache-2.0; README length: 18218; Topics: android, coding-agents, developer-tools, self-hosted, terminal
+- Portfolio idea: Turn PersonalJarvis into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 76; Forks: 31; Language: Python; License: Apache-2.0; README length: 14090; Topics: agent-orchestration, ai-agent, ai-coding-assistant, claude-code, coding-agent, computer-use, desktop-app, dictation, llm, mcp, personal-assistant, privacy, self-hosted, speech-recognition, speech-to-text, text-to-speech, voice-assistant, voice-coding, voice-control, wake-word
 - Confidence: high
 
-### Oolab-labs/patchwork-os
-- Summary: Oolab-labs/patchwork-os is a TypeScript project for General User: The decision layer for personal AI. Local-first runtime where agents automate across GitHub, Slack, Gmail & 45+ services — but every risky action can stop for your yes, workers (agents) earn autonomy from track record, and every decision leaves a receipt. Your models, your machine, your policy. Includes an MCP bridge: 180 IDE tools for Claude Code.
-- Why it matters: It maps to General User needs with an evidence-based score of 74.12.
+### blueberrycongee/wuu
+- Summary: blueberrycongee/wuu is a Go project for General User: Open-source BYOK AI coding agent with a desktop app, scriptable CLI, and built-in multi-agent orchestration. Written in Go.
+- Why it matters: It maps to General User needs with an evidence-based score of 80.43.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn patchwork-os into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 30; Forks: 5; Language: TypeScript; License: MIT; README length: 12866; Topics: ai-agent, anthropic, approval-queue, automation, claude, claude-code, ide, local-first, lsp, mcp, mcp-server, ollama, patchwork, recipes, vscode-extension
+- Portfolio idea: Turn wuu into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 50; Forks: 13; Language: Go; License: MIT; README length: 2604; Topics: ai, automation, byok, cli, coding-agent, developer-tools, electron, golang, multi-agent
 - Confidence: high
 
-### TserenTserenov/FMT-exocortex-template
-- Summary: TserenTserenov/FMT-exocortex-template is a Shell project for General User: Exocortex template: fork & deploy your AI-powered personal knowledge system with Claude Code
-- Why it matters: It maps to General User needs with an evidence-based score of 71.30.
+### kolega-ai/kolega-code
+- Summary: kolega-ai/kolega-code is a Python project for General User: Agentic coding in the terminal: the model writes its own multi-agent workflows (Gigacode). Provider-agnostic, local-first, 15+ model providers, MCP support.
+- Why it matters: It maps to General User needs with an evidence-based score of 79.66.
 - Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn FMT-exocortex-template into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 61; Forks: 154; Language: Shell; License: MIT; README length: 18868; Topics: agent-skills, agentic-workflows, ai-agents, ai-second-brain, anthropic-claude, automation, claude-code, claude-plugin, developer-tools, exocortex, intellectual-work, knowledge-management, mcp, multi-agent, open-source, personal-knowledge-management, pkm, productivity-system, second-brain, self-improvement
-- Confidence: medium
-
-### RopemakerEnd/ds4windows-lab-2026
-- Summary: RopemakerEnd/ds4windows-lab-2026 is a HTML project for General User: Portable DS4Windows companion toolkit with setup guides, profile notes, and Windows build helpers for DualShock 4 and DualSense.
-- Why it matters: It maps to General User needs with an evidence-based score of 70.62.
-- Practical use cases: Evaluate practical utility, Try a small workflow, Decide whether to adopt, save, or skip
-- Portfolio idea: Turn ds4windows-lab-2026 into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
-- Evidence: Stars: 150; Forks: 14; Language: HTML; License: unavailable; README length: 3516; Topics: automation, cli, desktop, diagnostics, ds4windows, maintenance, performance, portable, productivity, utility, windows, workflow
+- Portfolio idea: Turn kolega-code into a concise portfolio note with problem, evidence, implementation idea, output, and limitations.
+- Evidence: Stars: 21; Forks: 5; Language: Python; License: NOASSERTION; README length: 10676; Topics: agentic-ai, ai, ai-agents, anthropic, cli, coding-agent, coding-assistant, deepseek, developer-tools, llm, mcp, multi-agent, open-source, openai, productivity, python, software-engineering, terminal, textual, tui
 - Confidence: high

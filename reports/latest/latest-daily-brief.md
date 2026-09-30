@@ -1,6 +1,6 @@
 # GitHub Insight Daily Brief - 2026-09-30
 
-Generated at: `2026-09-29T20:46:45+00:00`
+Generated at: `2026-09-30T10:30:02+00:00`
 Mode: `live`
 Repositories scanned: `200`
 Repositories selected: `200`
@@ -8,71 +8,64 @@ Image generation: `disabled`
 LLM summary: `disabled`
 
 ## Executive Summary
-- Top overall opportunity: [oblien/openship](https://github.com/oblien/openship) with score 95.39.
-- General user opportunity: [PerpetualSoftware/pad](https://github.com/PerpetualSoftware/pad)
-- Data analyst opportunity: [flowkraft/datapallas](https://github.com/flowkraft/datapallas)
+- Top overall opportunity: [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) with score 95.90.
+- General user opportunity: [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector)
+- Data analyst opportunity: [grafana/grafana](https://github.com/grafana/grafana)
 - Data scientist opportunity: [lance-format/lance](https://github.com/lance-format/lance)
 - Most common risk pattern: usage examples unclear
 
 ## Top Overall Projects
 | Rank | Repo | Audience | Score | Why it matters | Recommended action |
 | --- | --- | --- | ---: | --- | --- |
-| 1 | [oblien/openship](https://github.com/oblien/openship) | General User | 95.39 | It maps to General User needs with an evidence-based score of 95.39. | Try today |
-| 2 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | General User | 94.82 | It maps to General User needs with an evidence-based score of 94.82. | Try today |
-| 3 | [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) | General User | 93.31 | It maps to General User needs with an evidence-based score of 93.31. | Try today |
-| 4 | [flowkraft/datapallas](https://github.com/flowkraft/datapallas) | Data Analyst | 92.96 | It maps to Data Analyst needs with an evidence-based score of 92.96. | Try today |
-| 5 | [PerpetualSoftware/pad](https://github.com/PerpetualSoftware/pad) | General User | 92.75 | It maps to General User needs with an evidence-based score of 92.75. | Try today |
-| 6 | [juspay/neurolink](https://github.com/juspay/neurolink) | General User | 92.53 | It maps to General User needs with an evidence-based score of 92.53. | Try today |
-| 7 | [theguysudo/ENZO](https://github.com/theguysudo/ENZO) | General User | 92.50 | It maps to General User needs with an evidence-based score of 92.50. | Try today |
-| 8 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | General User | 92.22 | It maps to General User needs with an evidence-based score of 92.22. | Try today |
-| 9 | [travisjneuman/.claude](https://github.com/travisjneuman/.claude) | General User | 92.20 | It maps to General User needs with an evidence-based score of 92.20. | Try today |
-| 10 | [basnijholt/compose-farm](https://github.com/basnijholt/compose-farm) | General User | 92.03 | It maps to General User needs with an evidence-based score of 92.03. | Try today |
+| 1 | [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) | General User | 95.90 | It maps to General User needs with an evidence-based score of 95.90. | Try today |
+| 2 | [iib0011/omni-tools](https://github.com/iib0011/omni-tools) | General User | 92.92 | It maps to General User needs with an evidence-based score of 92.92. | Try today |
+| 3 | [theguysudo/ENZO](https://github.com/theguysudo/ENZO) | General User | 92.50 | It maps to General User needs with an evidence-based score of 92.50. | Try today |
+| 4 | [Osmantic/ODS](https://github.com/Osmantic/ODS) | General User | 91.51 | It maps to General User needs with an evidence-based score of 91.51. | Try today |
+| 5 | [kriuchkov/tock](https://github.com/kriuchkov/tock) | General User | 91.43 | It maps to General User needs with an evidence-based score of 91.43. | Try today |
+| 6 | [edgehero/pi-dispatch](https://github.com/edgehero/pi-dispatch) | General User | 90.94 | It maps to General User needs with an evidence-based score of 90.94. | Try today |
+| 7 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | General User | 90.30 | It maps to General User needs with an evidence-based score of 90.30. | Try today |
+| 8 | [Team-Commonly/commonly](https://github.com/Team-Commonly/commonly) | General User | 89.88 | It maps to General User needs with an evidence-based score of 89.88. | Try today |
+| 9 | [xopcai/xopc](https://github.com/xopcai/xopc) | General User | 89.11 | It maps to General User needs with an evidence-based score of 89.11. | Try today |
+| 10 | [andreapollastri/larapilot](https://github.com/andreapollastri/larapilot) | General User | 89.11 | It maps to General User needs with an evidence-based score of 89.11. | Try today |
 
 ## General User Finds
-### PerpetualSoftware/pad
-- What it is: PerpetualSoftware/pad is a Go project for General User: Project Management for the agent era
+### oomol-lab/open-connector
+- What it is: oomol-lab/open-connector is a TypeScript project for General User: Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 92.75
+- Score: 95.90
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### juspay/neurolink
-- What it is: juspay/neurolink is a TypeScript project for General User: The pipe layer of an AI nervous system — one interface connecting provider neurons to your application, across three inference types: generate, stream, and a calibrated decide (via TypeSafe Jev). MCP-native, voice (TTS/STT/realtime), RAG, memory, file processors. Powers Tara, Yama and Clairvoyance at Juspay.
+### kriuchkov/tock
+- What it is: kriuchkov/tock is a Go project for General User: Tock is a powerful time tracking tool for the command line. It saves activity logs as plaintext files and provides an interactive terminal UI for viewing your time.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 92.53
+- Score: 91.43
+- Difficulty: Intermediate
+- Recommended action: Try today
+- Risk: No major risk flag from collected evidence.
+### n8n-io/n8n
+- What it is: n8n-io/n8n is a TypeScript project for General User: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- Angle: Potential practical tool or workflow improvement for general users.
+- Score: 90.30
 - Difficulty: Advanced
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### travisjneuman/.claude
-- What it is: travisjneuman/.claude is a TypeScript project for General User: The Ultimate Claude Code Toolkit — 127 skills, 86 agents, 109 marketplace repos (11,700+ community skills), 30 commands, 8 hooks, GSD framework. Drop-in ~/.claude config that auto-activates the right resources from your prompt. Zero config required.
+### xopcai/xopc
+- What it is: xopcai/xopc is a TypeScript project for General User: Keep what matters moving. Open-source, local-first personal AI for the one-person company.
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 92.20
+- Score: 89.11
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### basnijholt/compose-farm
-- What it is: basnijholt/compose-farm is a Python project for General User: Compose Farm - run docker compose commands across multiple hosts
+### andreapollastri/larapilot
+- What it is: andreapollastri/larapilot is a PHP project for General User: Laravel spec-driven workflow
 - Angle: Potential practical tool or workflow improvement for general users.
-- Score: 92.03
+- Score: 89.11
 - Difficulty: Intermediate
 - Recommended action: Try today
 - Risk: No major risk flag from collected evidence.
-### hcipengm/cogneva
-- What it is: hcipengm/cogneva is a Rust project for General User: Distributed AI multi-agent autonomous system — digital employees for long-horizon tasks, running 24×7 — Meta-bootstrapping · Real-autonomous · Omni-evolution
-- Angle: Potential practical tool or workflow improvement for general users.
-- Score: 88.87
-- Difficulty: Advanced
-- Recommended action: Try today
-- Risk: many open issues relative to stars
 
 ## Data Analyst Opportunities
-### flowkraft/datapallas
-- What it is: flowkraft/datapallas is a TypeScript project for Data Analyst: 🔥One modern BI and data platform. AI data exploration, dashboards, and pixel-perfect report generation — replacing Qlik, Tableau and Crystal Reports.
-- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
-- Score: 92.96
-- Difficulty: Intermediate
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
 ### grafana/grafana
 - What it is: grafana/grafana is a TypeScript project for Data Analyst: The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
@@ -94,6 +87,13 @@ LLM summary: `disabled`
 - Difficulty: Unknown
 - Recommended action: Watch this week
 - Risk: no README evidence, installation unclear, usage examples unclear, no license
+### frappe/insights
+- What it is: frappe/insights is a Python project for Data Analyst: Open Source Business Intelligence Tool
+- Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
+- Score: 60.76
+- Difficulty: Unknown
+- Recommended action: Study for learning
+- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
 ### apache/superset
 - What it is: apache/superset is a Python project for Data Analyst: Apache Superset is a Data Visualization and Data Exploration Platform
 - Angle: Useful for dashboards, metrics, SQL, ETL, or reporting practice.
@@ -110,40 +110,40 @@ LLM summary: `disabled`
 - Difficulty: Advanced
 - Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
-### petmal/MindTrial
-- What it is: petmal/MindTrial is a Go project for Data Scientist: MindTrial: Evaluate and compare AI language models (LLMs) on text-based tasks with optional file/image attachments and tool use. Supports multiple providers (OpenAI, Google, Anthropic, DeepSeek, Mistral AI, xAI, Alibaba, Moonshot AI, OpenRouter), custom tasks in YAML, and HTML/CSV/JSON reports.
+### kolega-ai/kolega-code
+- What it is: kolega-ai/kolega-code is a Python project for General User: Agentic coding in the terminal: the model writes its own multi-agent workflows (Gigacode). Provider-agnostic, local-first, 15+ model providers, MCP support.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 49.04
+- Score: 79.66
+- Difficulty: Intermediate
+- Recommended action: Use as portfolio reference
+- Risk: many open issues relative to stars
+### hyeonsangjeon/gdpval-realworks
+- What it is: hyeonsangjeon/gdpval-realworks is a Python project for Data Scientist: Open-source benchmark for evaluating LLMs on 220 real professional tasks across 9 sectors and 44 occupations. Reproducible experiments, artifact validation, grading, and a live evidence dashboard.
+- Angle: Useful for model, benchmark, notebook, or experiment review.
+- Score: 51.83
 - Difficulty: Research-heavy
 - Recommended action: Track for research
 - Risk: no README evidence, installation unclear, usage examples unclear
-### NVIDIA-NeMo/Automodel
-- What it is: NVIDIA-NeMo/Automodel is a Python project for Data Scientist: 🚀 Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
+### AkashPriyadarshii/jev-curate
+- What it is: AkashPriyadarshii/jev-curate is a Rust project for Data Scientist: High-throughput synthetic and pretraining dataset sifter for TypeSafe Jev. Rust streaming core, Parquet and JSONL I/O, typed Choice/Score/Noul judgments, speculative fan-out, 24.0 rows/sec measured.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 52.29
+- Score: 50.95
 - Difficulty: Research-heavy
 - Recommended action: Track for research
-- Risk: no README evidence, installation unclear, usage examples unclear, many open issues relative to stars
-### juspay/neurolink
-- What it is: juspay/neurolink is a TypeScript project for General User: The pipe layer of an AI nervous system — one interface connecting provider neurons to your application, across three inference types: generate, stream, and a calibrated decide (via TypeSafe Jev). MCP-native, voice (TTS/STT/realtime), RAG, memory, file processors. Powers Tara, Yama and Clairvoyance at Juspay.
+- Risk: no README evidence, installation unclear, usage examples unclear
+### MauroDruwel/NIMStats
+- What it is: MauroDruwel/NIMStats is a JavaScript project for Data Scientist: 📊 Automated hourly benchmarks for 20+ NVIDIA NIM models — interactive dashboard, zero infra, self-hostable. Open-source & community-driven.
 - Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 92.53
-- Difficulty: Advanced
-- Recommended action: Try today
-- Risk: No major risk flag from collected evidence.
-### tale-project/tale
-- What it is: tale-project/tale is a TypeScript project for General User: The Orchestrator for AI Agents — Connect OpenClaw, Hermes Agent, Claude Code, Codex, Cursor, Gemini CLI, OpenCode, Pi, and Qwen Code. Pool their knowledge, delegate tasks, and build your swarm of agents.
-- Angle: Useful for model, benchmark, notebook, or experiment review.
-- Score: 87.06
-- Difficulty: Advanced
-- Recommended action: Try today
-- Risk: many open issues relative to stars
+- Score: 44.96
+- Difficulty: Research-heavy
+- Recommended action: Skip for now
+- Risk: no README evidence, installation unclear, usage examples unclear, no license
 
 ## Action List
-- Try today: oblien/openship, unslothai/unsloth, omnivore-app/omnivore
-- Watch this week: OpenHands/OpenHands, herdrdev/herdr, trycua/cua
-- Use as portfolio reference: iblai/os, OthmaneBlial/lightclaw, danijar/elements
-- Skip for now: MauroDruwel/NIMStats, m96-chan/ai_research_dashboard, LanternOps/breeze
+- Try today: oomol-lab/open-connector, iib0011/omni-tools, theguysudo/ENZO
+- Watch this week: esengine/DeepSeek-Reasonix, PerpetualSoftware/pad, EKKOLearnAI/ekko-studio
+- Use as portfolio reference: open-nudge/opentemplate, kolega-ai/kolega-code, DayuanJiang/PecoFence
+- Skip for now: MauroDruwel/NIMStats, m96-chan/ai_research_dashboard, Bronya0/ally-agent
 
 ## Methodology
 Scores are deterministic heuristics based on GitHub metadata, README signals, audience fit, momentum, maintenance, reproducibility, data/demo signals, and risk flags. The system does not claim production readiness, security, or best-in-class status unless the collected evidence directly supports it.
